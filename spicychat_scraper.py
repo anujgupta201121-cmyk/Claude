@@ -1,393 +1,154 @@
 #!/usr/bin/env python3
 """
 SpicyChat.ai Web Scraper
-Scrapes chatbot data from spicychat.ai public characters listing.
+Scrapes chatbot data from spicychat.ai using their Typesense API.
 Extracts: name, url, categories, creator, and quantitative stats.
 Outputs data to a CSV file.
 """
 
 import csv
-import re
+import json
 import time
+import requests
 from datetime import datetime
-from typing import Optional
-
-try:
-    from playwright.sync_api import sync_playwright, Page, Browser
-except ImportError:
-    print("Playwright is not installed. Install it with:")
-    print("  pip install playwright")
-    print("  playwright install chromium")
-    exit(1)
+from typing import Optional, List, Dict
 
 
 class SpicyChatScraper:
     BASE_URL = "https://spicychat.ai"
-    CHARACTERS_URL = "https://spicychat.ai/?public_characters_alias%2Fsort%2Fnum_messages_24h%3Adesc%5Bpage%5D={page}"
+    API_URL = "https://etmzpxgvnid370fyp.a1.typesense.net/multi_search"
+    API_KEY = "STHKtT6jrC5z1IozTJHIeSN4qN9oL1s3"
 
-    def __init__(self, headless: bool = True, slow_mo: int = 100):
-        self.headless = headless
-        self.slow_mo = slow_mo
-        self.browser: Optional[Browser] = None
-        self.page: Optional[Page] = None
+    # Characters per page in Typesense
+    PER_PAGE = 24
+
+    def __init__(self):
         self.characters_data = []
-        self.playwright = None
-        self.context = None
+        self.session = requests.Session()
+        self.session.headers.update({
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        })
 
-    def init_browser(self):
-        """Initialize the Playwright browser."""
-        self.playwright = sync_playwright().start()
-        self.browser = self.playwright.chromium.launch(
-            headless=self.headless,
-            slow_mo=self.slow_mo,
-            args=[
-                "--no-sandbox",
-                "--disable-setuid-sandbox",
-                "--disable-dev-shm-usage",
-                "--disable-gpu",
-            ]
-        )
-        self.context = self.browser.new_context(
-            viewport={"width": 1920, "height": 1080},
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        )
-        self.page = self.context.new_page()
-
-    def close_browser(self):
-        """Close the browser and cleanup."""
-        if self.browser:
-            self.browser.close()
-        if self.playwright:
-            self.playwright.stop()
+    def get_total_characters(self) -> int:
+        """Get total number of characters available."""
+        result = self._search(page=1, per_page=1)
+        if result and "results" in result and len(result["results"]) > 0:
+            found = result["results"][0].get("found", 0)
+            print(f"Total characters available: {found}")
+            return found
+        return 0
 
     def get_max_pages(self) -> int:
-        """Detect the maximum number of pages available."""
-        self.page.goto(self.CHARACTERS_URL.format(page=1), wait_until="networkidle")
-        time.sleep(2)  # Wait for dynamic content
+        """Calculate maximum number of pages."""
+        total = self.get_total_characters()
+        max_pages = (total + self.PER_PAGE - 1) // self.PER_PAGE
+        print(f"Maximum pages: {max_pages}")
+        return max_pages
 
-        # Try to find pagination elements
-        # Common patterns: page numbers, "last" button, or total count
-        max_page = 1
+    def _search(self, page: int = 1, per_page: int = None, sort_by: str = "num_messages_24h:desc") -> dict:
+        """Execute a search query against the Typesense API."""
+        if per_page is None:
+            per_page = self.PER_PAGE
 
-        # Look for pagination buttons/links
-        pagination_selectors = [
-            '[class*="pagination"] a',
-            '[class*="pagination"] button',
-            '[class*="page"] a',
-            'nav[aria-label*="pagination"] a',
-            'a[href*="page"]',
-            'button[aria-label*="page"]',
-            '[data-page]',
-        ]
+        params = {
+            "use_cache": "true",
+            "x-typesense-api-key": self.API_KEY
+        }
 
-        for selector in pagination_selectors:
-            try:
-                elements = self.page.query_selector_all(selector)
-                for el in elements:
-                    text = el.text_content()
-                    if text and text.strip().isdigit():
-                        page_num = int(text.strip())
-                        max_page = max(max_page, page_num)
-                    # Check href for page numbers
-                    href = el.get_attribute("href")
-                    if href:
-                        match = re.search(r'page[=\]]+(\d+)', href)
-                        if match:
-                            page_num = int(match.group(1))
-                            max_page = max(max_page, page_num)
-            except Exception:
-                continue
+        # Typesense search request format
+        payload = {
+            "searches": [
+                {
+                    "collection": "public_characters_alias",
+                    "q": "*",
+                    "query_by": "name,title,persona",
+                    "sort_by": sort_by,
+                    "page": page,
+                    "per_page": per_page,
+                    "facet_by": "tags",
+                    "max_facet_values": 100
+                }
+            ]
+        }
 
-        # Also try to find "showing X of Y" or similar text
         try:
-            page_text = self.page.content()
-            # Look for patterns like "Page 1 of 100" or "1/100"
-            matches = re.findall(r'(?:of|/)\s*(\d+)\s*(?:pages?)?', page_text, re.IGNORECASE)
-            for match in matches:
-                try:
-                    num = int(match)
-                    if num > max_page and num < 10000:  # Sanity check
-                        max_page = num
-                except ValueError:
-                    continue
-        except Exception:
-            pass
+            response = self.session.post(
+                self.API_URL,
+                params=params,
+                json=payload,
+                timeout=30
+            )
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"API request error: {e}")
+            return None
 
-        print(f"Detected maximum pages: {max_page}")
-        return max_page
-
-    def scrape_page(self, page_num: int) -> list:
-        """Scrape all characters from a single page."""
+    def scrape_page(self, page_num: int) -> List[Dict]:
+        """Scrape a single page of characters."""
         characters = []
-        url = self.CHARACTERS_URL.format(page=page_num)
-
         print(f"Scraping page {page_num}...")
 
-        try:
-            self.page.goto(url, wait_until="networkidle", timeout=60000)
-            time.sleep(3)  # Wait for dynamic content to load
+        result = self._search(page=page_num)
 
-            # Try multiple selectors for character cards
-            card_selectors = [
-                '[class*="character-card"]',
-                '[class*="CharacterCard"]',
-                '[class*="bot-card"]',
-                '[class*="card"]',
-                'article',
-                '[data-testid*="character"]',
-                'a[href*="/chat/"]',
-                '[class*="grid"] > div > a',
-                '[class*="character"]',
-            ]
+        if not result or "results" not in result:
+            print(f"  No results for page {page_num}")
+            return characters
 
-            cards = []
-            for selector in card_selectors:
-                try:
-                    cards = self.page.query_selector_all(selector)
-                    if len(cards) > 5:  # Found meaningful results
-                        print(f"  Found {len(cards)} cards using selector: {selector}")
-                        break
-                except Exception:
-                    continue
+        hits = result["results"][0].get("hits", [])
 
-            if not cards:
-                # Fallback: look for links containing /chat/
-                cards = self.page.query_selector_all('a[href*="/chat/"]')
-                print(f"  Fallback: Found {len(cards)} chat links")
-
-            for card in cards:
-                try:
-                    char_data = self.extract_character_data(card)
-                    if char_data and char_data.get("name"):
-                        characters.append(char_data)
-                except Exception as e:
-                    print(f"  Error extracting card data: {e}")
-                    continue
-
-        except Exception as e:
-            print(f"Error scraping page {page_num}: {e}")
+        for hit in hits:
+            doc = hit.get("document", {})
+            char_data = self.extract_character_data(doc)
+            if char_data.get("name"):
+                characters.append(char_data)
 
         print(f"  Extracted {len(characters)} characters from page {page_num}")
         return characters
 
-    def extract_character_data(self, card) -> dict:
-        """Extract data from a single character card."""
+    def extract_character_data(self, doc: dict) -> dict:
+        """Extract character data from a Typesense document."""
+        # Get character ID for URL
+        char_id = doc.get("id", "")
+
         data = {
-            "name": "",
-            "url": "",
-            "categories": "",
-            "creator": "",
-            "messages_24h": "",
-            "total_messages": "",
-            "likes": "",
-            "description": "",
+            "name": doc.get("name", ""),
+            "url": f"{self.BASE_URL}/chat/{char_id}" if char_id else "",
+            "categories": "; ".join(doc.get("tags", [])) if doc.get("tags") else "",
+            "creator": doc.get("creator_username", "") or doc.get("creator_id", ""),
+            "messages_24h": str(doc.get("num_messages_24h", "")),
+            "total_messages": str(doc.get("num_messages", "")),
+            "likes": str(doc.get("num_likes", "") or doc.get("likes", "")),
+            "description": doc.get("title", "") or doc.get("persona", "")[:500] if doc.get("persona") else "",
+            "num_chats": str(doc.get("num_chats", "")),
+            "num_users": str(doc.get("num_users", "")),
+            "created_at": doc.get("created_at", ""),
+            "avatar_url": doc.get("avatar_url", ""),
         }
-
-        try:
-            # Get the card's outer HTML for debugging
-            outer_html = card.evaluate("el => el.outerHTML")
-
-            # Extract name - try multiple approaches
-            name_selectors = [
-                '[class*="name"]',
-                '[class*="title"]',
-                'h2', 'h3', 'h4',
-                '[class*="heading"]',
-                'strong',
-                '[class*="character-name"]',
-            ]
-
-            for sel in name_selectors:
-                try:
-                    name_el = card.query_selector(sel)
-                    if name_el:
-                        name = name_el.text_content()
-                        if name and name.strip():
-                            data["name"] = name.strip()
-                            break
-                except Exception:
-                    continue
-
-            # If no name found, try getting text from the card itself
-            if not data["name"]:
-                text = card.text_content()
-                if text:
-                    # Take first line or first few words as name
-                    lines = [l.strip() for l in text.split('\n') if l.strip()]
-                    if lines:
-                        data["name"] = lines[0][:100]  # Limit length
-
-            # Extract URL
-            try:
-                href = card.get_attribute("href")
-                if href:
-                    if href.startswith("/"):
-                        data["url"] = self.BASE_URL + href
-                    else:
-                        data["url"] = href
-                else:
-                    # Look for nested link
-                    link = card.query_selector("a")
-                    if link:
-                        href = link.get_attribute("href")
-                        if href:
-                            data["url"] = self.BASE_URL + href if href.startswith("/") else href
-            except Exception:
-                pass
-
-            # Extract creator/author
-            creator_selectors = [
-                '[class*="creator"]',
-                '[class*="author"]',
-                '[class*="by"]',
-                '[class*="user"]',
-                'a[href*="/profile/"]',
-                'a[href*="/user/"]',
-                '[class*="username"]',
-            ]
-
-            for sel in creator_selectors:
-                try:
-                    creator_el = card.query_selector(sel)
-                    if creator_el:
-                        creator = creator_el.text_content()
-                        if creator and creator.strip():
-                            # Clean up "by" prefix if present
-                            creator = re.sub(r'^by\s+', '', creator.strip(), flags=re.IGNORECASE)
-                            data["creator"] = creator
-                            break
-                except Exception:
-                    continue
-
-            # Extract categories/tags
-            tag_selectors = [
-                '[class*="tag"]',
-                '[class*="category"]',
-                '[class*="badge"]',
-                '[class*="chip"]',
-                '[class*="label"]',
-            ]
-
-            tags = []
-            for sel in tag_selectors:
-                try:
-                    tag_els = card.query_selector_all(sel)
-                    for tag_el in tag_els:
-                        tag_text = tag_el.text_content()
-                        if tag_text and tag_text.strip():
-                            tags.append(tag_text.strip())
-                except Exception:
-                    continue
-
-            if tags:
-                data["categories"] = "; ".join(set(tags))
-
-            # Extract stats (messages, likes, etc.)
-            stats_selectors = [
-                '[class*="stat"]',
-                '[class*="count"]',
-                '[class*="number"]',
-                '[class*="metric"]',
-            ]
-
-            stats_text = []
-            for sel in stats_selectors:
-                try:
-                    stat_els = card.query_selector_all(sel)
-                    for stat_el in stat_els:
-                        stat = stat_el.text_content()
-                        if stat and stat.strip():
-                            stats_text.append(stat.strip())
-                except Exception:
-                    continue
-
-            # Parse stats from text - look for numbers with K/M suffixes
-            full_text = card.text_content() or ""
-
-            # Look for message counts
-            msg_patterns = [
-                r'(\d+(?:\.\d+)?[KkMm]?)\s*(?:messages?|msgs?|chats?)',
-                r'(?:messages?|msgs?|chats?)[\s:]*(\d+(?:\.\d+)?[KkMm]?)',
-            ]
-            for pattern in msg_patterns:
-                match = re.search(pattern, full_text, re.IGNORECASE)
-                if match:
-                    data["total_messages"] = match.group(1)
-                    break
-
-            # Look for 24h stats
-            h24_patterns = [
-                r'(\d+(?:\.\d+)?[KkMm]?)\s*(?:24h|daily|today)',
-                r'(?:24h|daily|today)[\s:]*(\d+(?:\.\d+)?[KkMm]?)',
-            ]
-            for pattern in h24_patterns:
-                match = re.search(pattern, full_text, re.IGNORECASE)
-                if match:
-                    data["messages_24h"] = match.group(1)
-                    break
-
-            # Look for likes/favorites
-            like_patterns = [
-                r'(\d+(?:\.\d+)?[KkMm]?)\s*(?:likes?|❤|♥|favorites?)',
-                r'(?:likes?|❤|♥|favorites?)[\s:]*(\d+(?:\.\d+)?[KkMm]?)',
-            ]
-            for pattern in like_patterns:
-                match = re.search(pattern, full_text, re.IGNORECASE)
-                if match:
-                    data["likes"] = match.group(1)
-                    break
-
-            # Extract description if available
-            desc_selectors = [
-                '[class*="description"]',
-                '[class*="desc"]',
-                '[class*="bio"]',
-                '[class*="summary"]',
-                'p',
-            ]
-
-            for sel in desc_selectors:
-                try:
-                    desc_el = card.query_selector(sel)
-                    if desc_el:
-                        desc = desc_el.text_content()
-                        if desc and desc.strip() and len(desc.strip()) > 20:
-                            data["description"] = desc.strip()[:500]  # Limit length
-                            break
-                except Exception:
-                    continue
-
-        except Exception as e:
-            print(f"    Error in extract_character_data: {e}")
 
         return data
 
     def scrape_all_pages(self, max_pages: int = None, start_page: int = 1):
         """Scrape all available pages."""
-        self.init_browser()
+        # Get max pages if not specified
+        if max_pages is None:
+            max_pages = self.get_max_pages()
 
-        try:
-            # Detect max pages if not specified
-            if max_pages is None:
-                max_pages = self.get_max_pages()
+        print(f"\nStarting scrape from page {start_page} to {max_pages}")
+        print("=" * 50)
 
-            print(f"\nStarting scrape from page {start_page} to {max_pages}")
-            print("=" * 50)
+        for page_num in range(start_page, max_pages + 1):
+            characters = self.scrape_page(page_num)
+            self.characters_data.extend(characters)
 
-            for page_num in range(start_page, max_pages + 1):
-                characters = self.scrape_page(page_num)
-                self.characters_data.extend(characters)
+            # Save intermediate results every 50 pages
+            if page_num % 50 == 0:
+                self.save_to_csv(f"spicychat_backup_page{page_num}.csv")
+                print(f"  Backup saved. Total characters so far: {len(self.characters_data)}")
 
-                # Save intermediate results every 10 pages
-                if page_num % 10 == 0:
-                    self.save_to_csv(f"spicychat_backup_page{page_num}.csv")
-                    print(f"  Backup saved. Total characters so far: {len(self.characters_data)}")
-
-                # Rate limiting - be respectful
-                time.sleep(2)
-
-        finally:
-            self.close_browser()
+            # Small delay to be respectful
+            time.sleep(0.5)
 
         return self.characters_data
 
@@ -399,7 +160,7 @@ class SpicyChatScraper:
 
         if not self.characters_data:
             print("No data to save!")
-            return
+            return None
 
         # Define CSV columns
         fieldnames = [
@@ -410,7 +171,11 @@ class SpicyChatScraper:
             "messages_24h",
             "total_messages",
             "likes",
-            "description"
+            "num_chats",
+            "num_users",
+            "description",
+            "created_at",
+            "avatar_url",
         ]
 
         with open(filename, 'w', newline='', encoding='utf-8') as f:
@@ -422,7 +187,7 @@ class SpicyChatScraper:
         return filename
 
 
-def run(pages=None, start=1, output=None, visible=False):
+def run(pages=None, start=1, output=None):
     """
     Run the scraper directly (for Jupyter notebooks).
 
@@ -430,7 +195,6 @@ def run(pages=None, start=1, output=None, visible=False):
         pages: Maximum number of pages to scrape (None = auto-detect)
         start: Starting page number (default: 1)
         output: Output CSV filename (None = auto-generated)
-        visible: Run browser in visible mode (default: False/headless)
 
     Returns:
         List of scraped character data
@@ -439,14 +203,13 @@ def run(pages=None, start=1, output=None, visible=False):
         from spicychat_scraper import run
         data = run(pages=5)
     """
-    print("SpicyChat.ai Scraper")
+    print("SpicyChat.ai Scraper (API Mode)")
     print("=" * 50)
-    print(f"Headless mode: {not visible}")
     print(f"Starting page: {start}")
     print(f"Max pages: {pages or 'auto-detect'}")
     print()
 
-    scraper = SpicyChatScraper(headless=not visible)
+    scraper = SpicyChatScraper()
 
     try:
         scraper.scrape_all_pages(max_pages=pages, start_page=start)
@@ -468,12 +231,13 @@ def run(pages=None, start=1, output=None, visible=False):
     except Exception as e:
         print(f"\nError during scraping: {e}")
         print("Saving collected data...")
-        scraper.save_to_csv("spicychat_error_backup.csv")
+        if scraper.characters_data:
+            scraper.save_to_csv("spicychat_error_backup.csv")
         raise
 
 
 def main():
-    """Main entry point."""
+    """Main entry point for command line."""
     import argparse
 
     parser = argparse.ArgumentParser(description="Scrape SpicyChat.ai character data")
@@ -483,39 +247,10 @@ def main():
                         help="Starting page number (default: 1)")
     parser.add_argument("--output", type=str, default=None,
                         help="Output CSV filename")
-    parser.add_argument("--visible", action="store_true",
-                        help="Run browser in visible mode (not headless)")
 
     args = parser.parse_args()
 
-    print("SpicyChat.ai Scraper")
-    print("=" * 50)
-    print(f"Headless mode: {not args.visible}")
-    print(f"Starting page: {args.start}")
-    print(f"Max pages: {args.pages or 'auto-detect'}")
-    print()
-
-    scraper = SpicyChatScraper(headless=not args.visible)
-
-    try:
-        scraper.scrape_all_pages(max_pages=args.pages, start_page=args.start)
-        output_file = scraper.save_to_csv(args.output)
-
-        print("\n" + "=" * 50)
-        print("Scraping complete!")
-        print(f"Total characters scraped: {len(scraper.characters_data)}")
-        print(f"Output file: {output_file}")
-
-    except KeyboardInterrupt:
-        print("\n\nScraping interrupted by user.")
-        print("Saving collected data...")
-        scraper.save_to_csv("spicychat_interrupted.csv")
-
-    except Exception as e:
-        print(f"\nError during scraping: {e}")
-        print("Saving collected data...")
-        scraper.save_to_csv("spicychat_error_backup.csv")
-        raise
+    run(pages=args.pages, start=args.start, output=args.output)
 
 
 if __name__ == "__main__":
