@@ -422,6 +422,56 @@ class SpicyChatScraper:
         return filename
 
 
+def run(pages=None, start=1, output=None, visible=False):
+    """
+    Run the scraper directly (for Jupyter notebooks).
+
+    Args:
+        pages: Maximum number of pages to scrape (None = auto-detect)
+        start: Starting page number (default: 1)
+        output: Output CSV filename (None = auto-generated)
+        visible: Run browser in visible mode (default: False/headless)
+
+    Returns:
+        List of scraped character data
+
+    Example:
+        from spicychat_scraper import run
+        data = run(pages=5)
+    """
+    print("SpicyChat.ai Scraper")
+    print("=" * 50)
+    print(f"Headless mode: {not visible}")
+    print(f"Starting page: {start}")
+    print(f"Max pages: {pages or 'auto-detect'}")
+    print()
+
+    scraper = SpicyChatScraper(headless=not visible)
+
+    try:
+        scraper.scrape_all_pages(max_pages=pages, start_page=start)
+        output_file = scraper.save_to_csv(output)
+
+        print("\n" + "=" * 50)
+        print("Scraping complete!")
+        print(f"Total characters scraped: {len(scraper.characters_data)}")
+        print(f"Output file: {output_file}")
+
+        return scraper.characters_data
+
+    except KeyboardInterrupt:
+        print("\n\nScraping interrupted by user.")
+        print("Saving collected data...")
+        scraper.save_to_csv("spicychat_interrupted.csv")
+        return scraper.characters_data
+
+    except Exception as e:
+        print(f"\nError during scraping: {e}")
+        print("Saving collected data...")
+        scraper.save_to_csv("spicychat_error_backup.csv")
+        raise
+
+
 def main():
     """Main entry point."""
     import argparse
