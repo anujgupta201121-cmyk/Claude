@@ -114,6 +114,11 @@ class SpicyChatScraper:
             "rating_score": doc.get("rating_score", 0),
             "is_nsfw": doc.get("is_nsfw", False),
             "language": doc.get("language", ""),
+            "token_count": doc.get("token_count", 0),
+            "lora_status": doc.get("lora_status", ""),
+            "type": doc.get("type", ""),
+            "visibility": doc.get("visibility", ""),
+            "group_size_category": doc.get("group_size_category", ""),
             "created_at": created_date,
             "avatar_url": f"https://spicychat.ai/{doc.get('avatar_url', '')}" if doc.get('avatar_url') else "",
             "greeting": doc.get("greeting", "")[:500] if doc.get("greeting") else "",
@@ -150,7 +155,9 @@ class SpicyChatScraper:
         fieldnames = [
             "name", "url", "title", "categories", "creator",
             "num_messages_24h", "num_messages", "rating_score",
-            "is_nsfw", "language", "created_at", "avatar_url", "greeting"
+            "is_nsfw", "language", "token_count", "lora_status",
+            "type", "visibility", "group_size_category",
+            "created_at", "avatar_url", "greeting"
         ]
 
         with open(filename, 'w', newline='', encoding='utf-8') as f:
