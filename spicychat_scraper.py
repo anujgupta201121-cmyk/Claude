@@ -39,7 +39,13 @@ class SpicyChatScraper:
         self.playwright = sync_playwright().start()
         self.browser = self.playwright.chromium.launch(
             headless=self.headless,
-            slow_mo=self.slow_mo
+            slow_mo=self.slow_mo,
+            args=[
+                "--no-sandbox",
+                "--disable-setuid-sandbox",
+                "--disable-dev-shm-usage",
+                "--disable-gpu",
+            ]
         )
         self.context = self.browser.new_context(
             viewport={"width": 1920, "height": 1080},
