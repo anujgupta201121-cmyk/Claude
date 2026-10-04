@@ -1,0 +1,2284 @@
+keyword,industry,competitor_set,set_rank,tier
+McDonald's,Restaurants,Burgers,1,core
+Burger King,Restaurants,Burgers,2,core
+Wendy's,Restaurants,Burgers,3,core
+Five Guys,Restaurants,Burgers,4,core
+Shake Shack,Restaurants,Burgers,5,core
+In-N-Out,Restaurants,Burgers,6,core
+Whataburger,Restaurants,Burgers,7,core
+Culver's,Restaurants,Burgers,8,extended
+Smashburger,Restaurants,Burgers,9,extended
+Jack in the Box,Restaurants,Burgers,10,extended
+Carl's Jr,Restaurants,Burgers,11,extended
+Hardee's,Restaurants,Burgers,12,extended
+Sonic Drive-In,Restaurants,Burgers,13,extended
+Freddy's Frozen Custard,Restaurants,Burgers,14,extended
+Steak 'n Shake,Restaurants,Burgers,15,extended
+White Castle,Restaurants,Burgers,16,extended
+Checkers,Restaurants,Burgers,17,extended
+Chick-fil-A,Restaurants,Chicken,1,core
+Popeyes,Restaurants,Chicken,2,core
+KFC,Restaurants,Chicken,3,core
+Raising Cane's,Restaurants,Chicken,4,core
+Wingstop,Restaurants,Chicken,5,core
+Zaxby's,Restaurants,Chicken,6,core
+Bojangles,Restaurants,Chicken,7,extended
+Church's Chicken,Restaurants,Chicken,8,extended
+Dave's Hot Chicken,Restaurants,Chicken,9,extended
+Buffalo Wild Wings,Restaurants,Chicken,10,extended
+El Pollo Loco,Restaurants,Chicken,11,extended
+Slim Chickens,Restaurants,Chicken,12,extended
+Bonchon,Restaurants,Chicken,13,extended
+PDQ,Restaurants,Chicken,14,extended
+Domino's,Restaurants,Pizza,1,core
+Pizza Hut,Restaurants,Pizza,2,core
+Papa John's,Restaurants,Pizza,3,core
+Little Caesars,Restaurants,Pizza,4,core
+Marco's Pizza,Restaurants,Pizza,5,core
+Papa Murphy's,Restaurants,Pizza,6,core
+MOD Pizza,Restaurants,Pizza,7,extended
+Blaze Pizza,Restaurants,Pizza,8,extended
+Jet's Pizza,Restaurants,Pizza,9,extended
+Hungry Howie's,Restaurants,Pizza,10,extended
+Sbarro,Restaurants,Pizza,11,extended
+Chipotle,Restaurants,Mexican & Fast Casual,1,core
+Taco Bell,Restaurants,Mexican & Fast Casual,2,core
+Qdoba,Restaurants,Mexican & Fast Casual,3,core
+Moe's Southwest Grill,Restaurants,Mexican & Fast Casual,4,core
+Del Taco,Restaurants,Mexican & Fast Casual,5,core
+Taco Bueno,Restaurants,Mexican & Fast Casual,6,core
+Torchy's Tacos,Restaurants,Mexican & Fast Casual,7,core
+Cava,Restaurants,Mexican & Fast Casual,8,extended
+Sweetgreen,Restaurants,Mexican & Fast Casual,9,extended
+Panera Bread,Restaurants,Mexican & Fast Casual,10,extended
+Noodles & Company,Restaurants,Mexican & Fast Casual,11,extended
+Panda Express,Restaurants,Mexican & Fast Casual,12,extended
+Potbelly,Restaurants,Mexican & Fast Casual,13,extended
+Mendocino Farms,Restaurants,Mexican & Fast Casual,14,extended
+Tender Greens,Restaurants,Mexican & Fast Casual,15,extended
+Just Salad,Restaurants,Mexican & Fast Casual,16,extended
+Dig,Restaurants,Mexican & Fast Casual,17,extended
+Subway,Restaurants,Sandwiches & Subs,1,core
+Jersey Mike's,Restaurants,Sandwiches & Subs,2,core
+Jimmy John's,Restaurants,Sandwiches & Subs,3,core
+Firehouse Subs,Restaurants,Sandwiches & Subs,4,core
+Arby's,Restaurants,Sandwiches & Subs,5,core
+Wawa,Restaurants,Sandwiches & Subs,6,core
+Sheetz,Restaurants,Sandwiches & Subs,7,extended
+Which Wich,Restaurants,Sandwiches & Subs,8,extended
+Jason's Deli,Restaurants,Sandwiches & Subs,9,extended
+McAlister's Deli,Restaurants,Sandwiches & Subs,10,extended
+Schlotzsky's,Restaurants,Sandwiches & Subs,11,extended
+Starbucks,Restaurants,Coffee & Beverages,1,core
+Dunkin',Restaurants,Coffee & Beverages,2,core
+Dutch Bros,Restaurants,Coffee & Beverages,3,core
+Tim Hortons,Restaurants,Coffee & Beverages,4,core
+Peet's Coffee,Restaurants,Coffee & Beverages,5,core
+Caribou Coffee,Restaurants,Coffee & Beverages,6,core
+Scooter's Coffee,Restaurants,Coffee & Beverages,7,core
+Biggby Coffee,Restaurants,Coffee & Beverages,8,core
+7 Brew,Restaurants,Coffee & Beverages,9,extended
+Black Rifle Coffee,Restaurants,Coffee & Beverages,10,extended
+Blue Bottle Coffee,Restaurants,Coffee & Beverages,11,extended
+Swig,Restaurants,Coffee & Beverages,12,extended
+Tropical Smoothie Cafe,Restaurants,Coffee & Beverages,13,extended
+Smoothie King,Restaurants,Coffee & Beverages,14,extended
+Jamba,Restaurants,Coffee & Beverages,15,extended
+Kung Fu Tea,Restaurants,Coffee & Beverages,16,extended
+Gong Cha,Restaurants,Coffee & Beverages,17,extended
+Sharetea,Restaurants,Coffee & Beverages,18,extended
+Crumbl Cookies,Restaurants,Desserts & Bakery,1,core
+Insomnia Cookies,Restaurants,Desserts & Bakery,2,core
+Krispy Kreme,Restaurants,Desserts & Bakery,3,core
+Dairy Queen,Restaurants,Desserts & Bakery,4,core
+Baskin-Robbins,Restaurants,Desserts & Bakery,5,core
+Cold Stone Creamery,Restaurants,Desserts & Bakery,6,core
+Nothing Bundt Cakes,Restaurants,Desserts & Bakery,7,core
+Cinnabon,Restaurants,Desserts & Bakery,8,extended
+Auntie Anne's,Restaurants,Desserts & Bakery,9,extended
+Rita's Italian Ice,Restaurants,Desserts & Bakery,10,extended
+Menchie's,Restaurants,Desserts & Bakery,11,extended
+Sprinkles,Restaurants,Desserts & Bakery,12,extended
+Duck Donuts,Restaurants,Desserts & Bakery,13,extended
+Salt & Straw,Restaurants,Desserts & Bakery,14,extended
+Van Leeuwen,Restaurants,Desserts & Bakery,15,extended
+Jeni's Splendid Ice Creams,Restaurants,Desserts & Bakery,16,extended
+Applebee's,Restaurants,Casual Dining,1,core
+Chili's,Restaurants,Casual Dining,2,core
+Olive Garden,Restaurants,Casual Dining,3,core
+Texas Roadhouse,Restaurants,Casual Dining,4,core
+Red Lobster,Restaurants,Casual Dining,5,core
+Outback Steakhouse,Restaurants,Casual Dining,6,core
+LongHorn Steakhouse,Restaurants,Casual Dining,7,core
+TGI Fridays,Restaurants,Casual Dining,8,core
+Red Robin,Restaurants,Casual Dining,9,core
+Cheesecake Factory,Restaurants,Casual Dining,10,core
+Cracker Barrel,Restaurants,Casual Dining,11,core
+IHOP,Restaurants,Casual Dining,12,extended
+Denny's,Restaurants,Casual Dining,13,extended
+Waffle House,Restaurants,Casual Dining,14,extended
+First Watch,Restaurants,Casual Dining,15,extended
+Buffalo Wild Wings,Restaurants,Casual Dining,16,extended
+Hooters,Restaurants,Casual Dining,17,extended
+Twin Peaks,Restaurants,Casual Dining,18,extended
+BJ's Restaurant,Restaurants,Casual Dining,19,extended
+Yard House,Restaurants,Casual Dining,20,extended
+Dave & Buster's,Restaurants,Casual Dining,21,extended
+P.F. Chang's,Restaurants,Casual Dining,22,extended
+Benihana,Restaurants,Casual Dining,23,extended
+Carrabba's,Restaurants,Casual Dining,24,extended
+Bob Evans,Restaurants,Casual Dining,25,extended
+Golden Corral,Restaurants,Casual Dining,26,extended
+Ruth's Chris,Restaurants,Upscale Chains,1,core
+Morton's,Restaurants,Upscale Chains,2,core
+Capital Grille,Restaurants,Upscale Chains,3,core
+Fogo de Chao,Restaurants,Upscale Chains,4,core
+STK,Restaurants,Upscale Chains,5,core
+Del Frisco's,Restaurants,Upscale Chains,6,core
+Seasons 52,Restaurants,Upscale Chains,7,extended
+Eddie V's,Restaurants,Upscale Chains,8,extended
+Kura Sushi,Restaurants,Upscale Chains,9,extended
+Nobu,Restaurants,Upscale Chains,10,extended
+Coca-Cola,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,1,core
+Pepsi,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,2,core
+Dr Pepper,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,3,core
+Sprite,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,4,core
+Mountain Dew,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,5,core
+Olipop,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,6,core
+Poppi,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,7,extended
+Celsius,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,8,extended
+Prime Hydration,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,9,extended
+Liquid Death,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,10,extended
+LaCroix,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,11,extended
+Bubly,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,12,extended
+Spindrift,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,13,extended
+Zevia,"Snacks, Food & Beverage CPG",Soda & Soft Drinks,14,extended
+Red Bull,"Snacks, Food & Beverage CPG",Energy Drinks,1,core
+Monster Energy,"Snacks, Food & Beverage CPG",Energy Drinks,2,core
+Celsius Energy,"Snacks, Food & Beverage CPG",Energy Drinks,3,core
+Bang Energy,"Snacks, Food & Beverage CPG",Energy Drinks,4,core
+Ghost Energy,"Snacks, Food & Beverage CPG",Energy Drinks,5,core
+C4 Energy,"Snacks, Food & Beverage CPG",Energy Drinks,6,core
+Alani Nu,"Snacks, Food & Beverage CPG",Energy Drinks,7,extended
+Reign,"Snacks, Food & Beverage CPG",Energy Drinks,8,extended
+Rockstar,"Snacks, Food & Beverage CPG",Energy Drinks,9,extended
+Prime Energy,"Snacks, Food & Beverage CPG",Energy Drinks,10,extended
+Lucky Energy,"Snacks, Food & Beverage CPG",Energy Drinks,11,extended
+3D Energy,"Snacks, Food & Beverage CPG",Energy Drinks,12,extended
+Doritos,"Snacks, Food & Beverage CPG",Snacks,1,core
+Takis,"Snacks, Food & Beverage CPG",Snacks,2,core
+Cheetos,"Snacks, Food & Beverage CPG",Snacks,3,core
+Lay's,"Snacks, Food & Beverage CPG",Snacks,4,core
+Pringles,"Snacks, Food & Beverage CPG",Snacks,5,core
+Goldfish,"Snacks, Food & Beverage CPG",Snacks,6,core
+Oreo,"Snacks, Food & Beverage CPG",Snacks,7,core
+Chips Ahoy,"Snacks, Food & Beverage CPG",Snacks,8,extended
+Little Debbie,"Snacks, Food & Beverage CPG",Snacks,9,extended
+Hostess,"Snacks, Food & Beverage CPG",Snacks,10,extended
+SkinnyPop,"Snacks, Food & Beverage CPG",Snacks,11,extended
+Smartfood,"Snacks, Food & Beverage CPG",Snacks,12,extended
+Siete Foods,"Snacks, Food & Beverage CPG",Snacks,13,extended
+Quest Chips,"Snacks, Food & Beverage CPG",Snacks,14,extended
+Utz,"Snacks, Food & Beverage CPG",Snacks,15,extended
+Kettle Brand,"Snacks, Food & Beverage CPG",Snacks,16,extended
+Cape Cod Chips,"Snacks, Food & Beverage CPG",Snacks,17,extended
+Hershey's,"Snacks, Food & Beverage CPG",Candy,1,core
+Reese's,"Snacks, Food & Beverage CPG",Candy,2,core
+M&M's,"Snacks, Food & Beverage CPG",Candy,3,core
+Skittles,"Snacks, Food & Beverage CPG",Candy,4,core
+Sour Patch Kids,"Snacks, Food & Beverage CPG",Candy,5,core
+Swedish Fish,"Snacks, Food & Beverage CPG",Candy,6,core
+Trolli,"Snacks, Food & Beverage CPG",Candy,7,core
+Haribo,"Snacks, Food & Beverage CPG",Candy,8,core
+Kit Kat,"Snacks, Food & Beverage CPG",Candy,9,extended
+Snickers,"Snacks, Food & Beverage CPG",Candy,10,extended
+Twix,"Snacks, Food & Beverage CPG",Candy,11,extended
+Nerds,"Snacks, Food & Beverage CPG",Candy,12,extended
+Jolly Rancher,"Snacks, Food & Beverage CPG",Candy,13,extended
+Lindt,"Snacks, Food & Beverage CPG",Candy,14,extended
+Ghirardelli,"Snacks, Food & Beverage CPG",Candy,15,extended
+Feastables,"Snacks, Food & Beverage CPG",Candy,16,extended
+Hi-Chew,"Snacks, Food & Beverage CPG",Candy,17,extended
+Warheads,"Snacks, Food & Beverage CPG",Candy,18,extended
+Jelly Belly,"Snacks, Food & Beverage CPG",Candy,19,extended
+Quest Nutrition,"Snacks, Food & Beverage CPG",Better-for-You & Protein,1,core
+RXBAR,"Snacks, Food & Beverage CPG",Better-for-You & Protein,2,core
+KIND,"Snacks, Food & Beverage CPG",Better-for-You & Protein,3,core
+Clif Bar,"Snacks, Food & Beverage CPG",Better-for-You & Protein,4,core
+Built Bar,"Snacks, Food & Beverage CPG",Better-for-You & Protein,5,core
+Barebells,"Snacks, Food & Beverage CPG",Better-for-You & Protein,6,core
+Fairlife,"Snacks, Food & Beverage CPG",Better-for-You & Protein,7,core
+Premier Protein,"Snacks, Food & Beverage CPG",Better-for-You & Protein,8,extended
+Chobani,"Snacks, Food & Beverage CPG",Better-for-You & Protein,9,extended
+Oatly,"Snacks, Food & Beverage CPG",Better-for-You & Protein,10,extended
+Magic Spoon,"Snacks, Food & Beverage CPG",Better-for-You & Protein,11,extended
+Kodiak Cakes,"Snacks, Food & Beverage CPG",Better-for-You & Protein,12,extended
+Sweet Loren's,"Snacks, Food & Beverage CPG",Better-for-You & Protein,13,extended
+Bloom Nutrition,"Snacks, Food & Beverage CPG",Better-for-You & Protein,14,extended
+Liquid I.V.,"Snacks, Food & Beverage CPG",Better-for-You & Protein,15,extended
+AG1,"Snacks, Food & Beverage CPG",Better-for-You & Protein,16,extended
+Ghost Protein,"Snacks, Food & Beverage CPG",Better-for-You & Protein,17,extended
+Bud Light,"Snacks, Food & Beverage CPG",Alcohol & Spirits,1,core
+Michelob Ultra,"Snacks, Food & Beverage CPG",Alcohol & Spirits,2,core
+Coors Light,"Snacks, Food & Beverage CPG",Alcohol & Spirits,3,core
+Modelo,"Snacks, Food & Beverage CPG",Alcohol & Spirits,4,core
+Corona,"Snacks, Food & Beverage CPG",Alcohol & Spirits,5,core
+White Claw,"Snacks, Food & Beverage CPG",Alcohol & Spirits,6,core
+Truly,"Snacks, Food & Beverage CPG",Alcohol & Spirits,7,core
+High Noon,"Snacks, Food & Beverage CPG",Alcohol & Spirits,8,core
+Sun Cruiser,"Snacks, Food & Beverage CPG",Alcohol & Spirits,9,core
+Surfside,"Snacks, Food & Beverage CPG",Alcohol & Spirits,10,extended
+Casamigos,"Snacks, Food & Beverage CPG",Alcohol & Spirits,11,extended
+Don Julio,"Snacks, Food & Beverage CPG",Alcohol & Spirits,12,extended
+Patron,"Snacks, Food & Beverage CPG",Alcohol & Spirits,13,extended
+Teremana,"Snacks, Food & Beverage CPG",Alcohol & Spirits,14,extended
+Tito's,"Snacks, Food & Beverage CPG",Alcohol & Spirits,15,extended
+Jack Daniel's,"Snacks, Food & Beverage CPG",Alcohol & Spirits,16,extended
+Crown Royal,"Snacks, Food & Beverage CPG",Alcohol & Spirits,17,extended
+Fireball,"Snacks, Food & Beverage CPG",Alcohol & Spirits,18,extended
+Athletic Brewing,"Snacks, Food & Beverage CPG",Alcohol & Spirits,19,extended
+Cann,"Snacks, Food & Beverage CPG",Alcohol & Spirits,20,extended
+Walmart,Retailers,Big Box & Mass,1,core
+Target,Retailers,Big Box & Mass,2,core
+Costco,Retailers,Big Box & Mass,3,core
+Sam's Club,Retailers,Big Box & Mass,4,core
+BJ's Wholesale,Retailers,Big Box & Mass,5,core
+Kroger,Retailers,Big Box & Mass,6,core
+Meijer,Retailers,Big Box & Mass,7,extended
+Fred Meyer,Retailers,Big Box & Mass,8,extended
+Dollar General,Retailers,Big Box & Mass,9,extended
+Dollar Tree,Retailers,Big Box & Mass,10,extended
+Five Below,Retailers,Big Box & Mass,11,extended
+Family Dollar,Retailers,Big Box & Mass,12,extended
+Big Lots,Retailers,Big Box & Mass,13,extended
+Ollie's Bargain Outlet,Retailers,Big Box & Mass,14,extended
+Trader Joe's,Retailers,Grocery,1,core
+Whole Foods,Retailers,Grocery,2,core
+Aldi,Retailers,Grocery,3,core
+Lidl,Retailers,Grocery,4,core
+Publix,Retailers,Grocery,5,core
+H-E-B,Retailers,Grocery,6,core
+Wegmans,Retailers,Grocery,7,extended
+Sprouts,Retailers,Grocery,8,extended
+Safeway,Retailers,Grocery,9,extended
+Albertsons,Retailers,Grocery,10,extended
+Erewhon,Retailers,Grocery,11,extended
+Hy-Vee,Retailers,Grocery,12,extended
+Food Lion,Retailers,Grocery,13,extended
+Giant Eagle,Retailers,Grocery,14,extended
+Macy's,Retailers,Department Stores,1,core
+Nordstrom,Retailers,Department Stores,2,core
+Kohl's,Retailers,Department Stores,3,core
+JCPenney,Retailers,Department Stores,4,core
+Dillard's,Retailers,Department Stores,5,core
+Bloomingdale's,Retailers,Department Stores,6,core
+Saks Fifth Avenue,Retailers,Department Stores,7,extended
+Neiman Marcus,Retailers,Department Stores,8,extended
+Belk,Retailers,Department Stores,9,extended
+Nordstrom Rack,Retailers,Department Stores,10,extended
+Saks Off 5th,Retailers,Department Stores,11,extended
+TJ Maxx,Retailers,Off-Price,1,core
+Marshalls,Retailers,Off-Price,2,core
+Ross Dress for Less,Retailers,Off-Price,3,core
+Burlington,Retailers,Off-Price,4,core
+HomeGoods,Retailers,Off-Price,5,core
+Sierra,Retailers,Off-Price,6,core
+Tuesday Morning,Retailers,Off-Price,7,extended
+Gabe's,Retailers,Off-Price,8,extended
+IKEA,Retailers,Home & Furniture,1,core
+Wayfair,Retailers,Home & Furniture,2,core
+Home Depot,Retailers,Home & Furniture,3,core
+Lowe's,Retailers,Home & Furniture,4,core
+Bed Bath & Beyond,Retailers,Home & Furniture,5,core
+Pottery Barn,Retailers,Home & Furniture,6,core
+West Elm,Retailers,Home & Furniture,7,core
+Crate & Barrel,Retailers,Home & Furniture,8,core
+RH,Retailers,Home & Furniture,9,core
+Ashley Furniture,Retailers,Home & Furniture,10,extended
+Article,Retailers,Home & Furniture,11,extended
+Joybird,Retailers,Home & Furniture,12,extended
+Burrow,Retailers,Home & Furniture,13,extended
+Living Spaces,Retailers,Home & Furniture,14,extended
+Rooms To Go,Retailers,Home & Furniture,15,extended
+At Home,Retailers,Home & Furniture,16,extended
+Kirkland's,Retailers,Home & Furniture,17,extended
+World Market,Retailers,Home & Furniture,18,extended
+Container Store,Retailers,Home & Furniture,19,extended
+Menards,Retailers,Home & Furniture,20,extended
+Ace Hardware,Retailers,Home & Furniture,21,extended
+Sephora,Retailers,Beauty Retail,1,core
+Ulta Beauty,Retailers,Beauty Retail,2,core
+Sally Beauty,Retailers,Beauty Retail,3,core
+Bluemercury,Retailers,Beauty Retail,4,core
+Space NK,Retailers,Beauty Retail,5,core
+Best Buy,Retailers,Electronics Retail,1,core
+Micro Center,Retailers,Electronics Retail,2,core
+B&H Photo,Retailers,Electronics Retail,3,core
+GameStop,Retailers,Electronics Retail,4,core
+Newegg,Retailers,Electronics Retail,5,core
+Apple Store,Retailers,Electronics Retail,6,core
+Dick's Sporting Goods,Retailers,Sporting Goods & Outdoor,1,core
+Academy Sports,Retailers,Sporting Goods & Outdoor,2,core
+REI,Retailers,Sporting Goods & Outdoor,3,core
+Bass Pro Shops,Retailers,Sporting Goods & Outdoor,4,core
+Cabela's,Retailers,Sporting Goods & Outdoor,5,core
+Scheels,Retailers,Sporting Goods & Outdoor,6,core
+Big 5,Retailers,Sporting Goods & Outdoor,7,extended
+Hibbett,Retailers,Sporting Goods & Outdoor,8,extended
+Foot Locker,Retailers,Sporting Goods & Outdoor,9,extended
+JD Sports,Retailers,Sporting Goods & Outdoor,10,extended
+Champs Sports,Retailers,Sporting Goods & Outdoor,11,extended
+Finish Line,Retailers,Sporting Goods & Outdoor,12,extended
+Fleet Feet,Retailers,Sporting Goods & Outdoor,13,extended
+Michaels,Retailers,"Crafts, Party & Specialty",1,core
+Hobby Lobby,Retailers,"Crafts, Party & Specialty",2,core
+Joann,Retailers,"Crafts, Party & Specialty",3,core
+Party City,Retailers,"Crafts, Party & Specialty",4,core
+Spirit Halloween,Retailers,"Crafts, Party & Specialty",5,core
+Barnes & Noble,Retailers,"Crafts, Party & Specialty",6,core
+Books-A-Million,Retailers,"Crafts, Party & Specialty",7,core
+Bath & Body Works,Retailers,"Crafts, Party & Specialty",8,extended
+Yankee Candle,Retailers,"Crafts, Party & Specialty",9,extended
+Lush,Retailers,"Crafts, Party & Specialty",10,extended
+Build-A-Bear,Retailers,"Crafts, Party & Specialty",11,extended
+Claire's,Retailers,"Crafts, Party & Specialty",12,extended
+Spencer's,Retailers,"Crafts, Party & Specialty",13,extended
+Hot Topic,Retailers,"Crafts, Party & Specialty",14,extended
+BoxLunch,Retailers,"Crafts, Party & Specialty",15,extended
+Urban Outfitters,Retailers,"Crafts, Party & Specialty",16,extended
+CVS,Retailers,Pharmacy & Convenience,1,core
+Walgreens,Retailers,Pharmacy & Convenience,2,core
+Rite Aid,Retailers,Pharmacy & Convenience,3,core
+7-Eleven,Retailers,Pharmacy & Convenience,4,core
+Buc-ee's,Retailers,Pharmacy & Convenience,5,core
+QuikTrip,Retailers,Pharmacy & Convenience,6,core
+Casey's,Retailers,Pharmacy & Convenience,7,extended
+Circle K,Retailers,Pharmacy & Convenience,8,extended
+Wawa,Retailers,Pharmacy & Convenience,9,extended
+Chewy,Retailers,Pet,1,core
+Petco,Retailers,Pet,2,core
+PetSmart,Retailers,Pet,3,core
+BarkBox,Retailers,Pet,4,core
+The Farmer's Dog,Retailers,Pet,5,core
+Ollie,Retailers,Pet,6,core
+Amazon,E-commerce & Marketplaces,Marketplaces,1,core
+Temu,E-commerce & Marketplaces,Marketplaces,2,core
+Shein,E-commerce & Marketplaces,Marketplaces,3,core
+AliExpress,E-commerce & Marketplaces,Marketplaces,4,core
+eBay,E-commerce & Marketplaces,Marketplaces,5,core
+Etsy,E-commerce & Marketplaces,Marketplaces,6,core
+Walmart Marketplace,E-commerce & Marketplaces,Marketplaces,7,core
+Wish,E-commerce & Marketplaces,Marketplaces,8,core
+TikTok Shop,E-commerce & Marketplaces,Marketplaces,9,core
+Mercari,E-commerce & Marketplaces,Marketplaces,10,core
+Poshmark,E-commerce & Marketplaces,Marketplaces,11,core
+Depop,E-commerce & Marketplaces,Marketplaces,12,extended
+Vinted,E-commerce & Marketplaces,Marketplaces,13,extended
+ThredUp,E-commerce & Marketplaces,Marketplaces,14,extended
+The RealReal,E-commerce & Marketplaces,Marketplaces,15,extended
+Vestiaire Collective,E-commerce & Marketplaces,Marketplaces,16,extended
+Rebag,E-commerce & Marketplaces,Marketplaces,17,extended
+Whatnot,E-commerce & Marketplaces,Marketplaces,18,extended
+StockX,E-commerce & Marketplaces,Marketplaces,19,extended
+GOAT,E-commerce & Marketplaces,Marketplaces,20,extended
+Grailed,E-commerce & Marketplaces,Marketplaces,21,extended
+Fanatics,E-commerce & Marketplaces,Marketplaces,22,extended
+Facebook Marketplace,E-commerce & Marketplaces,Marketplaces,23,extended
+OfferUp,E-commerce & Marketplaces,Marketplaces,24,extended
+Kickstarter,E-commerce & Marketplaces,Marketplaces,25,extended
+Shopify,E-commerce & Marketplaces,Ecommerce Platforms,1,core
+BigCommerce,E-commerce & Marketplaces,Ecommerce Platforms,2,core
+WooCommerce,E-commerce & Marketplaces,Ecommerce Platforms,3,core
+Wix,E-commerce & Marketplaces,Ecommerce Platforms,4,core
+Squarespace,E-commerce & Marketplaces,Ecommerce Platforms,5,core
+Klarna,E-commerce & Marketplaces,Ecommerce Platforms,6,core
+Afterpay,E-commerce & Marketplaces,Ecommerce Platforms,7,extended
+Affirm,E-commerce & Marketplaces,Ecommerce Platforms,8,extended
+Shop Pay,E-commerce & Marketplaces,Ecommerce Platforms,9,extended
+Sezzle,E-commerce & Marketplaces,Ecommerce Platforms,10,extended
+Zip Pay,E-commerce & Marketplaces,Ecommerce Platforms,11,extended
+DoorDash,E-commerce & Marketplaces,Delivery & Subscription,1,core
+Uber Eats,E-commerce & Marketplaces,Delivery & Subscription,2,core
+Instacart,E-commerce & Marketplaces,Delivery & Subscription,3,core
+Grubhub,E-commerce & Marketplaces,Delivery & Subscription,4,core
+Gopuff,E-commerce & Marketplaces,Delivery & Subscription,5,core
+Postmates,E-commerce & Marketplaces,Delivery & Subscription,6,core
+HelloFresh,E-commerce & Marketplaces,Delivery & Subscription,7,core
+Factor,E-commerce & Marketplaces,Delivery & Subscription,8,core
+Home Chef,E-commerce & Marketplaces,Delivery & Subscription,9,extended
+Blue Apron,E-commerce & Marketplaces,Delivery & Subscription,10,extended
+Hungryroot,E-commerce & Marketplaces,Delivery & Subscription,11,extended
+Daily Harvest,E-commerce & Marketplaces,Delivery & Subscription,12,extended
+Thrive Market,E-commerce & Marketplaces,Delivery & Subscription,13,extended
+Misfits Market,E-commerce & Marketplaces,Delivery & Subscription,14,extended
+Imperfect Foods,E-commerce & Marketplaces,Delivery & Subscription,15,extended
+Walmart+,E-commerce & Marketplaces,Delivery & Subscription,16,extended
+Amazon Prime,E-commerce & Marketplaces,Delivery & Subscription,17,extended
+Target Circle 360,E-commerce & Marketplaces,Delivery & Subscription,18,extended
+Costco Same-Day,E-commerce & Marketplaces,Delivery & Subscription,19,extended
+Casper,E-commerce & Marketplaces,DTC Home & Sleep,1,core
+Purple,E-commerce & Marketplaces,DTC Home & Sleep,2,core
+Tempur-Pedic,E-commerce & Marketplaces,DTC Home & Sleep,3,core
+Saatva,E-commerce & Marketplaces,DTC Home & Sleep,4,core
+Nectar,E-commerce & Marketplaces,DTC Home & Sleep,5,core
+Tuft & Needle,E-commerce & Marketplaces,DTC Home & Sleep,6,core
+Sleep Number,E-commerce & Marketplaces,DTC Home & Sleep,7,core
+Brooklinen,E-commerce & Marketplaces,DTC Home & Sleep,8,core
+Parachute,E-commerce & Marketplaces,DTC Home & Sleep,9,core
+Bombas,E-commerce & Marketplaces,DTC Home & Sleep,10,core
+Our Place,E-commerce & Marketplaces,DTC Home & Sleep,11,core
+Caraway,E-commerce & Marketplaces,DTC Home & Sleep,12,core
+HexClad,E-commerce & Marketplaces,DTC Home & Sleep,13,core
+Made In,E-commerce & Marketplaces,DTC Home & Sleep,14,core
+Stanley,E-commerce & Marketplaces,DTC Home & Sleep,15,core
+Owala,E-commerce & Marketplaces,DTC Home & Sleep,16,extended
+Hydro Flask,E-commerce & Marketplaces,DTC Home & Sleep,17,extended
+YETI,E-commerce & Marketplaces,DTC Home & Sleep,18,extended
+Simple Modern,E-commerce & Marketplaces,DTC Home & Sleep,19,extended
+Brumate,E-commerce & Marketplaces,DTC Home & Sleep,20,extended
+Solo Stove,E-commerce & Marketplaces,DTC Home & Sleep,21,extended
+Ninja,E-commerce & Marketplaces,DTC Home & Sleep,22,extended
+Dyson,E-commerce & Marketplaces,DTC Home & Sleep,23,extended
+Shark,E-commerce & Marketplaces,DTC Home & Sleep,24,extended
+iRobot Roomba,E-commerce & Marketplaces,DTC Home & Sleep,25,extended
+Vitamix,E-commerce & Marketplaces,DTC Home & Sleep,26,extended
+Traeger,E-commerce & Marketplaces,DTC Home & Sleep,27,extended
+Blackstone Griddle,E-commerce & Marketplaces,DTC Home & Sleep,28,extended
+Keurig,E-commerce & Marketplaces,DTC Home & Sleep,29,extended
+Nespresso,E-commerce & Marketplaces,DTC Home & Sleep,30,extended
+Breville,E-commerce & Marketplaces,DTC Home & Sleep,31,extended
+KitchenAid,E-commerce & Marketplaces,DTC Home & Sleep,32,extended
+Cuisinart,E-commerce & Marketplaces,DTC Home & Sleep,33,extended
+Instant Pot,E-commerce & Marketplaces,DTC Home & Sleep,34,extended
+Cosori,E-commerce & Marketplaces,DTC Home & Sleep,35,extended
+Beautiful by Drew Barrymore,E-commerce & Marketplaces,DTC Home & Sleep,36,extended
+Nike,Apparel & Footwear,Athletic Apparel,1,core
+Adidas,Apparel & Footwear,Athletic Apparel,2,core
+Under Armour,Apparel & Footwear,Athletic Apparel,3,core
+Lululemon,Apparel & Footwear,Athletic Apparel,4,core
+Puma,Apparel & Footwear,Athletic Apparel,5,core
+Reebok,Apparel & Footwear,Athletic Apparel,6,core
+New Balance,Apparel & Footwear,Athletic Apparel,7,core
+Alo Yoga,Apparel & Footwear,Athletic Apparel,8,core
+Vuori,Apparel & Footwear,Athletic Apparel,9,core
+Gymshark,Apparel & Footwear,Athletic Apparel,10,extended
+Fabletics,Apparel & Footwear,Athletic Apparel,11,extended
+Athleta,Apparel & Footwear,Athletic Apparel,12,extended
+Outdoor Voices,Apparel & Footwear,Athletic Apparel,13,extended
+Rhone,Apparel & Footwear,Athletic Apparel,14,extended
+Ten Thousand,Apparel & Footwear,Athletic Apparel,15,extended
+Set Active,Apparel & Footwear,Athletic Apparel,16,extended
+Girlfriend Collective,Apparel & Footwear,Athletic Apparel,17,extended
+Beyond Yoga,Apparel & Footwear,Athletic Apparel,18,extended
+Champion,Apparel & Footwear,Athletic Apparel,19,extended
+Fila,Apparel & Footwear,Athletic Apparel,20,extended
+Asics,Apparel & Footwear,Athletic Apparel,21,extended
+Mizuno,Apparel & Footwear,Athletic Apparel,22,extended
+Hoka,Apparel & Footwear,Running & Sneakers,1,core
+On Running,Apparel & Footwear,Running & Sneakers,2,core
+Brooks Running,Apparel & Footwear,Running & Sneakers,3,core
+Saucony,Apparel & Footwear,Running & Sneakers,4,core
+Asics,Apparel & Footwear,Running & Sneakers,5,core
+Allbirds,Apparel & Footwear,Running & Sneakers,6,core
+Vans,Apparel & Footwear,Running & Sneakers,7,core
+Converse,Apparel & Footwear,Running & Sneakers,8,core
+Skechers,Apparel & Footwear,Running & Sneakers,9,core
+Salomon,Apparel & Footwear,Running & Sneakers,10,core
+Altra,Apparel & Footwear,Running & Sneakers,11,core
+Veja,Apparel & Footwear,Running & Sneakers,12,core
+Golden Goose,Apparel & Footwear,Running & Sneakers,13,extended
+Axel Arigato,Apparel & Footwear,Running & Sneakers,14,extended
+Jordan Brand,Apparel & Footwear,Running & Sneakers,15,extended
+Yeezy,Apparel & Footwear,Running & Sneakers,16,extended
+Crocs,Apparel & Footwear,Running & Sneakers,17,extended
+Birkenstock,Apparel & Footwear,Running & Sneakers,18,extended
+Ugg,Apparel & Footwear,Running & Sneakers,19,extended
+Dr. Martens,Apparel & Footwear,Running & Sneakers,20,extended
+Timberland,Apparel & Footwear,Running & Sneakers,21,extended
+Steve Madden,Apparel & Footwear,Running & Sneakers,22,extended
+Sam Edelman,Apparel & Footwear,Running & Sneakers,23,extended
+Teva,Apparel & Footwear,Running & Sneakers,24,extended
+Hey Dude,Apparel & Footwear,Running & Sneakers,25,extended
+Clarks,Apparel & Footwear,Running & Sneakers,26,extended
+Keen,Apparel & Footwear,Running & Sneakers,27,extended
+Merrell,Apparel & Footwear,Running & Sneakers,28,extended
+Zara,Apparel & Footwear,Fast Fashion & Mall,1,core
+H&M,Apparel & Footwear,Fast Fashion & Mall,2,core
+Uniqlo,Apparel & Footwear,Fast Fashion & Mall,3,core
+Forever 21,Apparel & Footwear,Fast Fashion & Mall,4,core
+Shein,Apparel & Footwear,Fast Fashion & Mall,5,core
+Fashion Nova,Apparel & Footwear,Fast Fashion & Mall,6,core
+PrettyLittleThing,Apparel & Footwear,Fast Fashion & Mall,7,core
+Boohoo,Apparel & Footwear,Fast Fashion & Mall,8,core
+ASOS,Apparel & Footwear,Fast Fashion & Mall,9,core
+Mango,Apparel & Footwear,Fast Fashion & Mall,10,core
+Princess Polly,Apparel & Footwear,Fast Fashion & Mall,11,core
+Edikted,Apparel & Footwear,Fast Fashion & Mall,12,core
+Aritzia,Apparel & Footwear,Fast Fashion & Mall,13,core
+Abercrombie & Fitch,Apparel & Footwear,Fast Fashion & Mall,14,core
+Hollister,Apparel & Footwear,Fast Fashion & Mall,15,core
+American Eagle,Apparel & Footwear,Fast Fashion & Mall,16,core
+Aerie,Apparel & Footwear,Fast Fashion & Mall,17,core
+Gap,Apparel & Footwear,Fast Fashion & Mall,18,core
+Old Navy,Apparel & Footwear,Fast Fashion & Mall,19,extended
+Banana Republic,Apparel & Footwear,Fast Fashion & Mall,20,extended
+J.Crew,Apparel & Footwear,Fast Fashion & Mall,21,extended
+Madewell,Apparel & Footwear,Fast Fashion & Mall,22,extended
+Express,Apparel & Footwear,Fast Fashion & Mall,23,extended
+Garage,Apparel & Footwear,Fast Fashion & Mall,24,extended
+Brandy Melville,Apparel & Footwear,Fast Fashion & Mall,25,extended
+PacSun,Apparel & Footwear,Fast Fashion & Mall,26,extended
+Zumiez,Apparel & Footwear,Fast Fashion & Mall,27,extended
+Tilly's,Apparel & Footwear,Fast Fashion & Mall,28,extended
+Cider,Apparel & Footwear,Fast Fashion & Mall,29,extended
+Halara,Apparel & Footwear,Fast Fashion & Mall,30,extended
+Quince,Apparel & Footwear,Fast Fashion & Mall,31,extended
+Everlane,Apparel & Footwear,Fast Fashion & Mall,32,extended
+Free People,Apparel & Footwear,Fast Fashion & Mall,33,extended
+Anthropologie,Apparel & Footwear,Fast Fashion & Mall,34,extended
+Lulus,Apparel & Footwear,Fast Fashion & Mall,35,extended
+Revolve,Apparel & Footwear,Fast Fashion & Mall,36,extended
+Petal & Pup,Apparel & Footwear,Fast Fashion & Mall,37,extended
+Hello Molly,Apparel & Footwear,Fast Fashion & Mall,38,extended
+Showpo,Apparel & Footwear,Fast Fashion & Mall,39,extended
+Oh Polly,Apparel & Footwear,Fast Fashion & Mall,40,extended
+Meshki,Apparel & Footwear,Fast Fashion & Mall,41,extended
+White Fox Boutique,Apparel & Footwear,Fast Fashion & Mall,42,extended
+Levi's,Apparel & Footwear,Denim & Basics,1,core
+Wrangler,Apparel & Footwear,Denim & Basics,2,core
+Lee Jeans,Apparel & Footwear,Denim & Basics,3,core
+AG Jeans,Apparel & Footwear,Denim & Basics,4,core
+Agolde,Apparel & Footwear,Denim & Basics,5,core
+Citizens of Humanity,Apparel & Footwear,Denim & Basics,6,core
+Mother Denim,Apparel & Footwear,Denim & Basics,7,core
+Re/Done,Apparel & Footwear,Denim & Basics,8,extended
+True Religion,Apparel & Footwear,Denim & Basics,9,extended
+Hanes,Apparel & Footwear,Denim & Basics,10,extended
+Fruit of the Loom,Apparel & Footwear,Denim & Basics,11,extended
+Comfort Colors,Apparel & Footwear,Denim & Basics,12,extended
+Pact,Apparel & Footwear,Denim & Basics,13,extended
+Cuyana,Apparel & Footwear,Denim & Basics,14,extended
+Mack Weldon,Apparel & Footwear,Denim & Basics,15,extended
+Buck Mason,Apparel & Footwear,Denim & Basics,16,extended
+Jenni Kayne,Apparel & Footwear,Denim & Basics,17,extended
+Skims,Apparel & Footwear,Shapewear & Intimates,1,core
+Spanx,Apparel & Footwear,Shapewear & Intimates,2,core
+Victoria's Secret,Apparel & Footwear,Shapewear & Intimates,3,core
+Savage X Fenty,Apparel & Footwear,Shapewear & Intimates,4,core
+Parade,Apparel & Footwear,Shapewear & Intimates,5,core
+Honeylove,Apparel & Footwear,Shapewear & Intimates,6,core
+Knix,Apparel & Footwear,Shapewear & Intimates,7,core
+Thirdlove,Apparel & Footwear,Shapewear & Intimates,8,extended
+CUUP,Apparel & Footwear,Shapewear & Intimates,9,extended
+Lively,Apparel & Footwear,Shapewear & Intimates,10,extended
+Calvin Klein Underwear,Apparel & Footwear,Shapewear & Intimates,11,extended
+Shapermint,Apparel & Footwear,Shapewear & Intimates,12,extended
+Yitty,Apparel & Footwear,Shapewear & Intimates,13,extended
+Pair of Thieves,Apparel & Footwear,Shapewear & Intimates,14,extended
+Tommy John,Apparel & Footwear,Shapewear & Intimates,15,extended
+MeUndies,Apparel & Footwear,Shapewear & Intimates,16,extended
+The North Face,Apparel & Footwear,Outdoor & Workwear,1,core
+Patagonia,Apparel & Footwear,Outdoor & Workwear,2,core
+Columbia,Apparel & Footwear,Outdoor & Workwear,3,core
+Arc'teryx,Apparel & Footwear,Outdoor & Workwear,4,core
+Canada Goose,Apparel & Footwear,Outdoor & Workwear,5,core
+Moncler,Apparel & Footwear,Outdoor & Workwear,6,core
+Carhartt,Apparel & Footwear,Outdoor & Workwear,7,core
+Dickies,Apparel & Footwear,Outdoor & Workwear,8,core
+Duluth Trading,Apparel & Footwear,Outdoor & Workwear,9,core
+L.L.Bean,Apparel & Footwear,Outdoor & Workwear,10,extended
+Eddie Bauer,Apparel & Footwear,Outdoor & Workwear,11,extended
+Marmot,Apparel & Footwear,Outdoor & Workwear,12,extended
+Cotopaxi,Apparel & Footwear,Outdoor & Workwear,13,extended
+Kuhl,Apparel & Footwear,Outdoor & Workwear,14,extended
+Fjallraven,Apparel & Footwear,Outdoor & Workwear,15,extended
+Helly Hansen,Apparel & Footwear,Outdoor & Workwear,16,extended
+Mountain Hardwear,Apparel & Footwear,Outdoor & Workwear,17,extended
+Stio,Apparel & Footwear,Outdoor & Workwear,18,extended
+Filson,Apparel & Footwear,Outdoor & Workwear,19,extended
+Wolverine,Apparel & Footwear,Outdoor & Workwear,20,extended
+Supreme,Apparel & Footwear,Streetwear,1,core
+Stussy,Apparel & Footwear,Streetwear,2,core
+Palace,Apparel & Footwear,Streetwear,3,core
+Kith,Apparel & Footwear,Streetwear,4,core
+Essentials Fear of God,Apparel & Footwear,Streetwear,5,core
+Corteiz,Apparel & Footwear,Streetwear,6,core
+Sp5der,Apparel & Footwear,Streetwear,7,core
+Hellstar,Apparel & Footwear,Streetwear,8,core
+Broken Planet,Apparel & Footwear,Streetwear,9,core
+Trapstar,Apparel & Footwear,Streetwear,10,core
+Denim Tears,Apparel & Footwear,Streetwear,11,core
+Aime Leon Dore,Apparel & Footwear,Streetwear,12,extended
+Bape,Apparel & Footwear,Streetwear,13,extended
+Off-White,Apparel & Footwear,Streetwear,14,extended
+Rhude,Apparel & Footwear,Streetwear,15,extended
+Gallery Dept,Apparel & Footwear,Streetwear,16,extended
+Eric Emanuel,Apparel & Footwear,Streetwear,17,extended
+Chrome Hearts,Apparel & Footwear,Streetwear,18,extended
+Represent,Apparel & Footwear,Streetwear,19,extended
+Pleasures,Apparel & Footwear,Streetwear,20,extended
+Madhappy,Apparel & Footwear,Streetwear,21,extended
+Cole Buxton,Apparel & Footwear,Streetwear,22,extended
+Carsicko,Apparel & Footwear,Streetwear,23,extended
+Minus Two,Apparel & Footwear,Streetwear,24,extended
+Godspeed,Apparel & Footwear,Streetwear,25,extended
+Carter's,Apparel & Footwear,Kids & Baby Apparel,1,core
+OshKosh,Apparel & Footwear,Kids & Baby Apparel,2,core
+Children's Place,Apparel & Footwear,Kids & Baby Apparel,3,core
+Gap Kids,Apparel & Footwear,Kids & Baby Apparel,4,core
+Janie and Jack,Apparel & Footwear,Kids & Baby Apparel,5,core
+Hanna Andersson,Apparel & Footwear,Kids & Baby Apparel,6,core
+Primary,Apparel & Footwear,Kids & Baby Apparel,7,extended
+Kyte Baby,Apparel & Footwear,Kids & Baby Apparel,8,extended
+Little Sleepies,Apparel & Footwear,Kids & Baby Apparel,9,extended
+Posh Peanut,Apparel & Footwear,Kids & Baby Apparel,10,extended
+Bamboo Babies,Apparel & Footwear,Kids & Baby Apparel,11,extended
+Burt's Bees Baby,Apparel & Footwear,Kids & Baby Apparel,12,extended
+Mini Boden,Apparel & Footwear,Kids & Baby Apparel,13,extended
+Louis Vuitton,Luxury & Fashion Houses,Luxury Houses,1,core
+Gucci,Luxury & Fashion Houses,Luxury Houses,2,core
+Chanel,Luxury & Fashion Houses,Luxury Houses,3,core
+Hermes,Luxury & Fashion Houses,Luxury Houses,4,core
+Prada,Luxury & Fashion Houses,Luxury Houses,5,core
+Dior,Luxury & Fashion Houses,Luxury Houses,6,core
+Balenciaga,Luxury & Fashion Houses,Luxury Houses,7,core
+Saint Laurent,Luxury & Fashion Houses,Luxury Houses,8,core
+Fendi,Luxury & Fashion Houses,Luxury Houses,9,core
+Bottega Veneta,Luxury & Fashion Houses,Luxury Houses,10,core
+Burberry,Luxury & Fashion Houses,Luxury Houses,11,core
+Loewe,Luxury & Fashion Houses,Luxury Houses,12,core
+Celine,Luxury & Fashion Houses,Luxury Houses,13,core
+Givenchy,Luxury & Fashion Houses,Luxury Houses,14,core
+Valentino,Luxury & Fashion Houses,Luxury Houses,15,core
+Versace,Luxury & Fashion Houses,Luxury Houses,16,extended
+Miu Miu,Luxury & Fashion Houses,Luxury Houses,17,extended
+Alaia,Luxury & Fashion Houses,Luxury Houses,18,extended
+The Row,Luxury & Fashion Houses,Luxury Houses,19,extended
+Jacquemus,Luxury & Fashion Houses,Luxury Houses,20,extended
+Khaite,Luxury & Fashion Houses,Luxury Houses,21,extended
+Jil Sander,Luxury & Fashion Houses,Luxury Houses,22,extended
+Maison Margiela,Luxury & Fashion Houses,Luxury Houses,23,extended
+Rick Owens,Luxury & Fashion Houses,Luxury Houses,24,extended
+Alexander McQueen,Luxury & Fashion Houses,Luxury Houses,25,extended
+Tom Ford,Luxury & Fashion Houses,Luxury Houses,26,extended
+Dolce & Gabbana,Luxury & Fashion Houses,Luxury Houses,27,extended
+Moschino,Luxury & Fashion Houses,Luxury Houses,28,extended
+Ferragamo,Luxury & Fashion Houses,Luxury Houses,29,extended
+Chloe,Luxury & Fashion Houses,Luxury Houses,30,extended
+Marni,Luxury & Fashion Houses,Luxury Houses,31,extended
+Acne Studios,Luxury & Fashion Houses,Luxury Houses,32,extended
+Ganni,Luxury & Fashion Houses,Luxury Houses,33,extended
+Toteme,Luxury & Fashion Houses,Luxury Houses,34,extended
+Coach,Luxury & Fashion Houses,Contemporary & Accessible Luxury,1,core
+Kate Spade,Luxury & Fashion Houses,Contemporary & Accessible Luxury,2,core
+Michael Kors,Luxury & Fashion Houses,Contemporary & Accessible Luxury,3,core
+Tory Burch,Luxury & Fashion Houses,Contemporary & Accessible Luxury,4,core
+Marc Jacobs,Luxury & Fashion Houses,Contemporary & Accessible Luxury,5,core
+Ralph Lauren,Luxury & Fashion Houses,Contemporary & Accessible Luxury,6,core
+Tommy Hilfiger,Luxury & Fashion Houses,Contemporary & Accessible Luxury,7,core
+Calvin Klein,Luxury & Fashion Houses,Contemporary & Accessible Luxury,8,core
+Polo Ralph Lauren,Luxury & Fashion Houses,Contemporary & Accessible Luxury,9,core
+Lacoste,Luxury & Fashion Houses,Contemporary & Accessible Luxury,10,core
+Hugo Boss,Luxury & Fashion Houses,Contemporary & Accessible Luxury,11,core
+Vince,Luxury & Fashion Houses,Contemporary & Accessible Luxury,12,core
+Reformation,Luxury & Fashion Houses,Contemporary & Accessible Luxury,13,extended
+Sezane,Luxury & Fashion Houses,Contemporary & Accessible Luxury,14,extended
+Rouje,Luxury & Fashion Houses,Contemporary & Accessible Luxury,15,extended
+Staud,Luxury & Fashion Houses,Contemporary & Accessible Luxury,16,extended
+Cult Gaia,Luxury & Fashion Houses,Contemporary & Accessible Luxury,17,extended
+Mansur Gavriel,Luxury & Fashion Houses,Contemporary & Accessible Luxury,18,extended
+Polene,Luxury & Fashion Houses,Contemporary & Accessible Luxury,19,extended
+Longchamp,Luxury & Fashion Houses,Contemporary & Accessible Luxury,20,extended
+JW Pei,Luxury & Fashion Houses,Contemporary & Accessible Luxury,21,extended
+Telfar,Luxury & Fashion Houses,Contemporary & Accessible Luxury,22,extended
+Brandon Blackwood,Luxury & Fashion Houses,Contemporary & Accessible Luxury,23,extended
+Dagne Dover,Luxury & Fashion Houses,Contemporary & Accessible Luxury,24,extended
+Senreve,Luxury & Fashion Houses,Contemporary & Accessible Luxury,25,extended
+Kurt Geiger,Luxury & Fashion Houses,Contemporary & Accessible Luxury,26,extended
+Rothy's,Luxury & Fashion Houses,Contemporary & Accessible Luxury,27,extended
+Sarah Flint,Luxury & Fashion Houses,Contemporary & Accessible Luxury,28,extended
+Tiffany & Co,Luxury & Fashion Houses,Jewelry & Watches,1,core
+Cartier,Luxury & Fashion Houses,Jewelry & Watches,2,core
+Van Cleef & Arpels,Luxury & Fashion Houses,Jewelry & Watches,3,core
+Bulgari,Luxury & Fashion Houses,Jewelry & Watches,4,core
+Pandora,Luxury & Fashion Houses,Jewelry & Watches,5,core
+Mejuri,Luxury & Fashion Houses,Jewelry & Watches,6,core
+Kendra Scott,Luxury & Fashion Houses,Jewelry & Watches,7,core
+David Yurman,Luxury & Fashion Houses,Jewelry & Watches,8,core
+Alex and Ani,Luxury & Fashion Houses,Jewelry & Watches,9,core
+Gorjana,Luxury & Fashion Houses,Jewelry & Watches,10,core
+Ana Luisa,Luxury & Fashion Houses,Jewelry & Watches,11,core
+Missoma,Luxury & Fashion Houses,Jewelry & Watches,12,core
+Monica Vinader,Luxury & Fashion Houses,Jewelry & Watches,13,core
+Brilliant Earth,Luxury & Fashion Houses,Jewelry & Watches,14,core
+Blue Nile,Luxury & Fashion Houses,Jewelry & Watches,15,core
+Kay Jewelers,Luxury & Fashion Houses,Jewelry & Watches,16,extended
+Zales,Luxury & Fashion Houses,Jewelry & Watches,17,extended
+Jared,Luxury & Fashion Houses,Jewelry & Watches,18,extended
+Rolex,Luxury & Fashion Houses,Jewelry & Watches,19,extended
+Omega,Luxury & Fashion Houses,Jewelry & Watches,20,extended
+Tag Heuer,Luxury & Fashion Houses,Jewelry & Watches,21,extended
+Patek Philippe,Luxury & Fashion Houses,Jewelry & Watches,22,extended
+Audemars Piguet,Luxury & Fashion Houses,Jewelry & Watches,23,extended
+Seiko,Luxury & Fashion Houses,Jewelry & Watches,24,extended
+Casio,Luxury & Fashion Houses,Jewelry & Watches,25,extended
+G-Shock,Luxury & Fashion Houses,Jewelry & Watches,26,extended
+Citizen,Luxury & Fashion Houses,Jewelry & Watches,27,extended
+Fossil,Luxury & Fashion Houses,Jewelry & Watches,28,extended
+Daniel Wellington,Luxury & Fashion Houses,Jewelry & Watches,29,extended
+Swatch,Luxury & Fashion Houses,Jewelry & Watches,30,extended
+MoonSwatch,Luxury & Fashion Houses,Jewelry & Watches,31,extended
+Tudor,Luxury & Fashion Houses,Jewelry & Watches,32,extended
+Longines,Luxury & Fashion Houses,Jewelry & Watches,33,extended
+Hamilton,Luxury & Fashion Houses,Jewelry & Watches,34,extended
+Tissot,Luxury & Fashion Houses,Jewelry & Watches,35,extended
+Ray-Ban,Luxury & Fashion Houses,Eyewear,1,core
+Oakley,Luxury & Fashion Houses,Eyewear,2,core
+Warby Parker,Luxury & Fashion Houses,Eyewear,3,core
+Gentle Monster,Luxury & Fashion Houses,Eyewear,4,core
+Quay,Luxury & Fashion Houses,Eyewear,5,core
+Sunglass Hut,Luxury & Fashion Houses,Eyewear,6,core
+Zenni,Luxury & Fashion Houses,Eyewear,7,extended
+Costa Del Mar,Luxury & Fashion Houses,Eyewear,8,extended
+Maui Jim,Luxury & Fashion Houses,Eyewear,9,extended
+Persol,Luxury & Fashion Houses,Eyewear,10,extended
+Goodr,Luxury & Fashion Houses,Eyewear,11,extended
+Meta Ray-Ban,Luxury & Fashion Houses,Eyewear,12,extended
+Dior Sauvage,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),1,core
+Chanel No 5,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),2,core
+Bleu de Chanel,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),3,core
+YSL Libre,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),4,core
+Baccarat Rouge 540,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),5,core
+Maison Francis Kurkdjian,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),6,core
+Le Labo,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),7,core
+Byredo,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),8,core
+Jo Malone,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),9,core
+Tom Ford Beauty,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),10,core
+Creed,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),11,core
+Parfums de Marly,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),12,core
+Kilian,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),13,core
+Diptyque,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),14,core
+Glossier You,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),15,core
+Phlur,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),16,core
+Sol de Janeiro,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),17,core
+Ellis Brooklyn,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),18,core
+Kayali,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),19,core
+Juliette Has A Gun,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),20,core
+Viktor & Rolf,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),21,core
+Lancome La Vie Est Belle,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),22,core
+Carolina Herrera Good Girl,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),23,core
+Prada Paradoxe,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),24,core
+Valentino Born in Roma,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),25,core
+Gucci Flora,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),26,core
+Burberry Goddess,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),27,extended
+Armani Acqua di Gio,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),28,extended
+Versace Eros,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),29,extended
+Paco Rabanne,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),30,extended
+Rabanne 1 Million,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),31,extended
+Jean Paul Gaultier Le Male,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),32,extended
+Ariana Grande Perfume,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),33,extended
+Billie Eilish Eilish,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),34,extended
+Lattafa,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),35,extended
+Armaf,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),36,extended
+Afnan,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),37,extended
+Rasasi,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),38,extended
+Dossier,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),39,extended
+Alt Fragrances,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),40,extended
+Henry Rose,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),41,extended
+Snif,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),42,extended
+Bath & Body Works Fragrance,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),43,extended
+Victoria's Secret Bombshell,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),44,extended
+Dedcool,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),45,extended
+Commodity,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),46,extended
+Maison Margiela Replica,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),47,extended
+Essential Parfums,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),48,extended
+Mancera,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),49,extended
+Montale,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),50,extended
+Xerjoff,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),51,extended
+Initio,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),52,extended
+Amouage,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),53,extended
+Nishane,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),54,extended
+Memo Paris,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),55,extended
+Frederic Malle,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),56,extended
+Penhaligon's,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),57,extended
+Acqua di Parma,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),58,extended
+Hermes Fragrance,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),59,extended
+Goldfield & Banks,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),60,extended
+Arabiyat,"Beauty, Fragrance & Personal Care",Fragrance (Designer & Niche),61,extended
+Rare Beauty,"Beauty, Fragrance & Personal Care",Makeup,1,core
+Fenty Beauty,"Beauty, Fragrance & Personal Care",Makeup,2,core
+Charlotte Tilbury,"Beauty, Fragrance & Personal Care",Makeup,3,core
+Huda Beauty,"Beauty, Fragrance & Personal Care",Makeup,4,core
+Glossier,"Beauty, Fragrance & Personal Care",Makeup,5,core
+Rhode,"Beauty, Fragrance & Personal Care",Makeup,6,core
+Kylie Cosmetics,"Beauty, Fragrance & Personal Care",Makeup,7,core
+e.l.f.,"Beauty, Fragrance & Personal Care",Makeup,8,core
+Maybelline,"Beauty, Fragrance & Personal Care",Makeup,9,core
+L'Oreal Paris,"Beauty, Fragrance & Personal Care",Makeup,10,core
+NYX,"Beauty, Fragrance & Personal Care",Makeup,11,core
+Too Faced,"Beauty, Fragrance & Personal Care",Makeup,12,core
+Urban Decay,"Beauty, Fragrance & Personal Care",Makeup,13,core
+Benefit Cosmetics,"Beauty, Fragrance & Personal Care",Makeup,14,core
+MAC Cosmetics,"Beauty, Fragrance & Personal Care",Makeup,15,core
+Nars,"Beauty, Fragrance & Personal Care",Makeup,16,core
+Makeup by Mario,"Beauty, Fragrance & Personal Care",Makeup,17,core
+Patrick Ta,"Beauty, Fragrance & Personal Care",Makeup,18,core
+Hourglass,"Beauty, Fragrance & Personal Care",Makeup,19,core
+Ilia Beauty,"Beauty, Fragrance & Personal Care",Makeup,20,core
+Saie,"Beauty, Fragrance & Personal Care",Makeup,21,core
+Merit Beauty,"Beauty, Fragrance & Personal Care",Makeup,22,core
+Tower 28,"Beauty, Fragrance & Personal Care",Makeup,23,core
+Kosas,"Beauty, Fragrance & Personal Care",Makeup,24,core
+Milk Makeup,"Beauty, Fragrance & Personal Care",Makeup,25,core
+Haus Labs,"Beauty, Fragrance & Personal Care",Makeup,26,extended
+Danessa Myricks,"Beauty, Fragrance & Personal Care",Makeup,27,extended
+One/Size,"Beauty, Fragrance & Personal Care",Makeup,28,extended
+Anastasia Beverly Hills,"Beauty, Fragrance & Personal Care",Makeup,29,extended
+Morphe,"Beauty, Fragrance & Personal Care",Makeup,30,extended
+Colourpop,"Beauty, Fragrance & Personal Care",Makeup,31,extended
+Wet n Wild,"Beauty, Fragrance & Personal Care",Makeup,32,extended
+Revlon,"Beauty, Fragrance & Personal Care",Makeup,33,extended
+CoverGirl,"Beauty, Fragrance & Personal Care",Makeup,34,extended
+Essence Cosmetics,"Beauty, Fragrance & Personal Care",Makeup,35,extended
+Physicians Formula,"Beauty, Fragrance & Personal Care",Makeup,36,extended
+Laura Mercier,"Beauty, Fragrance & Personal Care",Makeup,37,extended
+Armani Beauty,"Beauty, Fragrance & Personal Care",Makeup,38,extended
+Dior Beauty,"Beauty, Fragrance & Personal Care",Makeup,39,extended
+YSL Beauty,"Beauty, Fragrance & Personal Care",Makeup,40,extended
+Chanel Beauty,"Beauty, Fragrance & Personal Care",Makeup,41,extended
+Summer Fridays,"Beauty, Fragrance & Personal Care",Makeup,42,extended
+Lancome,"Beauty, Fragrance & Personal Care",Makeup,43,extended
+Estee Lauder,"Beauty, Fragrance & Personal Care",Makeup,44,extended
+Clinique,"Beauty, Fragrance & Personal Care",Makeup,45,extended
+Bobbi Brown,"Beauty, Fragrance & Personal Care",Makeup,46,extended
+Smashbox,"Beauty, Fragrance & Personal Care",Makeup,47,extended
+Tarte,"Beauty, Fragrance & Personal Care",Makeup,48,extended
+IT Cosmetics,"Beauty, Fragrance & Personal Care",Makeup,49,extended
+Valentino Beauty,"Beauty, Fragrance & Personal Care",Makeup,50,extended
+Prada Beauty,"Beauty, Fragrance & Personal Care",Makeup,51,extended
+Westman Atelier,"Beauty, Fragrance & Personal Care",Makeup,52,extended
+Victoria Beckham Beauty,"Beauty, Fragrance & Personal Care",Makeup,53,extended
+Dibs Beauty,"Beauty, Fragrance & Personal Care",Makeup,54,extended
+Kaja,"Beauty, Fragrance & Personal Care",Makeup,55,extended
+Romand,"Beauty, Fragrance & Personal Care",Makeup,56,extended
+Peripera,"Beauty, Fragrance & Personal Care",Makeup,57,extended
+Hince,"Beauty, Fragrance & Personal Care",Makeup,58,extended
+CeraVe,"Beauty, Fragrance & Personal Care",Skincare,1,core
+La Roche-Posay,"Beauty, Fragrance & Personal Care",Skincare,2,core
+The Ordinary,"Beauty, Fragrance & Personal Care",Skincare,3,core
+Drunk Elephant,"Beauty, Fragrance & Personal Care",Skincare,4,core
+Paula's Choice,"Beauty, Fragrance & Personal Care",Skincare,5,core
+Glow Recipe,"Beauty, Fragrance & Personal Care",Skincare,6,core
+Sunday Riley,"Beauty, Fragrance & Personal Care",Skincare,7,core
+Tatcha,"Beauty, Fragrance & Personal Care",Skincare,8,core
+Augustinus Bader,"Beauty, Fragrance & Personal Care",Skincare,9,core
+Skinceuticals,"Beauty, Fragrance & Personal Care",Skincare,10,core
+Olay,"Beauty, Fragrance & Personal Care",Skincare,11,core
+Neutrogena,"Beauty, Fragrance & Personal Care",Skincare,12,core
+Cetaphil,"Beauty, Fragrance & Personal Care",Skincare,13,core
+Eucerin,"Beauty, Fragrance & Personal Care",Skincare,14,core
+Aveeno,"Beauty, Fragrance & Personal Care",Skincare,15,core
+First Aid Beauty,"Beauty, Fragrance & Personal Care",Skincare,16,core
+Bubble Skincare,"Beauty, Fragrance & Personal Care",Skincare,17,core
+Starface,"Beauty, Fragrance & Personal Care",Skincare,18,core
+Hero Cosmetics,"Beauty, Fragrance & Personal Care",Skincare,19,core
+Peace Out,"Beauty, Fragrance & Personal Care",Skincare,20,core
+Supergoop,"Beauty, Fragrance & Personal Care",Skincare,21,core
+Kiehl's,"Beauty, Fragrance & Personal Care",Skincare,22,core
+Clarins,"Beauty, Fragrance & Personal Care",Skincare,23,core
+Shiseido,"Beauty, Fragrance & Personal Care",Skincare,24,core
+Laneige,"Beauty, Fragrance & Personal Care",Skincare,25,core
+COSRX,"Beauty, Fragrance & Personal Care",Skincare,26,core
+Beauty of Joseon,"Beauty, Fragrance & Personal Care",Skincare,27,core
+Anua,"Beauty, Fragrance & Personal Care",Skincare,28,core
+Medicube,"Beauty, Fragrance & Personal Care",Skincare,29,extended
+Skin1004,"Beauty, Fragrance & Personal Care",Skincare,30,extended
+Round Lab,"Beauty, Fragrance & Personal Care",Skincare,31,extended
+Torriden,"Beauty, Fragrance & Personal Care",Skincare,32,extended
+Biodance,"Beauty, Fragrance & Personal Care",Skincare,33,extended
+Numbuzin,"Beauty, Fragrance & Personal Care",Skincare,34,extended
+Innisfree,"Beauty, Fragrance & Personal Care",Skincare,35,extended
+Sulwhasoo,"Beauty, Fragrance & Personal Care",Skincare,36,extended
+Dr. Jart+,"Beauty, Fragrance & Personal Care",Skincare,37,extended
+Byoma,"Beauty, Fragrance & Personal Care",Skincare,38,extended
+Naturium,"Beauty, Fragrance & Personal Care",Skincare,39,extended
+The Inkey List,"Beauty, Fragrance & Personal Care",Skincare,40,extended
+Good Molecules,"Beauty, Fragrance & Personal Care",Skincare,41,extended
+Topicals,"Beauty, Fragrance & Personal Care",Skincare,42,extended
+Youth to the People,"Beauty, Fragrance & Personal Care",Skincare,43,extended
+Krave Beauty,"Beauty, Fragrance & Personal Care",Skincare,44,extended
+Dieux,"Beauty, Fragrance & Personal Care",Skincare,45,extended
+Medik8,"Beauty, Fragrance & Personal Care",Skincare,46,extended
+Dr. Dennis Gross,"Beauty, Fragrance & Personal Care",Skincare,47,extended
+Murad,"Beauty, Fragrance & Personal Care",Skincare,48,extended
+Peter Thomas Roth,"Beauty, Fragrance & Personal Care",Skincare,49,extended
+Tula,"Beauty, Fragrance & Personal Care",Skincare,50,extended
+Fresh,"Beauty, Fragrance & Personal Care",Skincare,51,extended
+La Mer,"Beauty, Fragrance & Personal Care",Skincare,52,extended
+Estee Lauder Advanced Night Repair,"Beauty, Fragrance & Personal Care",Skincare,53,extended
+Clinique Moisture Surge,"Beauty, Fragrance & Personal Care",Skincare,54,extended
+Kopari,"Beauty, Fragrance & Personal Care",Skincare,55,extended
+Necessaire,"Beauty, Fragrance & Personal Care",Skincare,56,extended
+Bioderma,"Beauty, Fragrance & Personal Care",Skincare,57,extended
+Vanicream,"Beauty, Fragrance & Personal Care",Skincare,58,extended
+Aquaphor,"Beauty, Fragrance & Personal Care",Skincare,59,extended
+Vaseline,"Beauty, Fragrance & Personal Care",Skincare,60,extended
+Curology,"Beauty, Fragrance & Personal Care",Skincare,61,extended
+Hims,"Beauty, Fragrance & Personal Care",Skincare,62,extended
+Hers,"Beauty, Fragrance & Personal Care",Skincare,63,extended
+Ro,"Beauty, Fragrance & Personal Care",Skincare,64,extended
+Agency,"Beauty, Fragrance & Personal Care",Skincare,65,extended
+Musely,"Beauty, Fragrance & Personal Care",Skincare,66,extended
+Olaplex,"Beauty, Fragrance & Personal Care",Hair Care & Tools,1,core
+K18,"Beauty, Fragrance & Personal Care",Hair Care & Tools,2,core
+Moroccanoil,"Beauty, Fragrance & Personal Care",Hair Care & Tools,3,core
+Ouai,"Beauty, Fragrance & Personal Care",Hair Care & Tools,4,core
+Briogeo,"Beauty, Fragrance & Personal Care",Hair Care & Tools,5,core
+Amika,"Beauty, Fragrance & Personal Care",Hair Care & Tools,6,core
+Kerastase,"Beauty, Fragrance & Personal Care",Hair Care & Tools,7,core
+Redken,"Beauty, Fragrance & Personal Care",Hair Care & Tools,8,core
+Living Proof,"Beauty, Fragrance & Personal Care",Hair Care & Tools,9,core
+Prose,"Beauty, Fragrance & Personal Care",Hair Care & Tools,10,core
+Function of Beauty,"Beauty, Fragrance & Personal Care",Hair Care & Tools,11,core
+Gisou,"Beauty, Fragrance & Personal Care",Hair Care & Tools,12,core
+Mielle,"Beauty, Fragrance & Personal Care",Hair Care & Tools,13,core
+Pattern Beauty,"Beauty, Fragrance & Personal Care",Hair Care & Tools,14,core
+Bread Beauty,"Beauty, Fragrance & Personal Care",Hair Care & Tools,15,core
+Color Wow,"Beauty, Fragrance & Personal Care",Hair Care & Tools,16,core
+Dae,"Beauty, Fragrance & Personal Care",Hair Care & Tools,17,core
+Kristin Ess,"Beauty, Fragrance & Personal Care",Hair Care & Tools,18,extended
+Verb,"Beauty, Fragrance & Personal Care",Hair Care & Tools,19,extended
+Davines,"Beauty, Fragrance & Personal Care",Hair Care & Tools,20,extended
+Aveda,"Beauty, Fragrance & Personal Care",Hair Care & Tools,21,extended
+Pureology,"Beauty, Fragrance & Personal Care",Hair Care & Tools,22,extended
+Dyson Airwrap,"Beauty, Fragrance & Personal Care",Hair Care & Tools,23,extended
+Shark FlexStyle,"Beauty, Fragrance & Personal Care",Hair Care & Tools,24,extended
+Revlon One-Step,"Beauty, Fragrance & Personal Care",Hair Care & Tools,25,extended
+T3,"Beauty, Fragrance & Personal Care",Hair Care & Tools,26,extended
+GHD,"Beauty, Fragrance & Personal Care",Hair Care & Tools,27,extended
+Chi,"Beauty, Fragrance & Personal Care",Hair Care & Tools,28,extended
+Bio Ionic,"Beauty, Fragrance & Personal Care",Hair Care & Tools,29,extended
+Coco & Eve,"Beauty, Fragrance & Personal Care",Hair Care & Tools,30,extended
+Not Your Mother's,"Beauty, Fragrance & Personal Care",Hair Care & Tools,31,extended
+Native,"Beauty, Fragrance & Personal Care",Hair Care & Tools,32,extended
+Dove,"Beauty, Fragrance & Personal Care",Hair Care & Tools,33,extended
+Head & Shoulders,"Beauty, Fragrance & Personal Care",Hair Care & Tools,34,extended
+Pantene,"Beauty, Fragrance & Personal Care",Hair Care & Tools,35,extended
+Tresemme,"Beauty, Fragrance & Personal Care",Hair Care & Tools,36,extended
+Herbal Essences,"Beauty, Fragrance & Personal Care",Hair Care & Tools,37,extended
+Nutrafol,"Beauty, Fragrance & Personal Care",Hair Care & Tools,38,extended
+Vegamour,"Beauty, Fragrance & Personal Care",Hair Care & Tools,39,extended
+Sol de Janeiro Bum Bum,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",1,core
+Tree Hut,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",2,core
+Dove Body Wash,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",3,core
+Native Deodorant,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",4,core
+Old Spice,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",5,core
+Dr. Squatch,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",6,core
+Harry's,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",7,core
+Dollar Shave Club,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",8,core
+Gillette,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",9,core
+Billie,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",10,core
+Manscaped,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",11,core
+Philips Norelco,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",12,core
+Braun,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",13,core
+Every Man Jack,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",14,extended
+Duke Cannon,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",15,extended
+Lume,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",16,extended
+Salt & Stone,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",17,extended
+Megababe,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",18,extended
+Touchland,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",19,extended
+Bath & Body Works,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",20,extended
+Lush Cosmetics,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",21,extended
+Eos,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",22,extended
+Quip,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",23,extended
+Hismile,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",24,extended
+Crest Whitestrips,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",25,extended
+Burst Oral Care,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",26,extended
+Waterpik,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",27,extended
+Oral-B,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",28,extended
+Sonicare,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",29,extended
+Lumineux,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",30,extended
+Moon Oral Care,"Beauty, Fragrance & Personal Care","Body, Bath & Grooming",31,extended
+OPI,"Beauty, Fragrance & Personal Care",Nails & Lashes,1,core
+Essie,"Beauty, Fragrance & Personal Care",Nails & Lashes,2,core
+Olive & June,"Beauty, Fragrance & Personal Care",Nails & Lashes,3,core
+Dazzle Dry,"Beauty, Fragrance & Personal Care",Nails & Lashes,4,core
+Kiara Sky,"Beauty, Fragrance & Personal Care",Nails & Lashes,5,core
+Glamnetic,"Beauty, Fragrance & Personal Care",Nails & Lashes,6,core
+Static Nails,"Beauty, Fragrance & Personal Care",Nails & Lashes,7,core
+Kiss Nails,"Beauty, Fragrance & Personal Care",Nails & Lashes,8,core
+imPRESS Nails,"Beauty, Fragrance & Personal Care",Nails & Lashes,9,extended
+Lashify,"Beauty, Fragrance & Personal Care",Nails & Lashes,10,extended
+Lilly Lashes,"Beauty, Fragrance & Personal Care",Nails & Lashes,11,extended
+Ardell,"Beauty, Fragrance & Personal Care",Nails & Lashes,12,extended
+Lash Boost,"Beauty, Fragrance & Personal Care",Nails & Lashes,13,extended
+Grande Lash,"Beauty, Fragrance & Personal Care",Nails & Lashes,14,extended
+RevitaLash,"Beauty, Fragrance & Personal Care",Nails & Lashes,15,extended
+Sally Hansen,"Beauty, Fragrance & Personal Care",Nails & Lashes,16,extended
+DND Gel,"Beauty, Fragrance & Personal Care",Nails & Lashes,17,extended
+Gelish,"Beauty, Fragrance & Personal Care",Nails & Lashes,18,extended
+Aprés Nail,"Beauty, Fragrance & Personal Care",Nails & Lashes,19,extended
+LEGO,"Toys, Kids & Collectibles",Toy Makers,1,core
+Mattel,"Toys, Kids & Collectibles",Toy Makers,2,core
+Hasbro,"Toys, Kids & Collectibles",Toy Makers,3,core
+Barbie,"Toys, Kids & Collectibles",Toy Makers,4,core
+Hot Wheels,"Toys, Kids & Collectibles",Toy Makers,5,core
+Fisher-Price,"Toys, Kids & Collectibles",Toy Makers,6,core
+Nerf,"Toys, Kids & Collectibles",Toy Makers,7,core
+Play-Doh,"Toys, Kids & Collectibles",Toy Makers,8,core
+Melissa & Doug,"Toys, Kids & Collectibles",Toy Makers,9,core
+VTech,"Toys, Kids & Collectibles",Toy Makers,10,core
+LeapFrog,"Toys, Kids & Collectibles",Toy Makers,11,core
+Spin Master,"Toys, Kids & Collectibles",Toy Makers,12,core
+Paw Patrol,"Toys, Kids & Collectibles",Toy Makers,13,core
+Magna-Tiles,"Toys, Kids & Collectibles",Toy Makers,14,core
+Picasso Tiles,"Toys, Kids & Collectibles",Toy Makers,15,core
+Bluey Toys,"Toys, Kids & Collectibles",Toy Makers,16,core
+MGA Entertainment,"Toys, Kids & Collectibles",Toy Makers,17,core
+L.O.L. Surprise,"Toys, Kids & Collectibles",Toy Makers,18,core
+Bratz,"Toys, Kids & Collectibles",Toy Makers,19,core
+Rainbow High,"Toys, Kids & Collectibles",Toy Makers,20,core
+Little Tikes,"Toys, Kids & Collectibles",Toy Makers,21,core
+Step2,"Toys, Kids & Collectibles",Toy Makers,22,core
+Radio Flyer,"Toys, Kids & Collectibles",Toy Makers,23,core
+Yoto Player,"Toys, Kids & Collectibles",Toy Makers,24,core
+Tonies,"Toys, Kids & Collectibles",Toy Makers,25,core
+Lovevery,"Toys, Kids & Collectibles",Toy Makers,26,core
+Crayola,"Toys, Kids & Collectibles",Toy Makers,27,extended
+Squishmallows,"Toys, Kids & Collectibles",Toy Makers,28,extended
+Jellycat,"Toys, Kids & Collectibles",Toy Makers,29,extended
+Funko Pop,"Toys, Kids & Collectibles",Toy Makers,30,extended
+Pop Mart,"Toys, Kids & Collectibles",Toy Makers,31,extended
+Labubu,"Toys, Kids & Collectibles",Toy Makers,32,extended
+Sonny Angel,"Toys, Kids & Collectibles",Toy Makers,33,extended
+Smiski,"Toys, Kids & Collectibles",Toy Makers,34,extended
+Hatchimals,"Toys, Kids & Collectibles",Toy Makers,35,extended
+Zuru,"Toys, Kids & Collectibles",Toy Makers,36,extended
+Bunch O Balloons,"Toys, Kids & Collectibles",Toy Makers,37,extended
+Gabby's Dollhouse,"Toys, Kids & Collectibles",Toy Makers,38,extended
+Disney Princess Toys,"Toys, Kids & Collectibles",Toy Makers,39,extended
+Monster High,"Toys, Kids & Collectibles",Toy Makers,40,extended
+Polly Pocket,"Toys, Kids & Collectibles",Toy Makers,41,extended
+American Girl,"Toys, Kids & Collectibles",Toy Makers,42,extended
+Our Generation,"Toys, Kids & Collectibles",Toy Makers,43,extended
+Calico Critters,"Toys, Kids & Collectibles",Toy Makers,44,extended
+Playmobil,"Toys, Kids & Collectibles",Toy Makers,45,extended
+Mega Bloks,"Toys, Kids & Collectibles",Toy Makers,46,extended
+K'NEX,"Toys, Kids & Collectibles",Toy Makers,47,extended
+Hape,"Toys, Kids & Collectibles",Toy Makers,48,extended
+Kidkraft,"Toys, Kids & Collectibles",Toy Makers,49,extended
+Power Wheels,"Toys, Kids & Collectibles",Toy Makers,50,extended
+Peppa Pig Toys,"Toys, Kids & Collectibles",Toy Makers,51,extended
+Cocomelon Toys,"Toys, Kids & Collectibles",Toy Makers,52,extended
+Beyblade,"Toys, Kids & Collectibles",Toy Makers,53,extended
+Tamagotchi,"Toys, Kids & Collectibles",Toy Makers,54,extended
+Furby,"Toys, Kids & Collectibles",Toy Makers,55,extended
+Shashibo,"Toys, Kids & Collectibles",Toy Makers,56,extended
+Needoh,"Toys, Kids & Collectibles",Toy Makers,57,extended
+Stanley Kids,"Toys, Kids & Collectibles",Toy Makers,58,extended
+Bitzee,"Toys, Kids & Collectibles",Toy Makers,59,extended
+Ty Beanie Babies,"Toys, Kids & Collectibles",Toy Makers,60,extended
+Pokemon Cards,"Toys, Kids & Collectibles",Trading Cards & Collectibles,1,core
+Pokemon TCG,"Toys, Kids & Collectibles",Trading Cards & Collectibles,2,core
+Magic The Gathering,"Toys, Kids & Collectibles",Trading Cards & Collectibles,3,core
+Yu-Gi-Oh,"Toys, Kids & Collectibles",Trading Cards & Collectibles,4,core
+Topps,"Toys, Kids & Collectibles",Trading Cards & Collectibles,5,core
+Panini,"Toys, Kids & Collectibles",Trading Cards & Collectibles,6,core
+Upper Deck,"Toys, Kids & Collectibles",Trading Cards & Collectibles,7,core
+One Piece Card Game,"Toys, Kids & Collectibles",Trading Cards & Collectibles,8,core
+Disney Lorcana,"Toys, Kids & Collectibles",Trading Cards & Collectibles,9,core
+Funko,"Toys, Kids & Collectibles",Trading Cards & Collectibles,10,core
+Hirono,"Toys, Kids & Collectibles",Trading Cards & Collectibles,11,core
+Skullpanda,"Toys, Kids & Collectibles",Trading Cards & Collectibles,12,extended
+Crybaby,"Toys, Kids & Collectibles",Trading Cards & Collectibles,13,extended
+Mofusand,"Toys, Kids & Collectibles",Trading Cards & Collectibles,14,extended
+Sanrio,"Toys, Kids & Collectibles",Trading Cards & Collectibles,15,extended
+Hello Kitty,"Toys, Kids & Collectibles",Trading Cards & Collectibles,16,extended
+Kuromi,"Toys, Kids & Collectibles",Trading Cards & Collectibles,17,extended
+Pochacco,"Toys, Kids & Collectibles",Trading Cards & Collectibles,18,extended
+Tokidoki,"Toys, Kids & Collectibles",Trading Cards & Collectibles,19,extended
+Kidrobot,"Toys, Kids & Collectibles",Trading Cards & Collectibles,20,extended
+Bearbrick,"Toys, Kids & Collectibles",Trading Cards & Collectibles,21,extended
+Fanatics Collectibles,"Toys, Kids & Collectibles",Trading Cards & Collectibles,22,extended
+Sorcery TCG,"Toys, Kids & Collectibles",Trading Cards & Collectibles,23,extended
+Star Wars Unlimited,"Toys, Kids & Collectibles",Trading Cards & Collectibles,24,extended
+Flesh and Blood TCG,"Toys, Kids & Collectibles",Trading Cards & Collectibles,25,extended
+UPPAbaby,"Toys, Kids & Collectibles",Baby Gear,1,core
+Doona,"Toys, Kids & Collectibles",Baby Gear,2,core
+Nuna,"Toys, Kids & Collectibles",Baby Gear,3,core
+Bugaboo,"Toys, Kids & Collectibles",Baby Gear,4,core
+Graco,"Toys, Kids & Collectibles",Baby Gear,5,core
+Chicco,"Toys, Kids & Collectibles",Baby Gear,6,core
+Evenflo,"Toys, Kids & Collectibles",Baby Gear,7,core
+Britax,"Toys, Kids & Collectibles",Baby Gear,8,core
+Baby Brezza,"Toys, Kids & Collectibles",Baby Gear,9,core
+Owlet,"Toys, Kids & Collectibles",Baby Gear,10,core
+Nanit,"Toys, Kids & Collectibles",Baby Gear,11,core
+Hatch Baby,"Toys, Kids & Collectibles",Baby Gear,12,core
+Snoo,"Toys, Kids & Collectibles",Baby Gear,13,extended
+Frida Baby,"Toys, Kids & Collectibles",Baby Gear,14,extended
+Elvie,"Toys, Kids & Collectibles",Baby Gear,15,extended
+Willow Pump,"Toys, Kids & Collectibles",Baby Gear,16,extended
+Spectra,"Toys, Kids & Collectibles",Baby Gear,17,extended
+Momcozy,"Toys, Kids & Collectibles",Baby Gear,18,extended
+Lalo,"Toys, Kids & Collectibles",Baby Gear,19,extended
+Tushbaby,"Toys, Kids & Collectibles",Baby Gear,20,extended
+Ergobaby,"Toys, Kids & Collectibles",Baby Gear,21,extended
+Solly Baby,"Toys, Kids & Collectibles",Baby Gear,22,extended
+Babybjorn,"Toys, Kids & Collectibles",Baby Gear,23,extended
+Coterie Diapers,"Toys, Kids & Collectibles",Baby Gear,24,extended
+Huggies,"Toys, Kids & Collectibles",Baby Gear,25,extended
+Pampers,"Toys, Kids & Collectibles",Baby Gear,26,extended
+Hello Bello,"Toys, Kids & Collectibles",Baby Gear,27,extended
+Kudos Diapers,"Toys, Kids & Collectibles",Baby Gear,28,extended
+iPhone,Consumer Electronics,Smartphones,1,core
+Samsung Galaxy,Consumer Electronics,Smartphones,2,core
+Google Pixel,Consumer Electronics,Smartphones,3,core
+OnePlus,Consumer Electronics,Smartphones,4,core
+Motorola,Consumer Electronics,Smartphones,5,core
+Nothing Phone,Consumer Electronics,Smartphones,6,core
+Xiaomi,Consumer Electronics,Smartphones,7,core
+Galaxy Z Fold,Consumer Electronics,Smartphones,8,core
+Galaxy Z Flip,Consumer Electronics,Smartphones,9,core
+Motorola Razr,Consumer Electronics,Smartphones,10,extended
+Sony Xperia,Consumer Electronics,Smartphones,11,extended
+Huawei,Consumer Electronics,Smartphones,12,extended
+Oppo,Consumer Electronics,Smartphones,13,extended
+Vivo,Consumer Electronics,Smartphones,14,extended
+Honor,Consumer Electronics,Smartphones,15,extended
+Realme,Consumer Electronics,Smartphones,16,extended
+Asus ROG Phone,Consumer Electronics,Smartphones,17,extended
+Fairphone,Consumer Electronics,Smartphones,18,extended
+TCL,Consumer Electronics,Smartphones,19,extended
+Light Phone,Consumer Electronics,Smartphones,20,extended
+Punkt,Consumer Electronics,Smartphones,21,extended
+Wisephone,Consumer Electronics,Smartphones,22,extended
+Verizon,Consumer Electronics,Wireless Carriers,1,core
+AT&T,Consumer Electronics,Wireless Carriers,2,core
+T-Mobile,Consumer Electronics,Wireless Carriers,3,core
+Mint Mobile,Consumer Electronics,Wireless Carriers,4,core
+Visible,Consumer Electronics,Wireless Carriers,5,core
+Cricket Wireless,Consumer Electronics,Wireless Carriers,6,core
+Metro by T-Mobile,Consumer Electronics,Wireless Carriers,7,extended
+Boost Mobile,Consumer Electronics,Wireless Carriers,8,extended
+US Mobile,Consumer Electronics,Wireless Carriers,9,extended
+Google Fi,Consumer Electronics,Wireless Carriers,10,extended
+Xfinity Mobile,Consumer Electronics,Wireless Carriers,11,extended
+Spectrum Mobile,Consumer Electronics,Wireless Carriers,12,extended
+Straight Talk,Consumer Electronics,Wireless Carriers,13,extended
+Tello,Consumer Electronics,Wireless Carriers,14,extended
+Total Wireless,Consumer Electronics,Wireless Carriers,15,extended
+Apple Watch,Consumer Electronics,Wearables & Audio,1,core
+AirPods,Consumer Electronics,Wearables & Audio,2,core
+AirPods Pro,Consumer Electronics,Wearables & Audio,3,core
+Galaxy Watch,Consumer Electronics,Wearables & Audio,4,core
+Pixel Watch,Consumer Electronics,Wearables & Audio,5,core
+Fitbit,Consumer Electronics,Wearables & Audio,6,core
+Garmin,Consumer Electronics,Wearables & Audio,7,core
+Whoop,Consumer Electronics,Wearables & Audio,8,core
+Oura Ring,Consumer Electronics,Wearables & Audio,9,core
+Ultrahuman Ring,Consumer Electronics,Wearables & Audio,10,core
+Samsung Galaxy Ring,Consumer Electronics,Wearables & Audio,11,core
+Bose,Consumer Electronics,Wearables & Audio,12,core
+Sony WH-1000XM,Consumer Electronics,Wearables & Audio,13,core
+Beats,Consumer Electronics,Wearables & Audio,14,core
+Jabra,Consumer Electronics,Wearables & Audio,15,core
+Sennheiser,Consumer Electronics,Wearables & Audio,16,extended
+JBL,Consumer Electronics,Wearables & Audio,17,extended
+Skullcandy,Consumer Electronics,Wearables & Audio,18,extended
+Shokz,Consumer Electronics,Wearables & Audio,19,extended
+Nothing Ear,Consumer Electronics,Wearables & Audio,20,extended
+Soundcore,Consumer Electronics,Wearables & Audio,21,extended
+Sonos,Consumer Electronics,Wearables & Audio,22,extended
+Marshall,Consumer Electronics,Wearables & Audio,23,extended
+Bang & Olufsen,Consumer Electronics,Wearables & Audio,24,extended
+Meta Quest,Consumer Electronics,Wearables & Audio,25,extended
+Apple Vision Pro,Consumer Electronics,Wearables & Audio,26,extended
+Meta Ray-Ban Display,Consumer Electronics,Wearables & Audio,27,extended
+Xreal,Consumer Electronics,Wearables & Audio,28,extended
+Viture,Consumer Electronics,Wearables & Audio,29,extended
+Rabbit R1,Consumer Electronics,Wearables & Audio,30,extended
+Humane AI Pin,Consumer Electronics,Wearables & Audio,31,extended
+Plaud,Consumer Electronics,Wearables & Audio,32,extended
+Friend Pendant,Consumer Electronics,Wearables & Audio,33,extended
+Even Realities,Consumer Electronics,Wearables & Audio,34,extended
+MacBook,Consumer Electronics,Laptops & Tablets,1,core
+MacBook Air,Consumer Electronics,Laptops & Tablets,2,core
+MacBook Pro,Consumer Electronics,Laptops & Tablets,3,core
+iPad,Consumer Electronics,Laptops & Tablets,4,core
+iPad Pro,Consumer Electronics,Laptops & Tablets,5,core
+Dell XPS,Consumer Electronics,Laptops & Tablets,6,core
+Dell Alienware,Consumer Electronics,Laptops & Tablets,7,core
+HP Spectre,Consumer Electronics,Laptops & Tablets,8,core
+HP Omen,Consumer Electronics,Laptops & Tablets,9,core
+Lenovo ThinkPad,Consumer Electronics,Laptops & Tablets,10,core
+Lenovo Legion,Consumer Electronics,Laptops & Tablets,11,core
+Lenovo Yoga,Consumer Electronics,Laptops & Tablets,12,core
+Asus ROG,Consumer Electronics,Laptops & Tablets,13,extended
+Asus Zenbook,Consumer Electronics,Laptops & Tablets,14,extended
+Acer Predator,Consumer Electronics,Laptops & Tablets,15,extended
+Microsoft Surface,Consumer Electronics,Laptops & Tablets,16,extended
+Razer Blade,Consumer Electronics,Laptops & Tablets,17,extended
+MSI Laptop,Consumer Electronics,Laptops & Tablets,18,extended
+Framework Laptop,Consumer Electronics,Laptops & Tablets,19,extended
+Galaxy Tab,Consumer Electronics,Laptops & Tablets,20,extended
+Galaxy Book,Consumer Electronics,Laptops & Tablets,21,extended
+Chromebook,Consumer Electronics,Laptops & Tablets,22,extended
+Kindle,Consumer Electronics,Laptops & Tablets,23,extended
+Kindle Scribe,Consumer Electronics,Laptops & Tablets,24,extended
+reMarkable,Consumer Electronics,Laptops & Tablets,25,extended
+Boox,Consumer Electronics,Laptops & Tablets,26,extended
+Kobo,Consumer Electronics,Laptops & Tablets,27,extended
+Copilot+ PC,Consumer Electronics,Laptops & Tablets,28,extended
+Snapdragon X Elite,Consumer Electronics,Laptops & Tablets,29,extended
+Amazon Echo,Consumer Electronics,Smart Home & TV,1,core
+Alexa+,Consumer Electronics,Smart Home & TV,2,core
+Google Nest,Consumer Electronics,Smart Home & TV,3,core
+Ring,Consumer Electronics,Smart Home & TV,4,core
+Arlo,Consumer Electronics,Smart Home & TV,5,core
+Wyze,Consumer Electronics,Smart Home & TV,6,core
+SimpliSafe,Consumer Electronics,Smart Home & TV,7,core
+ADT,Consumer Electronics,Smart Home & TV,8,core
+Eufy,Consumer Electronics,Smart Home & TV,9,core
+Blink,Consumer Electronics,Smart Home & TV,10,core
+Philips Hue,Consumer Electronics,Smart Home & TV,11,core
+Govee,Consumer Electronics,Smart Home & TV,12,core
+Nanoleaf,Consumer Electronics,Smart Home & TV,13,core
+Ecobee,Consumer Electronics,Smart Home & TV,14,core
+August Lock,Consumer Electronics,Smart Home & TV,15,core
+Yale Lock,Consumer Electronics,Smart Home & TV,16,extended
+Roku,Consumer Electronics,Smart Home & TV,17,extended
+Fire TV,Consumer Electronics,Smart Home & TV,18,extended
+Apple TV,Consumer Electronics,Smart Home & TV,19,extended
+Chromecast,Consumer Electronics,Smart Home & TV,20,extended
+Samsung TV,Consumer Electronics,Smart Home & TV,21,extended
+LG OLED,Consumer Electronics,Smart Home & TV,22,extended
+Sony Bravia,Consumer Electronics,Smart Home & TV,23,extended
+TCL TV,Consumer Electronics,Smart Home & TV,24,extended
+Hisense,Consumer Electronics,Smart Home & TV,25,extended
+Vizio,Consumer Electronics,Smart Home & TV,26,extended
+Samsung Frame TV,Consumer Electronics,Smart Home & TV,27,extended
+Roborock,Consumer Electronics,Smart Home & TV,28,extended
+Ecovacs,Consumer Electronics,Smart Home & TV,29,extended
+Dreame,Consumer Electronics,Smart Home & TV,30,extended
+Eufy Robot Vacuum,Consumer Electronics,Smart Home & TV,31,extended
+Tineco,Consumer Electronics,Smart Home & TV,32,extended
+Bissell,Consumer Electronics,Smart Home & TV,33,extended
+Meross,Consumer Electronics,Smart Home & TV,34,extended
+SwitchBot,Consumer Electronics,Smart Home & TV,35,extended
+Aqara,Consumer Electronics,Smart Home & TV,36,extended
+GoPro,Consumer Electronics,Cameras & Drones,1,core
+DJI,Consumer Electronics,Cameras & Drones,2,core
+DJI Osmo Pocket,Consumer Electronics,Cameras & Drones,3,core
+Insta360,Consumer Electronics,Cameras & Drones,4,core
+Canon,Consumer Electronics,Cameras & Drones,5,core
+Nikon,Consumer Electronics,Cameras & Drones,6,core
+Sony Alpha,Consumer Electronics,Cameras & Drones,7,core
+Fujifilm,Consumer Electronics,Cameras & Drones,8,core
+Fujifilm X100,Consumer Electronics,Cameras & Drones,9,extended
+Leica,Consumer Electronics,Cameras & Drones,10,extended
+Ricoh GR,Consumer Electronics,Cameras & Drones,11,extended
+Kodak,Consumer Electronics,Cameras & Drones,12,extended
+Polaroid,Consumer Electronics,Cameras & Drones,13,extended
+Instax,Consumer Electronics,Cameras & Drones,14,extended
+Panasonic Lumix,Consumer Electronics,Cameras & Drones,15,extended
+Skydio,Consumer Electronics,Cameras & Drones,16,extended
+Snap Pixy,Consumer Electronics,Cameras & Drones,17,extended
+Kodak Charmera,Consumer Electronics,Cameras & Drones,18,extended
+Camp Snap,Consumer Electronics,Cameras & Drones,19,extended
+Nvidia,PC Hardware & Gaming Hardware,Chips & GPUs,1,core
+AMD,PC Hardware & Gaming Hardware,Chips & GPUs,2,core
+Intel,PC Hardware & Gaming Hardware,Chips & GPUs,3,core
+Qualcomm Snapdragon,PC Hardware & Gaming Hardware,Chips & GPUs,4,core
+Apple Silicon,PC Hardware & Gaming Hardware,Chips & GPUs,5,core
+RTX 5090,PC Hardware & Gaming Hardware,Chips & GPUs,6,core
+RTX 5080,PC Hardware & Gaming Hardware,Chips & GPUs,7,core
+RTX 5070,PC Hardware & Gaming Hardware,Chips & GPUs,8,core
+Radeon RX 9070,PC Hardware & Gaming Hardware,Chips & GPUs,9,core
+Intel Arc,PC Hardware & Gaming Hardware,Chips & GPUs,10,extended
+Ryzen 9,PC Hardware & Gaming Hardware,Chips & GPUs,11,extended
+Ryzen 7 9800X3D,PC Hardware & Gaming Hardware,Chips & GPUs,12,extended
+Core Ultra,PC Hardware & Gaming Hardware,Chips & GPUs,13,extended
+Nvidia DGX Spark,PC Hardware & Gaming Hardware,Chips & GPUs,14,extended
+Arm,PC Hardware & Gaming Hardware,Chips & GPUs,15,extended
+MediaTek,PC Hardware & Gaming Hardware,Chips & GPUs,16,extended
+Cerebras,PC Hardware & Gaming Hardware,Chips & GPUs,17,extended
+Groq,PC Hardware & Gaming Hardware,Chips & GPUs,18,extended
+SambaNova,PC Hardware & Gaming Hardware,Chips & GPUs,19,extended
+Tenstorrent,PC Hardware & Gaming Hardware,Chips & GPUs,20,extended
+Asus,PC Hardware & Gaming Hardware,Components & Boards,1,core
+MSI,PC Hardware & Gaming Hardware,Components & Boards,2,core
+Gigabyte,PC Hardware & Gaming Hardware,Components & Boards,3,core
+ASRock,PC Hardware & Gaming Hardware,Components & Boards,4,core
+EVGA,PC Hardware & Gaming Hardware,Components & Boards,5,core
+Zotac,PC Hardware & Gaming Hardware,Components & Boards,6,core
+PNY,PC Hardware & Gaming Hardware,Components & Boards,7,core
+Sapphire,PC Hardware & Gaming Hardware,Components & Boards,8,core
+PowerColor,PC Hardware & Gaming Hardware,Components & Boards,9,core
+XFX,PC Hardware & Gaming Hardware,Components & Boards,10,core
+Corsair,PC Hardware & Gaming Hardware,Components & Boards,11,core
+NZXT,PC Hardware & Gaming Hardware,Components & Boards,12,core
+Lian Li,PC Hardware & Gaming Hardware,Components & Boards,13,core
+Fractal Design,PC Hardware & Gaming Hardware,Components & Boards,14,core
+Cooler Master,PC Hardware & Gaming Hardware,Components & Boards,15,core
+be quiet!,PC Hardware & Gaming Hardware,Components & Boards,16,core
+Noctua,PC Hardware & Gaming Hardware,Components & Boards,17,core
+Thermaltake,PC Hardware & Gaming Hardware,Components & Boards,18,core
+Phanteks,PC Hardware & Gaming Hardware,Components & Boards,19,extended
+Hyte,PC Hardware & Gaming Hardware,Components & Boards,20,extended
+Deepcool,PC Hardware & Gaming Hardware,Components & Boards,21,extended
+Arctic,PC Hardware & Gaming Hardware,Components & Boards,22,extended
+Seasonic,PC Hardware & Gaming Hardware,Components & Boards,23,extended
+EKWB,PC Hardware & Gaming Hardware,Components & Boards,24,extended
+Samsung SSD,PC Hardware & Gaming Hardware,Components & Boards,25,extended
+WD Black,PC Hardware & Gaming Hardware,Components & Boards,26,extended
+Crucial,PC Hardware & Gaming Hardware,Components & Boards,27,extended
+Kingston,PC Hardware & Gaming Hardware,Components & Boards,28,extended
+Seagate,PC Hardware & Gaming Hardware,Components & Boards,29,extended
+Sabrent,PC Hardware & Gaming Hardware,Components & Boards,30,extended
+SK Hynix,PC Hardware & Gaming Hardware,Components & Boards,31,extended
+G.Skill,PC Hardware & Gaming Hardware,Components & Boards,32,extended
+TeamGroup,PC Hardware & Gaming Hardware,Components & Boards,33,extended
+Lexar,PC Hardware & Gaming Hardware,Components & Boards,34,extended
+Synology,PC Hardware & Gaming Hardware,Components & Boards,35,extended
+QNAP,PC Hardware & Gaming Hardware,Components & Boards,36,extended
+Ugreen NAS,PC Hardware & Gaming Hardware,Components & Boards,37,extended
+Raspberry Pi,PC Hardware & Gaming Hardware,Components & Boards,38,extended
+Arduino,PC Hardware & Gaming Hardware,Components & Boards,39,extended
+Minisforum,PC Hardware & Gaming Hardware,Components & Boards,40,extended
+Beelink,PC Hardware & Gaming Hardware,Components & Boards,41,extended
+GMKtec,PC Hardware & Gaming Hardware,Components & Boards,42,extended
+Logitech,PC Hardware & Gaming Hardware,Peripherals,1,core
+Logitech G,PC Hardware & Gaming Hardware,Peripherals,2,core
+Razer,PC Hardware & Gaming Hardware,Peripherals,3,core
+SteelSeries,PC Hardware & Gaming Hardware,Peripherals,4,core
+HyperX,PC Hardware & Gaming Hardware,Peripherals,5,core
+Turtle Beach,PC Hardware & Gaming Hardware,Peripherals,6,core
+Elgato,PC Hardware & Gaming Hardware,Peripherals,7,core
+Keychron,PC Hardware & Gaming Hardware,Peripherals,8,core
+Wooting,PC Hardware & Gaming Hardware,Peripherals,9,core
+Glorious,PC Hardware & Gaming Hardware,Peripherals,10,core
+Ducky,PC Hardware & Gaming Hardware,Peripherals,11,core
+Nuphy,PC Hardware & Gaming Hardware,Peripherals,12,core
+Finalmouse,PC Hardware & Gaming Hardware,Peripherals,13,core
+Pulsar,PC Hardware & Gaming Hardware,Peripherals,14,core
+Lamzu,PC Hardware & Gaming Hardware,Peripherals,15,core
+Zowie,PC Hardware & Gaming Hardware,Peripherals,16,core
+Secretlab,PC Hardware & Gaming Hardware,Peripherals,17,core
+Branch Furniture,PC Hardware & Gaming Hardware,Peripherals,18,core
+Autonomous Desk,PC Hardware & Gaming Hardware,Peripherals,19,core
+Flexispot,PC Hardware & Gaming Hardware,Peripherals,20,core
+Uplift Desk,PC Hardware & Gaming Hardware,Peripherals,21,core
+Samsung Odyssey,PC Hardware & Gaming Hardware,Peripherals,22,extended
+LG UltraGear,PC Hardware & Gaming Hardware,Peripherals,23,extended
+Alienware Monitor,PC Hardware & Gaming Hardware,Peripherals,24,extended
+Asus ROG Swift,PC Hardware & Gaming Hardware,Peripherals,25,extended
+BenQ Zowie,PC Hardware & Gaming Hardware,Peripherals,26,extended
+Dell UltraSharp,PC Hardware & Gaming Hardware,Peripherals,27,extended
+Apple Studio Display,PC Hardware & Gaming Hardware,Peripherals,28,extended
+Anker,PC Hardware & Gaming Hardware,Peripherals,29,extended
+Belkin,PC Hardware & Gaming Hardware,Peripherals,30,extended
+Ugreen,PC Hardware & Gaming Hardware,Peripherals,31,extended
+Baseus,PC Hardware & Gaming Hardware,Peripherals,32,extended
+CalDigit,PC Hardware & Gaming Hardware,Peripherals,33,extended
+OWC,PC Hardware & Gaming Hardware,Peripherals,34,extended
+Satechi,PC Hardware & Gaming Hardware,Peripherals,35,extended
+Twelve South,PC Hardware & Gaming Hardware,Peripherals,36,extended
+Nomad,PC Hardware & Gaming Hardware,Peripherals,37,extended
+Peak Design,PC Hardware & Gaming Hardware,Peripherals,38,extended
+Mous,PC Hardware & Gaming Hardware,Peripherals,39,extended
+Otterbox,PC Hardware & Gaming Hardware,Peripherals,40,extended
+Casetify,PC Hardware & Gaming Hardware,Peripherals,41,extended
+Dbrand,PC Hardware & Gaming Hardware,Peripherals,42,extended
+Spigen,PC Hardware & Gaming Hardware,Peripherals,43,extended
+Zagg,PC Hardware & Gaming Hardware,Peripherals,44,extended
+Pitaka,PC Hardware & Gaming Hardware,Peripherals,45,extended
+Burga,PC Hardware & Gaming Hardware,Peripherals,46,extended
+Sonix,PC Hardware & Gaming Hardware,Peripherals,47,extended
+Wildflower Cases,PC Hardware & Gaming Hardware,Peripherals,48,extended
+Loopy Cases,PC Hardware & Gaming Hardware,Peripherals,49,extended
+Popsockets,PC Hardware & Gaming Hardware,Peripherals,50,extended
+PlayStation 5,PC Hardware & Gaming Hardware,Consoles & Handhelds,1,core
+PS5 Pro,PC Hardware & Gaming Hardware,Consoles & Handhelds,2,core
+Xbox Series X,PC Hardware & Gaming Hardware,Consoles & Handhelds,3,core
+Xbox Game Pass,PC Hardware & Gaming Hardware,Consoles & Handhelds,4,core
+Nintendo Switch 2,PC Hardware & Gaming Hardware,Consoles & Handhelds,5,core
+Nintendo Switch,PC Hardware & Gaming Hardware,Consoles & Handhelds,6,core
+Steam Deck,PC Hardware & Gaming Hardware,Consoles & Handhelds,7,core
+Valve Steam Machine,PC Hardware & Gaming Hardware,Consoles & Handhelds,8,core
+Steam Frame,PC Hardware & Gaming Hardware,Consoles & Handhelds,9,core
+Asus ROG Ally,PC Hardware & Gaming Hardware,Consoles & Handhelds,10,core
+ROG Xbox Ally,PC Hardware & Gaming Hardware,Consoles & Handhelds,11,core
+Lenovo Legion Go,PC Hardware & Gaming Hardware,Consoles & Handhelds,12,extended
+MSI Claw,PC Hardware & Gaming Hardware,Consoles & Handhelds,13,extended
+Ayaneo,PC Hardware & Gaming Hardware,Consoles & Handhelds,14,extended
+Anbernic,PC Hardware & Gaming Hardware,Consoles & Handhelds,15,extended
+Retroid Pocket,PC Hardware & Gaming Hardware,Consoles & Handhelds,16,extended
+Analogue Pocket,PC Hardware & Gaming Hardware,Consoles & Handhelds,17,extended
+Playdate,PC Hardware & Gaming Hardware,Consoles & Handhelds,18,extended
+Meta Quest 3,PC Hardware & Gaming Hardware,Consoles & Handhelds,19,extended
+PlayStation Portal,PC Hardware & Gaming Hardware,Consoles & Handhelds,20,extended
+PlayStation VR2,PC Hardware & Gaming Hardware,Consoles & Handhelds,21,extended
+Backbone Controller,PC Hardware & Gaming Hardware,Consoles & Handhelds,22,extended
+8BitDo,PC Hardware & Gaming Hardware,Consoles & Handhelds,23,extended
+Gamesir,PC Hardware & Gaming Hardware,Consoles & Handhelds,24,extended
+Scuf,PC Hardware & Gaming Hardware,Consoles & Handhelds,25,extended
+DualSense Edge,PC Hardware & Gaming Hardware,Consoles & Handhelds,26,extended
+ChatGPT,AI Agents & AI Products,Frontier AI Assistants,1,core
+OpenAI,AI Agents & AI Products,Frontier AI Assistants,2,core
+Claude,AI Agents & AI Products,Frontier AI Assistants,3,core
+Anthropic,AI Agents & AI Products,Frontier AI Assistants,4,core
+Gemini,AI Agents & AI Products,Frontier AI Assistants,5,core
+Google Gemini,AI Agents & AI Products,Frontier AI Assistants,6,core
+Microsoft Copilot,AI Agents & AI Products,Frontier AI Assistants,7,core
+Meta AI,AI Agents & AI Products,Frontier AI Assistants,8,core
+Grok,AI Agents & AI Products,Frontier AI Assistants,9,core
+xAI,AI Agents & AI Products,Frontier AI Assistants,10,core
+Perplexity,AI Agents & AI Products,Frontier AI Assistants,11,core
+DeepSeek,AI Agents & AI Products,Frontier AI Assistants,12,core
+Mistral AI,AI Agents & AI Products,Frontier AI Assistants,13,core
+Le Chat,AI Agents & AI Products,Frontier AI Assistants,14,core
+Qwen,AI Agents & AI Products,Frontier AI Assistants,15,core
+Kimi,AI Agents & AI Products,Frontier AI Assistants,16,core
+Manus,AI Agents & AI Products,Frontier AI Assistants,17,core
+Character.AI,AI Agents & AI Products,Frontier AI Assistants,18,core
+Pi AI,AI Agents & AI Products,Frontier AI Assistants,19,core
+Poe,AI Agents & AI Products,Frontier AI Assistants,20,core
+Apple Intelligence,AI Agents & AI Products,Frontier AI Assistants,21,core
+Siri,AI Agents & AI Products,Frontier AI Assistants,22,core
+Alexa+,AI Agents & AI Products,Frontier AI Assistants,23,core
+Amazon Nova,AI Agents & AI Products,Frontier AI Assistants,24,core
+Llama,AI Agents & AI Products,Frontier AI Assistants,25,core
+Sora,AI Agents & AI Products,Frontier AI Assistants,26,core
+Veo,AI Agents & AI Products,Frontier AI Assistants,27,core
+Nano Banana,AI Agents & AI Products,Frontier AI Assistants,28,core
+Midjourney,AI Agents & AI Products,Frontier AI Assistants,29,core
+Flux AI,AI Agents & AI Products,Frontier AI Assistants,30,extended
+Ideogram,AI Agents & AI Products,Frontier AI Assistants,31,extended
+Leonardo AI,AI Agents & AI Products,Frontier AI Assistants,32,extended
+Stable Diffusion,AI Agents & AI Products,Frontier AI Assistants,33,extended
+Adobe Firefly,AI Agents & AI Products,Frontier AI Assistants,34,extended
+Canva AI,AI Agents & AI Products,Frontier AI Assistants,35,extended
+Runway,AI Agents & AI Products,Frontier AI Assistants,36,extended
+Pika,AI Agents & AI Products,Frontier AI Assistants,37,extended
+Luma AI,AI Agents & AI Products,Frontier AI Assistants,38,extended
+Kling AI,AI Agents & AI Products,Frontier AI Assistants,39,extended
+Hailuo AI,AI Agents & AI Products,Frontier AI Assistants,40,extended
+Higgsfield,AI Agents & AI Products,Frontier AI Assistants,41,extended
+HeyGen,AI Agents & AI Products,Frontier AI Assistants,42,extended
+Synthesia,AI Agents & AI Products,Frontier AI Assistants,43,extended
+Captions App,AI Agents & AI Products,Frontier AI Assistants,44,extended
+CapCut,AI Agents & AI Products,Frontier AI Assistants,45,extended
+ElevenLabs,AI Agents & AI Products,Frontier AI Assistants,46,extended
+Suno,AI Agents & AI Products,Frontier AI Assistants,47,extended
+Udio,AI Agents & AI Products,Frontier AI Assistants,48,extended
+NotebookLM,AI Agents & AI Products,Frontier AI Assistants,49,extended
+Granola,AI Agents & AI Products,Frontier AI Assistants,50,extended
+Otter.ai,AI Agents & AI Products,Frontier AI Assistants,51,extended
+Fireflies.ai,AI Agents & AI Products,Frontier AI Assistants,52,extended
+Grammarly,AI Agents & AI Products,Frontier AI Assistants,53,extended
+Jasper AI,AI Agents & AI Products,Frontier AI Assistants,54,extended
+Copy.ai,AI Agents & AI Products,Frontier AI Assistants,55,extended
+Notion AI,AI Agents & AI Products,Frontier AI Assistants,56,extended
+Gamma AI,AI Agents & AI Products,Frontier AI Assistants,57,extended
+Tome,AI Agents & AI Products,Frontier AI Assistants,58,extended
+Beautiful.ai,AI Agents & AI Products,Frontier AI Assistants,59,extended
+Replika,AI Agents & AI Products,Frontier AI Assistants,60,extended
+Talkie AI,AI Agents & AI Products,Frontier AI Assistants,61,extended
+Janitor AI,AI Agents & AI Products,Frontier AI Assistants,62,extended
+SpicyChat,AI Agents & AI Products,Frontier AI Assistants,63,extended
+Chai AI,AI Agents & AI Products,Frontier AI Assistants,64,extended
+Nomi AI,AI Agents & AI Products,Frontier AI Assistants,65,extended
+Kindroid,AI Agents & AI Products,Frontier AI Assistants,66,extended
+Sesame AI,AI Agents & AI Products,Frontier AI Assistants,67,extended
+ChatGPT Agent,AI Agents & AI Products,AI Agents & Agentic Tools,1,core
+OpenAI Operator,AI Agents & AI Products,AI Agents & Agentic Tools,2,core
+OpenAI Codex,AI Agents & AI Products,AI Agents & Agentic Tools,3,core
+Claude Code,AI Agents & AI Products,AI Agents & Agentic Tools,4,core
+Claude Cowork,AI Agents & AI Products,AI Agents & Agentic Tools,5,core
+Gemini Agent,AI Agents & AI Products,AI Agents & Agentic Tools,6,core
+Project Mariner,AI Agents & AI Products,AI Agents & Agentic Tools,7,core
+Jules Google,AI Agents & AI Products,AI Agents & Agentic Tools,8,core
+Devin AI,AI Agents & AI Products,AI Agents & Agentic Tools,9,core
+Cognition AI,AI Agents & AI Products,AI Agents & Agentic Tools,10,core
+Cursor,AI Agents & AI Products,AI Agents & Agentic Tools,11,core
+Windsurf,AI Agents & AI Products,AI Agents & Agentic Tools,12,core
+GitHub Copilot,AI Agents & AI Products,AI Agents & Agentic Tools,13,core
+Replit Agent,AI Agents & AI Products,AI Agents & Agentic Tools,14,core
+Lovable,AI Agents & AI Products,AI Agents & Agentic Tools,15,core
+Bolt.new,AI Agents & AI Products,AI Agents & Agentic Tools,16,core
+v0,AI Agents & AI Products,AI Agents & Agentic Tools,17,core
+Vercel,AI Agents & AI Products,AI Agents & Agentic Tools,18,core
+Base44,AI Agents & AI Products,AI Agents & Agentic Tools,19,core
+Genspark,AI Agents & AI Products,AI Agents & Agentic Tools,20,core
+Manus AI,AI Agents & AI Products,AI Agents & Agentic Tools,21,core
+Comet Browser,AI Agents & AI Products,AI Agents & Agentic Tools,22,core
+ChatGPT Atlas,AI Agents & AI Products,AI Agents & Agentic Tools,23,core
+Dia Browser,AI Agents & AI Products,AI Agents & Agentic Tools,24,core
+Opera Neon,AI Agents & AI Products,AI Agents & Agentic Tools,25,core
+Arc Browser,AI Agents & AI Products,AI Agents & Agentic Tools,26,core
+Browser Use,AI Agents & AI Products,AI Agents & Agentic Tools,27,core
+MultiOn,AI Agents & AI Products,AI Agents & Agentic Tools,28,core
+Adept AI,AI Agents & AI Products,AI Agents & Agentic Tools,29,core
+Lindy AI,AI Agents & AI Products,AI Agents & Agentic Tools,30,core
+Relevance AI,AI Agents & AI Products,AI Agents & Agentic Tools,31,extended
+Zapier Agents,AI Agents & AI Products,AI Agents & Agentic Tools,32,extended
+n8n,AI Agents & AI Products,AI Agents & Agentic Tools,33,extended
+Make.com,AI Agents & AI Products,AI Agents & Agentic Tools,34,extended
+CrewAI,AI Agents & AI Products,AI Agents & Agentic Tools,35,extended
+LangChain,AI Agents & AI Products,AI Agents & Agentic Tools,36,extended
+LlamaIndex,AI Agents & AI Products,AI Agents & Agentic Tools,37,extended
+AutoGPT,AI Agents & AI Products,AI Agents & Agentic Tools,38,extended
+OpenClaw,AI Agents & AI Products,AI Agents & Agentic Tools,39,extended
+Agentforce,AI Agents & AI Products,AI Agents & Agentic Tools,40,extended
+Salesforce Agentforce,AI Agents & AI Products,AI Agents & Agentic Tools,41,extended
+Microsoft Copilot Studio,AI Agents & AI Products,AI Agents & Agentic Tools,42,extended
+Google Agentspace,AI Agents & AI Products,AI Agents & Agentic Tools,43,extended
+AWS Bedrock Agents,AI Agents & AI Products,AI Agents & Agentic Tools,44,extended
+Sierra AI,AI Agents & AI Products,AI Agents & Agentic Tools,45,extended
+Decagon,AI Agents & AI Products,AI Agents & Agentic Tools,46,extended
+Intercom Fin,AI Agents & AI Products,AI Agents & Agentic Tools,47,extended
+Harvey AI,AI Agents & AI Products,AI Agents & Agentic Tools,48,extended
+Hebbia,AI Agents & AI Products,AI Agents & Agentic Tools,49,extended
+Glean,AI Agents & AI Products,AI Agents & Agentic Tools,50,extended
+Writer AI,AI Agents & AI Products,AI Agents & Agentic Tools,51,extended
+Cohere,AI Agents & AI Products,AI Agents & Agentic Tools,52,extended
+Hugging Face,AI Agents & AI Products,AI Agents & Agentic Tools,53,extended
+Databricks Mosaic AI,AI Agents & AI Products,AI Agents & Agentic Tools,54,extended
+Snowflake Cortex,AI Agents & AI Products,AI Agents & Agentic Tools,55,extended
+Firecrawl,AI Agents & AI Products,AI Agents & Agentic Tools,56,extended
+Apify,AI Agents & AI Products,AI Agents & Agentic Tools,57,extended
+Bright Data,AI Agents & AI Products,AI Agents & Agentic Tools,58,extended
+Browserbase,AI Agents & AI Products,AI Agents & Agentic Tools,59,extended
+Exa AI,AI Agents & AI Products,AI Agents & Agentic Tools,60,extended
+Tavily,AI Agents & AI Products,AI Agents & Agentic Tools,61,extended
+Factory AI,AI Agents & AI Products,AI Agents & Agentic Tools,62,extended
+Augment Code,AI Agents & AI Products,AI Agents & Agentic Tools,63,extended
+Kiro,AI Agents & AI Products,AI Agents & Agentic Tools,64,extended
+Warp,AI Agents & AI Products,AI Agents & Agentic Tools,65,extended
+Zed,AI Agents & AI Products,AI Agents & Agentic Tools,66,extended
+Amp Code,AI Agents & AI Products,AI Agents & Agentic Tools,67,extended
+Cline,AI Agents & AI Products,AI Agents & Agentic Tools,68,extended
+Roo Code,AI Agents & AI Products,AI Agents & Agentic Tools,69,extended
+Kilo Code,AI Agents & AI Products,AI Agents & Agentic Tools,70,extended
+OpenCode,AI Agents & AI Products,AI Agents & Agentic Tools,71,extended
+Rabbit R1,AI Agents & AI Products,AI Hardware & Companions,1,core
+Humane AI Pin,AI Agents & AI Products,AI Hardware & Companions,2,core
+Limitless AI,AI Agents & AI Products,AI Hardware & Companions,3,core
+Plaud NotePin,AI Agents & AI Products,AI Hardware & Companions,4,core
+Bee Wearable,AI Agents & AI Products,AI Hardware & Companions,5,core
+Meta Ray-Ban Display,AI Agents & AI Products,AI Hardware & Companions,6,core
+io OpenAI device,AI Agents & AI Products,AI Hardware & Companions,7,core
+Brilliant Labs Frame,AI Agents & AI Products,AI Hardware & Companions,8,core
+Halliday Glasses,AI Agents & AI Products,AI Hardware & Companions,9,core
+Even G2,AI Agents & AI Products,AI Hardware & Companions,10,core
+Ray-Ban Meta Gen 2,AI Agents & AI Products,AI Hardware & Companions,11,core
+Oakley Meta,AI Agents & AI Products,AI Hardware & Companions,12,extended
+Google Android XR,AI Agents & AI Products,AI Hardware & Companions,13,extended
+Samsung Galaxy XR,AI Agents & AI Products,AI Hardware & Companions,14,extended
+Tesla Optimus,AI Agents & AI Products,AI Hardware & Companions,15,extended
+Figure AI,AI Agents & AI Products,AI Hardware & Companions,16,extended
+1X Neo,AI Agents & AI Products,AI Hardware & Companions,17,extended
+Unitree,AI Agents & AI Products,AI Hardware & Companions,18,extended
+Boston Dynamics,AI Agents & AI Products,AI Hardware & Companions,19,extended
+Roborock Saros,AI Agents & AI Products,AI Hardware & Companions,20,extended
+Ropet,AI Agents & AI Products,AI Hardware & Companions,21,extended
+Moflin,AI Agents & AI Products,AI Hardware & Companions,22,extended
+Loona Robot,AI Agents & AI Products,AI Hardware & Companions,23,extended
+Vector Robot,AI Agents & AI Products,AI Hardware & Companions,24,extended
+Eilik,AI Agents & AI Products,AI Hardware & Companions,25,extended
+Marriott,Hotels & Travel,Hotel Chains,1,core
+Hilton,Hotels & Travel,Hotel Chains,2,core
+Hyatt,Hotels & Travel,Hotel Chains,3,core
+IHG,Hotels & Travel,Hotel Chains,4,core
+Wyndham,Hotels & Travel,Hotel Chains,5,core
+Choice Hotels,Hotels & Travel,Hotel Chains,6,core
+Best Western,Hotels & Travel,Hotel Chains,7,core
+Accor,Hotels & Travel,Hotel Chains,8,core
+Four Seasons,Hotels & Travel,Hotel Chains,9,core
+Ritz-Carlton,Hotels & Travel,Hotel Chains,10,core
+St. Regis,Hotels & Travel,Hotel Chains,11,core
+W Hotels,Hotels & Travel,Hotel Chains,12,core
+Westin,Hotels & Travel,Hotel Chains,13,core
+Sheraton,Hotels & Travel,Hotel Chains,14,core
+Courtyard by Marriott,Hotels & Travel,Hotel Chains,15,core
+Residence Inn,Hotels & Travel,Hotel Chains,16,core
+Fairfield Inn,Hotels & Travel,Hotel Chains,17,core
+Hampton Inn,Hotels & Travel,Hotel Chains,18,core
+Embassy Suites,Hotels & Travel,Hotel Chains,19,core
+DoubleTree,Hotels & Travel,Hotel Chains,20,core
+Waldorf Astoria,Hotels & Travel,Hotel Chains,21,core
+Conrad,Hotels & Travel,Hotel Chains,22,core
+Canopy by Hilton,Hotels & Travel,Hotel Chains,23,core
+Tempo by Hilton,Hotels & Travel,Hotel Chains,24,core
+Holiday Inn,Hotels & Travel,Hotel Chains,25,core
+Holiday Inn Express,Hotels & Travel,Hotel Chains,26,core
+Kimpton,Hotels & Travel,Hotel Chains,27,extended
+InterContinental,Hotels & Travel,Hotel Chains,28,extended
+Six Senses,Hotels & Travel,Hotel Chains,29,extended
+Park Hyatt,Hotels & Travel,Hotel Chains,30,extended
+Andaz,Hotels & Travel,Hotel Chains,31,extended
+Hyatt Place,Hotels & Travel,Hotel Chains,32,extended
+Grand Hyatt,Hotels & Travel,Hotel Chains,33,extended
+Thompson Hotels,Hotels & Travel,Hotel Chains,34,extended
+Aman,Hotels & Travel,Hotel Chains,35,extended
+Rosewood,Hotels & Travel,Hotel Chains,36,extended
+Mandarin Oriental,Hotels & Travel,Hotel Chains,37,extended
+Peninsula Hotels,Hotels & Travel,Hotel Chains,38,extended
+Edition Hotels,Hotels & Travel,Hotel Chains,39,extended
+Soho House,Hotels & Travel,Hotel Chains,40,extended
+Ace Hotel,Hotels & Travel,Hotel Chains,41,extended
+Virgin Hotels,Hotels & Travel,Hotel Chains,42,extended
+Moxy Hotels,Hotels & Travel,Hotel Chains,43,extended
+citizenM,Hotels & Travel,Hotel Chains,44,extended
+Motel 6,Hotels & Travel,Hotel Chains,45,extended
+La Quinta,Hotels & Travel,Hotel Chains,46,extended
+Red Roof Inn,Hotels & Travel,Hotel Chains,47,extended
+Super 8,Hotels & Travel,Hotel Chains,48,extended
+Days Inn,Hotels & Travel,Hotel Chains,49,extended
+Extended Stay America,Hotels & Travel,Hotel Chains,50,extended
+Graduate Hotels,Hotels & Travel,Hotel Chains,51,extended
+Auberge Resorts,Hotels & Travel,Hotel Chains,52,extended
+Montage,Hotels & Travel,Hotel Chains,53,extended
+1 Hotels,Hotels & Travel,Hotel Chains,54,extended
+Nobu Hotel,Hotels & Travel,Hotel Chains,55,extended
+Sonder,Hotels & Travel,Hotel Chains,56,extended
+Selina,Hotels & Travel,Hotel Chains,57,extended
+Pod Hotels,Hotels & Travel,Hotel Chains,58,extended
+Life House,Hotels & Travel,Hotel Chains,59,extended
+Kasa Living,Hotels & Travel,Hotel Chains,60,extended
+Mint House,Hotels & Travel,Hotel Chains,61,extended
+MGM Grand,Hotels & Travel,Resorts & Casinos,1,core
+Bellagio,Hotels & Travel,Resorts & Casinos,2,core
+Caesars Palace,Hotels & Travel,Resorts & Casinos,3,core
+Wynn Las Vegas,Hotels & Travel,Resorts & Casinos,4,core
+Venetian,Hotels & Travel,Resorts & Casinos,5,core
+Fontainebleau Las Vegas,Hotels & Travel,Resorts & Casinos,6,core
+Resorts World Las Vegas,Hotels & Travel,Resorts & Casinos,7,core
+Cosmopolitan Las Vegas,Hotels & Travel,Resorts & Casinos,8,core
+Atlantis Bahamas,Hotels & Travel,Resorts & Casinos,9,core
+Sandals,Hotels & Travel,Resorts & Casinos,10,core
+Beaches Resorts,Hotels & Travel,Resorts & Casinos,11,extended
+Club Med,Hotels & Travel,Resorts & Casinos,12,extended
+Great Wolf Lodge,Hotels & Travel,Resorts & Casinos,13,extended
+Kalahari Resorts,Hotels & Travel,Resorts & Casinos,14,extended
+Disney Resorts,Hotels & Travel,Resorts & Casinos,15,extended
+Universal Orlando Hotels,Hotels & Travel,Resorts & Casinos,16,extended
+Gaylord Hotels,Hotels & Travel,Resorts & Casinos,17,extended
+Margaritaville Resort,Hotels & Travel,Resorts & Casinos,18,extended
+Excellence Resorts,Hotels & Travel,Resorts & Casinos,19,extended
+Secrets Resorts,Hotels & Travel,Resorts & Casinos,20,extended
+Hard Rock Hotel,Hotels & Travel,Resorts & Casinos,21,extended
+Mohegan Sun,Hotels & Travel,Resorts & Casinos,22,extended
+Foxwoods,Hotels & Travel,Resorts & Casinos,23,extended
+Airbnb,Hotels & Travel,Booking & Rentals,1,core
+Vrbo,Hotels & Travel,Booking & Rentals,2,core
+Booking.com,Hotels & Travel,Booking & Rentals,3,core
+Expedia,Hotels & Travel,Booking & Rentals,4,core
+Hotels.com,Hotels & Travel,Booking & Rentals,5,core
+Priceline,Hotels & Travel,Booking & Rentals,6,core
+Kayak,Hotels & Travel,Booking & Rentals,7,core
+Trivago,Hotels & Travel,Booking & Rentals,8,core
+Hopper,Hotels & Travel,Booking & Rentals,9,core
+Google Travel,Hotels & Travel,Booking & Rentals,10,core
+TripAdvisor,Hotels & Travel,Booking & Rentals,11,extended
+Agoda,Hotels & Travel,Booking & Rentals,12,extended
+Hostelworld,Hotels & Travel,Booking & Rentals,13,extended
+Hipcamp,Hotels & Travel,Booking & Rentals,14,extended
+Marriott Bonvoy,Hotels & Travel,Booking & Rentals,15,extended
+Hilton Honors,Hotels & Travel,Booking & Rentals,16,extended
+World of Hyatt,Hotels & Travel,Booking & Rentals,17,extended
+IHG One Rewards,Hotels & Travel,Booking & Rentals,18,extended
+Inspirato,Hotels & Travel,Booking & Rentals,19,extended
+Evolve,Hotels & Travel,Booking & Rentals,20,extended
+Vacasa,Hotels & Travel,Booking & Rentals,21,extended
+Mindtrip,Hotels & Travel,Booking & Rentals,22,extended
+Layla AI travel,Hotels & Travel,Booking & Rentals,23,extended
+Delta,Hotels & Travel,Airlines,1,core
+United Airlines,Hotels & Travel,Airlines,2,core
+American Airlines,Hotels & Travel,Airlines,3,core
+Southwest,Hotels & Travel,Airlines,4,core
+JetBlue,Hotels & Travel,Airlines,5,core
+Alaska Airlines,Hotels & Travel,Airlines,6,core
+Spirit Airlines,Hotels & Travel,Airlines,7,core
+Frontier Airlines,Hotels & Travel,Airlines,8,core
+Allegiant,Hotels & Travel,Airlines,9,core
+Hawaiian Airlines,Hotels & Travel,Airlines,10,core
+Breeze Airways,Hotels & Travel,Airlines,11,core
+Sun Country,Hotels & Travel,Airlines,12,core
+Avelo,Hotels & Travel,Airlines,13,extended
+Emirates,Hotels & Travel,Airlines,14,extended
+Qatar Airways,Hotels & Travel,Airlines,15,extended
+Singapore Airlines,Hotels & Travel,Airlines,16,extended
+Air France,Hotels & Travel,Airlines,17,extended
+British Airways,Hotels & Travel,Airlines,18,extended
+Lufthansa,Hotels & Travel,Airlines,19,extended
+Turkish Airlines,Hotels & Travel,Airlines,20,extended
+Virgin Atlantic,Hotels & Travel,Airlines,21,extended
+Icelandair,Hotels & Travel,Airlines,22,extended
+JSX,Hotels & Travel,Airlines,23,extended
+Blade,Hotels & Travel,Airlines,24,extended
+Joby Aviation,Hotels & Travel,Airlines,25,extended
+Archer Aviation,Hotels & Travel,Airlines,26,extended
+Wheels Up,Hotels & Travel,Airlines,27,extended
+Royal Caribbean,Hotels & Travel,Cruises,1,core
+Carnival Cruise,Hotels & Travel,Cruises,2,core
+Norwegian Cruise Line,Hotels & Travel,Cruises,3,core
+Disney Cruise Line,Hotels & Travel,Cruises,4,core
+Princess Cruises,Hotels & Travel,Cruises,5,core
+Celebrity Cruises,Hotels & Travel,Cruises,6,core
+MSC Cruises,Hotels & Travel,Cruises,7,core
+Virgin Voyages,Hotels & Travel,Cruises,8,core
+Viking Cruises,Hotels & Travel,Cruises,9,core
+Holland America,Hotels & Travel,Cruises,10,extended
+Icon of the Seas,Hotels & Travel,Cruises,11,extended
+Star of the Seas,Hotels & Travel,Cruises,12,extended
+Utopia of the Seas,Hotels & Travel,Cruises,13,extended
+Carnival Celebration,Hotels & Travel,Cruises,14,extended
+Oceania Cruises,Hotels & Travel,Cruises,15,extended
+Regent Seven Seas,Hotels & Travel,Cruises,16,extended
+Silversea,Hotels & Travel,Cruises,17,extended
+Explora Journeys,Hotels & Travel,Cruises,18,extended
+Ritz-Carlton Yacht Collection,Hotels & Travel,Cruises,19,extended
+Four Seasons Yachts,Hotels & Travel,Cruises,20,extended
+Hertz,Hotels & Travel,Rental Cars & Mobility,1,core
+Enterprise,Hotels & Travel,Rental Cars & Mobility,2,core
+Avis,Hotels & Travel,Rental Cars & Mobility,3,core
+Budget,Hotels & Travel,Rental Cars & Mobility,4,core
+National Car Rental,Hotels & Travel,Rental Cars & Mobility,5,core
+Alamo,Hotels & Travel,Rental Cars & Mobility,6,core
+Sixt,Hotels & Travel,Rental Cars & Mobility,7,core
+Turo,Hotels & Travel,Rental Cars & Mobility,8,core
+Uber,Hotels & Travel,Rental Cars & Mobility,9,core
+Lyft,Hotels & Travel,Rental Cars & Mobility,10,extended
+Waymo,Hotels & Travel,Rental Cars & Mobility,11,extended
+Zoox,Hotels & Travel,Rental Cars & Mobility,12,extended
+Tesla Robotaxi,Hotels & Travel,Rental Cars & Mobility,13,extended
+Getaround,Hotels & Travel,Rental Cars & Mobility,14,extended
+Lime,Hotels & Travel,Rental Cars & Mobility,15,extended
+Bird,Hotels & Travel,Rental Cars & Mobility,16,extended
+Revel,Hotels & Travel,Rental Cars & Mobility,17,extended
+Amtrak,Hotels & Travel,Rental Cars & Mobility,18,extended
+Brightline,Hotels & Travel,Rental Cars & Mobility,19,extended
+Greyhound,Hotels & Travel,Rental Cars & Mobility,20,extended
+FlixBus,Hotels & Travel,Rental Cars & Mobility,21,extended
+Disney World,Entertainment & Experiences,Theme Parks,1,core
+Disneyland,Entertainment & Experiences,Theme Parks,2,core
+Universal Studios,Entertainment & Experiences,Theme Parks,3,core
+Epic Universe,Entertainment & Experiences,Theme Parks,4,core
+Universal Orlando,Entertainment & Experiences,Theme Parks,5,core
+Six Flags,Entertainment & Experiences,Theme Parks,6,core
+Cedar Point,Entertainment & Experiences,Theme Parks,7,core
+SeaWorld,Entertainment & Experiences,Theme Parks,8,core
+Busch Gardens,Entertainment & Experiences,Theme Parks,9,core
+Knott's Berry Farm,Entertainment & Experiences,Theme Parks,10,core
+Legoland,Entertainment & Experiences,Theme Parks,11,core
+Dollywood,Entertainment & Experiences,Theme Parks,12,core
+Hersheypark,Entertainment & Experiences,Theme Parks,13,core
+Kings Island,Entertainment & Experiences,Theme Parks,14,core
+Carowinds,Entertainment & Experiences,Theme Parks,15,extended
+Silver Dollar City,Entertainment & Experiences,Theme Parks,16,extended
+Kennywood,Entertainment & Experiences,Theme Parks,17,extended
+Holiday World,Entertainment & Experiences,Theme Parks,18,extended
+Great Wolf Lodge,Entertainment & Experiences,Theme Parks,19,extended
+Kalahari Waterpark,Entertainment & Experiences,Theme Parks,20,extended
+Volcano Bay,Entertainment & Experiences,Theme Parks,21,extended
+Typhoon Lagoon,Entertainment & Experiences,Theme Parks,22,extended
+Schlitterbahn,Entertainment & Experiences,Theme Parks,23,extended
+Meow Wolf,Entertainment & Experiences,Theme Parks,24,extended
+Museum of Ice Cream,Entertainment & Experiences,Theme Parks,25,extended
+Color Factory,Entertainment & Experiences,Theme Parks,26,extended
+Sphere Las Vegas,Entertainment & Experiences,Theme Parks,27,extended
+Area15,Entertainment & Experiences,Theme Parks,28,extended
+Universal Horror Unleashed,Entertainment & Experiences,Theme Parks,29,extended
+Halloween Horror Nights,Entertainment & Experiences,Theme Parks,30,extended
+Wizarding World of Harry Potter,Entertainment & Experiences,Theme Parks,31,extended
+Super Nintendo World,Entertainment & Experiences,Theme Parks,32,extended
+Galaxy's Edge,Entertainment & Experiences,Theme Parks,33,extended
+Dave & Buster's,Entertainment & Experiences,Family Entertainment Centers,1,core
+Topgolf,Entertainment & Experiences,Family Entertainment Centers,2,core
+Chuck E. Cheese,Entertainment & Experiences,Family Entertainment Centers,3,core
+Main Event,Entertainment & Experiences,Family Entertainment Centers,4,core
+Round1,Entertainment & Experiences,Family Entertainment Centers,5,core
+Bowlero,Entertainment & Experiences,Family Entertainment Centers,6,core
+Lucky Strike,Entertainment & Experiences,Family Entertainment Centers,7,core
+Puttshack,Entertainment & Experiences,Family Entertainment Centers,8,core
+Drive Shack,Entertainment & Experiences,Family Entertainment Centers,9,core
+Flight Club,Entertainment & Experiences,Family Entertainment Centers,10,core
+Pinstripes,Entertainment & Experiences,Family Entertainment Centers,11,core
+Urban Air,Entertainment & Experiences,Family Entertainment Centers,12,core
+Sky Zone,Entertainment & Experiences,Family Entertainment Centers,13,core
+Altitude Trampoline Park,Entertainment & Experiences,Family Entertainment Centers,14,core
+iFly,Entertainment & Experiences,Family Entertainment Centers,15,core
+Andretti Indoor Karting,Entertainment & Experiences,Family Entertainment Centers,16,core
+K1 Speed,Entertainment & Experiences,Family Entertainment Centers,17,core
+Painted Pin,Entertainment & Experiences,Family Entertainment Centers,18,extended
+Punch Bowl Social,Entertainment & Experiences,Family Entertainment Centers,19,extended
+Pinballz,Entertainment & Experiences,Family Entertainment Centers,20,extended
+Escape Room,Entertainment & Experiences,Family Entertainment Centers,21,extended
+Activate Games,Entertainment & Experiences,Family Entertainment Centers,22,extended
+Electric Shuffle,Entertainment & Experiences,Family Entertainment Centers,23,extended
+Chicken N Pickle,Entertainment & Experiences,Family Entertainment Centers,24,extended
+Pickleball Kingdom,Entertainment & Experiences,Family Entertainment Centers,25,extended
+Dink Pickleball,Entertainment & Experiences,Family Entertainment Centers,26,extended
+Big Air Trampoline,Entertainment & Experiences,Family Entertainment Centers,27,extended
+Two Bit Circus,Entertainment & Experiences,Family Entertainment Centers,28,extended
+Crayola Experience,Entertainment & Experiences,Family Entertainment Centers,29,extended
+Lego Discovery Center,Entertainment & Experiences,Family Entertainment Centers,30,extended
+Sea Life Aquarium,Entertainment & Experiences,Family Entertainment Centers,31,extended
+Madame Tussauds,Entertainment & Experiences,Family Entertainment Centers,32,extended
+Van Gogh Immersive,Entertainment & Experiences,Family Entertainment Centers,33,extended
+Lighthouse Immersive,Entertainment & Experiences,Family Entertainment Centers,34,extended
+Candytopia,Entertainment & Experiences,Family Entertainment Centers,35,extended
+The Museum of Illusions,Entertainment & Experiences,Family Entertainment Centers,36,extended
+Smash Room,Entertainment & Experiences,Family Entertainment Centers,37,extended
+Axe Throwing,Entertainment & Experiences,Family Entertainment Centers,38,extended
+Bad Axe Throwing,Entertainment & Experiences,Family Entertainment Centers,39,extended
+Urban Axes,Entertainment & Experiences,Family Entertainment Centers,40,extended
+AMC Theatres,Entertainment & Experiences,Cinema & Live Events,1,core
+Regal Cinemas,Entertainment & Experiences,Cinema & Live Events,2,core
+Cinemark,Entertainment & Experiences,Cinema & Live Events,3,core
+Alamo Drafthouse,Entertainment & Experiences,Cinema & Live Events,4,core
+Marcus Theatres,Entertainment & Experiences,Cinema & Live Events,5,core
+Harkins Theatres,Entertainment & Experiences,Cinema & Live Events,6,core
+IMAX,Entertainment & Experiences,Cinema & Live Events,7,core
+Dolby Cinema,Entertainment & Experiences,Cinema & Live Events,8,core
+AMC Stubs A-List,Entertainment & Experiences,Cinema & Live Events,9,core
+Regal Unlimited,Entertainment & Experiences,Cinema & Live Events,10,core
+Fathom Events,Entertainment & Experiences,Cinema & Live Events,11,core
+Ticketmaster,Entertainment & Experiences,Cinema & Live Events,12,core
+Live Nation,Entertainment & Experiences,Cinema & Live Events,13,core
+StubHub,Entertainment & Experiences,Cinema & Live Events,14,core
+SeatGeek,Entertainment & Experiences,Cinema & Live Events,15,core
+Vivid Seats,Entertainment & Experiences,Cinema & Live Events,16,core
+Eventbrite,Entertainment & Experiences,Cinema & Live Events,17,extended
+Dice,Entertainment & Experiences,Cinema & Live Events,18,extended
+AXS,Entertainment & Experiences,Cinema & Live Events,19,extended
+Gametime,Entertainment & Experiences,Cinema & Live Events,20,extended
+Fever,Entertainment & Experiences,Cinema & Live Events,21,extended
+Candlelight Concerts,Entertainment & Experiences,Cinema & Live Events,22,extended
+Broadway,Entertainment & Experiences,Cinema & Live Events,23,extended
+Cirque du Soleil,Entertainment & Experiences,Cinema & Live Events,24,extended
+Disney on Ice,Entertainment & Experiences,Cinema & Live Events,25,extended
+WWE,Entertainment & Experiences,Cinema & Live Events,26,extended
+UFC,Entertainment & Experiences,Cinema & Live Events,27,extended
+Monster Jam,Entertainment & Experiences,Cinema & Live Events,28,extended
+Harlem Globetrotters,Entertainment & Experiences,Cinema & Live Events,29,extended
+Coachella,Entertainment & Experiences,Cinema & Live Events,30,extended
+Lollapalooza,Entertainment & Experiences,Cinema & Live Events,31,extended
+Bonnaroo,Entertainment & Experiences,Cinema & Live Events,32,extended
+Stagecoach,Entertainment & Experiences,Cinema & Live Events,33,extended
+EDC Las Vegas,Entertainment & Experiences,Cinema & Live Events,34,extended
+Rolling Loud,Entertainment & Experiences,Cinema & Live Events,35,extended
+Governors Ball,Entertainment & Experiences,Cinema & Live Events,36,extended
+Austin City Limits,Entertainment & Experiences,Cinema & Live Events,37,extended
+Outside Lands,Entertainment & Experiences,Cinema & Live Events,38,extended
+Netflix,Entertainment & Experiences,Streaming Video,1,core
+Disney+,Entertainment & Experiences,Streaming Video,2,core
+Hulu,Entertainment & Experiences,Streaming Video,3,core
+Max,Entertainment & Experiences,Streaming Video,4,core
+HBO Max,Entertainment & Experiences,Streaming Video,5,core
+Amazon Prime Video,Entertainment & Experiences,Streaming Video,6,core
+Apple TV+,Entertainment & Experiences,Streaming Video,7,core
+Paramount+,Entertainment & Experiences,Streaming Video,8,core
+Peacock,Entertainment & Experiences,Streaming Video,9,core
+YouTube TV,Entertainment & Experiences,Streaming Video,10,core
+Sling TV,Entertainment & Experiences,Streaming Video,11,core
+Fubo,Entertainment & Experiences,Streaming Video,12,core
+Tubi,Entertainment & Experiences,Streaming Video,13,core
+Pluto TV,Entertainment & Experiences,Streaming Video,14,extended
+Roku Channel,Entertainment & Experiences,Streaming Video,15,extended
+Crunchyroll,Entertainment & Experiences,Streaming Video,16,extended
+ESPN+,Entertainment & Experiences,Streaming Video,17,extended
+ESPN Unlimited,Entertainment & Experiences,Streaming Video,18,extended
+Fox One,Entertainment & Experiences,Streaming Video,19,extended
+DAZN,Entertainment & Experiences,Streaming Video,20,extended
+Starz,Entertainment & Experiences,Streaming Video,21,extended
+MGM+,Entertainment & Experiences,Streaming Video,22,extended
+AMC+,Entertainment & Experiences,Streaming Video,23,extended
+BritBox,Entertainment & Experiences,Streaming Video,24,extended
+Shudder,Entertainment & Experiences,Streaming Video,25,extended
+Philo,Entertainment & Experiences,Streaming Video,26,extended
+Frndly TV,Entertainment & Experiences,Streaming Video,27,extended
+Kick,Entertainment & Experiences,Streaming Video,28,extended
+Twitch,Entertainment & Experiences,Streaming Video,29,extended
+YouTube,Entertainment & Experiences,Streaming Video,30,extended
+Rumble,Entertainment & Experiences,Streaming Video,31,extended
+Spotify,Entertainment & Experiences,Music & Audio Streaming,1,core
+Apple Music,Entertainment & Experiences,Music & Audio Streaming,2,core
+YouTube Music,Entertainment & Experiences,Music & Audio Streaming,3,core
+Amazon Music,Entertainment & Experiences,Music & Audio Streaming,4,core
+Tidal,Entertainment & Experiences,Music & Audio Streaming,5,core
+Pandora,Entertainment & Experiences,Music & Audio Streaming,6,core
+SoundCloud,Entertainment & Experiences,Music & Audio Streaming,7,core
+Deezer,Entertainment & Experiences,Music & Audio Streaming,8,core
+Audible,Entertainment & Experiences,Music & Audio Streaming,9,extended
+Libby,Entertainment & Experiences,Music & Audio Streaming,10,extended
+Kindle Unlimited,Entertainment & Experiences,Music & Audio Streaming,11,extended
+Pocket FM,Entertainment & Experiences,Music & Audio Streaming,12,extended
+Everand,Entertainment & Experiences,Music & Audio Streaming,13,extended
+SiriusXM,Entertainment & Experiences,Music & Audio Streaming,14,extended
+iHeartRadio,Entertainment & Experiences,Music & Audio Streaming,15,extended
+Calm,Entertainment & Experiences,Music & Audio Streaming,16,extended
+Headspace,Entertainment & Experiences,Music & Audio Streaming,17,extended
+Endel,Entertainment & Experiences,Music & Audio Streaming,18,extended
+Fortnite,Entertainment & Experiences,Video Games & Publishers,1,core
+Roblox,Entertainment & Experiences,Video Games & Publishers,2,core
+Minecraft,Entertainment & Experiences,Video Games & Publishers,3,core
+Call of Duty,Entertainment & Experiences,Video Games & Publishers,4,core
+GTA 6,Entertainment & Experiences,Video Games & Publishers,5,core
+Grand Theft Auto,Entertainment & Experiences,Video Games & Publishers,6,core
+EA Sports FC,Entertainment & Experiences,Video Games & Publishers,7,core
+Madden NFL,Entertainment & Experiences,Video Games & Publishers,8,core
+NBA 2K,Entertainment & Experiences,Video Games & Publishers,9,core
+College Football 26,Entertainment & Experiences,Video Games & Publishers,10,core
+Pokemon Legends Z-A,Entertainment & Experiences,Video Games & Publishers,11,core
+Mario Kart World,Entertainment & Experiences,Video Games & Publishers,12,core
+Donkey Kong Bananza,Entertainment & Experiences,Video Games & Publishers,13,core
+Zelda,Entertainment & Experiences,Video Games & Publishers,14,core
+Animal Crossing,Entertainment & Experiences,Video Games & Publishers,15,core
+Valorant,Entertainment & Experiences,Video Games & Publishers,16,core
+League of Legends,Entertainment & Experiences,Video Games & Publishers,17,core
+Apex Legends,Entertainment & Experiences,Video Games & Publishers,18,core
+Overwatch,Entertainment & Experiences,Video Games & Publishers,19,core
+Marvel Rivals,Entertainment & Experiences,Video Games & Publishers,20,core
+Battlefield 6,Entertainment & Experiences,Video Games & Publishers,21,core
+Elden Ring,Entertainment & Experiences,Video Games & Publishers,22,core
+Elden Ring Nightreign,Entertainment & Experiences,Video Games & Publishers,23,core
+Hollow Knight Silksong,Entertainment & Experiences,Video Games & Publishers,24,core
+Ghost of Yotei,Entertainment & Experiences,Video Games & Publishers,25,core
+Borderlands 4,Entertainment & Experiences,Video Games & Publishers,26,core
+Monster Hunter Wilds,Entertainment & Experiences,Video Games & Publishers,27,core
+Clair Obscur Expedition 33,Entertainment & Experiences,Video Games & Publishers,28,core
+Death Stranding 2,Entertainment & Experiences,Video Games & Publishers,29,core
+Silent Hill f,Entertainment & Experiences,Video Games & Publishers,30,core
+Splitgate,Entertainment & Experiences,Video Games & Publishers,31,core
+Arc Raiders,Entertainment & Experiences,Video Games & Publishers,32,core
+Deadlock,Entertainment & Experiences,Video Games & Publishers,33,core
+Schedule I,Entertainment & Experiences,Video Games & Publishers,34,core
+Peak game,Entertainment & Experiences,Video Games & Publishers,35,core
+R.E.P.O.,Entertainment & Experiences,Video Games & Publishers,36,extended
+Steal a Brainrot,Entertainment & Experiences,Video Games & Publishers,37,extended
+Grow a Garden,Entertainment & Experiences,Video Games & Publishers,38,extended
+99 Nights in the Forest,Entertainment & Experiences,Video Games & Publishers,39,extended
+Dress to Impress,Entertainment & Experiences,Video Games & Publishers,40,extended
+Genshin Impact,Entertainment & Experiences,Video Games & Publishers,41,extended
+Honkai Star Rail,Entertainment & Experiences,Video Games & Publishers,42,extended
+Zenless Zone Zero,Entertainment & Experiences,Video Games & Publishers,43,extended
+Wuthering Waves,Entertainment & Experiences,Video Games & Publishers,44,extended
+Pokemon Go,Entertainment & Experiences,Video Games & Publishers,45,extended
+Monopoly Go,Entertainment & Experiences,Video Games & Publishers,46,extended
+Royal Match,Entertainment & Experiences,Video Games & Publishers,47,extended
+Candy Crush,Entertainment & Experiences,Video Games & Publishers,48,extended
+Clash Royale,Entertainment & Experiences,Video Games & Publishers,49,extended
+Brawl Stars,Entertainment & Experiences,Video Games & Publishers,50,extended
+Squad Busters,Entertainment & Experiences,Video Games & Publishers,51,extended
+Stardew Valley,Entertainment & Experiences,Video Games & Publishers,52,extended
+Hades 2,Entertainment & Experiences,Video Games & Publishers,53,extended
+Helldivers 2,Entertainment & Experiences,Video Games & Publishers,54,extended
+The Sims,Entertainment & Experiences,Video Games & Publishers,55,extended
+Project Rene,Entertainment & Experiences,Video Games & Publishers,56,extended
+inZOI,Entertainment & Experiences,Video Games & Publishers,57,extended
+Paralives,Entertainment & Experiences,Video Games & Publishers,58,extended
+Palworld,Entertainment & Experiences,Video Games & Publishers,59,extended
+Baldur's Gate 3,Entertainment & Experiences,Video Games & Publishers,60,extended
+Cyberpunk 2077,Entertainment & Experiences,Video Games & Publishers,61,extended
+The Witcher 4,Entertainment & Experiences,Video Games & Publishers,62,extended
+Hogwarts Legacy,Entertainment & Experiences,Video Games & Publishers,63,extended
+Epic Games,Entertainment & Experiences,Video Games & Publishers,64,extended
+Electronic Arts,Entertainment & Experiences,Video Games & Publishers,65,extended
+Activision Blizzard,Entertainment & Experiences,Video Games & Publishers,66,extended
+Ubisoft,Entertainment & Experiences,Video Games & Publishers,67,extended
+Take-Two,Entertainment & Experiences,Video Games & Publishers,68,extended
+Rockstar Games,Entertainment & Experiences,Video Games & Publishers,69,extended
+Nintendo,Entertainment & Experiences,Video Games & Publishers,70,extended
+Sony Interactive,Entertainment & Experiences,Video Games & Publishers,71,extended
+Xbox Game Studios,Entertainment & Experiences,Video Games & Publishers,72,extended
+Bandai Namco,Entertainment & Experiences,Video Games & Publishers,73,extended
+Square Enix,Entertainment & Experiences,Video Games & Publishers,74,extended
+Capcom,Entertainment & Experiences,Video Games & Publishers,75,extended
+Sega,Entertainment & Experiences,Video Games & Publishers,76,extended
+Konami,Entertainment & Experiences,Video Games & Publishers,77,extended
+Riot Games,Entertainment & Experiences,Video Games & Publishers,78,extended
+Valve,Entertainment & Experiences,Video Games & Publishers,79,extended
+Steam,Entertainment & Experiences,Video Games & Publishers,80,extended
+Epic Games Store,Entertainment & Experiences,Video Games & Publishers,81,extended
+Planet Fitness,Entertainment & Experiences,Fitness & Wellness Chains,1,core
+LA Fitness,Entertainment & Experiences,Fitness & Wellness Chains,2,core
+Crunch Fitness,Entertainment & Experiences,Fitness & Wellness Chains,3,core
+Anytime Fitness,Entertainment & Experiences,Fitness & Wellness Chains,4,core
+24 Hour Fitness,Entertainment & Experiences,Fitness & Wellness Chains,5,core
+Equinox,Entertainment & Experiences,Fitness & Wellness Chains,6,core
+Life Time Fitness,Entertainment & Experiences,Fitness & Wellness Chains,7,core
+Gold's Gym,Entertainment & Experiences,Fitness & Wellness Chains,8,core
+EoS Fitness,Entertainment & Experiences,Fitness & Wellness Chains,9,core
+Orangetheory,Entertainment & Experiences,Fitness & Wellness Chains,10,core
+F45,Entertainment & Experiences,Fitness & Wellness Chains,11,core
+Barry's,Entertainment & Experiences,Fitness & Wellness Chains,12,core
+SoulCycle,Entertainment & Experiences,Fitness & Wellness Chains,13,core
+CorePower Yoga,Entertainment & Experiences,Fitness & Wellness Chains,14,core
+Pure Barre,Entertainment & Experiences,Fitness & Wellness Chains,15,core
+Club Pilates,Entertainment & Experiences,Fitness & Wellness Chains,16,core
+Solidcore,Entertainment & Experiences,Fitness & Wellness Chains,17,core
+Hotworx,Entertainment & Experiences,Fitness & Wellness Chains,18,core
+Xponential,Entertainment & Experiences,Fitness & Wellness Chains,19,core
+Peloton,Entertainment & Experiences,Fitness & Wellness Chains,20,core
+Tonal,Entertainment & Experiences,Fitness & Wellness Chains,21,core
+Hydrow,Entertainment & Experiences,Fitness & Wellness Chains,22,core
+Zwift,Entertainment & Experiences,Fitness & Wellness Chains,23,core
+Strava,Entertainment & Experiences,Fitness & Wellness Chains,24,extended
+Echelon,Entertainment & Experiences,Fitness & Wellness Chains,25,extended
+Bowflex,Entertainment & Experiences,Fitness & Wellness Chains,26,extended
+NordicTrack,Entertainment & Experiences,Fitness & Wellness Chains,27,extended
+Rogue Fitness,Entertainment & Experiences,Fitness & Wellness Chains,28,extended
+Hyrox,Entertainment & Experiences,Fitness & Wellness Chains,29,extended
+CrossFit,Entertainment & Experiences,Fitness & Wellness Chains,30,extended
+Ladder App,Entertainment & Experiences,Fitness & Wellness Chains,31,extended
+Alo Moves,Entertainment & Experiences,Fitness & Wellness Chains,32,extended
+Sculpt Society,Entertainment & Experiences,Fitness & Wellness Chains,33,extended
+Restore Hyper Wellness,Entertainment & Experiences,Fitness & Wellness Chains,34,extended
+Othership,Entertainment & Experiences,Fitness & Wellness Chains,35,extended
+Bathhouse,Entertainment & Experiences,Fitness & Wellness Chains,36,extended
+Remedy Place,Entertainment & Experiences,Fitness & Wellness Chains,37,extended
+The Lodge Sauna,Entertainment & Experiences,Fitness & Wellness Chains,38,extended
+Massage Envy,Entertainment & Experiences,Fitness & Wellness Chains,39,extended
+Hand & Stone,Entertainment & Experiences,Fitness & Wellness Chains,40,extended
+European Wax Center,Entertainment & Experiences,Fitness & Wellness Chains,41,extended
+Drybar,Entertainment & Experiences,Fitness & Wellness Chains,42,extended
+Glamsquad,Entertainment & Experiences,Fitness & Wellness Chains,43,extended
+Function Health,Entertainment & Experiences,Fitness & Wellness Chains,44,extended
+Prenuvo,Entertainment & Experiences,Fitness & Wellness Chains,45,extended
+Superpower,Entertainment & Experiences,Fitness & Wellness Chains,46,extended
+Eight Sleep,Entertainment & Experiences,Fitness & Wellness Chains,47,extended
+Therabody,Entertainment & Experiences,Fitness & Wellness Chains,48,extended
+Hyperice,Entertainment & Experiences,Fitness & Wellness Chains,49,extended
+Hims Weight Loss,Entertainment & Experiences,Fitness & Wellness Chains,50,extended
+Noom,Entertainment & Experiences,Fitness & Wellness Chains,51,extended
+WeightWatchers,Entertainment & Experiences,Fitness & Wellness Chains,52,extended
+Calibrate,Entertainment & Experiences,Fitness & Wellness Chains,53,extended
+Tesla,Automotive & Mobility,Automakers,1,core
+Ford,Automotive & Mobility,Automakers,2,core
+Chevrolet,Automotive & Mobility,Automakers,3,core
+Toyota,Automotive & Mobility,Automakers,4,core
+Honda,Automotive & Mobility,Automakers,5,core
+Hyundai,Automotive & Mobility,Automakers,6,core
+Kia,Automotive & Mobility,Automakers,7,core
+Nissan,Automotive & Mobility,Automakers,8,core
+Subaru,Automotive & Mobility,Automakers,9,core
+Mazda,Automotive & Mobility,Automakers,10,core
+Jeep,Automotive & Mobility,Automakers,11,core
+Ram Trucks,Automotive & Mobility,Automakers,12,core
+GMC,Automotive & Mobility,Automakers,13,core
+Cadillac,Automotive & Mobility,Automakers,14,core
+Lexus,Automotive & Mobility,Automakers,15,core
+BMW,Automotive & Mobility,Automakers,16,core
+Mercedes-Benz,Automotive & Mobility,Automakers,17,core
+Audi,Automotive & Mobility,Automakers,18,core
+Porsche,Automotive & Mobility,Automakers,19,core
+Volkswagen,Automotive & Mobility,Automakers,20,core
+Volvo,Automotive & Mobility,Automakers,21,core
+Polestar,Automotive & Mobility,Automakers,22,core
+Rivian,Automotive & Mobility,Automakers,23,core
+Lucid,Automotive & Mobility,Automakers,24,extended
+Scout Motors,Automotive & Mobility,Automakers,25,extended
+Slate Auto,Automotive & Mobility,Automakers,26,extended
+BYD,Automotive & Mobility,Automakers,27,extended
+Genesis,Automotive & Mobility,Automakers,28,extended
+Acura,Automotive & Mobility,Automakers,29,extended
+Lincoln,Automotive & Mobility,Automakers,30,extended
+Dodge,Automotive & Mobility,Automakers,31,extended
+Buick,Automotive & Mobility,Automakers,32,extended
+Mini Cooper,Automotive & Mobility,Automakers,33,extended
+Land Rover,Automotive & Mobility,Automakers,34,extended
+Ferrari,Automotive & Mobility,Automakers,35,extended
+Lamborghini,Automotive & Mobility,Automakers,36,extended
+McLaren,Automotive & Mobility,Automakers,37,extended
+Bentley,Automotive & Mobility,Automakers,38,extended
+Rolls-Royce,Automotive & Mobility,Automakers,39,extended
+Aston Martin,Automotive & Mobility,Automakers,40,extended
+Cybertruck,Automotive & Mobility,Automakers,41,extended
+Model Y,Automotive & Mobility,Automakers,42,extended
+Ford Bronco,Automotive & Mobility,Automakers,43,extended
+Ford Maverick,Automotive & Mobility,Automakers,44,extended
+F-150 Lightning,Automotive & Mobility,Automakers,45,extended
+Toyota 4Runner,Automotive & Mobility,Automakers,46,extended
+Toyota Tacoma,Automotive & Mobility,Automakers,47,extended
+Honda Prelude,Automotive & Mobility,Automakers,48,extended
+Kia EV9,Automotive & Mobility,Automakers,49,extended
+Hyundai Ioniq 5,Automotive & Mobility,Automakers,50,extended
+Chevy Equinox EV,Automotive & Mobility,Automakers,51,extended
+Rivian R2,Automotive & Mobility,Automakers,52,extended
+Ferrari Luce,Automotive & Mobility,Automakers,53,extended
+Carvana,Automotive & Mobility,Auto Retail & Services,1,core
+CarMax,Automotive & Mobility,Auto Retail & Services,2,core
+Vroom,Automotive & Mobility,Auto Retail & Services,3,core
+Cars.com,Automotive & Mobility,Auto Retail & Services,4,core
+Autotrader,Automotive & Mobility,Auto Retail & Services,5,core
+CarGurus,Automotive & Mobility,Auto Retail & Services,6,core
+Bring a Trailer,Automotive & Mobility,Auto Retail & Services,7,core
+Cars & Bids,Automotive & Mobility,Auto Retail & Services,8,core
+Copart,Automotive & Mobility,Auto Retail & Services,9,core
+AutoZone,Automotive & Mobility,Auto Retail & Services,10,extended
+O'Reilly Auto Parts,Automotive & Mobility,Auto Retail & Services,11,extended
+Advance Auto Parts,Automotive & Mobility,Auto Retail & Services,12,extended
+NAPA,Automotive & Mobility,Auto Retail & Services,13,extended
+Jiffy Lube,Automotive & Mobility,Auto Retail & Services,14,extended
+Valvoline,Automotive & Mobility,Auto Retail & Services,15,extended
+Discount Tire,Automotive & Mobility,Auto Retail & Services,16,extended
+Tesla Supercharger,Automotive & Mobility,Auto Retail & Services,17,extended
+ChargePoint,Automotive & Mobility,Auto Retail & Services,18,extended
+Electrify America,Automotive & Mobility,Auto Retail & Services,19,extended
+EVgo,Automotive & Mobility,Auto Retail & Services,20,extended
+Super73,Automotive & Mobility,Micromobility & Powersports,1,core
+Rad Power Bikes,Automotive & Mobility,Micromobility & Powersports,2,core
+Aventon,Automotive & Mobility,Micromobility & Powersports,3,core
+Lectric eBikes,Automotive & Mobility,Micromobility & Powersports,4,core
+VanMoof,Automotive & Mobility,Micromobility & Powersports,5,core
+Specialized,Automotive & Mobility,Micromobility & Powersports,6,core
+Trek,Automotive & Mobility,Micromobility & Powersports,7,core
+Cannondale,Automotive & Mobility,Micromobility & Powersports,8,core
+Onewheel,Automotive & Mobility,Micromobility & Powersports,9,core
+Segway,Automotive & Mobility,Micromobility & Powersports,10,core
+Ninebot,Automotive & Mobility,Micromobility & Powersports,11,core
+Boosted,Automotive & Mobility,Micromobility & Powersports,12,extended
+Sur-Ron,Automotive & Mobility,Micromobility & Powersports,13,extended
+Talaria,Automotive & Mobility,Micromobility & Powersports,14,extended
+Polaris,Automotive & Mobility,Micromobility & Powersports,15,extended
+Can-Am,Automotive & Mobility,Micromobility & Powersports,16,extended
+Harley-Davidson,Automotive & Mobility,Micromobility & Powersports,17,extended
+LiveWire,Automotive & Mobility,Micromobility & Powersports,18,extended
+Zero Motorcycles,Automotive & Mobility,Micromobility & Powersports,19,extended
+Yamaha,Automotive & Mobility,Micromobility & Powersports,20,extended
+Kawasaki,Automotive & Mobility,Micromobility & Powersports,21,extended
+Ducati,Automotive & Mobility,Micromobility & Powersports,22,extended
+KTM,Automotive & Mobility,Micromobility & Powersports,23,extended
+Sea-Doo,Automotive & Mobility,Micromobility & Powersports,24,extended
+Jetson One,Automotive & Mobility,Micromobility & Powersports,25,extended
+Venmo,Financial & Consumer Apps,Fintech & Payments,1,core
+Cash App,Financial & Consumer Apps,Fintech & Payments,2,core
+Zelle,Financial & Consumer Apps,Fintech & Payments,3,core
+PayPal,Financial & Consumer Apps,Fintech & Payments,4,core
+Apple Pay,Financial & Consumer Apps,Fintech & Payments,5,core
+Google Pay,Financial & Consumer Apps,Fintech & Payments,6,core
+Chime,Financial & Consumer Apps,Fintech & Payments,7,core
+SoFi,Financial & Consumer Apps,Fintech & Payments,8,core
+Robinhood,Financial & Consumer Apps,Fintech & Payments,9,core
+Webull,Financial & Consumer Apps,Fintech & Payments,10,core
+Coinbase,Financial & Consumer Apps,Fintech & Payments,11,core
+Kraken,Financial & Consumer Apps,Fintech & Payments,12,core
+Gemini Exchange,Financial & Consumer Apps,Fintech & Payments,13,core
+Binance,Financial & Consumer Apps,Fintech & Payments,14,core
+Crypto.com,Financial & Consumer Apps,Fintech & Payments,15,core
+Kalshi,Financial & Consumer Apps,Fintech & Payments,16,core
+Polymarket,Financial & Consumer Apps,Fintech & Payments,17,core
+DraftKings,Financial & Consumer Apps,Fintech & Payments,18,core
+FanDuel,Financial & Consumer Apps,Fintech & Payments,19,core
+PrizePicks,Financial & Consumer Apps,Fintech & Payments,20,core
+Underdog Fantasy,Financial & Consumer Apps,Fintech & Payments,21,core
+Fanatics Sportsbook,Financial & Consumer Apps,Fintech & Payments,22,core
+BetMGM,Financial & Consumer Apps,Fintech & Payments,23,extended
+Caesars Sportsbook,Financial & Consumer Apps,Fintech & Payments,24,extended
+Bilt Rewards,Financial & Consumer Apps,Fintech & Payments,25,extended
+Apple Card,Financial & Consumer Apps,Fintech & Payments,26,extended
+Amex Platinum,Financial & Consumer Apps,Fintech & Payments,27,extended
+Chase Sapphire,Financial & Consumer Apps,Fintech & Payments,28,extended
+Capital One Venture X,Financial & Consumer Apps,Fintech & Payments,29,extended
+Discover,Financial & Consumer Apps,Fintech & Payments,30,extended
+Rocket Money,Financial & Consumer Apps,Fintech & Payments,31,extended
+Monarch Money,Financial & Consumer Apps,Fintech & Payments,32,extended
+YNAB,Financial & Consumer Apps,Fintech & Payments,33,extended
+Credit Karma,Financial & Consumer Apps,Fintech & Payments,34,extended
+NerdWallet,Financial & Consumer Apps,Fintech & Payments,35,extended
+Acorns,Financial & Consumer Apps,Fintech & Payments,36,extended
+Stash,Financial & Consumer Apps,Fintech & Payments,37,extended
+Wealthfront,Financial & Consumer Apps,Fintech & Payments,38,extended
+Betterment,Financial & Consumer Apps,Fintech & Payments,39,extended
+Public.com,Financial & Consumer Apps,Fintech & Payments,40,extended
+Moomoo,Financial & Consumer Apps,Fintech & Payments,41,extended
+Revolut,Financial & Consumer Apps,Fintech & Payments,42,extended
+Wise,Financial & Consumer Apps,Fintech & Payments,43,extended
+Klarna Card,Financial & Consumer Apps,Fintech & Payments,44,extended
+Step Card,Financial & Consumer Apps,Fintech & Payments,45,extended
+Greenlight,Financial & Consumer Apps,Fintech & Payments,46,extended
+Current,Financial & Consumer Apps,Fintech & Payments,47,extended
+Dave App,Financial & Consumer Apps,Fintech & Payments,48,extended
+Brigit,Financial & Consumer Apps,Fintech & Payments,49,extended
+Earnin,Financial & Consumer Apps,Fintech & Payments,50,extended
+MoneyLion,Financial & Consumer Apps,Fintech & Payments,51,extended
+TikTok,Financial & Consumer Apps,Social & Creator Platforms,1,core
+Instagram,Financial & Consumer Apps,Social & Creator Platforms,2,core
+Threads,Financial & Consumer Apps,Social & Creator Platforms,3,core
+Bluesky,Financial & Consumer Apps,Social & Creator Platforms,4,core
+X Twitter,Financial & Consumer Apps,Social & Creator Platforms,5,core
+Snapchat,Financial & Consumer Apps,Social & Creator Platforms,6,core
+Pinterest,Financial & Consumer Apps,Social & Creator Platforms,7,core
+Reddit,Financial & Consumer Apps,Social & Creator Platforms,8,core
+BeReal,Financial & Consumer Apps,Social & Creator Platforms,9,core
+Lemon8,Financial & Consumer Apps,Social & Creator Platforms,10,core
+Discord,Financial & Consumer Apps,Social & Creator Platforms,11,core
+Telegram,Financial & Consumer Apps,Social & Creator Platforms,12,core
+WhatsApp,Financial & Consumer Apps,Social & Creator Platforms,13,core
+Facebook,Financial & Consumer Apps,Social & Creator Platforms,14,core
+LinkedIn,Financial & Consumer Apps,Social & Creator Platforms,15,core
+Substack,Financial & Consumer Apps,Social & Creator Platforms,16,core
+Patreon,Financial & Consumer Apps,Social & Creator Platforms,17,core
+OnlyFans,Financial & Consumer Apps,Social & Creator Platforms,18,core
+Fanvue,Financial & Consumer Apps,Social & Creator Platforms,19,core
+Linktree,Financial & Consumer Apps,Social & Creator Platforms,20,core
+Beacons,Financial & Consumer Apps,Social & Creator Platforms,21,core
+Stan Store,Financial & Consumer Apps,Social & Creator Platforms,22,extended
+LTK,Financial & Consumer Apps,Social & Creator Platforms,23,extended
+ShopMy,Financial & Consumer Apps,Social & Creator Platforms,24,extended
+Amazon Influencer,Financial & Consumer Apps,Social & Creator Platforms,25,extended
+Whop,Financial & Consumer Apps,Social & Creator Platforms,26,extended
+Skool,Financial & Consumer Apps,Social & Creator Platforms,27,extended
+Kajabi,Financial & Consumer Apps,Social & Creator Platforms,28,extended
+Teachable,Financial & Consumer Apps,Social & Creator Platforms,29,extended
+Gumroad,Financial & Consumer Apps,Social & Creator Platforms,30,extended
+Fanfix,Financial & Consumer Apps,Social & Creator Platforms,31,extended
+Passes,Financial & Consumer Apps,Social & Creator Platforms,32,extended
+Twitch,Financial & Consumer Apps,Social & Creator Platforms,33,extended
+Hinge,Financial & Consumer Apps,Social & Creator Platforms,34,extended
+Bumble,Financial & Consumer Apps,Social & Creator Platforms,35,extended
+Tinder,Financial & Consumer Apps,Social & Creator Platforms,36,extended
+Raya,Financial & Consumer Apps,Social & Creator Platforms,37,extended
+Feeld,Financial & Consumer Apps,Social & Creator Platforms,38,extended
+Grindr,Financial & Consumer Apps,Social & Creator Platforms,39,extended
+Duolingo,Financial & Consumer Apps,Social & Creator Platforms,40,extended
+Letterboxd,Financial & Consumer Apps,Social & Creator Platforms,41,extended
+Goodreads,Financial & Consumer Apps,Social & Creator Platforms,42,extended
+Fable App,Financial & Consumer Apps,Social & Creator Platforms,43,extended
+Partiful,Financial & Consumer Apps,Social & Creator Platforms,44,extended
+Luma Events,Financial & Consumer Apps,Social & Creator Platforms,45,extended
+Timeleft,Financial & Consumer Apps,Social & Creator Platforms,46,extended
+222 App,Financial & Consumer Apps,Social & Creator Platforms,47,extended
+Locket Widget,Financial & Consumer Apps,Social & Creator Platforms,48,extended
+Sora App,Financial & Consumer Apps,Social & Creator Platforms,49,extended
+Notion,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),1,core
+Canva,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),2,core
+Figma,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),3,core
+Adobe Express,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),4,core
+Microsoft 365,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),5,core
+Google Workspace,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),6,core
+Slack,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),7,core
+Zoom,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),8,core
+Dropbox,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),9,core
+Todoist,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),10,core
+Obsidian,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),11,core
+Superhuman,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),12,core
+Arc,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),13,extended
+Raycast,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),14,extended
+1Password,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),15,extended
+Bitwarden,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),16,extended
+NordVPN,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),17,extended
+ExpressVPN,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),18,extended
+Surfshark,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),19,extended
+Proton,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),20,extended
+Incogni,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),21,extended
+DeleteMe,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),22,extended
+Aura,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),23,extended
+LifeLock,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),24,extended
+Life360,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),25,extended
+Tile,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),26,extended
+AirTag,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),27,extended
+Chipolo,Financial & Consumer Apps,Productivity & SaaS (consumer-facing),28,extended

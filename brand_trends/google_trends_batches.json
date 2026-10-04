@@ -1,0 +1,3050 @@
+[
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Burgers",
+    "anchor": "McDonald's",
+    "terms": [
+      "McDonald's",
+      "Burger King",
+      "Wendy's",
+      "Five Guys",
+      "Shake Shack"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Burgers",
+    "anchor": "McDonald's",
+    "terms": [
+      "McDonald's",
+      "In-N-Out",
+      "Whataburger"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Chicken",
+    "anchor": "Chick-fil-A",
+    "terms": [
+      "Chick-fil-A",
+      "Popeyes",
+      "KFC",
+      "Raising Cane's",
+      "Wingstop"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Chicken",
+    "anchor": "Chick-fil-A",
+    "terms": [
+      "Chick-fil-A",
+      "Zaxby's"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Pizza",
+    "anchor": "Domino's",
+    "terms": [
+      "Domino's",
+      "Pizza Hut",
+      "Papa John's",
+      "Little Caesars",
+      "Marco's Pizza"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Pizza",
+    "anchor": "Domino's",
+    "terms": [
+      "Domino's",
+      "Papa Murphy's"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Mexican & Fast Casual",
+    "anchor": "Chipotle",
+    "terms": [
+      "Chipotle",
+      "Taco Bell",
+      "Qdoba",
+      "Moe's Southwest Grill",
+      "Del Taco"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Mexican & Fast Casual",
+    "anchor": "Chipotle",
+    "terms": [
+      "Chipotle",
+      "Taco Bueno",
+      "Torchy's Tacos"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Sandwiches & Subs",
+    "anchor": "Subway",
+    "terms": [
+      "Subway",
+      "Jersey Mike's",
+      "Jimmy John's",
+      "Firehouse Subs",
+      "Arby's"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Sandwiches & Subs",
+    "anchor": "Subway",
+    "terms": [
+      "Subway",
+      "Wawa"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Coffee & Beverages",
+    "anchor": "Starbucks",
+    "terms": [
+      "Starbucks",
+      "Dunkin'",
+      "Dutch Bros",
+      "Tim Hortons",
+      "Peet's Coffee"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Coffee & Beverages",
+    "anchor": "Starbucks",
+    "terms": [
+      "Starbucks",
+      "Caribou Coffee",
+      "Scooter's Coffee",
+      "Biggby Coffee"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Desserts & Bakery",
+    "anchor": "Crumbl Cookies",
+    "terms": [
+      "Crumbl Cookies",
+      "Insomnia Cookies",
+      "Krispy Kreme",
+      "Dairy Queen",
+      "Baskin-Robbins"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Desserts & Bakery",
+    "anchor": "Crumbl Cookies",
+    "terms": [
+      "Crumbl Cookies",
+      "Cold Stone Creamery",
+      "Nothing Bundt Cakes"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Casual Dining",
+    "anchor": "Applebee's",
+    "terms": [
+      "Applebee's",
+      "Chili's",
+      "Olive Garden",
+      "Texas Roadhouse",
+      "Red Lobster"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Casual Dining",
+    "anchor": "Applebee's",
+    "terms": [
+      "Applebee's",
+      "Outback Steakhouse",
+      "LongHorn Steakhouse",
+      "TGI Fridays",
+      "Red Robin"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Casual Dining",
+    "anchor": "Applebee's",
+    "terms": [
+      "Applebee's",
+      "Cheesecake Factory",
+      "Cracker Barrel"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Upscale Chains",
+    "anchor": "Ruth's Chris",
+    "terms": [
+      "Ruth's Chris",
+      "Morton's",
+      "Capital Grille",
+      "Fogo de Chao",
+      "STK"
+    ]
+  },
+  {
+    "industry": "Restaurants",
+    "competitor_set": "Upscale Chains",
+    "anchor": "Ruth's Chris",
+    "terms": [
+      "Ruth's Chris",
+      "Del Frisco's"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Soda & Soft Drinks",
+    "anchor": "Coca-Cola",
+    "terms": [
+      "Coca-Cola",
+      "Pepsi",
+      "Dr Pepper",
+      "Sprite",
+      "Mountain Dew"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Soda & Soft Drinks",
+    "anchor": "Coca-Cola",
+    "terms": [
+      "Coca-Cola",
+      "Olipop"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Energy Drinks",
+    "anchor": "Red Bull",
+    "terms": [
+      "Red Bull",
+      "Monster Energy",
+      "Celsius Energy",
+      "Bang Energy",
+      "Ghost Energy"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Energy Drinks",
+    "anchor": "Red Bull",
+    "terms": [
+      "Red Bull",
+      "C4 Energy"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Snacks",
+    "anchor": "Doritos",
+    "terms": [
+      "Doritos",
+      "Takis",
+      "Cheetos",
+      "Lay's",
+      "Pringles"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Snacks",
+    "anchor": "Doritos",
+    "terms": [
+      "Doritos",
+      "Goldfish",
+      "Oreo"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Candy",
+    "anchor": "Hershey's",
+    "terms": [
+      "Hershey's",
+      "Reese's",
+      "M&M's",
+      "Skittles",
+      "Sour Patch Kids"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Candy",
+    "anchor": "Hershey's",
+    "terms": [
+      "Hershey's",
+      "Swedish Fish",
+      "Trolli",
+      "Haribo"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Better-for-You & Protein",
+    "anchor": "Quest Nutrition",
+    "terms": [
+      "Quest Nutrition",
+      "RXBAR",
+      "KIND",
+      "Clif Bar",
+      "Built Bar"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Better-for-You & Protein",
+    "anchor": "Quest Nutrition",
+    "terms": [
+      "Quest Nutrition",
+      "Barebells",
+      "Fairlife"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Alcohol & Spirits",
+    "anchor": "Bud Light",
+    "terms": [
+      "Bud Light",
+      "Michelob Ultra",
+      "Coors Light",
+      "Modelo",
+      "Corona"
+    ]
+  },
+  {
+    "industry": "Snacks, Food & Beverage CPG",
+    "competitor_set": "Alcohol & Spirits",
+    "anchor": "Bud Light",
+    "terms": [
+      "Bud Light",
+      "White Claw",
+      "Truly",
+      "High Noon",
+      "Sun Cruiser"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Big Box & Mass",
+    "anchor": "Walmart",
+    "terms": [
+      "Walmart",
+      "Target",
+      "Costco",
+      "Sam's Club",
+      "BJ's Wholesale"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Big Box & Mass",
+    "anchor": "Walmart",
+    "terms": [
+      "Walmart",
+      "Kroger"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Grocery",
+    "anchor": "Trader Joe's",
+    "terms": [
+      "Trader Joe's",
+      "Whole Foods",
+      "Aldi",
+      "Lidl",
+      "Publix"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Grocery",
+    "anchor": "Trader Joe's",
+    "terms": [
+      "Trader Joe's",
+      "H-E-B"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Department Stores",
+    "anchor": "Macy's",
+    "terms": [
+      "Macy's",
+      "Nordstrom",
+      "Kohl's",
+      "JCPenney",
+      "Dillard's"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Department Stores",
+    "anchor": "Macy's",
+    "terms": [
+      "Macy's",
+      "Bloomingdale's"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Off-Price",
+    "anchor": "TJ Maxx",
+    "terms": [
+      "TJ Maxx",
+      "Marshalls",
+      "Ross Dress for Less",
+      "Burlington",
+      "HomeGoods"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Off-Price",
+    "anchor": "TJ Maxx",
+    "terms": [
+      "TJ Maxx",
+      "Sierra"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Home & Furniture",
+    "anchor": "IKEA",
+    "terms": [
+      "IKEA",
+      "Wayfair",
+      "Home Depot",
+      "Lowe's",
+      "Bed Bath & Beyond"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Home & Furniture",
+    "anchor": "IKEA",
+    "terms": [
+      "IKEA",
+      "Pottery Barn",
+      "West Elm",
+      "Crate & Barrel",
+      "RH"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Beauty Retail",
+    "anchor": "Sephora",
+    "terms": [
+      "Sephora",
+      "Ulta Beauty",
+      "Sally Beauty",
+      "Bluemercury",
+      "Space NK"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Electronics Retail",
+    "anchor": "Best Buy",
+    "terms": [
+      "Best Buy",
+      "Micro Center",
+      "B&H Photo",
+      "GameStop",
+      "Newegg"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Electronics Retail",
+    "anchor": "Best Buy",
+    "terms": [
+      "Best Buy",
+      "Apple Store"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Sporting Goods & Outdoor",
+    "anchor": "Dick's Sporting Goods",
+    "terms": [
+      "Dick's Sporting Goods",
+      "Academy Sports",
+      "REI",
+      "Bass Pro Shops",
+      "Cabela's"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Sporting Goods & Outdoor",
+    "anchor": "Dick's Sporting Goods",
+    "terms": [
+      "Dick's Sporting Goods",
+      "Scheels"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Crafts, Party & Specialty",
+    "anchor": "Michaels",
+    "terms": [
+      "Michaels",
+      "Hobby Lobby",
+      "Joann",
+      "Party City",
+      "Spirit Halloween"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Crafts, Party & Specialty",
+    "anchor": "Michaels",
+    "terms": [
+      "Michaels",
+      "Barnes & Noble",
+      "Books-A-Million"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Pharmacy & Convenience",
+    "anchor": "CVS",
+    "terms": [
+      "CVS",
+      "Walgreens",
+      "Rite Aid",
+      "7-Eleven",
+      "Buc-ee's"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Pharmacy & Convenience",
+    "anchor": "CVS",
+    "terms": [
+      "CVS",
+      "QuikTrip"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Pet",
+    "anchor": "Chewy",
+    "terms": [
+      "Chewy",
+      "Petco",
+      "PetSmart",
+      "BarkBox",
+      "The Farmer's Dog"
+    ]
+  },
+  {
+    "industry": "Retailers",
+    "competitor_set": "Pet",
+    "anchor": "Chewy",
+    "terms": [
+      "Chewy",
+      "Ollie"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "Marketplaces",
+    "anchor": "Amazon",
+    "terms": [
+      "Amazon",
+      "Temu",
+      "Shein",
+      "AliExpress",
+      "eBay"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "Marketplaces",
+    "anchor": "Amazon",
+    "terms": [
+      "Amazon",
+      "Etsy",
+      "Walmart Marketplace",
+      "Wish",
+      "TikTok Shop"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "Marketplaces",
+    "anchor": "Amazon",
+    "terms": [
+      "Amazon",
+      "Mercari",
+      "Poshmark"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "Ecommerce Platforms",
+    "anchor": "Shopify",
+    "terms": [
+      "Shopify",
+      "BigCommerce",
+      "WooCommerce",
+      "Wix",
+      "Squarespace"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "Ecommerce Platforms",
+    "anchor": "Shopify",
+    "terms": [
+      "Shopify",
+      "Klarna"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "Delivery & Subscription",
+    "anchor": "DoorDash",
+    "terms": [
+      "DoorDash",
+      "Uber Eats",
+      "Instacart",
+      "Grubhub",
+      "Gopuff"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "Delivery & Subscription",
+    "anchor": "DoorDash",
+    "terms": [
+      "DoorDash",
+      "Postmates",
+      "HelloFresh",
+      "Factor"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "DTC Home & Sleep",
+    "anchor": "Casper",
+    "terms": [
+      "Casper",
+      "Purple",
+      "Tempur-Pedic",
+      "Saatva",
+      "Nectar"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "DTC Home & Sleep",
+    "anchor": "Casper",
+    "terms": [
+      "Casper",
+      "Tuft & Needle",
+      "Sleep Number",
+      "Brooklinen",
+      "Parachute"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "DTC Home & Sleep",
+    "anchor": "Casper",
+    "terms": [
+      "Casper",
+      "Bombas",
+      "Our Place",
+      "Caraway",
+      "HexClad"
+    ]
+  },
+  {
+    "industry": "E-commerce & Marketplaces",
+    "competitor_set": "DTC Home & Sleep",
+    "anchor": "Casper",
+    "terms": [
+      "Casper",
+      "Made In",
+      "Stanley"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Athletic Apparel",
+    "anchor": "Nike",
+    "terms": [
+      "Nike",
+      "Adidas",
+      "Under Armour",
+      "Lululemon",
+      "Puma"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Athletic Apparel",
+    "anchor": "Nike",
+    "terms": [
+      "Nike",
+      "Reebok",
+      "New Balance",
+      "Alo Yoga",
+      "Vuori"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Running & Sneakers",
+    "anchor": "Hoka",
+    "terms": [
+      "Hoka",
+      "On Running",
+      "Brooks Running",
+      "Saucony",
+      "Asics"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Running & Sneakers",
+    "anchor": "Hoka",
+    "terms": [
+      "Hoka",
+      "Allbirds",
+      "Vans",
+      "Converse",
+      "Skechers"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Running & Sneakers",
+    "anchor": "Hoka",
+    "terms": [
+      "Hoka",
+      "Salomon",
+      "Altra",
+      "Veja"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Fast Fashion & Mall",
+    "anchor": "Zara",
+    "terms": [
+      "Zara",
+      "H&M",
+      "Uniqlo",
+      "Forever 21",
+      "Shein"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Fast Fashion & Mall",
+    "anchor": "Zara",
+    "terms": [
+      "Zara",
+      "Fashion Nova",
+      "PrettyLittleThing",
+      "Boohoo",
+      "ASOS"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Fast Fashion & Mall",
+    "anchor": "Zara",
+    "terms": [
+      "Zara",
+      "Mango",
+      "Princess Polly",
+      "Edikted",
+      "Aritzia"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Fast Fashion & Mall",
+    "anchor": "Zara",
+    "terms": [
+      "Zara",
+      "Abercrombie & Fitch",
+      "Hollister",
+      "American Eagle",
+      "Aerie"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Fast Fashion & Mall",
+    "anchor": "Zara",
+    "terms": [
+      "Zara",
+      "Gap"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Denim & Basics",
+    "anchor": "Levi's",
+    "terms": [
+      "Levi's",
+      "Wrangler",
+      "Lee Jeans",
+      "AG Jeans",
+      "Agolde"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Denim & Basics",
+    "anchor": "Levi's",
+    "terms": [
+      "Levi's",
+      "Citizens of Humanity",
+      "Mother Denim"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Shapewear & Intimates",
+    "anchor": "Skims",
+    "terms": [
+      "Skims",
+      "Spanx",
+      "Victoria's Secret",
+      "Savage X Fenty",
+      "Parade"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Shapewear & Intimates",
+    "anchor": "Skims",
+    "terms": [
+      "Skims",
+      "Honeylove",
+      "Knix"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Outdoor & Workwear",
+    "anchor": "The North Face",
+    "terms": [
+      "The North Face",
+      "Patagonia",
+      "Columbia",
+      "Arc'teryx",
+      "Canada Goose"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Outdoor & Workwear",
+    "anchor": "The North Face",
+    "terms": [
+      "The North Face",
+      "Moncler",
+      "Carhartt",
+      "Dickies",
+      "Duluth Trading"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Streetwear",
+    "anchor": "Supreme",
+    "terms": [
+      "Supreme",
+      "Stussy",
+      "Palace",
+      "Kith",
+      "Essentials Fear of God"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Streetwear",
+    "anchor": "Supreme",
+    "terms": [
+      "Supreme",
+      "Corteiz",
+      "Sp5der",
+      "Hellstar",
+      "Broken Planet"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Streetwear",
+    "anchor": "Supreme",
+    "terms": [
+      "Supreme",
+      "Trapstar",
+      "Denim Tears"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Kids & Baby Apparel",
+    "anchor": "Carter's",
+    "terms": [
+      "Carter's",
+      "OshKosh",
+      "Children's Place",
+      "Gap Kids",
+      "Janie and Jack"
+    ]
+  },
+  {
+    "industry": "Apparel & Footwear",
+    "competitor_set": "Kids & Baby Apparel",
+    "anchor": "Carter's",
+    "terms": [
+      "Carter's",
+      "Hanna Andersson"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Luxury Houses",
+    "anchor": "Louis Vuitton",
+    "terms": [
+      "Louis Vuitton",
+      "Gucci",
+      "Chanel",
+      "Hermes",
+      "Prada"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Luxury Houses",
+    "anchor": "Louis Vuitton",
+    "terms": [
+      "Louis Vuitton",
+      "Dior",
+      "Balenciaga",
+      "Saint Laurent",
+      "Fendi"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Luxury Houses",
+    "anchor": "Louis Vuitton",
+    "terms": [
+      "Louis Vuitton",
+      "Bottega Veneta",
+      "Burberry",
+      "Loewe",
+      "Celine"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Luxury Houses",
+    "anchor": "Louis Vuitton",
+    "terms": [
+      "Louis Vuitton",
+      "Givenchy",
+      "Valentino"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Contemporary & Accessible Luxury",
+    "anchor": "Coach",
+    "terms": [
+      "Coach",
+      "Kate Spade",
+      "Michael Kors",
+      "Tory Burch",
+      "Marc Jacobs"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Contemporary & Accessible Luxury",
+    "anchor": "Coach",
+    "terms": [
+      "Coach",
+      "Ralph Lauren",
+      "Tommy Hilfiger",
+      "Calvin Klein",
+      "Polo Ralph Lauren"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Contemporary & Accessible Luxury",
+    "anchor": "Coach",
+    "terms": [
+      "Coach",
+      "Lacoste",
+      "Hugo Boss",
+      "Vince"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Jewelry & Watches",
+    "anchor": "Tiffany & Co",
+    "terms": [
+      "Tiffany & Co",
+      "Cartier",
+      "Van Cleef & Arpels",
+      "Bulgari",
+      "Pandora"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Jewelry & Watches",
+    "anchor": "Tiffany & Co",
+    "terms": [
+      "Tiffany & Co",
+      "Mejuri",
+      "Kendra Scott",
+      "David Yurman",
+      "Alex and Ani"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Jewelry & Watches",
+    "anchor": "Tiffany & Co",
+    "terms": [
+      "Tiffany & Co",
+      "Gorjana",
+      "Ana Luisa",
+      "Missoma",
+      "Monica Vinader"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Jewelry & Watches",
+    "anchor": "Tiffany & Co",
+    "terms": [
+      "Tiffany & Co",
+      "Brilliant Earth",
+      "Blue Nile"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Eyewear",
+    "anchor": "Ray-Ban",
+    "terms": [
+      "Ray-Ban",
+      "Oakley",
+      "Warby Parker",
+      "Gentle Monster",
+      "Quay"
+    ]
+  },
+  {
+    "industry": "Luxury & Fashion Houses",
+    "competitor_set": "Eyewear",
+    "anchor": "Ray-Ban",
+    "terms": [
+      "Ray-Ban",
+      "Sunglass Hut"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Fragrance (Designer & Niche)",
+    "anchor": "Dior Sauvage",
+    "terms": [
+      "Dior Sauvage",
+      "Chanel No 5",
+      "Bleu de Chanel",
+      "YSL Libre",
+      "Baccarat Rouge 540"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Fragrance (Designer & Niche)",
+    "anchor": "Dior Sauvage",
+    "terms": [
+      "Dior Sauvage",
+      "Maison Francis Kurkdjian",
+      "Le Labo",
+      "Byredo",
+      "Jo Malone"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Fragrance (Designer & Niche)",
+    "anchor": "Dior Sauvage",
+    "terms": [
+      "Dior Sauvage",
+      "Tom Ford Beauty",
+      "Creed",
+      "Parfums de Marly",
+      "Kilian"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Fragrance (Designer & Niche)",
+    "anchor": "Dior Sauvage",
+    "terms": [
+      "Dior Sauvage",
+      "Diptyque",
+      "Glossier You",
+      "Phlur",
+      "Sol de Janeiro"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Fragrance (Designer & Niche)",
+    "anchor": "Dior Sauvage",
+    "terms": [
+      "Dior Sauvage",
+      "Ellis Brooklyn",
+      "Kayali",
+      "Juliette Has A Gun",
+      "Viktor & Rolf"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Fragrance (Designer & Niche)",
+    "anchor": "Dior Sauvage",
+    "terms": [
+      "Dior Sauvage",
+      "Lancome La Vie Est Belle",
+      "Carolina Herrera Good Girl",
+      "Prada Paradoxe",
+      "Valentino Born in Roma"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Fragrance (Designer & Niche)",
+    "anchor": "Dior Sauvage",
+    "terms": [
+      "Dior Sauvage",
+      "Gucci Flora"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Makeup",
+    "anchor": "Rare Beauty",
+    "terms": [
+      "Rare Beauty",
+      "Fenty Beauty",
+      "Charlotte Tilbury",
+      "Huda Beauty",
+      "Glossier"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Makeup",
+    "anchor": "Rare Beauty",
+    "terms": [
+      "Rare Beauty",
+      "Rhode",
+      "Kylie Cosmetics",
+      "e.l.f.",
+      "Maybelline"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Makeup",
+    "anchor": "Rare Beauty",
+    "terms": [
+      "Rare Beauty",
+      "L'Oreal Paris",
+      "NYX",
+      "Too Faced",
+      "Urban Decay"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Makeup",
+    "anchor": "Rare Beauty",
+    "terms": [
+      "Rare Beauty",
+      "Benefit Cosmetics",
+      "MAC Cosmetics",
+      "Nars",
+      "Makeup by Mario"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Makeup",
+    "anchor": "Rare Beauty",
+    "terms": [
+      "Rare Beauty",
+      "Patrick Ta",
+      "Hourglass",
+      "Ilia Beauty",
+      "Saie"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Makeup",
+    "anchor": "Rare Beauty",
+    "terms": [
+      "Rare Beauty",
+      "Merit Beauty",
+      "Tower 28",
+      "Kosas",
+      "Milk Makeup"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Skincare",
+    "anchor": "CeraVe",
+    "terms": [
+      "CeraVe",
+      "La Roche-Posay",
+      "The Ordinary",
+      "Drunk Elephant",
+      "Paula's Choice"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Skincare",
+    "anchor": "CeraVe",
+    "terms": [
+      "CeraVe",
+      "Glow Recipe",
+      "Sunday Riley",
+      "Tatcha",
+      "Augustinus Bader"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Skincare",
+    "anchor": "CeraVe",
+    "terms": [
+      "CeraVe",
+      "Skinceuticals",
+      "Olay",
+      "Neutrogena",
+      "Cetaphil"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Skincare",
+    "anchor": "CeraVe",
+    "terms": [
+      "CeraVe",
+      "Eucerin",
+      "Aveeno",
+      "First Aid Beauty",
+      "Bubble Skincare"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Skincare",
+    "anchor": "CeraVe",
+    "terms": [
+      "CeraVe",
+      "Starface",
+      "Hero Cosmetics",
+      "Peace Out",
+      "Supergoop"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Skincare",
+    "anchor": "CeraVe",
+    "terms": [
+      "CeraVe",
+      "Kiehl's",
+      "Clarins",
+      "Shiseido",
+      "Laneige"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Skincare",
+    "anchor": "CeraVe",
+    "terms": [
+      "CeraVe",
+      "COSRX",
+      "Beauty of Joseon",
+      "Anua"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Hair Care & Tools",
+    "anchor": "Olaplex",
+    "terms": [
+      "Olaplex",
+      "K18",
+      "Moroccanoil",
+      "Ouai",
+      "Briogeo"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Hair Care & Tools",
+    "anchor": "Olaplex",
+    "terms": [
+      "Olaplex",
+      "Amika",
+      "Kerastase",
+      "Redken",
+      "Living Proof"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Hair Care & Tools",
+    "anchor": "Olaplex",
+    "terms": [
+      "Olaplex",
+      "Prose",
+      "Function of Beauty",
+      "Gisou",
+      "Mielle"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Hair Care & Tools",
+    "anchor": "Olaplex",
+    "terms": [
+      "Olaplex",
+      "Pattern Beauty",
+      "Bread Beauty",
+      "Color Wow",
+      "Dae"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Body, Bath & Grooming",
+    "anchor": "Sol de Janeiro Bum Bum",
+    "terms": [
+      "Sol de Janeiro Bum Bum",
+      "Tree Hut",
+      "Dove Body Wash",
+      "Native Deodorant",
+      "Old Spice"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Body, Bath & Grooming",
+    "anchor": "Sol de Janeiro Bum Bum",
+    "terms": [
+      "Sol de Janeiro Bum Bum",
+      "Dr. Squatch",
+      "Harry's",
+      "Dollar Shave Club",
+      "Gillette"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Body, Bath & Grooming",
+    "anchor": "Sol de Janeiro Bum Bum",
+    "terms": [
+      "Sol de Janeiro Bum Bum",
+      "Billie",
+      "Manscaped",
+      "Philips Norelco",
+      "Braun"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Nails & Lashes",
+    "anchor": "OPI",
+    "terms": [
+      "OPI",
+      "Essie",
+      "Olive & June",
+      "Dazzle Dry",
+      "Kiara Sky"
+    ]
+  },
+  {
+    "industry": "Beauty, Fragrance & Personal Care",
+    "competitor_set": "Nails & Lashes",
+    "anchor": "OPI",
+    "terms": [
+      "OPI",
+      "Glamnetic",
+      "Static Nails",
+      "Kiss Nails"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Toy Makers",
+    "anchor": "LEGO",
+    "terms": [
+      "LEGO",
+      "Mattel",
+      "Hasbro",
+      "Barbie",
+      "Hot Wheels"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Toy Makers",
+    "anchor": "LEGO",
+    "terms": [
+      "LEGO",
+      "Fisher-Price",
+      "Nerf",
+      "Play-Doh",
+      "Melissa & Doug"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Toy Makers",
+    "anchor": "LEGO",
+    "terms": [
+      "LEGO",
+      "VTech",
+      "LeapFrog",
+      "Spin Master",
+      "Paw Patrol"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Toy Makers",
+    "anchor": "LEGO",
+    "terms": [
+      "LEGO",
+      "Magna-Tiles",
+      "Picasso Tiles",
+      "Bluey Toys",
+      "MGA Entertainment"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Toy Makers",
+    "anchor": "LEGO",
+    "terms": [
+      "LEGO",
+      "L.O.L. Surprise",
+      "Bratz",
+      "Rainbow High",
+      "Little Tikes"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Toy Makers",
+    "anchor": "LEGO",
+    "terms": [
+      "LEGO",
+      "Step2",
+      "Radio Flyer",
+      "Yoto Player",
+      "Tonies"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Toy Makers",
+    "anchor": "LEGO",
+    "terms": [
+      "LEGO",
+      "Lovevery"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Trading Cards & Collectibles",
+    "anchor": "Pokemon Cards",
+    "terms": [
+      "Pokemon Cards",
+      "Pokemon TCG",
+      "Magic The Gathering",
+      "Yu-Gi-Oh",
+      "Topps"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Trading Cards & Collectibles",
+    "anchor": "Pokemon Cards",
+    "terms": [
+      "Pokemon Cards",
+      "Panini",
+      "Upper Deck",
+      "One Piece Card Game",
+      "Disney Lorcana"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Trading Cards & Collectibles",
+    "anchor": "Pokemon Cards",
+    "terms": [
+      "Pokemon Cards",
+      "Funko",
+      "Hirono"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Baby Gear",
+    "anchor": "UPPAbaby",
+    "terms": [
+      "UPPAbaby",
+      "Doona",
+      "Nuna",
+      "Bugaboo",
+      "Graco"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Baby Gear",
+    "anchor": "UPPAbaby",
+    "terms": [
+      "UPPAbaby",
+      "Chicco",
+      "Evenflo",
+      "Britax",
+      "Baby Brezza"
+    ]
+  },
+  {
+    "industry": "Toys, Kids & Collectibles",
+    "competitor_set": "Baby Gear",
+    "anchor": "UPPAbaby",
+    "terms": [
+      "UPPAbaby",
+      "Owlet",
+      "Nanit",
+      "Hatch Baby"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Smartphones",
+    "anchor": "iPhone",
+    "terms": [
+      "iPhone",
+      "Samsung Galaxy",
+      "Google Pixel",
+      "OnePlus",
+      "Motorola"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Smartphones",
+    "anchor": "iPhone",
+    "terms": [
+      "iPhone",
+      "Nothing Phone",
+      "Xiaomi",
+      "Galaxy Z Fold",
+      "Galaxy Z Flip"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Wireless Carriers",
+    "anchor": "Verizon",
+    "terms": [
+      "Verizon",
+      "AT&T",
+      "T-Mobile",
+      "Mint Mobile",
+      "Visible"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Wireless Carriers",
+    "anchor": "Verizon",
+    "terms": [
+      "Verizon",
+      "Cricket Wireless"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Wearables & Audio",
+    "anchor": "Apple Watch",
+    "terms": [
+      "Apple Watch",
+      "AirPods",
+      "AirPods Pro",
+      "Galaxy Watch",
+      "Pixel Watch"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Wearables & Audio",
+    "anchor": "Apple Watch",
+    "terms": [
+      "Apple Watch",
+      "Fitbit",
+      "Garmin",
+      "Whoop",
+      "Oura Ring"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Wearables & Audio",
+    "anchor": "Apple Watch",
+    "terms": [
+      "Apple Watch",
+      "Ultrahuman Ring",
+      "Samsung Galaxy Ring",
+      "Bose",
+      "Sony WH-1000XM"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Wearables & Audio",
+    "anchor": "Apple Watch",
+    "terms": [
+      "Apple Watch",
+      "Beats",
+      "Jabra"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Laptops & Tablets",
+    "anchor": "MacBook",
+    "terms": [
+      "MacBook",
+      "MacBook Air",
+      "MacBook Pro",
+      "iPad",
+      "iPad Pro"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Laptops & Tablets",
+    "anchor": "MacBook",
+    "terms": [
+      "MacBook",
+      "Dell XPS",
+      "Dell Alienware",
+      "HP Spectre",
+      "HP Omen"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Laptops & Tablets",
+    "anchor": "MacBook",
+    "terms": [
+      "MacBook",
+      "Lenovo ThinkPad",
+      "Lenovo Legion",
+      "Lenovo Yoga"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Smart Home & TV",
+    "anchor": "Amazon Echo",
+    "terms": [
+      "Amazon Echo",
+      "Alexa+",
+      "Google Nest",
+      "Ring",
+      "Arlo"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Smart Home & TV",
+    "anchor": "Amazon Echo",
+    "terms": [
+      "Amazon Echo",
+      "Wyze",
+      "SimpliSafe",
+      "ADT",
+      "Eufy"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Smart Home & TV",
+    "anchor": "Amazon Echo",
+    "terms": [
+      "Amazon Echo",
+      "Blink",
+      "Philips Hue",
+      "Govee",
+      "Nanoleaf"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Smart Home & TV",
+    "anchor": "Amazon Echo",
+    "terms": [
+      "Amazon Echo",
+      "Ecobee",
+      "August Lock"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Cameras & Drones",
+    "anchor": "GoPro",
+    "terms": [
+      "GoPro",
+      "DJI",
+      "DJI Osmo Pocket",
+      "Insta360",
+      "Canon"
+    ]
+  },
+  {
+    "industry": "Consumer Electronics",
+    "competitor_set": "Cameras & Drones",
+    "anchor": "GoPro",
+    "terms": [
+      "GoPro",
+      "Nikon",
+      "Sony Alpha",
+      "Fujifilm"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Chips & GPUs",
+    "anchor": "Nvidia",
+    "terms": [
+      "Nvidia",
+      "AMD",
+      "Intel",
+      "Qualcomm Snapdragon",
+      "Apple Silicon"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Chips & GPUs",
+    "anchor": "Nvidia",
+    "terms": [
+      "Nvidia",
+      "RTX 5090",
+      "RTX 5080",
+      "RTX 5070",
+      "Radeon RX 9070"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Components & Boards",
+    "anchor": "Asus",
+    "terms": [
+      "Asus",
+      "MSI",
+      "Gigabyte",
+      "ASRock",
+      "EVGA"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Components & Boards",
+    "anchor": "Asus",
+    "terms": [
+      "Asus",
+      "Zotac",
+      "PNY",
+      "Sapphire",
+      "PowerColor"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Components & Boards",
+    "anchor": "Asus",
+    "terms": [
+      "Asus",
+      "XFX",
+      "Corsair",
+      "NZXT",
+      "Lian Li"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Components & Boards",
+    "anchor": "Asus",
+    "terms": [
+      "Asus",
+      "Fractal Design",
+      "Cooler Master",
+      "be quiet!",
+      "Noctua"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Components & Boards",
+    "anchor": "Asus",
+    "terms": [
+      "Asus",
+      "Thermaltake"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Peripherals",
+    "anchor": "Logitech",
+    "terms": [
+      "Logitech",
+      "Logitech G",
+      "Razer",
+      "SteelSeries",
+      "HyperX"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Peripherals",
+    "anchor": "Logitech",
+    "terms": [
+      "Logitech",
+      "Turtle Beach",
+      "Elgato",
+      "Keychron",
+      "Wooting"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Peripherals",
+    "anchor": "Logitech",
+    "terms": [
+      "Logitech",
+      "Glorious",
+      "Ducky",
+      "Nuphy",
+      "Finalmouse"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Peripherals",
+    "anchor": "Logitech",
+    "terms": [
+      "Logitech",
+      "Pulsar",
+      "Lamzu",
+      "Zowie",
+      "Secretlab"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Peripherals",
+    "anchor": "Logitech",
+    "terms": [
+      "Logitech",
+      "Branch Furniture",
+      "Autonomous Desk",
+      "Flexispot",
+      "Uplift Desk"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Consoles & Handhelds",
+    "anchor": "PlayStation 5",
+    "terms": [
+      "PlayStation 5",
+      "PS5 Pro",
+      "Xbox Series X",
+      "Xbox Game Pass",
+      "Nintendo Switch 2"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Consoles & Handhelds",
+    "anchor": "PlayStation 5",
+    "terms": [
+      "PlayStation 5",
+      "Nintendo Switch",
+      "Steam Deck",
+      "Valve Steam Machine",
+      "Steam Frame"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Consoles & Handhelds",
+    "anchor": "PlayStation 5",
+    "terms": [
+      "PlayStation 5",
+      "Asus ROG Ally",
+      "ROG Xbox Ally"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "Frontier AI Assistants",
+    "anchor": "ChatGPT",
+    "terms": [
+      "ChatGPT",
+      "OpenAI",
+      "Claude",
+      "Anthropic",
+      "Gemini"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "Frontier AI Assistants",
+    "anchor": "ChatGPT",
+    "terms": [
+      "ChatGPT",
+      "Google Gemini",
+      "Microsoft Copilot",
+      "Meta AI",
+      "Grok"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "Frontier AI Assistants",
+    "anchor": "ChatGPT",
+    "terms": [
+      "ChatGPT",
+      "xAI",
+      "Perplexity",
+      "DeepSeek",
+      "Mistral AI"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "Frontier AI Assistants",
+    "anchor": "ChatGPT",
+    "terms": [
+      "ChatGPT",
+      "Le Chat",
+      "Qwen",
+      "Kimi",
+      "Manus"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "Frontier AI Assistants",
+    "anchor": "ChatGPT",
+    "terms": [
+      "ChatGPT",
+      "Character.AI",
+      "Pi AI",
+      "Poe",
+      "Apple Intelligence"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "Frontier AI Assistants",
+    "anchor": "ChatGPT",
+    "terms": [
+      "ChatGPT",
+      "Siri",
+      "Alexa+",
+      "Amazon Nova",
+      "Llama"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "Frontier AI Assistants",
+    "anchor": "ChatGPT",
+    "terms": [
+      "ChatGPT",
+      "Sora",
+      "Veo",
+      "Nano Banana",
+      "Midjourney"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Agents & Agentic Tools",
+    "anchor": "ChatGPT Agent",
+    "terms": [
+      "ChatGPT Agent",
+      "OpenAI Operator",
+      "OpenAI Codex",
+      "Claude Code",
+      "Claude Cowork"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Agents & Agentic Tools",
+    "anchor": "ChatGPT Agent",
+    "terms": [
+      "ChatGPT Agent",
+      "Gemini Agent",
+      "Project Mariner",
+      "Jules Google",
+      "Devin AI"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Agents & Agentic Tools",
+    "anchor": "ChatGPT Agent",
+    "terms": [
+      "ChatGPT Agent",
+      "Cognition AI",
+      "Cursor",
+      "Windsurf",
+      "GitHub Copilot"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Agents & Agentic Tools",
+    "anchor": "ChatGPT Agent",
+    "terms": [
+      "ChatGPT Agent",
+      "Replit Agent",
+      "Lovable",
+      "Bolt.new",
+      "v0"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Agents & Agentic Tools",
+    "anchor": "ChatGPT Agent",
+    "terms": [
+      "ChatGPT Agent",
+      "Vercel",
+      "Base44",
+      "Genspark",
+      "Manus AI"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Agents & Agentic Tools",
+    "anchor": "ChatGPT Agent",
+    "terms": [
+      "ChatGPT Agent",
+      "Comet Browser",
+      "ChatGPT Atlas",
+      "Dia Browser",
+      "Opera Neon"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Agents & Agentic Tools",
+    "anchor": "ChatGPT Agent",
+    "terms": [
+      "ChatGPT Agent",
+      "Arc Browser",
+      "Browser Use",
+      "MultiOn",
+      "Adept AI"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Agents & Agentic Tools",
+    "anchor": "ChatGPT Agent",
+    "terms": [
+      "ChatGPT Agent",
+      "Lindy AI"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Hardware & Companions",
+    "anchor": "Rabbit R1",
+    "terms": [
+      "Rabbit R1",
+      "Humane AI Pin",
+      "Limitless AI",
+      "Plaud NotePin",
+      "Bee Wearable"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Hardware & Companions",
+    "anchor": "Rabbit R1",
+    "terms": [
+      "Rabbit R1",
+      "Meta Ray-Ban Display",
+      "io OpenAI device",
+      "Brilliant Labs Frame",
+      "Halliday Glasses"
+    ]
+  },
+  {
+    "industry": "AI Agents & AI Products",
+    "competitor_set": "AI Hardware & Companions",
+    "anchor": "Rabbit R1",
+    "terms": [
+      "Rabbit R1",
+      "Even G2",
+      "Ray-Ban Meta Gen 2"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Hotel Chains",
+    "anchor": "Marriott",
+    "terms": [
+      "Marriott",
+      "Hilton",
+      "Hyatt",
+      "IHG",
+      "Wyndham"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Hotel Chains",
+    "anchor": "Marriott",
+    "terms": [
+      "Marriott",
+      "Choice Hotels",
+      "Best Western",
+      "Accor",
+      "Four Seasons"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Hotel Chains",
+    "anchor": "Marriott",
+    "terms": [
+      "Marriott",
+      "Ritz-Carlton",
+      "St. Regis",
+      "W Hotels",
+      "Westin"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Hotel Chains",
+    "anchor": "Marriott",
+    "terms": [
+      "Marriott",
+      "Sheraton",
+      "Courtyard by Marriott",
+      "Residence Inn",
+      "Fairfield Inn"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Hotel Chains",
+    "anchor": "Marriott",
+    "terms": [
+      "Marriott",
+      "Hampton Inn",
+      "Embassy Suites",
+      "DoubleTree",
+      "Waldorf Astoria"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Hotel Chains",
+    "anchor": "Marriott",
+    "terms": [
+      "Marriott",
+      "Conrad",
+      "Canopy by Hilton",
+      "Tempo by Hilton",
+      "Holiday Inn"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Hotel Chains",
+    "anchor": "Marriott",
+    "terms": [
+      "Marriott",
+      "Holiday Inn Express"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Resorts & Casinos",
+    "anchor": "MGM Grand",
+    "terms": [
+      "MGM Grand",
+      "Bellagio",
+      "Caesars Palace",
+      "Wynn Las Vegas",
+      "Venetian"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Resorts & Casinos",
+    "anchor": "MGM Grand",
+    "terms": [
+      "MGM Grand",
+      "Fontainebleau Las Vegas",
+      "Resorts World Las Vegas",
+      "Cosmopolitan Las Vegas",
+      "Atlantis Bahamas"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Resorts & Casinos",
+    "anchor": "MGM Grand",
+    "terms": [
+      "MGM Grand",
+      "Sandals"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Booking & Rentals",
+    "anchor": "Airbnb",
+    "terms": [
+      "Airbnb",
+      "Vrbo",
+      "Booking.com",
+      "Expedia",
+      "Hotels.com"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Booking & Rentals",
+    "anchor": "Airbnb",
+    "terms": [
+      "Airbnb",
+      "Priceline",
+      "Kayak",
+      "Trivago",
+      "Hopper"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Booking & Rentals",
+    "anchor": "Airbnb",
+    "terms": [
+      "Airbnb",
+      "Google Travel"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Airlines",
+    "anchor": "Delta",
+    "terms": [
+      "Delta",
+      "United Airlines",
+      "American Airlines",
+      "Southwest",
+      "JetBlue"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Airlines",
+    "anchor": "Delta",
+    "terms": [
+      "Delta",
+      "Alaska Airlines",
+      "Spirit Airlines",
+      "Frontier Airlines",
+      "Allegiant"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Airlines",
+    "anchor": "Delta",
+    "terms": [
+      "Delta",
+      "Hawaiian Airlines",
+      "Breeze Airways",
+      "Sun Country"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Cruises",
+    "anchor": "Royal Caribbean",
+    "terms": [
+      "Royal Caribbean",
+      "Carnival Cruise",
+      "Norwegian Cruise Line",
+      "Disney Cruise Line",
+      "Princess Cruises"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Cruises",
+    "anchor": "Royal Caribbean",
+    "terms": [
+      "Royal Caribbean",
+      "Celebrity Cruises",
+      "MSC Cruises",
+      "Virgin Voyages",
+      "Viking Cruises"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Rental Cars & Mobility",
+    "anchor": "Hertz",
+    "terms": [
+      "Hertz",
+      "Enterprise",
+      "Avis",
+      "Budget",
+      "National Car Rental"
+    ]
+  },
+  {
+    "industry": "Hotels & Travel",
+    "competitor_set": "Rental Cars & Mobility",
+    "anchor": "Hertz",
+    "terms": [
+      "Hertz",
+      "Alamo",
+      "Sixt",
+      "Turo",
+      "Uber"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Theme Parks",
+    "anchor": "Disney World",
+    "terms": [
+      "Disney World",
+      "Disneyland",
+      "Universal Studios",
+      "Epic Universe",
+      "Universal Orlando"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Theme Parks",
+    "anchor": "Disney World",
+    "terms": [
+      "Disney World",
+      "Six Flags",
+      "Cedar Point",
+      "SeaWorld",
+      "Busch Gardens"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Theme Parks",
+    "anchor": "Disney World",
+    "terms": [
+      "Disney World",
+      "Knott's Berry Farm",
+      "Legoland",
+      "Dollywood",
+      "Hersheypark"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Theme Parks",
+    "anchor": "Disney World",
+    "terms": [
+      "Disney World",
+      "Kings Island"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Family Entertainment Centers",
+    "anchor": "Dave & Buster's",
+    "terms": [
+      "Dave & Buster's",
+      "Topgolf",
+      "Chuck E. Cheese",
+      "Main Event",
+      "Round1"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Family Entertainment Centers",
+    "anchor": "Dave & Buster's",
+    "terms": [
+      "Dave & Buster's",
+      "Bowlero",
+      "Lucky Strike",
+      "Puttshack",
+      "Drive Shack"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Family Entertainment Centers",
+    "anchor": "Dave & Buster's",
+    "terms": [
+      "Dave & Buster's",
+      "Flight Club",
+      "Pinstripes",
+      "Urban Air",
+      "Sky Zone"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Family Entertainment Centers",
+    "anchor": "Dave & Buster's",
+    "terms": [
+      "Dave & Buster's",
+      "Altitude Trampoline Park",
+      "iFly",
+      "Andretti Indoor Karting",
+      "K1 Speed"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Cinema & Live Events",
+    "anchor": "AMC Theatres",
+    "terms": [
+      "AMC Theatres",
+      "Regal Cinemas",
+      "Cinemark",
+      "Alamo Drafthouse",
+      "Marcus Theatres"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Cinema & Live Events",
+    "anchor": "AMC Theatres",
+    "terms": [
+      "AMC Theatres",
+      "Harkins Theatres",
+      "IMAX",
+      "Dolby Cinema",
+      "AMC Stubs A-List"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Cinema & Live Events",
+    "anchor": "AMC Theatres",
+    "terms": [
+      "AMC Theatres",
+      "Regal Unlimited",
+      "Fathom Events",
+      "Ticketmaster",
+      "Live Nation"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Cinema & Live Events",
+    "anchor": "AMC Theatres",
+    "terms": [
+      "AMC Theatres",
+      "StubHub",
+      "SeatGeek",
+      "Vivid Seats"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Streaming Video",
+    "anchor": "Netflix",
+    "terms": [
+      "Netflix",
+      "Disney+",
+      "Hulu",
+      "Max",
+      "HBO Max"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Streaming Video",
+    "anchor": "Netflix",
+    "terms": [
+      "Netflix",
+      "Amazon Prime Video",
+      "Apple TV+",
+      "Paramount+",
+      "Peacock"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Streaming Video",
+    "anchor": "Netflix",
+    "terms": [
+      "Netflix",
+      "YouTube TV",
+      "Sling TV",
+      "Fubo",
+      "Tubi"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Music & Audio Streaming",
+    "anchor": "Spotify",
+    "terms": [
+      "Spotify",
+      "Apple Music",
+      "YouTube Music",
+      "Amazon Music",
+      "Tidal"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Music & Audio Streaming",
+    "anchor": "Spotify",
+    "terms": [
+      "Spotify",
+      "Pandora",
+      "SoundCloud",
+      "Deezer"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Video Games & Publishers",
+    "anchor": "Fortnite",
+    "terms": [
+      "Fortnite",
+      "Roblox",
+      "Minecraft",
+      "Call of Duty",
+      "GTA 6"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Video Games & Publishers",
+    "anchor": "Fortnite",
+    "terms": [
+      "Fortnite",
+      "Grand Theft Auto",
+      "EA Sports FC",
+      "Madden NFL",
+      "NBA 2K"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Video Games & Publishers",
+    "anchor": "Fortnite",
+    "terms": [
+      "Fortnite",
+      "College Football 26",
+      "Pokemon Legends Z-A",
+      "Mario Kart World",
+      "Donkey Kong Bananza"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Video Games & Publishers",
+    "anchor": "Fortnite",
+    "terms": [
+      "Fortnite",
+      "Zelda",
+      "Animal Crossing",
+      "Valorant",
+      "League of Legends"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Video Games & Publishers",
+    "anchor": "Fortnite",
+    "terms": [
+      "Fortnite",
+      "Apex Legends",
+      "Overwatch",
+      "Marvel Rivals",
+      "Battlefield 6"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Video Games & Publishers",
+    "anchor": "Fortnite",
+    "terms": [
+      "Fortnite",
+      "Elden Ring",
+      "Elden Ring Nightreign",
+      "Hollow Knight Silksong",
+      "Ghost of Yotei"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Video Games & Publishers",
+    "anchor": "Fortnite",
+    "terms": [
+      "Fortnite",
+      "Borderlands 4",
+      "Monster Hunter Wilds",
+      "Clair Obscur Expedition 33",
+      "Death Stranding 2"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Video Games & Publishers",
+    "anchor": "Fortnite",
+    "terms": [
+      "Fortnite",
+      "Silent Hill f",
+      "Splitgate",
+      "Arc Raiders",
+      "Deadlock"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Video Games & Publishers",
+    "anchor": "Fortnite",
+    "terms": [
+      "Fortnite",
+      "Schedule I",
+      "Peak game"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Fitness & Wellness Chains",
+    "anchor": "Planet Fitness",
+    "terms": [
+      "Planet Fitness",
+      "LA Fitness",
+      "Crunch Fitness",
+      "Anytime Fitness",
+      "24 Hour Fitness"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Fitness & Wellness Chains",
+    "anchor": "Planet Fitness",
+    "terms": [
+      "Planet Fitness",
+      "Equinox",
+      "Life Time Fitness",
+      "Gold's Gym",
+      "EoS Fitness"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Fitness & Wellness Chains",
+    "anchor": "Planet Fitness",
+    "terms": [
+      "Planet Fitness",
+      "Orangetheory",
+      "F45",
+      "Barry's",
+      "SoulCycle"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Fitness & Wellness Chains",
+    "anchor": "Planet Fitness",
+    "terms": [
+      "Planet Fitness",
+      "CorePower Yoga",
+      "Pure Barre",
+      "Club Pilates",
+      "Solidcore"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Fitness & Wellness Chains",
+    "anchor": "Planet Fitness",
+    "terms": [
+      "Planet Fitness",
+      "Hotworx",
+      "Xponential",
+      "Peloton",
+      "Tonal"
+    ]
+  },
+  {
+    "industry": "Entertainment & Experiences",
+    "competitor_set": "Fitness & Wellness Chains",
+    "anchor": "Planet Fitness",
+    "terms": [
+      "Planet Fitness",
+      "Hydrow",
+      "Zwift"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Automakers",
+    "anchor": "Tesla",
+    "terms": [
+      "Tesla",
+      "Ford",
+      "Chevrolet",
+      "Toyota",
+      "Honda"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Automakers",
+    "anchor": "Tesla",
+    "terms": [
+      "Tesla",
+      "Hyundai",
+      "Kia",
+      "Nissan",
+      "Subaru"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Automakers",
+    "anchor": "Tesla",
+    "terms": [
+      "Tesla",
+      "Mazda",
+      "Jeep",
+      "Ram Trucks",
+      "GMC"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Automakers",
+    "anchor": "Tesla",
+    "terms": [
+      "Tesla",
+      "Cadillac",
+      "Lexus",
+      "BMW",
+      "Mercedes-Benz"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Automakers",
+    "anchor": "Tesla",
+    "terms": [
+      "Tesla",
+      "Audi",
+      "Porsche",
+      "Volkswagen",
+      "Volvo"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Automakers",
+    "anchor": "Tesla",
+    "terms": [
+      "Tesla",
+      "Polestar",
+      "Rivian"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Auto Retail & Services",
+    "anchor": "Carvana",
+    "terms": [
+      "Carvana",
+      "CarMax",
+      "Vroom",
+      "Cars.com",
+      "Autotrader"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Auto Retail & Services",
+    "anchor": "Carvana",
+    "terms": [
+      "Carvana",
+      "CarGurus",
+      "Bring a Trailer",
+      "Cars & Bids",
+      "Copart"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Micromobility & Powersports",
+    "anchor": "Super73",
+    "terms": [
+      "Super73",
+      "Rad Power Bikes",
+      "Aventon",
+      "Lectric eBikes",
+      "VanMoof"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Micromobility & Powersports",
+    "anchor": "Super73",
+    "terms": [
+      "Super73",
+      "Specialized",
+      "Trek",
+      "Cannondale",
+      "Onewheel"
+    ]
+  },
+  {
+    "industry": "Automotive & Mobility",
+    "competitor_set": "Micromobility & Powersports",
+    "anchor": "Super73",
+    "terms": [
+      "Super73",
+      "Segway",
+      "Ninebot"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Fintech & Payments",
+    "anchor": "Venmo",
+    "terms": [
+      "Venmo",
+      "Cash App",
+      "Zelle",
+      "PayPal",
+      "Apple Pay"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Fintech & Payments",
+    "anchor": "Venmo",
+    "terms": [
+      "Venmo",
+      "Google Pay",
+      "Chime",
+      "SoFi",
+      "Robinhood"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Fintech & Payments",
+    "anchor": "Venmo",
+    "terms": [
+      "Venmo",
+      "Webull",
+      "Coinbase",
+      "Kraken",
+      "Gemini Exchange"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Fintech & Payments",
+    "anchor": "Venmo",
+    "terms": [
+      "Venmo",
+      "Binance",
+      "Crypto.com",
+      "Kalshi",
+      "Polymarket"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Fintech & Payments",
+    "anchor": "Venmo",
+    "terms": [
+      "Venmo",
+      "DraftKings",
+      "FanDuel",
+      "PrizePicks",
+      "Underdog Fantasy"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Fintech & Payments",
+    "anchor": "Venmo",
+    "terms": [
+      "Venmo",
+      "Fanatics Sportsbook"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Social & Creator Platforms",
+    "anchor": "TikTok",
+    "terms": [
+      "TikTok",
+      "Instagram",
+      "Threads",
+      "Bluesky",
+      "X Twitter"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Social & Creator Platforms",
+    "anchor": "TikTok",
+    "terms": [
+      "TikTok",
+      "Snapchat",
+      "Pinterest",
+      "Reddit",
+      "BeReal"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Social & Creator Platforms",
+    "anchor": "TikTok",
+    "terms": [
+      "TikTok",
+      "Lemon8",
+      "Discord",
+      "Telegram",
+      "WhatsApp"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Social & Creator Platforms",
+    "anchor": "TikTok",
+    "terms": [
+      "TikTok",
+      "Facebook",
+      "LinkedIn",
+      "Substack",
+      "Patreon"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Social & Creator Platforms",
+    "anchor": "TikTok",
+    "terms": [
+      "TikTok",
+      "OnlyFans",
+      "Fanvue",
+      "Linktree",
+      "Beacons"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Productivity & SaaS (consumer-facing)",
+    "anchor": "Notion",
+    "terms": [
+      "Notion",
+      "Canva",
+      "Figma",
+      "Adobe Express",
+      "Microsoft 365"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Productivity & SaaS (consumer-facing)",
+    "anchor": "Notion",
+    "terms": [
+      "Notion",
+      "Google Workspace",
+      "Slack",
+      "Zoom",
+      "Dropbox"
+    ]
+  },
+  {
+    "industry": "Financial & Consumer Apps",
+    "competitor_set": "Productivity & SaaS (consumer-facing)",
+    "anchor": "Notion",
+    "terms": [
+      "Notion",
+      "Todoist",
+      "Obsidian",
+      "Superhuman"
+    ]
+  }
+]

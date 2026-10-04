@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lookvest Brand Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f3f7f2;--panel:#ffffff;--ink:#0d1f14;--muted:#5b6f61;--line:#dbe6dc;--g1:#0f9d58;--g2:#00c46a;--g3:#d6f5e3;--chip:#eef6ef}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#07120b;--panel:#0d1c13;--ink:#e6f4ea;--muted:#8aa694;--line:#1d3326;--g1:#27e07f;--g2:#00ff88;--g3:#0f3320;--chip:#122719}}
+:root[data-theme="dark"]{--bg:#07120b;--panel:#0d1c13;--ink:#e6f4ea;--muted:#8aa694;--line:#1d3326;--g1:#27e07f;--g2:#00ff88;--g3:#0f3320;--chip:#122719}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Space Grotesk",system-ui,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 16px 64px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:16px;border-bottom:2px solid var(--g1);padding-bottom:18px}
+.brand{display:flex;align-items:center;gap:12px}
+.mark{width:42px;height:42px;border-radius:12px;background:linear-gradient(135deg,var(--g1),var(--g2));display:grid;place-items:center;color:#04130a;font-weight:700;font-size:22px}
+h1{margin:0;font-size:clamp(24px,4vw,36px);letter-spacing:-.02em}
+h1 span{color:var(--g1)}
+.sub{color:var(--muted);font-size:14px;margin-top:4px}
+.stats{display:flex;gap:10px;flex-wrap:wrap}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:10px 14px;min-width:110px}
+.stat b{display:block;font-family:"JetBrains Mono",monospace;font-size:22px;color:var(--g1)}
+.stat small{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.08em}
+.controls{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 12px;align-items:center}
+input,select{font:inherit;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:10px 12px;min-width:0}
+input{flex:1 1 260px}
+input:focus,select:focus{outline:2px solid var(--g1);outline-offset:1px}
+.seg{display:flex;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.seg button{font:inherit;border:0;background:var(--panel);color:var(--muted);padding:10px 14px;cursor:pointer}
+.seg button.on{background:var(--g1);color:#04130a;font-weight:600}
+.btn{font:inherit;border:1px solid var(--g1);background:transparent;color:var(--g1);border-radius:10px;padding:10px 14px;cursor:pointer;font-weight:600}
+.btn:hover{background:var(--g3)}
+.inds{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px}
+.ind{font-size:13px;border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer}
+.ind.on{background:var(--g1);border-color:var(--g1);color:#04130a;font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 16px;position:relative;overflow:hidden}
+.card:before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(var(--g1),var(--g2))}
+.card h3{margin:0;font-size:16px;display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+.card h3 small{font-family:"JetBrains Mono",monospace;color:var(--muted);font-weight:400;font-size:12px}
+.card .ind-label{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--g1);margin-bottom:4px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.tag{font-size:13px;padding:4px 9px;border-radius:7px;background:var(--chip);border:1px solid var(--line);cursor:pointer}
+.tag.ext{opacity:.6;border-style:dashed}
+.tag:hover{border-color:var(--g1)}
+.copybatch{margin-top:10px;font-size:12px;color:var(--g1);background:none;border:0;padding:0;cursor:pointer;font-family:inherit}
+.toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--g1);color:#04130a;padding:10px 16px;border-radius:10px;font-weight:600;opacity:0;transition:.2s;pointer-events:none}
+.toast.show{opacity:1}
+.tips{margin-top:34px;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.tip{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px}
+.tip h4{margin:0 0 6px;color:var(--g1)}
+.tip p{margin:0;color:var(--muted);font-size:14px;line-height:1.5}
+footer{margin-top:40px;color:var(--muted);font-size:12px;text-align:center}
+.empty{color:var(--muted);padding:40px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div>
+    <div class="brand"><div class="mark">L</div><h1>Lookvest <span>Brand Radar</span></h1></div>
+    <div class="sub">Brand keywords grouped into competitor sets, for Google Trends, TikTok Creative Center and Pinterest Trends.</div>
+  </div>
+  <div class="stats">
+    <div class="stat"><b id="sCore">0</b><small>Core keywords</small></div>
+    <div class="stat"><b id="sAll">0</b><small>All keywords</small></div>
+    <div class="stat"><b id="sSets">0</b><small>Comp sets</small></div>
+  </div>
+</header>
+
+<div class="controls">
+  <input id="q" type="search" placeholder="Search a brand, set or industry…">
+  <div class="seg"><button data-t="core" class="on">Core 1K</button><button data-t="all">Core + Extended</button></div>
+  <button class="btn" id="copyAll">Copy visible keywords</button>
+</div>
+<div class="inds" id="inds"></div>
+<div class="grid" id="grid"></div>
+
+<div class="tips">
+  <div class="tip"><h4>Google Trends</h4><p>5 terms max per compare. Use “Copy batch”: it keeps the set leader as an anchor so scores line up across batches.</p></div>
+  <div class="tip"><h4>TikTok Creative Center</h4><p>Check Keyword Insights &amp; Hashtags. Pair a brand with “new”, “drop”, “restock” or “dupe” to spot launch spikes.</p></div>
+  <div class="tip"><h4>Pinterest Trends</h4><p>Strongest for beauty, fashion, home and toys. Watch for “growing” trend type versus “seasonal”.</p></div>
+  <div class="tip"><h4>Virality signal</h4><p>Flag a brand when its share of its competitor set jumps more than 2× its 90-day baseline within 7–14 days of a launch.</p></div>
+</div>
+<footer>Lookvest · Brand Radar · <span id="gen"></span></footer>
+</div>
+<div class="toast" id="toast">Copied</div>
+<script>
+const ROWS = /*DATA*/[];
+const GEN = "/*GEN*/";
+let tier = "core", ind = "All", q = "";
+const $ = s => document.querySelector(s);
+const uniq = a => [...new Set(a)];
+$("#gen").textContent = GEN;
+$("#sCore").textContent = uniq(ROWS.filter(r => r.tier === "core").map(r => r.keyword.toLowerCase())).length;
+$("#sAll").textContent = uniq(ROWS.map(r => r.keyword.toLowerCase())).length;
+$("#sSets").textContent = uniq(ROWS.map(r => r.industry + "|" + r.competitor_set)).length;
+const industries = ["All", ...uniq(ROWS.map(r => r.industry))];
+$("#inds").innerHTML = industries.map(i => `<button class="ind${i === ind ? " on" : ""}" data-i="${i}">${i}</button>`).join("");
+function toast(t){const e=$("#toast");e.textContent=t;e.classList.add("show");setTimeout(()=>e.classList.remove("show"),1200)}
+function copy(text,msg){navigator.clipboard?.writeText(text).then(()=>toast(msg),()=>toast("Copy blocked"))}
+function visible(){
+  const ql=q.toLowerCase();
+  return ROWS.filter(r=>(tier==="all"||r.tier==="core")&&(ind==="All"||r.industry===ind)&&
+    (!ql||r.keyword.toLowerCase().includes(ql)||r.competitor_set.toLowerCase().includes(ql)||r.industry.toLowerCase().includes(ql)));
+}
+function render(){
+  const rows=visible(), groups={};
+  rows.forEach(r=>{(groups[r.industry+"|"+r.competitor_set] ||= []).push(r)});
+  const keys=Object.keys(groups);
+  $("#grid").innerHTML = keys.length ? keys.map(k=>{
+    const [i,s]=k.split("|"), g=groups[k];
+    return `<div class="card"><div class="ind-label">${i}</div><h3>${s}<small>${g.length}</small></h3>
+      <div class="tags">${g.map(r=>`<span class="tag${r.tier==="extended"?" ext":""}" title="#${r.set_rank} in set">${r.keyword}</span>`).join("")}</div>
+      <button class="copybatch" data-k="${k}">Copy Google Trends batches ↗</button></div>`}).join("")
+    : `<div class="empty">No brands match.</div>`;
+  window._groups=groups;
+}
+document.addEventListener("click",e=>{
+  const t=e.target;
+  if(t.matches(".seg button")){tier=t.dataset.t;document.querySelectorAll(".seg button").forEach(b=>b.classList.toggle("on",b===t));render()}
+  if(t.matches(".ind")){ind=t.dataset.i;document.querySelectorAll(".ind").forEach(b=>b.classList.toggle("on",b===t));render()}
+  if(t.matches(".tag")) copy(t.textContent,`Copied “${t.textContent}”`);
+  if(t.matches(".copybatch")){
+    const names=window._groups[t.dataset.k].map(r=>r.keyword), lead=names[0], rest=names.slice(1), out=[];
+    for(let i=0;i<rest.length;i+=4) out.push([lead,...rest.slice(i,i+4)].join(", "));
+    copy(out.join("\n"),`Copied ${out.length} batch${out.length>1?"es":""}`);
+  }
+  if(t.id==="copyAll") copy(uniq(visible().map(r=>r.keyword)).join("\n"),"Copied visible keywords");
+});
+$("#q").addEventListener("input",e=>{q=e.target.value;render()});
+render();
+</script>
+</body>
+</html>
