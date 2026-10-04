@@ -2,3049 +2,3057 @@
   {
     "industry": "Restaurants",
     "competitor_set": "Burgers",
-    "anchor": "McDonald's",
+    "anchor": "mcdonalds",
     "terms": [
-      "McDonald's",
-      "Burger King",
-      "Wendy's",
-      "Five Guys",
-      "Shake Shack"
+      "mcdonalds",
+      "burger king",
+      "wendys",
+      "five guys",
+      "shake shack"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Burgers",
-    "anchor": "McDonald's",
+    "anchor": "mcdonalds",
     "terms": [
-      "McDonald's",
-      "In-N-Out",
-      "Whataburger"
+      "mcdonalds",
+      "in n out",
+      "whataburger"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Chicken",
-    "anchor": "Chick-fil-A",
+    "anchor": "chick fil a",
     "terms": [
-      "Chick-fil-A",
-      "Popeyes",
-      "KFC",
-      "Raising Cane's",
-      "Wingstop"
+      "chick fil a",
+      "popeyes",
+      "kfc",
+      "raising canes",
+      "wingstop"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Chicken",
-    "anchor": "Chick-fil-A",
+    "anchor": "chick fil a",
     "terms": [
-      "Chick-fil-A",
-      "Zaxby's"
+      "chick fil a",
+      "zaxbys"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Pizza",
-    "anchor": "Domino's",
+    "anchor": "dominos",
     "terms": [
-      "Domino's",
-      "Pizza Hut",
-      "Papa John's",
-      "Little Caesars",
-      "Marco's Pizza"
+      "dominos",
+      "pizza hut",
+      "papa johns",
+      "little caesars",
+      "marcos pizza"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Pizza",
-    "anchor": "Domino's",
+    "anchor": "dominos",
     "terms": [
-      "Domino's",
-      "Papa Murphy's"
+      "dominos",
+      "papa murphys"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Mexican & Fast Casual",
-    "anchor": "Chipotle",
+    "anchor": "chipotle",
     "terms": [
-      "Chipotle",
-      "Taco Bell",
-      "Qdoba",
-      "Moe's Southwest Grill",
-      "Del Taco"
+      "chipotle",
+      "taco bell",
+      "qdoba",
+      "moes southwest grill",
+      "del taco"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Mexican & Fast Casual",
-    "anchor": "Chipotle",
+    "anchor": "chipotle",
     "terms": [
-      "Chipotle",
-      "Taco Bueno",
-      "Torchy's Tacos"
+      "chipotle",
+      "taco bueno",
+      "torchys tacos"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Sandwiches & Subs",
-    "anchor": "Subway",
+    "anchor": "subway",
     "terms": [
-      "Subway",
-      "Jersey Mike's",
-      "Jimmy John's",
-      "Firehouse Subs",
-      "Arby's"
+      "subway",
+      "jersey mikes",
+      "jimmy johns",
+      "firehouse subs",
+      "arbys"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Sandwiches & Subs",
-    "anchor": "Subway",
+    "anchor": "subway",
     "terms": [
-      "Subway",
-      "Wawa"
+      "subway",
+      "wawa"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Coffee & Beverages",
-    "anchor": "Starbucks",
+    "anchor": "starbucks",
     "terms": [
-      "Starbucks",
-      "Dunkin'",
-      "Dutch Bros",
-      "Tim Hortons",
-      "Peet's Coffee"
+      "starbucks",
+      "dunkin",
+      "dutch bros",
+      "tim hortons",
+      "peets coffee"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Coffee & Beverages",
-    "anchor": "Starbucks",
+    "anchor": "starbucks",
     "terms": [
-      "Starbucks",
-      "Caribou Coffee",
-      "Scooter's Coffee",
-      "Biggby Coffee"
+      "starbucks",
+      "caribou coffee",
+      "scooters coffee",
+      "biggby coffee"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Desserts & Bakery",
-    "anchor": "Crumbl Cookies",
+    "anchor": "crumbl cookies",
     "terms": [
-      "Crumbl Cookies",
-      "Insomnia Cookies",
-      "Krispy Kreme",
-      "Dairy Queen",
-      "Baskin-Robbins"
+      "crumbl cookies",
+      "insomnia cookies",
+      "krispy kreme",
+      "dairy queen",
+      "baskin robbins"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Desserts & Bakery",
-    "anchor": "Crumbl Cookies",
+    "anchor": "crumbl cookies",
     "terms": [
-      "Crumbl Cookies",
-      "Cold Stone Creamery",
-      "Nothing Bundt Cakes"
+      "crumbl cookies",
+      "cold stone creamery",
+      "nothing bundt cakes"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Casual Dining",
-    "anchor": "Applebee's",
+    "anchor": "applebees",
     "terms": [
-      "Applebee's",
-      "Chili's",
-      "Olive Garden",
-      "Texas Roadhouse",
-      "Red Lobster"
+      "applebees",
+      "chilis",
+      "olive garden",
+      "texas roadhouse",
+      "red lobster"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Casual Dining",
-    "anchor": "Applebee's",
+    "anchor": "applebees",
     "terms": [
-      "Applebee's",
-      "Outback Steakhouse",
-      "LongHorn Steakhouse",
-      "TGI Fridays",
-      "Red Robin"
+      "applebees",
+      "outback steakhouse",
+      "longhorn steakhouse",
+      "tgi fridays",
+      "red robin"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Casual Dining",
-    "anchor": "Applebee's",
+    "anchor": "applebees",
     "terms": [
-      "Applebee's",
-      "Cheesecake Factory",
-      "Cracker Barrel"
+      "applebees",
+      "cheesecake factory",
+      "cracker barrel"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Upscale Chains",
-    "anchor": "Ruth's Chris",
+    "anchor": "ruths chris",
     "terms": [
-      "Ruth's Chris",
-      "Morton's",
-      "Capital Grille",
-      "Fogo de Chao",
-      "STK"
+      "ruths chris",
+      "mortons",
+      "capital grille",
+      "fogo de chao",
+      "stk"
     ]
   },
   {
     "industry": "Restaurants",
     "competitor_set": "Upscale Chains",
-    "anchor": "Ruth's Chris",
+    "anchor": "ruths chris",
     "terms": [
-      "Ruth's Chris",
-      "Del Frisco's"
+      "ruths chris",
+      "del friscos"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Soda & Soft Drinks",
-    "anchor": "Coca-Cola",
+    "anchor": "coca cola",
     "terms": [
-      "Coca-Cola",
-      "Pepsi",
-      "Dr Pepper",
-      "Sprite",
-      "Mountain Dew"
+      "coca cola",
+      "pepsi",
+      "dr pepper",
+      "sprite",
+      "mountain dew"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Soda & Soft Drinks",
-    "anchor": "Coca-Cola",
+    "anchor": "coca cola",
     "terms": [
-      "Coca-Cola",
-      "Olipop"
+      "coca cola",
+      "olipop"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Energy Drinks",
-    "anchor": "Red Bull",
+    "anchor": "red bull",
     "terms": [
-      "Red Bull",
-      "Monster Energy",
-      "Celsius Energy",
-      "Bang Energy",
-      "Ghost Energy"
+      "red bull",
+      "monster energy",
+      "celsius energy",
+      "bang energy",
+      "ghost energy"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Energy Drinks",
-    "anchor": "Red Bull",
+    "anchor": "red bull",
     "terms": [
-      "Red Bull",
-      "C4 Energy"
+      "red bull",
+      "c4 energy"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Snacks",
-    "anchor": "Doritos",
+    "anchor": "doritos",
     "terms": [
-      "Doritos",
-      "Takis",
-      "Cheetos",
-      "Lay's",
-      "Pringles"
+      "doritos",
+      "takis",
+      "cheetos",
+      "lays",
+      "pringles"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Snacks",
-    "anchor": "Doritos",
+    "anchor": "doritos",
     "terms": [
-      "Doritos",
-      "Goldfish",
-      "Oreo"
+      "doritos",
+      "goldfish",
+      "oreo"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Candy",
-    "anchor": "Hershey's",
+    "anchor": "hersheys",
     "terms": [
-      "Hershey's",
-      "Reese's",
-      "M&M's",
-      "Skittles",
-      "Sour Patch Kids"
+      "hersheys",
+      "reeses",
+      "mms",
+      "skittles",
+      "sour patch kids"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Candy",
-    "anchor": "Hershey's",
+    "anchor": "hersheys",
     "terms": [
-      "Hershey's",
-      "Swedish Fish",
-      "Trolli",
-      "Haribo"
+      "hersheys",
+      "swedish fish",
+      "trolli",
+      "haribo"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Better-for-You & Protein",
-    "anchor": "Quest Nutrition",
+    "anchor": "quest nutrition",
     "terms": [
-      "Quest Nutrition",
-      "RXBAR",
-      "KIND",
-      "Clif Bar",
-      "Built Bar"
+      "quest nutrition",
+      "rxbar",
+      "kind",
+      "clif bar",
+      "built bar"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Better-for-You & Protein",
-    "anchor": "Quest Nutrition",
+    "anchor": "quest nutrition",
     "terms": [
-      "Quest Nutrition",
-      "Barebells",
-      "Fairlife"
+      "quest nutrition",
+      "barebells",
+      "fairlife"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Alcohol & Spirits",
-    "anchor": "Bud Light",
+    "anchor": "bud light",
     "terms": [
-      "Bud Light",
-      "Michelob Ultra",
-      "Coors Light",
-      "Modelo",
-      "Corona"
+      "bud light",
+      "michelob ultra",
+      "coors light",
+      "modelo",
+      "corona"
     ]
   },
   {
     "industry": "Snacks, Food & Beverage CPG",
     "competitor_set": "Alcohol & Spirits",
-    "anchor": "Bud Light",
+    "anchor": "bud light",
     "terms": [
-      "Bud Light",
-      "White Claw",
-      "Truly",
-      "High Noon",
-      "Sun Cruiser"
+      "bud light",
+      "white claw",
+      "truly",
+      "high noon",
+      "sun cruiser"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Big Box & Mass",
-    "anchor": "Walmart",
+    "anchor": "walmart",
     "terms": [
-      "Walmart",
-      "Target",
-      "Costco",
-      "Sam's Club",
-      "BJ's Wholesale"
+      "walmart",
+      "target",
+      "costco",
+      "sams club",
+      "bjs wholesale"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Big Box & Mass",
-    "anchor": "Walmart",
+    "anchor": "walmart",
     "terms": [
-      "Walmart",
-      "Kroger"
+      "walmart",
+      "kroger"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Grocery",
-    "anchor": "Trader Joe's",
+    "anchor": "trader joes",
     "terms": [
-      "Trader Joe's",
-      "Whole Foods",
-      "Aldi",
-      "Lidl",
-      "Publix"
+      "trader joes",
+      "whole foods",
+      "aldi",
+      "lidl",
+      "publix"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Grocery",
-    "anchor": "Trader Joe's",
+    "anchor": "trader joes",
     "terms": [
-      "Trader Joe's",
-      "H-E-B"
+      "trader joes",
+      "heb"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Department Stores",
-    "anchor": "Macy's",
+    "anchor": "macys",
     "terms": [
-      "Macy's",
-      "Nordstrom",
-      "Kohl's",
-      "JCPenney",
-      "Dillard's"
+      "macys",
+      "nordstrom",
+      "kohls",
+      "jcpenney",
+      "dillards"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Department Stores",
-    "anchor": "Macy's",
+    "anchor": "macys",
     "terms": [
-      "Macy's",
-      "Bloomingdale's"
+      "macys",
+      "bloomingdales"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Off-Price",
-    "anchor": "TJ Maxx",
+    "anchor": "tj maxx",
     "terms": [
-      "TJ Maxx",
-      "Marshalls",
-      "Ross Dress for Less",
-      "Burlington",
-      "HomeGoods"
+      "tj maxx",
+      "marshalls",
+      "ross dress for less",
+      "burlington",
+      "homegoods"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Off-Price",
-    "anchor": "TJ Maxx",
+    "anchor": "tj maxx",
     "terms": [
-      "TJ Maxx",
-      "Sierra"
+      "tj maxx",
+      "sierra"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Home & Furniture",
-    "anchor": "IKEA",
+    "anchor": "ikea",
     "terms": [
-      "IKEA",
-      "Wayfair",
-      "Home Depot",
-      "Lowe's",
-      "Bed Bath & Beyond"
+      "ikea",
+      "wayfair",
+      "home depot",
+      "lowes",
+      "bed bath and beyond"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Home & Furniture",
-    "anchor": "IKEA",
+    "anchor": "ikea",
     "terms": [
-      "IKEA",
-      "Pottery Barn",
-      "West Elm",
-      "Crate & Barrel",
-      "RH"
+      "ikea",
+      "pottery barn",
+      "west elm",
+      "crate and barrel",
+      "rh"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Beauty Retail",
-    "anchor": "Sephora",
+    "anchor": "sephora",
     "terms": [
-      "Sephora",
-      "Ulta Beauty",
-      "Sally Beauty",
-      "Bluemercury",
-      "Space NK"
+      "sephora",
+      "ulta beauty",
+      "sally beauty",
+      "bluemercury",
+      "space nk"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Electronics Retail",
-    "anchor": "Best Buy",
+    "anchor": "best buy",
     "terms": [
-      "Best Buy",
-      "Micro Center",
-      "B&H Photo",
-      "GameStop",
-      "Newegg"
+      "best buy",
+      "micro center",
+      "bh photo",
+      "gamestop",
+      "newegg"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Electronics Retail",
-    "anchor": "Best Buy",
+    "anchor": "best buy",
     "terms": [
-      "Best Buy",
-      "Apple Store"
+      "best buy",
+      "apple store"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Sporting Goods & Outdoor",
-    "anchor": "Dick's Sporting Goods",
+    "anchor": "dicks sporting goods",
     "terms": [
-      "Dick's Sporting Goods",
-      "Academy Sports",
-      "REI",
-      "Bass Pro Shops",
-      "Cabela's"
+      "dicks sporting goods",
+      "academy sports",
+      "rei",
+      "bass pro shops",
+      "cabelas"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Sporting Goods & Outdoor",
-    "anchor": "Dick's Sporting Goods",
+    "anchor": "dicks sporting goods",
     "terms": [
-      "Dick's Sporting Goods",
-      "Scheels"
+      "dicks sporting goods",
+      "scheels"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Crafts, Party & Specialty",
-    "anchor": "Michaels",
+    "anchor": "michaels",
     "terms": [
-      "Michaels",
-      "Hobby Lobby",
-      "Joann",
-      "Party City",
-      "Spirit Halloween"
+      "michaels",
+      "hobby lobby",
+      "joann",
+      "party city",
+      "spirit halloween"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Crafts, Party & Specialty",
-    "anchor": "Michaels",
+    "anchor": "michaels",
     "terms": [
-      "Michaels",
-      "Barnes & Noble",
-      "Books-A-Million"
+      "michaels",
+      "barnes and noble",
+      "books a million"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Pharmacy & Convenience",
-    "anchor": "CVS",
+    "anchor": "cvs",
     "terms": [
-      "CVS",
-      "Walgreens",
-      "Rite Aid",
-      "7-Eleven",
-      "Buc-ee's"
+      "cvs",
+      "walgreens",
+      "rite aid",
+      "7 eleven",
+      "buc ees"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Pharmacy & Convenience",
-    "anchor": "CVS",
+    "anchor": "cvs",
     "terms": [
-      "CVS",
-      "QuikTrip"
+      "cvs",
+      "quiktrip"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Pet",
-    "anchor": "Chewy",
+    "anchor": "chewy",
     "terms": [
-      "Chewy",
-      "Petco",
-      "PetSmart",
-      "BarkBox",
-      "The Farmer's Dog"
+      "chewy",
+      "petco",
+      "petsmart",
+      "barkbox",
+      "the farmers dog"
     ]
   },
   {
     "industry": "Retailers",
     "competitor_set": "Pet",
-    "anchor": "Chewy",
+    "anchor": "chewy",
     "terms": [
-      "Chewy",
-      "Ollie"
+      "chewy",
+      "ollie"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "Marketplaces",
-    "anchor": "Amazon",
+    "anchor": "amazon",
     "terms": [
-      "Amazon",
-      "Temu",
-      "Shein",
-      "AliExpress",
-      "eBay"
+      "amazon",
+      "temu",
+      "shein",
+      "aliexpress",
+      "ebay"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "Marketplaces",
-    "anchor": "Amazon",
+    "anchor": "amazon",
     "terms": [
-      "Amazon",
-      "Etsy",
-      "Walmart Marketplace",
-      "Wish",
-      "TikTok Shop"
+      "amazon",
+      "etsy",
+      "walmart marketplace",
+      "wish",
+      "tiktok shop"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "Marketplaces",
-    "anchor": "Amazon",
+    "anchor": "amazon",
     "terms": [
-      "Amazon",
-      "Mercari",
-      "Poshmark"
+      "amazon",
+      "mercari",
+      "poshmark"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "Ecommerce Platforms",
-    "anchor": "Shopify",
+    "anchor": "shopify",
     "terms": [
-      "Shopify",
-      "BigCommerce",
-      "WooCommerce",
-      "Wix",
-      "Squarespace"
+      "shopify",
+      "bigcommerce",
+      "woocommerce",
+      "wix",
+      "squarespace"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "Ecommerce Platforms",
-    "anchor": "Shopify",
+    "anchor": "shopify",
     "terms": [
-      "Shopify",
-      "Klarna"
+      "shopify",
+      "klarna"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "Delivery & Subscription",
-    "anchor": "DoorDash",
+    "anchor": "doordash",
     "terms": [
-      "DoorDash",
-      "Uber Eats",
-      "Instacart",
-      "Grubhub",
-      "Gopuff"
+      "doordash",
+      "uber eats",
+      "instacart",
+      "grubhub",
+      "gopuff"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "Delivery & Subscription",
-    "anchor": "DoorDash",
+    "anchor": "doordash",
     "terms": [
-      "DoorDash",
-      "Postmates",
-      "HelloFresh",
-      "Factor"
+      "doordash",
+      "postmates",
+      "hellofresh",
+      "factor"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "DTC Home & Sleep",
-    "anchor": "Casper",
+    "anchor": "casper",
     "terms": [
-      "Casper",
-      "Purple",
-      "Tempur-Pedic",
-      "Saatva",
-      "Nectar"
+      "casper",
+      "purple",
+      "tempur pedic",
+      "saatva",
+      "nectar"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "DTC Home & Sleep",
-    "anchor": "Casper",
+    "anchor": "casper",
     "terms": [
-      "Casper",
-      "Tuft & Needle",
-      "Sleep Number",
-      "Brooklinen",
-      "Parachute"
+      "casper",
+      "tuft and needle",
+      "sleep number",
+      "brooklinen",
+      "parachute"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "DTC Home & Sleep",
-    "anchor": "Casper",
+    "anchor": "casper",
     "terms": [
-      "Casper",
-      "Bombas",
-      "Our Place",
-      "Caraway",
-      "HexClad"
+      "casper",
+      "bombas",
+      "our place",
+      "caraway",
+      "hexclad"
     ]
   },
   {
     "industry": "E-commerce & Marketplaces",
     "competitor_set": "DTC Home & Sleep",
-    "anchor": "Casper",
+    "anchor": "casper",
     "terms": [
-      "Casper",
-      "Made In",
-      "Stanley"
+      "casper",
+      "made in",
+      "stanley"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Athletic Apparel",
-    "anchor": "Nike",
+    "anchor": "nike",
     "terms": [
-      "Nike",
-      "Adidas",
-      "Under Armour",
-      "Lululemon",
-      "Puma"
+      "nike",
+      "adidas",
+      "under armour",
+      "lululemon",
+      "puma"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Athletic Apparel",
-    "anchor": "Nike",
+    "anchor": "nike",
     "terms": [
-      "Nike",
-      "Reebok",
-      "New Balance",
-      "Alo Yoga",
-      "Vuori"
+      "nike",
+      "reebok",
+      "new balance",
+      "alo yoga",
+      "vuori"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Running & Sneakers",
-    "anchor": "Hoka",
+    "anchor": "hoka",
     "terms": [
-      "Hoka",
-      "On Running",
-      "Brooks Running",
-      "Saucony",
-      "Asics"
+      "hoka",
+      "on running",
+      "brooks running",
+      "saucony",
+      "asics"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Running & Sneakers",
-    "anchor": "Hoka",
+    "anchor": "hoka",
     "terms": [
-      "Hoka",
-      "Allbirds",
-      "Vans",
-      "Converse",
-      "Skechers"
+      "hoka",
+      "allbirds",
+      "vans",
+      "converse",
+      "skechers"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Running & Sneakers",
-    "anchor": "Hoka",
+    "anchor": "hoka",
     "terms": [
-      "Hoka",
-      "Salomon",
-      "Altra",
-      "Veja"
+      "hoka",
+      "salomon",
+      "altra",
+      "veja"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Fast Fashion & Mall",
-    "anchor": "Zara",
+    "anchor": "zara",
     "terms": [
-      "Zara",
-      "H&M",
-      "Uniqlo",
-      "Forever 21",
-      "Shein"
+      "zara",
+      "hm",
+      "uniqlo",
+      "forever 21",
+      "shein"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Fast Fashion & Mall",
-    "anchor": "Zara",
+    "anchor": "zara",
     "terms": [
-      "Zara",
-      "Fashion Nova",
-      "PrettyLittleThing",
-      "Boohoo",
-      "ASOS"
+      "zara",
+      "fashion nova",
+      "prettylittlething",
+      "boohoo",
+      "asos"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Fast Fashion & Mall",
-    "anchor": "Zara",
+    "anchor": "zara",
     "terms": [
-      "Zara",
-      "Mango",
-      "Princess Polly",
-      "Edikted",
-      "Aritzia"
+      "zara",
+      "mango",
+      "princess polly",
+      "edikted",
+      "aritzia"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Fast Fashion & Mall",
-    "anchor": "Zara",
+    "anchor": "zara",
     "terms": [
-      "Zara",
-      "Abercrombie & Fitch",
-      "Hollister",
-      "American Eagle",
-      "Aerie"
+      "zara",
+      "abercrombie and fitch",
+      "hollister",
+      "american eagle",
+      "aerie"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Fast Fashion & Mall",
-    "anchor": "Zara",
+    "anchor": "zara",
     "terms": [
-      "Zara",
-      "Gap"
+      "zara",
+      "gap"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Denim & Basics",
-    "anchor": "Levi's",
+    "anchor": "levis",
     "terms": [
-      "Levi's",
-      "Wrangler",
-      "Lee Jeans",
-      "AG Jeans",
-      "Agolde"
+      "levis",
+      "wrangler",
+      "lee jeans",
+      "ag jeans",
+      "agolde"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Denim & Basics",
-    "anchor": "Levi's",
+    "anchor": "levis",
     "terms": [
-      "Levi's",
-      "Citizens of Humanity",
-      "Mother Denim"
+      "levis",
+      "citizens of humanity",
+      "mother denim"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Shapewear & Intimates",
-    "anchor": "Skims",
+    "anchor": "skims",
     "terms": [
-      "Skims",
-      "Spanx",
-      "Victoria's Secret",
-      "Savage X Fenty",
-      "Parade"
+      "skims",
+      "spanx",
+      "victorias secret",
+      "savage x fenty",
+      "parade"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Shapewear & Intimates",
-    "anchor": "Skims",
+    "anchor": "skims",
     "terms": [
-      "Skims",
-      "Honeylove",
-      "Knix"
+      "skims",
+      "honeylove",
+      "knix"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Outdoor & Workwear",
-    "anchor": "The North Face",
+    "anchor": "the north face",
     "terms": [
-      "The North Face",
-      "Patagonia",
-      "Columbia",
-      "Arc'teryx",
-      "Canada Goose"
+      "the north face",
+      "patagonia",
+      "columbia",
+      "arcteryx",
+      "canada goose"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Outdoor & Workwear",
-    "anchor": "The North Face",
+    "anchor": "the north face",
     "terms": [
-      "The North Face",
-      "Moncler",
-      "Carhartt",
-      "Dickies",
-      "Duluth Trading"
+      "the north face",
+      "moncler",
+      "carhartt",
+      "dickies",
+      "duluth trading"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Streetwear",
-    "anchor": "Supreme",
+    "anchor": "supreme",
     "terms": [
-      "Supreme",
-      "Stussy",
-      "Palace",
-      "Kith",
-      "Essentials Fear of God"
+      "supreme",
+      "stussy",
+      "palace",
+      "kith",
+      "essentials fear of god"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Streetwear",
-    "anchor": "Supreme",
+    "anchor": "supreme",
     "terms": [
-      "Supreme",
-      "Corteiz",
-      "Sp5der",
-      "Hellstar",
-      "Broken Planet"
+      "supreme",
+      "corteiz",
+      "sp5der",
+      "hellstar",
+      "broken planet"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Streetwear",
-    "anchor": "Supreme",
+    "anchor": "supreme",
     "terms": [
-      "Supreme",
-      "Trapstar",
-      "Denim Tears"
+      "supreme",
+      "trapstar",
+      "denim tears"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Kids & Baby Apparel",
-    "anchor": "Carter's",
+    "anchor": "carters",
     "terms": [
-      "Carter's",
-      "OshKosh",
-      "Children's Place",
-      "Gap Kids",
-      "Janie and Jack"
+      "carters",
+      "oshkosh",
+      "childrens place",
+      "gap kids",
+      "janie and jack"
     ]
   },
   {
     "industry": "Apparel & Footwear",
     "competitor_set": "Kids & Baby Apparel",
-    "anchor": "Carter's",
+    "anchor": "carters",
     "terms": [
-      "Carter's",
-      "Hanna Andersson"
+      "carters",
+      "hanna andersson"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Luxury Houses",
-    "anchor": "Louis Vuitton",
+    "anchor": "louis vuitton",
     "terms": [
-      "Louis Vuitton",
-      "Gucci",
-      "Chanel",
-      "Hermes",
-      "Prada"
+      "louis vuitton",
+      "gucci",
+      "chanel",
+      "hermes",
+      "prada"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Luxury Houses",
-    "anchor": "Louis Vuitton",
+    "anchor": "louis vuitton",
     "terms": [
-      "Louis Vuitton",
-      "Dior",
-      "Balenciaga",
-      "Saint Laurent",
-      "Fendi"
+      "louis vuitton",
+      "dior",
+      "balenciaga",
+      "saint laurent",
+      "fendi"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Luxury Houses",
-    "anchor": "Louis Vuitton",
+    "anchor": "louis vuitton",
     "terms": [
-      "Louis Vuitton",
-      "Bottega Veneta",
-      "Burberry",
-      "Loewe",
-      "Celine"
+      "louis vuitton",
+      "bottega veneta",
+      "burberry",
+      "loewe",
+      "celine"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Luxury Houses",
-    "anchor": "Louis Vuitton",
+    "anchor": "louis vuitton",
     "terms": [
-      "Louis Vuitton",
-      "Givenchy",
-      "Valentino"
+      "louis vuitton",
+      "givenchy",
+      "valentino"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Contemporary & Accessible Luxury",
-    "anchor": "Coach",
+    "anchor": "coach",
     "terms": [
-      "Coach",
-      "Kate Spade",
-      "Michael Kors",
-      "Tory Burch",
-      "Marc Jacobs"
+      "coach",
+      "kate spade",
+      "michael kors",
+      "tory burch",
+      "marc jacobs"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Contemporary & Accessible Luxury",
-    "anchor": "Coach",
+    "anchor": "coach",
     "terms": [
-      "Coach",
-      "Ralph Lauren",
-      "Tommy Hilfiger",
-      "Calvin Klein",
-      "Polo Ralph Lauren"
+      "coach",
+      "ralph lauren",
+      "tommy hilfiger",
+      "calvin klein",
+      "polo ralph lauren"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Contemporary & Accessible Luxury",
-    "anchor": "Coach",
+    "anchor": "coach",
     "terms": [
-      "Coach",
-      "Lacoste",
-      "Hugo Boss",
-      "Vince"
+      "coach",
+      "lacoste",
+      "hugo boss",
+      "vince"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Jewelry & Watches",
-    "anchor": "Tiffany & Co",
+    "anchor": "tiffany and co",
     "terms": [
-      "Tiffany & Co",
-      "Cartier",
-      "Van Cleef & Arpels",
-      "Bulgari",
-      "Pandora"
+      "tiffany and co",
+      "cartier",
+      "van cleef and arpels",
+      "bulgari",
+      "pandora"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Jewelry & Watches",
-    "anchor": "Tiffany & Co",
+    "anchor": "tiffany and co",
     "terms": [
-      "Tiffany & Co",
-      "Mejuri",
-      "Kendra Scott",
-      "David Yurman",
-      "Alex and Ani"
+      "tiffany and co",
+      "mejuri",
+      "kendra scott",
+      "david yurman",
+      "alex and ani"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Jewelry & Watches",
-    "anchor": "Tiffany & Co",
+    "anchor": "tiffany and co",
     "terms": [
-      "Tiffany & Co",
-      "Gorjana",
-      "Ana Luisa",
-      "Missoma",
-      "Monica Vinader"
+      "tiffany and co",
+      "gorjana",
+      "ana luisa",
+      "missoma",
+      "monica vinader"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Jewelry & Watches",
-    "anchor": "Tiffany & Co",
+    "anchor": "tiffany and co",
     "terms": [
-      "Tiffany & Co",
-      "Brilliant Earth",
-      "Blue Nile"
+      "tiffany and co",
+      "brilliant earth",
+      "blue nile"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Eyewear",
-    "anchor": "Ray-Ban",
+    "anchor": "ray ban",
     "terms": [
-      "Ray-Ban",
-      "Oakley",
-      "Warby Parker",
-      "Gentle Monster",
-      "Quay"
+      "ray ban",
+      "oakley",
+      "warby parker",
+      "gentle monster",
+      "quay"
     ]
   },
   {
     "industry": "Luxury & Fashion Houses",
     "competitor_set": "Eyewear",
-    "anchor": "Ray-Ban",
+    "anchor": "ray ban",
     "terms": [
-      "Ray-Ban",
-      "Sunglass Hut"
+      "ray ban",
+      "sunglass hut"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Fragrance (Designer & Niche)",
-    "anchor": "Dior Sauvage",
+    "anchor": "dior sauvage",
     "terms": [
-      "Dior Sauvage",
-      "Chanel No 5",
-      "Bleu de Chanel",
-      "YSL Libre",
-      "Baccarat Rouge 540"
+      "dior sauvage",
+      "chanel no 5",
+      "bleu de chanel",
+      "ysl libre",
+      "baccarat rouge 540"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Fragrance (Designer & Niche)",
-    "anchor": "Dior Sauvage",
+    "anchor": "dior sauvage",
     "terms": [
-      "Dior Sauvage",
-      "Maison Francis Kurkdjian",
-      "Le Labo",
-      "Byredo",
-      "Jo Malone"
+      "dior sauvage",
+      "maison francis kurkdjian",
+      "le labo",
+      "byredo",
+      "jo malone"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Fragrance (Designer & Niche)",
-    "anchor": "Dior Sauvage",
+    "anchor": "dior sauvage",
     "terms": [
-      "Dior Sauvage",
-      "Tom Ford Beauty",
-      "Creed",
-      "Parfums de Marly",
-      "Kilian"
+      "dior sauvage",
+      "tom ford beauty",
+      "creed",
+      "parfums de marly",
+      "kilian"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Fragrance (Designer & Niche)",
-    "anchor": "Dior Sauvage",
+    "anchor": "dior sauvage",
     "terms": [
-      "Dior Sauvage",
-      "Diptyque",
-      "Glossier You",
-      "Phlur",
-      "Sol de Janeiro"
+      "dior sauvage",
+      "diptyque",
+      "glossier you",
+      "phlur",
+      "sol de janeiro"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Fragrance (Designer & Niche)",
-    "anchor": "Dior Sauvage",
+    "anchor": "dior sauvage",
     "terms": [
-      "Dior Sauvage",
-      "Ellis Brooklyn",
-      "Kayali",
-      "Juliette Has A Gun",
-      "Viktor & Rolf"
+      "dior sauvage",
+      "ellis brooklyn",
+      "kayali",
+      "juliette has a gun",
+      "viktor and rolf"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Fragrance (Designer & Niche)",
-    "anchor": "Dior Sauvage",
+    "anchor": "dior sauvage",
     "terms": [
-      "Dior Sauvage",
-      "Lancome La Vie Est Belle",
-      "Carolina Herrera Good Girl",
-      "Prada Paradoxe",
-      "Valentino Born in Roma"
+      "dior sauvage",
+      "lancome la vie est belle",
+      "carolina herrera good girl",
+      "prada paradoxe",
+      "valentino born in roma"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Fragrance (Designer & Niche)",
-    "anchor": "Dior Sauvage",
+    "anchor": "dior sauvage",
     "terms": [
-      "Dior Sauvage",
-      "Gucci Flora"
+      "dior sauvage",
+      "gucci flora"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Makeup",
-    "anchor": "Rare Beauty",
+    "anchor": "rare beauty",
     "terms": [
-      "Rare Beauty",
-      "Fenty Beauty",
-      "Charlotte Tilbury",
-      "Huda Beauty",
-      "Glossier"
+      "rare beauty",
+      "fenty beauty",
+      "charlotte tilbury",
+      "huda beauty",
+      "glossier"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Makeup",
-    "anchor": "Rare Beauty",
+    "anchor": "rare beauty",
     "terms": [
-      "Rare Beauty",
-      "Rhode",
-      "Kylie Cosmetics",
-      "e.l.f.",
-      "Maybelline"
+      "rare beauty",
+      "rhode",
+      "kylie cosmetics",
+      "elf",
+      "maybelline"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Makeup",
-    "anchor": "Rare Beauty",
+    "anchor": "rare beauty",
     "terms": [
-      "Rare Beauty",
-      "L'Oreal Paris",
-      "NYX",
-      "Too Faced",
-      "Urban Decay"
+      "rare beauty",
+      "loreal paris",
+      "nyx",
+      "too faced",
+      "urban decay"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Makeup",
-    "anchor": "Rare Beauty",
+    "anchor": "rare beauty",
     "terms": [
-      "Rare Beauty",
-      "Benefit Cosmetics",
-      "MAC Cosmetics",
-      "Nars",
-      "Makeup by Mario"
+      "rare beauty",
+      "benefit cosmetics",
+      "mac cosmetics",
+      "nars",
+      "makeup by mario"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Makeup",
-    "anchor": "Rare Beauty",
+    "anchor": "rare beauty",
     "terms": [
-      "Rare Beauty",
-      "Patrick Ta",
-      "Hourglass",
-      "Ilia Beauty",
-      "Saie"
+      "rare beauty",
+      "patrick ta",
+      "hourglass",
+      "ilia beauty",
+      "saie"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Makeup",
-    "anchor": "Rare Beauty",
+    "anchor": "rare beauty",
     "terms": [
-      "Rare Beauty",
-      "Merit Beauty",
-      "Tower 28",
-      "Kosas",
-      "Milk Makeup"
+      "rare beauty",
+      "merit beauty",
+      "tower 28",
+      "kosas",
+      "milk makeup"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Skincare",
-    "anchor": "CeraVe",
+    "anchor": "cerave",
     "terms": [
-      "CeraVe",
-      "La Roche-Posay",
-      "The Ordinary",
-      "Drunk Elephant",
-      "Paula's Choice"
+      "cerave",
+      "la roche posay",
+      "the ordinary",
+      "drunk elephant",
+      "paulas choice"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Skincare",
-    "anchor": "CeraVe",
+    "anchor": "cerave",
     "terms": [
-      "CeraVe",
-      "Glow Recipe",
-      "Sunday Riley",
-      "Tatcha",
-      "Augustinus Bader"
+      "cerave",
+      "glow recipe",
+      "sunday riley",
+      "tatcha",
+      "augustinus bader"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Skincare",
-    "anchor": "CeraVe",
+    "anchor": "cerave",
     "terms": [
-      "CeraVe",
-      "Skinceuticals",
-      "Olay",
-      "Neutrogena",
-      "Cetaphil"
+      "cerave",
+      "skinceuticals",
+      "olay",
+      "neutrogena",
+      "cetaphil"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Skincare",
-    "anchor": "CeraVe",
+    "anchor": "cerave",
     "terms": [
-      "CeraVe",
-      "Eucerin",
-      "Aveeno",
-      "First Aid Beauty",
-      "Bubble Skincare"
+      "cerave",
+      "eucerin",
+      "aveeno",
+      "first aid beauty",
+      "bubble skincare"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Skincare",
-    "anchor": "CeraVe",
+    "anchor": "cerave",
     "terms": [
-      "CeraVe",
-      "Starface",
-      "Hero Cosmetics",
-      "Peace Out",
-      "Supergoop"
+      "cerave",
+      "starface",
+      "hero cosmetics",
+      "peace out",
+      "supergoop"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Skincare",
-    "anchor": "CeraVe",
+    "anchor": "cerave",
     "terms": [
-      "CeraVe",
-      "Kiehl's",
-      "Clarins",
-      "Shiseido",
-      "Laneige"
+      "cerave",
+      "kiehls",
+      "clarins",
+      "shiseido",
+      "laneige"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Skincare",
-    "anchor": "CeraVe",
+    "anchor": "cerave",
     "terms": [
-      "CeraVe",
-      "COSRX",
-      "Beauty of Joseon",
-      "Anua"
+      "cerave",
+      "cosrx",
+      "beauty of joseon",
+      "anua"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Hair Care & Tools",
-    "anchor": "Olaplex",
+    "anchor": "olaplex",
     "terms": [
-      "Olaplex",
-      "K18",
-      "Moroccanoil",
-      "Ouai",
-      "Briogeo"
+      "olaplex",
+      "k18",
+      "moroccanoil",
+      "ouai",
+      "briogeo"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Hair Care & Tools",
-    "anchor": "Olaplex",
+    "anchor": "olaplex",
     "terms": [
-      "Olaplex",
-      "Amika",
-      "Kerastase",
-      "Redken",
-      "Living Proof"
+      "olaplex",
+      "amika",
+      "kerastase",
+      "redken",
+      "living proof"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Hair Care & Tools",
-    "anchor": "Olaplex",
+    "anchor": "olaplex",
     "terms": [
-      "Olaplex",
-      "Prose",
-      "Function of Beauty",
-      "Gisou",
-      "Mielle"
+      "olaplex",
+      "prose",
+      "function of beauty",
+      "gisou",
+      "mielle"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Hair Care & Tools",
-    "anchor": "Olaplex",
+    "anchor": "olaplex",
     "terms": [
-      "Olaplex",
-      "Pattern Beauty",
-      "Bread Beauty",
-      "Color Wow",
-      "Dae"
+      "olaplex",
+      "pattern beauty",
+      "bread beauty",
+      "color wow"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Body, Bath & Grooming",
-    "anchor": "Sol de Janeiro Bum Bum",
+    "anchor": "sol de janeiro bum bum",
     "terms": [
-      "Sol de Janeiro Bum Bum",
-      "Tree Hut",
-      "Dove Body Wash",
-      "Native Deodorant",
-      "Old Spice"
+      "sol de janeiro bum bum",
+      "tree hut",
+      "dove body wash",
+      "native deodorant",
+      "old spice"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Body, Bath & Grooming",
-    "anchor": "Sol de Janeiro Bum Bum",
+    "anchor": "sol de janeiro bum bum",
     "terms": [
-      "Sol de Janeiro Bum Bum",
-      "Dr. Squatch",
-      "Harry's",
-      "Dollar Shave Club",
-      "Gillette"
+      "sol de janeiro bum bum",
+      "dr squatch",
+      "harrys",
+      "dollar shave club",
+      "gillette"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Body, Bath & Grooming",
-    "anchor": "Sol de Janeiro Bum Bum",
+    "anchor": "sol de janeiro bum bum",
     "terms": [
-      "Sol de Janeiro Bum Bum",
-      "Billie",
-      "Manscaped",
-      "Philips Norelco",
-      "Braun"
+      "sol de janeiro bum bum",
+      "billie",
+      "manscaped",
+      "philips norelco",
+      "braun"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Nails & Lashes",
-    "anchor": "OPI",
+    "anchor": "opi",
     "terms": [
-      "OPI",
-      "Essie",
-      "Olive & June",
-      "Dazzle Dry",
-      "Kiara Sky"
+      "opi",
+      "essie",
+      "olive and june",
+      "dazzle dry",
+      "kiara sky"
     ]
   },
   {
     "industry": "Beauty, Fragrance & Personal Care",
     "competitor_set": "Nails & Lashes",
-    "anchor": "OPI",
+    "anchor": "opi",
     "terms": [
-      "OPI",
-      "Glamnetic",
-      "Static Nails",
-      "Kiss Nails"
+      "opi",
+      "glamnetic",
+      "static nails",
+      "kiss nails"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Toy Makers",
-    "anchor": "LEGO",
+    "anchor": "lego",
     "terms": [
-      "LEGO",
-      "Mattel",
-      "Hasbro",
-      "Barbie",
-      "Hot Wheels"
+      "lego",
+      "mattel",
+      "hasbro",
+      "barbie",
+      "hot wheels"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Toy Makers",
-    "anchor": "LEGO",
+    "anchor": "lego",
     "terms": [
-      "LEGO",
-      "Fisher-Price",
-      "Nerf",
-      "Play-Doh",
-      "Melissa & Doug"
+      "lego",
+      "fisher price",
+      "nerf",
+      "play doh",
+      "melissa and doug"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Toy Makers",
-    "anchor": "LEGO",
+    "anchor": "lego",
     "terms": [
-      "LEGO",
-      "VTech",
-      "LeapFrog",
-      "Spin Master",
-      "Paw Patrol"
+      "lego",
+      "vtech",
+      "leapfrog",
+      "spin master",
+      "paw patrol"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Toy Makers",
-    "anchor": "LEGO",
+    "anchor": "lego",
     "terms": [
-      "LEGO",
-      "Magna-Tiles",
-      "Picasso Tiles",
-      "Bluey Toys",
-      "MGA Entertainment"
+      "lego",
+      "magna tiles",
+      "picasso tiles",
+      "bluey toys",
+      "mga entertainment"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Toy Makers",
-    "anchor": "LEGO",
+    "anchor": "lego",
     "terms": [
-      "LEGO",
-      "L.O.L. Surprise",
-      "Bratz",
-      "Rainbow High",
-      "Little Tikes"
+      "lego",
+      "lol surprise",
+      "bratz",
+      "rainbow high",
+      "little tikes"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Toy Makers",
-    "anchor": "LEGO",
+    "anchor": "lego",
     "terms": [
-      "LEGO",
-      "Step2",
-      "Radio Flyer",
-      "Yoto Player",
-      "Tonies"
+      "lego",
+      "step2",
+      "radio flyer",
+      "yoto player",
+      "tonies"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Toy Makers",
-    "anchor": "LEGO",
+    "anchor": "lego",
     "terms": [
-      "LEGO",
-      "Lovevery"
+      "lego",
+      "lovevery"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Trading Cards & Collectibles",
-    "anchor": "Pokemon Cards",
+    "anchor": "pokemon cards",
     "terms": [
-      "Pokemon Cards",
-      "Pokemon TCG",
-      "Magic The Gathering",
-      "Yu-Gi-Oh",
-      "Topps"
+      "pokemon cards",
+      "pokemon tcg",
+      "magic the gathering",
+      "yu gi oh",
+      "topps"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Trading Cards & Collectibles",
-    "anchor": "Pokemon Cards",
+    "anchor": "pokemon cards",
     "terms": [
-      "Pokemon Cards",
-      "Panini",
-      "Upper Deck",
-      "One Piece Card Game",
-      "Disney Lorcana"
+      "pokemon cards",
+      "panini",
+      "upper deck",
+      "one piece card game",
+      "disney lorcana"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Trading Cards & Collectibles",
-    "anchor": "Pokemon Cards",
+    "anchor": "pokemon cards",
     "terms": [
-      "Pokemon Cards",
-      "Funko",
-      "Hirono"
+      "pokemon cards",
+      "funko",
+      "hirono"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Baby Gear",
-    "anchor": "UPPAbaby",
+    "anchor": "uppababy",
     "terms": [
-      "UPPAbaby",
-      "Doona",
-      "Nuna",
-      "Bugaboo",
-      "Graco"
+      "uppababy",
+      "doona",
+      "nuna",
+      "bugaboo",
+      "graco"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Baby Gear",
-    "anchor": "UPPAbaby",
+    "anchor": "uppababy",
     "terms": [
-      "UPPAbaby",
-      "Chicco",
-      "Evenflo",
-      "Britax",
-      "Baby Brezza"
+      "uppababy",
+      "chicco",
+      "evenflo",
+      "britax",
+      "baby brezza"
     ]
   },
   {
     "industry": "Toys, Kids & Collectibles",
     "competitor_set": "Baby Gear",
-    "anchor": "UPPAbaby",
+    "anchor": "uppababy",
     "terms": [
-      "UPPAbaby",
-      "Owlet",
-      "Nanit",
-      "Hatch Baby"
+      "uppababy",
+      "owlet",
+      "nanit",
+      "hatch baby"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Smartphones",
-    "anchor": "iPhone",
+    "anchor": "iphone",
     "terms": [
-      "iPhone",
-      "Samsung Galaxy",
-      "Google Pixel",
-      "OnePlus",
-      "Motorola"
+      "iphone",
+      "samsung galaxy",
+      "google pixel",
+      "oneplus",
+      "motorola"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Smartphones",
-    "anchor": "iPhone",
+    "anchor": "iphone",
     "terms": [
-      "iPhone",
-      "Nothing Phone",
-      "Xiaomi",
-      "Galaxy Z Fold",
-      "Galaxy Z Flip"
+      "iphone",
+      "nothing phone",
+      "xiaomi",
+      "galaxy z fold",
+      "galaxy z flip"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Wireless Carriers",
-    "anchor": "Verizon",
+    "anchor": "verizon",
     "terms": [
-      "Verizon",
-      "AT&T",
-      "T-Mobile",
-      "Mint Mobile",
-      "Visible"
+      "verizon",
+      "att",
+      "t mobile",
+      "mint mobile",
+      "visible"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Wireless Carriers",
-    "anchor": "Verizon",
+    "anchor": "verizon",
     "terms": [
-      "Verizon",
-      "Cricket Wireless"
+      "verizon",
+      "cricket wireless"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Wearables & Audio",
-    "anchor": "Apple Watch",
+    "anchor": "apple watch",
     "terms": [
-      "Apple Watch",
-      "AirPods",
-      "AirPods Pro",
-      "Galaxy Watch",
-      "Pixel Watch"
+      "apple watch",
+      "airpods",
+      "airpods pro",
+      "galaxy watch",
+      "pixel watch"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Wearables & Audio",
-    "anchor": "Apple Watch",
+    "anchor": "apple watch",
     "terms": [
-      "Apple Watch",
-      "Fitbit",
-      "Garmin",
-      "Whoop",
-      "Oura Ring"
+      "apple watch",
+      "fitbit",
+      "garmin",
+      "whoop",
+      "oura ring"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Wearables & Audio",
-    "anchor": "Apple Watch",
+    "anchor": "apple watch",
     "terms": [
-      "Apple Watch",
-      "Ultrahuman Ring",
-      "Samsung Galaxy Ring",
-      "Bose",
-      "Sony WH-1000XM"
+      "apple watch",
+      "ultrahuman ring",
+      "samsung galaxy ring",
+      "bose",
+      "sony wh 1000xm"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Wearables & Audio",
-    "anchor": "Apple Watch",
+    "anchor": "apple watch",
     "terms": [
-      "Apple Watch",
-      "Beats",
-      "Jabra"
+      "apple watch",
+      "beats",
+      "jabra"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Laptops & Tablets",
-    "anchor": "MacBook",
+    "anchor": "macbook",
     "terms": [
-      "MacBook",
-      "MacBook Air",
-      "MacBook Pro",
-      "iPad",
-      "iPad Pro"
+      "macbook",
+      "macbook air",
+      "macbook pro",
+      "ipad",
+      "ipad pro"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Laptops & Tablets",
-    "anchor": "MacBook",
+    "anchor": "macbook",
     "terms": [
-      "MacBook",
-      "Dell XPS",
-      "Dell Alienware",
-      "HP Spectre",
-      "HP Omen"
+      "macbook",
+      "dell xps",
+      "dell alienware",
+      "hp spectre",
+      "hp omen"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Laptops & Tablets",
-    "anchor": "MacBook",
+    "anchor": "macbook",
     "terms": [
-      "MacBook",
-      "Lenovo ThinkPad",
-      "Lenovo Legion",
-      "Lenovo Yoga"
+      "macbook",
+      "lenovo thinkpad",
+      "lenovo legion",
+      "lenovo yoga"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Smart Home & TV",
-    "anchor": "Amazon Echo",
+    "anchor": "amazon echo",
     "terms": [
-      "Amazon Echo",
-      "Alexa+",
-      "Google Nest",
-      "Ring",
-      "Arlo"
+      "amazon echo",
+      "alexa plus",
+      "google nest",
+      "ring",
+      "arlo"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Smart Home & TV",
-    "anchor": "Amazon Echo",
+    "anchor": "amazon echo",
     "terms": [
-      "Amazon Echo",
-      "Wyze",
-      "SimpliSafe",
-      "ADT",
-      "Eufy"
+      "amazon echo",
+      "wyze",
+      "simplisafe",
+      "adt",
+      "eufy"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Smart Home & TV",
-    "anchor": "Amazon Echo",
+    "anchor": "amazon echo",
     "terms": [
-      "Amazon Echo",
-      "Blink",
-      "Philips Hue",
-      "Govee",
-      "Nanoleaf"
+      "amazon echo",
+      "blink",
+      "philips hue",
+      "govee",
+      "nanoleaf"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Smart Home & TV",
-    "anchor": "Amazon Echo",
+    "anchor": "amazon echo",
     "terms": [
-      "Amazon Echo",
-      "Ecobee",
-      "August Lock"
+      "amazon echo",
+      "ecobee",
+      "august lock"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Cameras & Drones",
-    "anchor": "GoPro",
+    "anchor": "gopro",
     "terms": [
-      "GoPro",
-      "DJI",
-      "DJI Osmo Pocket",
-      "Insta360",
-      "Canon"
+      "gopro",
+      "dji",
+      "dji osmo pocket",
+      "insta360",
+      "canon"
     ]
   },
   {
     "industry": "Consumer Electronics",
     "competitor_set": "Cameras & Drones",
-    "anchor": "GoPro",
+    "anchor": "gopro",
     "terms": [
-      "GoPro",
-      "Nikon",
-      "Sony Alpha",
-      "Fujifilm"
+      "gopro",
+      "nikon",
+      "sony alpha",
+      "fujifilm"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Chips & GPUs",
-    "anchor": "Nvidia",
+    "anchor": "nvidia",
     "terms": [
-      "Nvidia",
-      "AMD",
-      "Intel",
-      "Qualcomm Snapdragon",
-      "Apple Silicon"
+      "nvidia",
+      "amd",
+      "intel",
+      "qualcomm snapdragon",
+      "apple silicon"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Chips & GPUs",
-    "anchor": "Nvidia",
+    "anchor": "nvidia",
     "terms": [
-      "Nvidia",
-      "RTX 5090",
-      "RTX 5080",
-      "RTX 5070",
-      "Radeon RX 9070"
+      "nvidia",
+      "rtx 5090",
+      "rtx 5080",
+      "rtx 5070",
+      "radeon rx 9070"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Components & Boards",
-    "anchor": "Asus",
+    "anchor": "asus",
     "terms": [
-      "Asus",
-      "MSI",
-      "Gigabyte",
-      "ASRock",
-      "EVGA"
+      "asus",
+      "msi",
+      "gigabyte",
+      "asrock",
+      "evga"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Components & Boards",
-    "anchor": "Asus",
+    "anchor": "asus",
     "terms": [
-      "Asus",
-      "Zotac",
-      "PNY",
-      "Sapphire",
-      "PowerColor"
+      "asus",
+      "zotac",
+      "pny",
+      "sapphire",
+      "powercolor"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Components & Boards",
-    "anchor": "Asus",
+    "anchor": "asus",
     "terms": [
-      "Asus",
-      "XFX",
-      "Corsair",
-      "NZXT",
-      "Lian Li"
+      "asus",
+      "xfx",
+      "corsair",
+      "nzxt",
+      "lian li"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Components & Boards",
-    "anchor": "Asus",
+    "anchor": "asus",
     "terms": [
-      "Asus",
-      "Fractal Design",
-      "Cooler Master",
-      "be quiet!",
-      "Noctua"
+      "asus",
+      "fractal design",
+      "cooler master",
+      "be quiet",
+      "noctua"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Components & Boards",
-    "anchor": "Asus",
+    "anchor": "asus",
     "terms": [
-      "Asus",
-      "Thermaltake"
+      "asus",
+      "thermaltake"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Peripherals",
-    "anchor": "Logitech",
+    "anchor": "logitech",
     "terms": [
-      "Logitech",
-      "Logitech G",
-      "Razer",
-      "SteelSeries",
-      "HyperX"
+      "logitech",
+      "logitech g",
+      "razer",
+      "steelseries",
+      "hyperx"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Peripherals",
-    "anchor": "Logitech",
+    "anchor": "logitech",
     "terms": [
-      "Logitech",
-      "Turtle Beach",
-      "Elgato",
-      "Keychron",
-      "Wooting"
+      "logitech",
+      "turtle beach",
+      "elgato",
+      "keychron",
+      "wooting"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Peripherals",
-    "anchor": "Logitech",
+    "anchor": "logitech",
     "terms": [
-      "Logitech",
-      "Glorious",
-      "Ducky",
-      "Nuphy",
-      "Finalmouse"
+      "logitech",
+      "glorious",
+      "ducky",
+      "nuphy",
+      "finalmouse"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Peripherals",
-    "anchor": "Logitech",
+    "anchor": "logitech",
     "terms": [
-      "Logitech",
-      "Pulsar",
-      "Lamzu",
-      "Zowie",
-      "Secretlab"
+      "logitech",
+      "pulsar",
+      "lamzu",
+      "zowie",
+      "secretlab"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Peripherals",
-    "anchor": "Logitech",
+    "anchor": "logitech",
     "terms": [
-      "Logitech",
-      "Branch Furniture",
-      "Autonomous Desk",
-      "Flexispot",
-      "Uplift Desk"
+      "logitech",
+      "branch furniture",
+      "autonomous desk",
+      "flexispot",
+      "uplift desk"
+    ]
+  },
+  {
+    "industry": "PC Hardware & Gaming Hardware",
+    "competitor_set": "Peripherals",
+    "anchor": "logitech",
+    "terms": [
+      "logitech",
+      "samsung odyssey"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Consoles & Handhelds",
-    "anchor": "PlayStation 5",
+    "anchor": "playstation 5",
     "terms": [
-      "PlayStation 5",
-      "PS5 Pro",
-      "Xbox Series X",
-      "Xbox Game Pass",
-      "Nintendo Switch 2"
+      "playstation 5",
+      "ps5 pro",
+      "xbox series x",
+      "xbox game pass",
+      "nintendo switch 2"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Consoles & Handhelds",
-    "anchor": "PlayStation 5",
+    "anchor": "playstation 5",
     "terms": [
-      "PlayStation 5",
-      "Nintendo Switch",
-      "Steam Deck",
-      "Valve Steam Machine",
-      "Steam Frame"
+      "playstation 5",
+      "nintendo switch",
+      "steam deck",
+      "valve steam machine",
+      "steam frame"
     ]
   },
   {
     "industry": "PC Hardware & Gaming Hardware",
     "competitor_set": "Consoles & Handhelds",
-    "anchor": "PlayStation 5",
+    "anchor": "playstation 5",
     "terms": [
-      "PlayStation 5",
-      "Asus ROG Ally",
-      "ROG Xbox Ally"
+      "playstation 5",
+      "asus rog ally",
+      "rog xbox ally"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "Frontier AI Assistants",
-    "anchor": "ChatGPT",
+    "anchor": "chatgpt",
     "terms": [
-      "ChatGPT",
-      "OpenAI",
-      "Claude",
-      "Anthropic",
-      "Gemini"
+      "chatgpt",
+      "openai",
+      "claude",
+      "anthropic",
+      "gemini"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "Frontier AI Assistants",
-    "anchor": "ChatGPT",
+    "anchor": "chatgpt",
     "terms": [
-      "ChatGPT",
-      "Google Gemini",
-      "Microsoft Copilot",
-      "Meta AI",
-      "Grok"
+      "chatgpt",
+      "google gemini",
+      "microsoft copilot",
+      "meta ai",
+      "grok"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "Frontier AI Assistants",
-    "anchor": "ChatGPT",
+    "anchor": "chatgpt",
     "terms": [
-      "ChatGPT",
-      "xAI",
-      "Perplexity",
-      "DeepSeek",
-      "Mistral AI"
+      "chatgpt",
+      "xai",
+      "perplexity",
+      "deepseek",
+      "mistral ai"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "Frontier AI Assistants",
-    "anchor": "ChatGPT",
+    "anchor": "chatgpt",
     "terms": [
-      "ChatGPT",
-      "Le Chat",
-      "Qwen",
-      "Kimi",
-      "Manus"
+      "chatgpt",
+      "le chat",
+      "qwen",
+      "kimi",
+      "character ai"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "Frontier AI Assistants",
-    "anchor": "ChatGPT",
+    "anchor": "chatgpt",
     "terms": [
-      "ChatGPT",
-      "Character.AI",
-      "Pi AI",
-      "Poe",
-      "Apple Intelligence"
+      "chatgpt",
+      "pi ai",
+      "poe",
+      "apple intelligence",
+      "siri"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "Frontier AI Assistants",
-    "anchor": "ChatGPT",
+    "anchor": "chatgpt",
     "terms": [
-      "ChatGPT",
-      "Siri",
-      "Alexa+",
-      "Amazon Nova",
-      "Llama"
+      "chatgpt",
+      "alexa plus",
+      "amazon nova",
+      "llama",
+      "sora"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "Frontier AI Assistants",
-    "anchor": "ChatGPT",
+    "anchor": "chatgpt",
     "terms": [
-      "ChatGPT",
-      "Sora",
-      "Veo",
-      "Nano Banana",
-      "Midjourney"
+      "chatgpt",
+      "veo",
+      "nano banana",
+      "midjourney"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Agents & Agentic Tools",
-    "anchor": "ChatGPT Agent",
+    "anchor": "chatgpt agent",
     "terms": [
-      "ChatGPT Agent",
-      "OpenAI Operator",
-      "OpenAI Codex",
-      "Claude Code",
-      "Claude Cowork"
+      "chatgpt agent",
+      "openai operator",
+      "openai codex",
+      "claude code",
+      "claude cowork"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Agents & Agentic Tools",
-    "anchor": "ChatGPT Agent",
+    "anchor": "chatgpt agent",
     "terms": [
-      "ChatGPT Agent",
-      "Gemini Agent",
-      "Project Mariner",
-      "Jules Google",
-      "Devin AI"
+      "chatgpt agent",
+      "gemini agent",
+      "project mariner",
+      "jules google",
+      "devin ai"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Agents & Agentic Tools",
-    "anchor": "ChatGPT Agent",
+    "anchor": "chatgpt agent",
     "terms": [
-      "ChatGPT Agent",
-      "Cognition AI",
-      "Cursor",
-      "Windsurf",
-      "GitHub Copilot"
+      "chatgpt agent",
+      "cognition ai",
+      "cursor",
+      "windsurf",
+      "github copilot"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Agents & Agentic Tools",
-    "anchor": "ChatGPT Agent",
+    "anchor": "chatgpt agent",
     "terms": [
-      "ChatGPT Agent",
-      "Replit Agent",
-      "Lovable",
-      "Bolt.new",
+      "chatgpt agent",
+      "replit agent",
+      "lovable",
+      "bolt new",
       "v0"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Agents & Agentic Tools",
-    "anchor": "ChatGPT Agent",
+    "anchor": "chatgpt agent",
     "terms": [
-      "ChatGPT Agent",
-      "Vercel",
-      "Base44",
-      "Genspark",
-      "Manus AI"
+      "chatgpt agent",
+      "vercel",
+      "base44",
+      "genspark",
+      "manus ai"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Agents & Agentic Tools",
-    "anchor": "ChatGPT Agent",
+    "anchor": "chatgpt agent",
     "terms": [
-      "ChatGPT Agent",
-      "Comet Browser",
-      "ChatGPT Atlas",
-      "Dia Browser",
-      "Opera Neon"
+      "chatgpt agent",
+      "comet browser",
+      "chatgpt atlas",
+      "dia browser",
+      "opera neon"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Agents & Agentic Tools",
-    "anchor": "ChatGPT Agent",
+    "anchor": "chatgpt agent",
     "terms": [
-      "ChatGPT Agent",
-      "Arc Browser",
-      "Browser Use",
-      "MultiOn",
-      "Adept AI"
+      "chatgpt agent",
+      "arc browser",
+      "browser use",
+      "multion",
+      "adept ai"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Agents & Agentic Tools",
-    "anchor": "ChatGPT Agent",
+    "anchor": "chatgpt agent",
     "terms": [
-      "ChatGPT Agent",
-      "Lindy AI"
+      "chatgpt agent",
+      "lindy ai",
+      "relevance ai"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Hardware & Companions",
-    "anchor": "Rabbit R1",
+    "anchor": "rabbit r1",
     "terms": [
-      "Rabbit R1",
-      "Humane AI Pin",
-      "Limitless AI",
-      "Plaud NotePin",
-      "Bee Wearable"
+      "rabbit r1",
+      "humane ai pin",
+      "limitless ai",
+      "plaud notepin",
+      "bee wearable"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Hardware & Companions",
-    "anchor": "Rabbit R1",
+    "anchor": "rabbit r1",
     "terms": [
-      "Rabbit R1",
-      "Meta Ray-Ban Display",
-      "io OpenAI device",
-      "Brilliant Labs Frame",
-      "Halliday Glasses"
+      "rabbit r1",
+      "meta ray ban display",
+      "io openai device",
+      "brilliant labs frame",
+      "halliday glasses"
     ]
   },
   {
     "industry": "AI Agents & AI Products",
     "competitor_set": "AI Hardware & Companions",
-    "anchor": "Rabbit R1",
+    "anchor": "rabbit r1",
     "terms": [
-      "Rabbit R1",
-      "Even G2",
-      "Ray-Ban Meta Gen 2"
+      "rabbit r1",
+      "even g2",
+      "ray ban meta gen 2"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Hotel Chains",
-    "anchor": "Marriott",
+    "anchor": "marriott",
     "terms": [
-      "Marriott",
-      "Hilton",
-      "Hyatt",
-      "IHG",
-      "Wyndham"
+      "marriott",
+      "hilton",
+      "hyatt",
+      "ihg",
+      "wyndham"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Hotel Chains",
-    "anchor": "Marriott",
+    "anchor": "marriott",
     "terms": [
-      "Marriott",
-      "Choice Hotels",
-      "Best Western",
-      "Accor",
-      "Four Seasons"
+      "marriott",
+      "choice hotels",
+      "best western",
+      "accor",
+      "four seasons"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Hotel Chains",
-    "anchor": "Marriott",
+    "anchor": "marriott",
     "terms": [
-      "Marriott",
-      "Ritz-Carlton",
-      "St. Regis",
-      "W Hotels",
-      "Westin"
+      "marriott",
+      "ritz carlton",
+      "st regis",
+      "w hotels",
+      "westin"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Hotel Chains",
-    "anchor": "Marriott",
+    "anchor": "marriott",
     "terms": [
-      "Marriott",
-      "Sheraton",
-      "Courtyard by Marriott",
-      "Residence Inn",
-      "Fairfield Inn"
+      "marriott",
+      "sheraton",
+      "courtyard by marriott",
+      "residence inn",
+      "fairfield inn"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Hotel Chains",
-    "anchor": "Marriott",
+    "anchor": "marriott",
     "terms": [
-      "Marriott",
-      "Hampton Inn",
-      "Embassy Suites",
-      "DoubleTree",
-      "Waldorf Astoria"
+      "marriott",
+      "hampton inn",
+      "embassy suites",
+      "doubletree",
+      "waldorf astoria"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Hotel Chains",
-    "anchor": "Marriott",
+    "anchor": "marriott",
     "terms": [
-      "Marriott",
-      "Conrad",
-      "Canopy by Hilton",
-      "Tempo by Hilton",
-      "Holiday Inn"
+      "marriott",
+      "conrad",
+      "canopy by hilton",
+      "tempo by hilton",
+      "holiday inn"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Hotel Chains",
-    "anchor": "Marriott",
+    "anchor": "marriott",
     "terms": [
-      "Marriott",
-      "Holiday Inn Express"
+      "marriott",
+      "holiday inn express"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Resorts & Casinos",
-    "anchor": "MGM Grand",
+    "anchor": "mgm grand",
     "terms": [
-      "MGM Grand",
-      "Bellagio",
-      "Caesars Palace",
-      "Wynn Las Vegas",
-      "Venetian"
+      "mgm grand",
+      "bellagio",
+      "caesars palace",
+      "wynn las vegas",
+      "venetian"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Resorts & Casinos",
-    "anchor": "MGM Grand",
+    "anchor": "mgm grand",
     "terms": [
-      "MGM Grand",
-      "Fontainebleau Las Vegas",
-      "Resorts World Las Vegas",
-      "Cosmopolitan Las Vegas",
-      "Atlantis Bahamas"
+      "mgm grand",
+      "fontainebleau las vegas",
+      "resorts world las vegas",
+      "cosmopolitan las vegas",
+      "atlantis bahamas"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Resorts & Casinos",
-    "anchor": "MGM Grand",
+    "anchor": "mgm grand",
     "terms": [
-      "MGM Grand",
-      "Sandals"
+      "mgm grand",
+      "sandals"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Booking & Rentals",
-    "anchor": "Airbnb",
+    "anchor": "airbnb",
     "terms": [
-      "Airbnb",
-      "Vrbo",
-      "Booking.com",
-      "Expedia",
-      "Hotels.com"
+      "airbnb",
+      "vrbo",
+      "booking com",
+      "expedia",
+      "hotels com"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Booking & Rentals",
-    "anchor": "Airbnb",
+    "anchor": "airbnb",
     "terms": [
-      "Airbnb",
-      "Priceline",
-      "Kayak",
-      "Trivago",
-      "Hopper"
+      "airbnb",
+      "priceline",
+      "kayak",
+      "trivago",
+      "hopper"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Booking & Rentals",
-    "anchor": "Airbnb",
+    "anchor": "airbnb",
     "terms": [
-      "Airbnb",
-      "Google Travel"
+      "airbnb",
+      "google travel"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Airlines",
-    "anchor": "Delta",
+    "anchor": "delta",
     "terms": [
-      "Delta",
-      "United Airlines",
-      "American Airlines",
-      "Southwest",
-      "JetBlue"
+      "delta",
+      "united airlines",
+      "american airlines",
+      "southwest",
+      "jetblue"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Airlines",
-    "anchor": "Delta",
+    "anchor": "delta",
     "terms": [
-      "Delta",
-      "Alaska Airlines",
-      "Spirit Airlines",
-      "Frontier Airlines",
-      "Allegiant"
+      "delta",
+      "alaska airlines",
+      "spirit airlines",
+      "frontier airlines",
+      "allegiant"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Airlines",
-    "anchor": "Delta",
+    "anchor": "delta",
     "terms": [
-      "Delta",
-      "Hawaiian Airlines",
-      "Breeze Airways",
-      "Sun Country"
+      "delta",
+      "hawaiian airlines",
+      "breeze airways",
+      "sun country"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Cruises",
-    "anchor": "Royal Caribbean",
+    "anchor": "royal caribbean",
     "terms": [
-      "Royal Caribbean",
-      "Carnival Cruise",
-      "Norwegian Cruise Line",
-      "Disney Cruise Line",
-      "Princess Cruises"
+      "royal caribbean",
+      "carnival cruise",
+      "norwegian cruise line",
+      "disney cruise line",
+      "princess cruises"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Cruises",
-    "anchor": "Royal Caribbean",
+    "anchor": "royal caribbean",
     "terms": [
-      "Royal Caribbean",
-      "Celebrity Cruises",
-      "MSC Cruises",
-      "Virgin Voyages",
-      "Viking Cruises"
+      "royal caribbean",
+      "celebrity cruises",
+      "msc cruises",
+      "virgin voyages",
+      "viking cruises"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Rental Cars & Mobility",
-    "anchor": "Hertz",
+    "anchor": "hertz",
     "terms": [
-      "Hertz",
-      "Enterprise",
-      "Avis",
-      "Budget",
-      "National Car Rental"
+      "hertz",
+      "enterprise",
+      "avis",
+      "budget",
+      "national car rental"
     ]
   },
   {
     "industry": "Hotels & Travel",
     "competitor_set": "Rental Cars & Mobility",
-    "anchor": "Hertz",
+    "anchor": "hertz",
     "terms": [
-      "Hertz",
-      "Alamo",
-      "Sixt",
-      "Turo",
-      "Uber"
+      "hertz",
+      "alamo",
+      "sixt",
+      "turo",
+      "uber"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Theme Parks",
-    "anchor": "Disney World",
+    "anchor": "disney world",
     "terms": [
-      "Disney World",
-      "Disneyland",
-      "Universal Studios",
-      "Epic Universe",
-      "Universal Orlando"
+      "disney world",
+      "disneyland",
+      "universal studios",
+      "epic universe",
+      "universal orlando"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Theme Parks",
-    "anchor": "Disney World",
+    "anchor": "disney world",
     "terms": [
-      "Disney World",
-      "Six Flags",
-      "Cedar Point",
-      "SeaWorld",
-      "Busch Gardens"
+      "disney world",
+      "six flags",
+      "cedar point",
+      "seaworld",
+      "busch gardens"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Theme Parks",
-    "anchor": "Disney World",
+    "anchor": "disney world",
     "terms": [
-      "Disney World",
-      "Knott's Berry Farm",
-      "Legoland",
-      "Dollywood",
-      "Hersheypark"
+      "disney world",
+      "knotts berry farm",
+      "legoland",
+      "dollywood",
+      "hersheypark"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Theme Parks",
-    "anchor": "Disney World",
+    "anchor": "disney world",
     "terms": [
-      "Disney World",
-      "Kings Island"
+      "disney world",
+      "kings island"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Family Entertainment Centers",
-    "anchor": "Dave & Buster's",
+    "anchor": "dave and busters",
     "terms": [
-      "Dave & Buster's",
-      "Topgolf",
-      "Chuck E. Cheese",
-      "Main Event",
-      "Round1"
+      "dave and busters",
+      "topgolf",
+      "chuck e cheese",
+      "main event",
+      "round1"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Family Entertainment Centers",
-    "anchor": "Dave & Buster's",
+    "anchor": "dave and busters",
     "terms": [
-      "Dave & Buster's",
-      "Bowlero",
-      "Lucky Strike",
-      "Puttshack",
-      "Drive Shack"
+      "dave and busters",
+      "bowlero",
+      "lucky strike",
+      "puttshack",
+      "drive shack"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Family Entertainment Centers",
-    "anchor": "Dave & Buster's",
+    "anchor": "dave and busters",
     "terms": [
-      "Dave & Buster's",
-      "Flight Club",
-      "Pinstripes",
-      "Urban Air",
-      "Sky Zone"
+      "dave and busters",
+      "flight club",
+      "pinstripes",
+      "urban air",
+      "sky zone"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Family Entertainment Centers",
-    "anchor": "Dave & Buster's",
+    "anchor": "dave and busters",
     "terms": [
-      "Dave & Buster's",
-      "Altitude Trampoline Park",
-      "iFly",
-      "Andretti Indoor Karting",
-      "K1 Speed"
+      "dave and busters",
+      "altitude trampoline park",
+      "ifly",
+      "andretti indoor karting",
+      "k1 speed"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Cinema & Live Events",
-    "anchor": "AMC Theatres",
+    "anchor": "amc theatres",
     "terms": [
-      "AMC Theatres",
-      "Regal Cinemas",
-      "Cinemark",
-      "Alamo Drafthouse",
-      "Marcus Theatres"
+      "amc theatres",
+      "regal cinemas",
+      "cinemark",
+      "alamo drafthouse",
+      "marcus theatres"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Cinema & Live Events",
-    "anchor": "AMC Theatres",
+    "anchor": "amc theatres",
     "terms": [
-      "AMC Theatres",
-      "Harkins Theatres",
-      "IMAX",
-      "Dolby Cinema",
-      "AMC Stubs A-List"
+      "amc theatres",
+      "harkins theatres",
+      "imax",
+      "dolby cinema",
+      "amc stubs a list"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Cinema & Live Events",
-    "anchor": "AMC Theatres",
+    "anchor": "amc theatres",
     "terms": [
-      "AMC Theatres",
-      "Regal Unlimited",
-      "Fathom Events",
-      "Ticketmaster",
-      "Live Nation"
+      "amc theatres",
+      "regal unlimited",
+      "fathom events",
+      "ticketmaster",
+      "live nation"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Cinema & Live Events",
-    "anchor": "AMC Theatres",
+    "anchor": "amc theatres",
     "terms": [
-      "AMC Theatres",
-      "StubHub",
-      "SeatGeek",
-      "Vivid Seats"
+      "amc theatres",
+      "stubhub",
+      "seatgeek",
+      "vivid seats"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Streaming Video",
-    "anchor": "Netflix",
+    "anchor": "netflix",
     "terms": [
-      "Netflix",
-      "Disney+",
-      "Hulu",
-      "Max",
-      "HBO Max"
+      "netflix",
+      "disney plus",
+      "hulu",
+      "hbo max",
+      "amazon prime video"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Streaming Video",
-    "anchor": "Netflix",
+    "anchor": "netflix",
     "terms": [
-      "Netflix",
-      "Amazon Prime Video",
-      "Apple TV+",
-      "Paramount+",
-      "Peacock"
+      "netflix",
+      "apple tv plus",
+      "paramount plus",
+      "peacock",
+      "youtube tv"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Streaming Video",
-    "anchor": "Netflix",
+    "anchor": "netflix",
     "terms": [
-      "Netflix",
-      "YouTube TV",
-      "Sling TV",
-      "Fubo",
-      "Tubi"
+      "netflix",
+      "sling tv",
+      "fubo",
+      "tubi",
+      "pluto tv"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Music & Audio Streaming",
-    "anchor": "Spotify",
+    "anchor": "spotify",
     "terms": [
-      "Spotify",
-      "Apple Music",
-      "YouTube Music",
-      "Amazon Music",
-      "Tidal"
+      "spotify",
+      "apple music",
+      "youtube music",
+      "amazon music",
+      "tidal"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Music & Audio Streaming",
-    "anchor": "Spotify",
+    "anchor": "spotify",
     "terms": [
-      "Spotify",
-      "Pandora",
-      "SoundCloud",
-      "Deezer"
+      "spotify",
+      "pandora",
+      "soundcloud",
+      "deezer"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Video Games & Publishers",
-    "anchor": "Fortnite",
+    "anchor": "fortnite",
     "terms": [
-      "Fortnite",
-      "Roblox",
-      "Minecraft",
-      "Call of Duty",
-      "GTA 6"
+      "fortnite",
+      "roblox",
+      "minecraft",
+      "call of duty",
+      "gta 6"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Video Games & Publishers",
-    "anchor": "Fortnite",
+    "anchor": "fortnite",
     "terms": [
-      "Fortnite",
-      "Grand Theft Auto",
-      "EA Sports FC",
-      "Madden NFL",
-      "NBA 2K"
+      "fortnite",
+      "grand theft auto",
+      "ea sports fc",
+      "madden nfl",
+      "nba 2k"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Video Games & Publishers",
-    "anchor": "Fortnite",
+    "anchor": "fortnite",
     "terms": [
-      "Fortnite",
-      "College Football 26",
-      "Pokemon Legends Z-A",
-      "Mario Kart World",
-      "Donkey Kong Bananza"
+      "fortnite",
+      "college football 26",
+      "pokemon legends za",
+      "mario kart world",
+      "donkey kong bananza"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Video Games & Publishers",
-    "anchor": "Fortnite",
+    "anchor": "fortnite",
     "terms": [
-      "Fortnite",
-      "Zelda",
-      "Animal Crossing",
-      "Valorant",
-      "League of Legends"
+      "fortnite",
+      "zelda",
+      "animal crossing",
+      "valorant",
+      "league of legends"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Video Games & Publishers",
-    "anchor": "Fortnite",
+    "anchor": "fortnite",
     "terms": [
-      "Fortnite",
-      "Apex Legends",
-      "Overwatch",
-      "Marvel Rivals",
-      "Battlefield 6"
+      "fortnite",
+      "apex legends",
+      "overwatch",
+      "marvel rivals",
+      "battlefield 6"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Video Games & Publishers",
-    "anchor": "Fortnite",
+    "anchor": "fortnite",
     "terms": [
-      "Fortnite",
-      "Elden Ring",
-      "Elden Ring Nightreign",
-      "Hollow Knight Silksong",
-      "Ghost of Yotei"
+      "fortnite",
+      "elden ring",
+      "elden ring nightreign",
+      "hollow knight silksong",
+      "ghost of yotei"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Video Games & Publishers",
-    "anchor": "Fortnite",
+    "anchor": "fortnite",
     "terms": [
-      "Fortnite",
-      "Borderlands 4",
-      "Monster Hunter Wilds",
-      "Clair Obscur Expedition 33",
-      "Death Stranding 2"
+      "fortnite",
+      "borderlands 4",
+      "monster hunter wilds",
+      "clair obscur expedition 33",
+      "death stranding 2"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Video Games & Publishers",
-    "anchor": "Fortnite",
+    "anchor": "fortnite",
     "terms": [
-      "Fortnite",
-      "Silent Hill f",
-      "Splitgate",
-      "Arc Raiders",
-      "Deadlock"
+      "fortnite",
+      "silent hill f",
+      "splitgate",
+      "arc raiders",
+      "deadlock"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Video Games & Publishers",
-    "anchor": "Fortnite",
+    "anchor": "fortnite",
     "terms": [
-      "Fortnite",
-      "Schedule I",
-      "Peak game"
+      "fortnite",
+      "schedule i",
+      "peak game"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Fitness & Wellness Chains",
-    "anchor": "Planet Fitness",
+    "anchor": "planet fitness",
     "terms": [
-      "Planet Fitness",
-      "LA Fitness",
-      "Crunch Fitness",
-      "Anytime Fitness",
-      "24 Hour Fitness"
+      "planet fitness",
+      "la fitness",
+      "crunch fitness",
+      "anytime fitness",
+      "24 hour fitness"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Fitness & Wellness Chains",
-    "anchor": "Planet Fitness",
+    "anchor": "planet fitness",
     "terms": [
-      "Planet Fitness",
-      "Equinox",
-      "Life Time Fitness",
-      "Gold's Gym",
-      "EoS Fitness"
+      "planet fitness",
+      "equinox",
+      "life time fitness",
+      "golds gym",
+      "eos fitness"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Fitness & Wellness Chains",
-    "anchor": "Planet Fitness",
+    "anchor": "planet fitness",
     "terms": [
-      "Planet Fitness",
-      "Orangetheory",
-      "F45",
-      "Barry's",
-      "SoulCycle"
+      "planet fitness",
+      "orangetheory",
+      "f45",
+      "barrys",
+      "soulcycle"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Fitness & Wellness Chains",
-    "anchor": "Planet Fitness",
+    "anchor": "planet fitness",
     "terms": [
-      "Planet Fitness",
-      "CorePower Yoga",
-      "Pure Barre",
-      "Club Pilates",
-      "Solidcore"
+      "planet fitness",
+      "corepower yoga",
+      "pure barre",
+      "club pilates",
+      "solidcore"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Fitness & Wellness Chains",
-    "anchor": "Planet Fitness",
+    "anchor": "planet fitness",
     "terms": [
-      "Planet Fitness",
-      "Hotworx",
-      "Xponential",
-      "Peloton",
-      "Tonal"
+      "planet fitness",
+      "hotworx",
+      "xponential",
+      "peloton",
+      "tonal"
     ]
   },
   {
     "industry": "Entertainment & Experiences",
     "competitor_set": "Fitness & Wellness Chains",
-    "anchor": "Planet Fitness",
+    "anchor": "planet fitness",
     "terms": [
-      "Planet Fitness",
-      "Hydrow",
-      "Zwift"
+      "planet fitness",
+      "hydrow",
+      "zwift"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Automakers",
-    "anchor": "Tesla",
+    "anchor": "tesla",
     "terms": [
-      "Tesla",
-      "Ford",
-      "Chevrolet",
-      "Toyota",
-      "Honda"
+      "tesla",
+      "ford",
+      "chevrolet",
+      "toyota",
+      "honda"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Automakers",
-    "anchor": "Tesla",
+    "anchor": "tesla",
     "terms": [
-      "Tesla",
-      "Hyundai",
-      "Kia",
-      "Nissan",
-      "Subaru"
+      "tesla",
+      "hyundai",
+      "kia",
+      "nissan",
+      "subaru"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Automakers",
-    "anchor": "Tesla",
+    "anchor": "tesla",
     "terms": [
-      "Tesla",
-      "Mazda",
-      "Jeep",
-      "Ram Trucks",
-      "GMC"
+      "tesla",
+      "mazda",
+      "jeep",
+      "ram trucks",
+      "gmc"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Automakers",
-    "anchor": "Tesla",
+    "anchor": "tesla",
     "terms": [
-      "Tesla",
-      "Cadillac",
-      "Lexus",
-      "BMW",
-      "Mercedes-Benz"
+      "tesla",
+      "cadillac",
+      "lexus",
+      "bmw",
+      "mercedes benz"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Automakers",
-    "anchor": "Tesla",
+    "anchor": "tesla",
     "terms": [
-      "Tesla",
-      "Audi",
-      "Porsche",
-      "Volkswagen",
-      "Volvo"
+      "tesla",
+      "audi",
+      "porsche",
+      "volkswagen",
+      "volvo"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Automakers",
-    "anchor": "Tesla",
+    "anchor": "tesla",
     "terms": [
-      "Tesla",
-      "Polestar",
-      "Rivian"
+      "tesla",
+      "polestar",
+      "rivian"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Auto Retail & Services",
-    "anchor": "Carvana",
+    "anchor": "carvana",
     "terms": [
-      "Carvana",
-      "CarMax",
-      "Vroom",
-      "Cars.com",
-      "Autotrader"
+      "carvana",
+      "carmax",
+      "vroom",
+      "cars com",
+      "autotrader"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Auto Retail & Services",
-    "anchor": "Carvana",
+    "anchor": "carvana",
     "terms": [
-      "Carvana",
-      "CarGurus",
-      "Bring a Trailer",
-      "Cars & Bids",
-      "Copart"
+      "carvana",
+      "cargurus",
+      "bring a trailer",
+      "cars and bids",
+      "copart"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Micromobility & Powersports",
-    "anchor": "Super73",
+    "anchor": "super73",
     "terms": [
-      "Super73",
-      "Rad Power Bikes",
-      "Aventon",
-      "Lectric eBikes",
-      "VanMoof"
+      "super73",
+      "rad power bikes",
+      "aventon",
+      "lectric ebikes",
+      "vanmoof"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Micromobility & Powersports",
-    "anchor": "Super73",
+    "anchor": "super73",
     "terms": [
-      "Super73",
-      "Specialized",
-      "Trek",
-      "Cannondale",
-      "Onewheel"
+      "super73",
+      "specialized",
+      "trek",
+      "cannondale",
+      "onewheel"
     ]
   },
   {
     "industry": "Automotive & Mobility",
     "competitor_set": "Micromobility & Powersports",
-    "anchor": "Super73",
+    "anchor": "super73",
     "terms": [
-      "Super73",
-      "Segway",
-      "Ninebot"
+      "super73",
+      "segway",
+      "ninebot"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Fintech & Payments",
-    "anchor": "Venmo",
+    "anchor": "venmo",
     "terms": [
-      "Venmo",
-      "Cash App",
-      "Zelle",
-      "PayPal",
-      "Apple Pay"
+      "venmo",
+      "cash app",
+      "zelle",
+      "paypal",
+      "apple pay"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Fintech & Payments",
-    "anchor": "Venmo",
+    "anchor": "venmo",
     "terms": [
-      "Venmo",
-      "Google Pay",
-      "Chime",
-      "SoFi",
-      "Robinhood"
+      "venmo",
+      "google pay",
+      "chime",
+      "sofi",
+      "robinhood"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Fintech & Payments",
-    "anchor": "Venmo",
+    "anchor": "venmo",
     "terms": [
-      "Venmo",
-      "Webull",
-      "Coinbase",
-      "Kraken",
-      "Gemini Exchange"
+      "venmo",
+      "webull",
+      "coinbase",
+      "kraken",
+      "gemini exchange"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Fintech & Payments",
-    "anchor": "Venmo",
+    "anchor": "venmo",
     "terms": [
-      "Venmo",
-      "Binance",
-      "Crypto.com",
-      "Kalshi",
-      "Polymarket"
+      "venmo",
+      "binance",
+      "crypto com",
+      "kalshi",
+      "polymarket"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Fintech & Payments",
-    "anchor": "Venmo",
+    "anchor": "venmo",
     "terms": [
-      "Venmo",
-      "DraftKings",
-      "FanDuel",
-      "PrizePicks",
-      "Underdog Fantasy"
+      "venmo",
+      "draftkings",
+      "fanduel",
+      "prizepicks",
+      "underdog fantasy"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Fintech & Payments",
-    "anchor": "Venmo",
+    "anchor": "venmo",
     "terms": [
-      "Venmo",
-      "Fanatics Sportsbook"
+      "venmo",
+      "fanatics sportsbook"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Social & Creator Platforms",
-    "anchor": "TikTok",
+    "anchor": "tiktok",
     "terms": [
-      "TikTok",
-      "Instagram",
-      "Threads",
-      "Bluesky",
-      "X Twitter"
+      "tiktok",
+      "instagram",
+      "threads",
+      "bluesky",
+      "x twitter"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Social & Creator Platforms",
-    "anchor": "TikTok",
+    "anchor": "tiktok",
     "terms": [
-      "TikTok",
-      "Snapchat",
-      "Pinterest",
-      "Reddit",
-      "BeReal"
+      "tiktok",
+      "snapchat",
+      "pinterest",
+      "reddit",
+      "bereal"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Social & Creator Platforms",
-    "anchor": "TikTok",
+    "anchor": "tiktok",
     "terms": [
-      "TikTok",
-      "Lemon8",
-      "Discord",
-      "Telegram",
-      "WhatsApp"
+      "tiktok",
+      "lemon8",
+      "discord",
+      "telegram",
+      "whatsapp"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Social & Creator Platforms",
-    "anchor": "TikTok",
+    "anchor": "tiktok",
     "terms": [
-      "TikTok",
-      "Facebook",
-      "LinkedIn",
-      "Substack",
-      "Patreon"
+      "tiktok",
+      "facebook",
+      "linkedin",
+      "substack",
+      "patreon"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Social & Creator Platforms",
-    "anchor": "TikTok",
+    "anchor": "tiktok",
     "terms": [
-      "TikTok",
-      "OnlyFans",
-      "Fanvue",
-      "Linktree",
-      "Beacons"
+      "tiktok",
+      "onlyfans",
+      "fanvue",
+      "linktree",
+      "beacons"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Productivity & SaaS (consumer-facing)",
-    "anchor": "Notion",
+    "anchor": "notion",
     "terms": [
-      "Notion",
-      "Canva",
-      "Figma",
-      "Adobe Express",
-      "Microsoft 365"
+      "notion",
+      "canva",
+      "figma",
+      "adobe express",
+      "microsoft 365"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Productivity & SaaS (consumer-facing)",
-    "anchor": "Notion",
+    "anchor": "notion",
     "terms": [
-      "Notion",
-      "Google Workspace",
-      "Slack",
-      "Zoom",
-      "Dropbox"
+      "notion",
+      "google workspace",
+      "slack",
+      "zoom",
+      "dropbox"
     ]
   },
   {
     "industry": "Financial & Consumer Apps",
     "competitor_set": "Productivity & SaaS (consumer-facing)",
-    "anchor": "Notion",
+    "anchor": "notion",
     "terms": [
-      "Notion",
-      "Todoist",
-      "Obsidian",
-      "Superhuman"
+      "notion",
+      "todoist",
+      "obsidian",
+      "superhuman"
     ]
   }
 ]

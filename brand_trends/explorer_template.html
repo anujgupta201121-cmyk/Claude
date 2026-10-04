@@ -45,6 +45,8 @@ input:focus,select:focus{outline:2px solid var(--g1);outline-offset:1px}
 .tag{font-size:13px;padding:4px 9px;border-radius:7px;background:var(--chip);border:1px solid var(--line);cursor:pointer}
 .tag.ext{opacity:.6;border-style:dashed}
 .tag:hover{border-color:var(--g1)}
+.tag.topic:after{content:"◆";color:var(--g1);margin-left:5px;font-size:10px}
+.hint{font-size:12px;color:var(--muted);margin:-6px 0 14px}
 .copybatch{margin-top:10px;font-size:12px;color:var(--g1);background:none;border:0;padding:0;cursor:pointer;font-family:inherit}
 .toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--g1);color:#04130a;padding:10px 16px;border-radius:10px;font-weight:600;opacity:0;transition:.2s;pointer-events:none}
 .toast.show{opacity:1}
@@ -72,14 +74,16 @@ footer{margin-top:40px;color:var(--muted);font-size:12px;text-align:center}
 
 <div class="controls">
   <input id="q" type="search" placeholder="Search a brand, set or industry…">
-  <div class="seg"><button data-t="core" class="on">Core 1K</button><button data-t="all">Core + Extended</button></div>
+  <div class="seg" id="tierSeg"><button data-t="core" class="on">Core 1K</button><button data-t="all">Core + Extended</button></div>
+  <div class="seg" id="platSeg"><button data-p="brand" class="on">Brand</button><button data-p="google_trends_keyword">Google</button><button data-p="pinterest_keyword">Pinterest</button><button data-p="tiktok_hashtag">TikTok</button></div>
   <button class="btn" id="copyAll">Copy visible keywords</button>
 </div>
 <div class="inds" id="inds"></div>
+<div class="hint" id="hint"></div>
 <div class="grid" id="grid"></div>
 
 <div class="tips">
-  <div class="tip"><h4>Google Trends</h4><p>5 terms max per compare. Use “Copy batch”: it keeps the set leader as an anchor so scores line up across batches.</p></div>
+  <div class="tip"><h4>Google Trends</h4><p>5 terms max per compare. “Copy batches” repeats the set leader in every batch so scores line up across batches. For ◆ terms, choose the brand’s Topic.</p></div>
   <div class="tip"><h4>TikTok Creative Center</h4><p>Check Keyword Insights &amp; Hashtags. Pair a brand with “new”, “drop”, “restock” or “dupe” to spot launch spikes.</p></div>
   <div class="tip"><h4>Pinterest Trends</h4><p>Strongest for beauty, fashion, home and toys. Watch for “growing” trend type versus “seasonal”.</p></div>
   <div class="tip"><h4>Virality signal</h4><p>Flag a brand when its share of its competitor set jumps more than 2× its 90-day baseline within 7–14 days of a launch.</p></div>
@@ -90,7 +94,12 @@ footer{margin-top:40px;color:var(--muted);font-size:12px;text-align:center}
 <script>
 const ROWS = /*DATA*/[];
 const GEN = "/*GEN*/";
-let tier = "core", ind = "All", q = "";
+let tier = "core", ind = "All", q = "", plat = "brand";
+const HINTS = {brand: "Click any brand to copy it. Switch platform to see the exact keyword to paste.",
+  google_trends_keyword: "Google Trends keywords. ◆ = ambiguous name: pick the Company/Product Topic in the dropdown.",
+  pinterest_keyword: "Pinterest Trends keywords, with a qualifier added where the brand name alone is ambiguous.",
+  tiktok_hashtag: "TikTok Creative Center hashtags (no #, no spaces), with a qualifier added where needed."};
+const kw = r => plat === "brand" ? r.keyword : r[plat];
 const $ = s => document.querySelector(s);
 const uniq = a => [...new Set(a)];
 $("#gen").textContent = GEN;
@@ -104,7 +113,7 @@ function copy(text,msg){navigator.clipboard?.writeText(text).then(()=>toast(msg)
 function visible(){
   const ql=q.toLowerCase();
   return ROWS.filter(r=>(tier==="all"||r.tier==="core")&&(ind==="All"||r.industry===ind)&&
-    (!ql||r.keyword.toLowerCase().includes(ql)||r.competitor_set.toLowerCase().includes(ql)||r.industry.toLowerCase().includes(ql)));
+    (!ql||(r.keyword+" "+r.google_trends_keyword+" "+r.pinterest_keyword+" "+r.tiktok_hashtag).toLowerCase().includes(ql)||r.competitor_set.toLowerCase().includes(ql)||r.industry.toLowerCase().includes(ql)));
 }
 function render(){
   const rows=visible(), groups={};
@@ -113,22 +122,24 @@ function render(){
   $("#grid").innerHTML = keys.length ? keys.map(k=>{
     const [i,s]=k.split("|"), g=groups[k];
     return `<div class="card"><div class="ind-label">${i}</div><h3>${s}<small>${g.length}</small></h3>
-      <div class="tags">${g.map(r=>`<span class="tag${r.tier==="extended"?" ext":""}" title="#${r.set_rank} in set">${r.keyword}</span>`).join("")}</div>
+      <div class="tags">${g.map(r=>`<span class="tag${r.tier==="extended"?" ext":""}${plat==="google_trends_keyword"&&r.needs_topic?" topic":""}" data-kw="${kw(r)}" title="${r.keyword} · #${r.set_rank} in set · G: ${r.google_trends_keyword} · P: ${r.pinterest_keyword} · T: ${r.tiktok_hashtag}">${kw(r)}</span>`).join("")}</div>
       <button class="copybatch" data-k="${k}">Copy Google Trends batches ↗</button></div>`}).join("")
     : `<div class="empty">No brands match.</div>`;
   window._groups=groups;
+  $("#hint").textContent=HINTS[plat];
 }
 document.addEventListener("click",e=>{
   const t=e.target;
-  if(t.matches(".seg button")){tier=t.dataset.t;document.querySelectorAll(".seg button").forEach(b=>b.classList.toggle("on",b===t));render()}
+  if(t.matches("#tierSeg button")){tier=t.dataset.t;document.querySelectorAll("#tierSeg button").forEach(b=>b.classList.toggle("on",b===t));render()}
+  if(t.matches("#platSeg button")){plat=t.dataset.p;document.querySelectorAll("#platSeg button").forEach(b=>b.classList.toggle("on",b===t));render()}
   if(t.matches(".ind")){ind=t.dataset.i;document.querySelectorAll(".ind").forEach(b=>b.classList.toggle("on",b===t));render()}
-  if(t.matches(".tag")) copy(t.textContent,`Copied “${t.textContent}”`);
+  if(t.matches(".tag")) copy(t.dataset.kw,`Copied “${t.dataset.kw}”`);
   if(t.matches(".copybatch")){
-    const names=window._groups[t.dataset.k].map(r=>r.keyword), lead=names[0], rest=names.slice(1), out=[];
+    const names=window._groups[t.dataset.k].map(r=>r.google_trends_keyword), lead=names[0], rest=names.slice(1), out=[];
     for(let i=0;i<rest.length;i+=4) out.push([lead,...rest.slice(i,i+4)].join(", "));
     copy(out.join("\n"),`Copied ${out.length} batch${out.length>1?"es":""}`);
   }
-  if(t.id==="copyAll") copy(uniq(visible().map(r=>r.keyword)).join("\n"),"Copied visible keywords");
+  if(t.id==="copyAll") copy(uniq(visible().map(kw)).join("\n"),"Copied visible keywords");
 });
 $("#q").addEventListener("input",e=>{q=e.target.value;render()});
 render();
