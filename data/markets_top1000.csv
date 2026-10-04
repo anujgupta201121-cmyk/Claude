@@ -1,0 +1,1001 @@
+market_rank,market_tier,market_name,market_label,admin1,country_code,country_name,continent,population,latitude,longitude,geonameid,source
+1,T1,New York City,"New York City, NY",NY,US,United States,NA,8804190,40.71427,-74.00597,5128581,anchor
+2,T1,London,"London, United Kingdom",ENG,GB,United Kingdom,EU,8961989,51.50853,-0.12574,2643743,anchor
+3,T1,Paris,"Paris, France",11,FR,France,EU,2138551,48.85341,2.3488,2988507,anchor
+4,T1,Tokyo,"Tokyo, Japan",40,JP,Japan,AS,9733276,35.6895,139.69171,1850147,anchor
+5,T1,Dubai,"Dubai, United Arab Emirates",03,AE,United Arab Emirates,AS,3790000,25.07725,55.30927,292223,anchor
+6,T1,Los Angeles,"Los Angeles, CA",CA,US,United States,NA,3820914,34.05223,-118.24368,5368361,anchor
+7,T1,Las Vegas,"Las Vegas, NV",NV,US,United States,NA,641903,36.17497,-115.13722,5506956,anchor
+8,T1,Orlando,"Orlando, FL",FL,US,United States,NA,334854,28.53834,-81.37924,4167147,anchor
+9,T1,Miami,"Miami, FL",FL,US,United States,NA,487014,25.77427,-80.19366,4164138,anchor
+10,T1,Chicago,"Chicago, IL",IL,US,United States,NA,2664452,41.85003,-87.65005,4887398,anchor
+11,T1,San Francisco,"San Francisco, CA",CA,US,United States,NA,827526,37.77493,-122.41942,5391959,anchor
+12,T1,Singapore,"Singapore, Singapore",,SG,Singapore,AS,5638700,1.28967,103.85007,1880252,anchor
+13,T1,Bangkok,"Bangkok, Thailand",40,TH,Thailand,AS,5104476,13.75398,100.50144,1609350,anchor
+14,T1,Hong Kong,"Hong Kong, Hong Kong",,HK,Hong Kong,AS,7396076,22.27832,114.17469,1819729,anchor
+15,T1,Barcelona,"Barcelona, Spain",56,ES,Spain,EU,1686208,41.38879,2.15899,3128760,anchor
+16,T1,Rome,"Rome, Italy",07,IT,Italy,EU,2318895,41.89193,12.51133,3169070,anchor
+17,T1,Istanbul,"Istanbul, Turkey",34,TR,Turkey,AS,15701602,41.01384,28.94966,745044,anchor
+18,T1,Amsterdam,"Amsterdam, The Netherlands",07,NL,The Netherlands,EU,741636,52.37403,4.88969,2759794,anchor
+19,T1,Toronto,"Toronto, Canada",08,CA,Canada,NA,2794356,43.70643,-79.39864,6167865,anchor
+20,T1,Sydney,"Sydney, Australia",02,AU,Australia,OC,5638830,-33.86785,151.20732,2147714,anchor
+21,T1,Mexico City,"Mexico City, Mexico",09,MX,Mexico,NA,12294193,19.42847,-99.12766,3530597,anchor
+22,T1,Cancun,"Cancun, Mexico",23,MX,Mexico,NA,888797,21.17429,-86.84656,3531673,anchor
+23,T1,Boston,"Boston, MA",MA,US,United States,NA,653833,42.35843,-71.05977,4930956,anchor
+24,T1,Washington,"Washington, DC",DC,US,United States,NA,689545,38.89511,-77.03637,4140963,anchor
+25,T1,Seattle,"Seattle, WA",WA,US,United States,NA,780995,47.60621,-122.33207,5809844,anchor
+26,T1,Austin,"Austin, TX",TX,US,United States,NA,974447,30.26715,-97.74306,4671654,anchor
+27,T1,Nashville,"Nashville, TN",TN,US,United States,NA,689447,36.16589,-86.78444,4644585,anchor
+28,T1,New Orleans,"New Orleans, LA",LA,US,United States,NA,362701,29.95465,-90.07507,4335045,anchor
+29,T1,San Diego,"San Diego, CA",CA,US,United States,NA,1404452,32.71571,-117.16472,5391811,anchor
+30,T1,Honolulu,"Honolulu, HI",HI,US,United States,NA,350964,21.30694,-157.85833,5856195,anchor
+31,T1,Atlanta,"Atlanta, GA",GA,US,United States,NA,510823,33.749,-84.38798,4180439,anchor
+32,T1,Dallas,"Dallas, TX",TX,US,United States,NA,1326087,32.78306,-96.80667,4684888,anchor
+33,T1,Houston,"Houston, TX",TX,US,United States,NA,2314157,29.76328,-95.36327,4699066,anchor
+34,T1,Denver,"Denver, CO",CO,US,United States,NA,729019,39.73915,-104.9847,5419384,anchor
+35,T1,Phoenix,"Phoenix, AZ",AZ,US,United States,NA,1650070,33.44838,-112.07404,5308655,anchor
+36,T1,Philadelphia,"Philadelphia, PA",PA,US,United States,NA,1573916,39.95238,-75.16362,4560349,anchor
+37,T1,Madrid,"Madrid, Spain",29,ES,Spain,EU,3255944,40.4165,-3.70256,3117735,anchor
+38,T1,Berlin,"Berlin, Germany",16,DE,Germany,EU,3426354,52.52437,13.41053,2950159,anchor
+39,T1,Munich,"Munich, Germany",02,DE,Germany,EU,1505005,48.13743,11.57549,2867714,anchor
+40,T1,Vienna,"Vienna, Austria",09,AT,Austria,EU,1691468,48.20849,16.37208,2761369,anchor
+41,T1,Prague,"Prague, Czechia",52,CZ,Czechia,EU,1165581,50.08804,14.42076,3067696,anchor
+42,T1,Lisbon,"Lisbon, Portugal",14,PT,Portugal,EU,517802,38.72509,-9.1498,2267057,anchor
+43,T1,Milan,"Milan, Italy",09,IT,Italy,EU,1371498,45.46427,9.18951,3173435,anchor
+44,T1,Florence,"Florence, Italy",16,IT,Italy,EU,367150,43.77925,11.24626,3176959,anchor
+45,T1,Venice,"Venice, Italy",20,IT,Italy,EU,51298,45.43713,12.33265,3164603,anchor
+46,T1,Athens,"Athens, Greece",ESYE31,GR,Greece,EU,664046,37.98376,23.72784,264371,anchor
+47,T1,Dublin,"Dublin, Ireland",L,IE,Ireland,EU,1024027,53.33306,-6.24889,2964574,anchor
+48,T1,Edinburgh,"Edinburgh, United Kingdom",SCT,GB,United Kingdom,EU,514990,55.95206,-3.19648,2650225,anchor
+49,T1,Zurich,"Zurich, Switzerland",ZH,CH,Switzerland,EU,415367,47.36667,8.55,2657896,anchor
+50,T1,Geneva,"Geneva, Switzerland",GE,CH,Switzerland,EU,201741,46.20222,6.14569,2660646,anchor
+51,T1,Copenhagen,"Copenhagen, Denmark",17,DK,Denmark,EU,1153615,55.67594,12.56553,2618425,anchor
+52,T1,Stockholm,"Stockholm, Sweden",26,SE,Sweden,EU,1515017,59.32938,18.06871,2673730,anchor
+53,T1,Oslo,"Oslo, Norway",12,NO,Norway,EU,1082575,59.91273,10.74609,3143244,anchor
+54,T1,Helsinki,"Helsinki, Finland",01,FI,Finland,EU,658864,60.16952,24.93545,658225,anchor
+55,T1,Budapest,"Budapest, Hungary",05,HU,Hungary,EU,1741041,47.49835,19.04045,3054643,anchor
+56,T1,Warsaw,"Warsaw, Poland",78,PL,Poland,EU,1702139,52.22977,21.01178,756135,anchor
+57,T1,Krakow,"Krakow, Poland",77,PL,Poland,EU,816614,50.06143,19.93658,3094802,anchor
+58,T1,Brussels,"Brussels, Belgium",BRU,BE,Belgium,EU,1019022,50.85045,4.34878,2800866,anchor
+59,T1,Nice,"Nice, France",93,FR,France,EU,342669,43.70313,7.26608,2990440,anchor
+60,T1,Seoul,"Seoul, South Korea",11,KR,South Korea,AS,10349312,37.566,126.9784,1835848,anchor
+61,T1,Osaka,"Osaka, Japan",32,JP,Japan,AS,2753862,34.69379,135.50107,1853909,anchor
+62,T1,Kyoto,"Kyoto, Japan",22,JP,Japan,AS,1463723,35.02107,135.75385,1857910,anchor
+63,T1,Shanghai,"Shanghai, China",23,CN,China,AS,24874500,31.22222,121.45806,1796236,anchor
+64,T1,Beijing,"Beijing, China",22,CN,China,AS,18960744,39.9075,116.39723,1816670,anchor
+65,T1,Taipei,"Taipei, Taiwan",04,TW,Taiwan,AS,7871900,25.05306,121.52639,1668341,anchor
+66,T1,Kuala Lumpur,"Kuala Lumpur, Malaysia",14,MY,Malaysia,AS,1453975,3.1412,101.68653,1735161,anchor
+67,T1,Bali (Ubud),"Bali (Ubud), Indonesia",02,ID,Indonesia,AS,74800,-8.5098,115.2654,1622846,anchor
+68,T1,Denpasar,"Denpasar, Indonesia",02,ID,Indonesia,AS,670210,-8.65,115.21667,1645528,anchor
+69,T1,Jakarta,"Jakarta, Indonesia",04,ID,Indonesia,AS,8540121,-6.21462,106.84513,1642911,anchor
+70,T1,Manila,"Manila, Philippines",NCR,PH,Philippines,AS,1600000,14.6042,120.9822,1701668,anchor
+71,T1,Ho Chi Minh City,"Ho Chi Minh City, Vietnam",79,VN,Vietnam,AS,14002598,10.82302,106.62965,1566083,anchor
+72,T1,Hanoi,"Hanoi, Vietnam",01,VN,Vietnam,AS,8053663,21.0245,105.84117,1581130,anchor
+73,T1,Phuket,"Phuket, Thailand",62,TH,Thailand,AS,79308,7.89059,98.3981,1151254,anchor
+74,T1,Mumbai,"Mumbai, India",16,IN,India,AS,12691836,19.07283,72.88261,1275339,anchor
+75,T1,New Delhi,"New Delhi, India",07,IN,India,AS,317797,28.62137,77.2148,1261481,anchor
+76,T1,Bengaluru,"Bengaluru, India",19,IN,India,AS,8495492,12.97194,77.59369,1277333,anchor
+77,T1,Abu Dhabi,"Abu Dhabi, United Arab Emirates",01,AE,United Arab Emirates,AS,1807000,24.45118,54.39696,292968,anchor
+78,T1,Doha,"Doha, Qatar",01,QA,Qatar,AS,344939,25.28545,51.53096,290030,anchor
+79,T1,Riyadh,"Riyadh, Saudi Arabia",10,SA,Saudi Arabia,AS,4205961,24.68773,46.72185,108410,anchor
+80,T1,Tel Aviv,"Tel Aviv, Israel",05,IL,Israel,AS,432892,32.08088,34.78057,293397,anchor
+81,T1,Cairo,"Cairo, Egypt",11,EG,Egypt,AF,9606916,30.06263,31.24967,360630,anchor
+82,T1,Marrakesh,"Marrakesh, Morocco",07,MA,Morocco,AF,995871,31.63416,-7.99994,2542997,anchor
+83,T1,Cape Town,"Cape Town, South Africa",11,ZA,South Africa,AF,4772846,-33.92584,18.42322,3369157,anchor
+84,T1,Johannesburg,"Johannesburg, South Africa",06,ZA,South Africa,AF,9418183,-26.20227,28.04363,993800,anchor
+85,T1,Nairobi,"Nairobi, Kenya",05,KE,Kenya,AF,4397073,-1.28333,36.81667,184745,anchor
+86,T1,Lagos,"Lagos, Nigeria",05,NG,Nigeria,AF,15388000,6.45407,3.39467,2332459,anchor
+87,T1,Melbourne,"Melbourne, Australia",07,AU,Australia,OC,5435590,-37.814,144.96332,2158177,anchor
+88,T1,Brisbane,"Brisbane, Australia",04,AU,Australia,OC,2780063,-27.46794,153.02809,2174003,anchor
+89,T1,Auckland,"Auckland, New Zealand",E7,NZ,New Zealand,OC,1547200,-36.84853,174.76349,2193733,anchor
+90,T1,Vancouver,"Vancouver, Canada",02,CA,Canada,NA,662248,49.24966,-123.11934,6173331,anchor
+91,T1,Montreal,"Montreal, Canada",10,CA,Canada,NA,1762949,45.50884,-73.58781,6077243,anchor
+92,T1,Calgary,"Calgary, Canada",01,CA,Canada,NA,1306784,51.05011,-114.08529,5913490,anchor
+93,T1,Sao Paulo,"Sao Paulo, Brazil",27,BR,Brazil,SA,12400232,-23.5475,-46.63611,3448439,anchor
+94,T1,Rio de Janeiro,"Rio de Janeiro, Brazil",21,BR,Brazil,SA,6747815,-22.90642,-43.18223,3451190,anchor
+95,T1,Buenos Aires,"Buenos Aires, Argentina",07,AR,Argentina,SA,2891082,-34.61315,-58.37723,3435910,anchor
+96,T1,Lima,"Lima, Peru",LMA,PE,Peru,SA,7737002,-12.04318,-77.02824,3936456,anchor
+97,T1,Bogota,"Bogota, Colombia",34,CO,Colombia,SA,7674366,4.60971,-74.08175,3688689,anchor
+98,T1,Medellin,"Medellin, Colombia",02,CO,Colombia,SA,1999979,6.245,-75.57151,3674962,anchor
+99,T1,Cartagena,"Cartagena, Colombia",35,CO,Colombia,SA,914552,10.39817,-75.49328,3687238,anchor
+100,T1,Santiago,"Santiago, Chile",12,CL,Chile,SA,4837295,-33.45694,-70.64827,3871336,anchor
+101,T2,Punta Cana,"Punta Cana, Dominican Republic",10,DO,Dominican Republic,NA,100023,18.58182,-68.40431,3494242,anchor
+102,T2,San Juan,"San Juan, Puerto Rico",127,PR,Puerto Rico,NA,418140,18.46633,-66.10572,4568127,anchor
+103,T2,Havana,"Havana, Cuba",02,CU,Cuba,NA,2163824,23.13302,-82.38304,3553478,anchor
+104,T2,Playa del Carmen,"Playa del Carmen, Mexico",23,MX,Mexico,NA,149923,20.6274,-87.07987,3521342,anchor
+105,T2,Tulum,"Tulum, Mexico",23,MX,Mexico,NA,18233,20.21173,-87.46325,3515040,anchor
+106,T2,Puerto Vallarta,"Puerto Vallarta, Mexico",14,MX,Mexico,NA,224166,20.617,-105.23018,3991328,anchor
+107,T2,Cabo San Lucas,"Cabo San Lucas, Mexico",03,MX,Mexico,NA,202694,22.89088,-109.91238,3985710,anchor
+108,T2,Guadalajara,"Guadalajara, Mexico",14,MX,Mexico,NA,1385629,20.67738,-103.34749,4005539,anchor
+109,T2,Monterrey,"Monterrey, Mexico",19,MX,Mexico,NA,1135512,25.68435,-100.31721,3995465,anchor
+110,T2,Charleston,"Charleston, SC",SC,US,United States,NA,132609,32.77632,-79.93275,4574324,anchor
+111,T2,Savannah,"Savannah, GA",GA,US,United States,NA,147780,32.08354,-81.09983,4221552,anchor
+112,T2,Scottsdale,"Scottsdale, AZ",AZ,US,United States,NA,236839,33.50921,-111.89903,5313457,anchor
+113,T2,Palm Springs,"Palm Springs, CA",CA,US,United States,NA,47371,33.8303,-116.54529,5380668,anchor
+114,T2,Napa,"Napa, CA",CA,US,United States,NA,80434,38.29714,-122.28553,5376095,anchor
+115,T2,Key West,"Key West, FL",FL,US,United States,NA,25755,24.55524,-81.78163,4160812,anchor
+116,T2,Miami Beach,"Miami Beach, FL",FL,US,United States,NA,92312,25.79065,-80.13005,4164143,anchor
+117,T2,Fort Lauderdale,"Fort Lauderdale, FL",FL,US,United States,NA,183146,26.12231,-80.14338,4155966,anchor
+118,T2,Tampa,"Tampa, FL",FL,US,United States,NA,414547,27.94752,-82.45843,4174757,anchor
+119,T2,Charlotte,"Charlotte, NC",NC,US,United States,NA,911311,35.22709,-80.84313,4460243,anchor
+120,T2,Minneapolis,"Minneapolis, MN",MN,US,United States,NA,410939,44.97997,-93.26384,5037649,anchor
+121,T2,Portland,"Portland, OR",OR,US,United States,NA,652503,45.52345,-122.67621,5746545,anchor
+122,T2,Salt Lake City,"Salt Lake City, UT",UT,US,United States,NA,215548,40.76078,-111.89105,5780993,anchor
+123,T2,San Antonio,"San Antonio, TX",TX,US,United States,NA,1526656,29.42412,-98.49363,4726206,anchor
+124,T2,Kansas City,"Kansas City, MO",MO,US,United States,NA,475378,39.09973,-94.57857,4393217,anchor
+125,T2,St. Louis,"St. Louis, MO",MO,US,United States,NA,279695,38.62727,-90.19789,4407066,anchor
+126,T2,Pittsburgh,"Pittsburgh, PA",PA,US,United States,NA,304391,40.44062,-79.99589,5206379,anchor
+127,T2,Baltimore,"Baltimore, MD",MD,US,United States,NA,585708,39.29038,-76.61219,4347778,anchor
+128,T2,Detroit,"Detroit, MI",MI,US,United States,NA,645705,42.33143,-83.04575,4990729,anchor
+129,T2,Cleveland,"Cleveland, OH",OH,US,United States,NA,365379,41.4995,-81.69541,5150529,anchor
+130,T2,Columbus,"Columbus, OH",OH,US,United States,NA,913175,39.96118,-82.99879,4509177,anchor
+131,T2,Indianapolis,"Indianapolis, IN",IN,US,United States,NA,887642,39.76838,-86.15804,4259418,anchor
+132,T2,Raleigh,"Raleigh, NC",NC,US,United States,NA,482295,35.7721,-78.63861,4487042,anchor
+133,T2,Sacramento,"Sacramento, CA",CA,US,United States,NA,524943,38.58157,-121.4944,5389489,anchor
+134,T2,San Jose,"San Jose, CA",CA,US,United States,NA,997368,37.33939,-121.89496,5392171,anchor
+135,T2,Anchorage,"Anchorage, AK",AK,US,United States,NA,289600,61.21806,-149.90028,5879400,anchor
+136,T2,Asheville,"Asheville, NC",NC,US,United States,NA,95056,35.60095,-82.55402,4453066,anchor
+137,T2,Sedona,"Sedona, AZ",AZ,US,United States,NA,10388,34.86974,-111.76099,5313667,anchor
+138,T2,Aspen,"Aspen, CO",CO,US,United States,NA,6882,39.1911,-106.81754,5412230,anchor
+139,T2,Park City,"Park City, UT",UT,US,United States,NA,8128,40.64606,-111.49797,5779451,anchor
+140,T2,Myrtle Beach,"Myrtle Beach, SC",SC,US,United States,NA,31035,33.68906,-78.88669,4588718,anchor
+141,T2,Branson,"Branson, MO",MO,US,United States,NA,11431,36.64367,-93.21851,4378219,anchor
+142,T2,Gatlinburg,"Gatlinburg, TN",TN,US,United States,NA,4184,35.71453,-83.51189,4624443,anchor
+143,T2,South Lake Tahoe,"South Lake Tahoe, CA",CA,US,United States,NA,21706,38.93324,-119.98435,5397664,anchor
+144,T2,Santa Barbara,"Santa Barbara, CA",CA,US,United States,NA,91842,34.42083,-119.69819,5392952,anchor
+145,T2,Santa Fe,"Santa Fe, NM",NM,US,United States,NA,87505,35.68698,-105.9378,5490263,anchor
+146,T2,Newport,"Newport, RI",RI,US,United States,NA,24232,41.4901,-71.31283,5223593,anchor
+147,T2,Bar Harbor,"Bar Harbor, ME",ME,US,United States,NA,2552,44.38758,-68.2039,4957320,anchor
+148,T2,Portland,"Portland, ME",ME,US,United States,NA,66881,43.65737,-70.2589,4975802,anchor
+149,T2,Nantucket,"Nantucket, MA",MA,US,United States,NA,7446,41.28346,-70.09946,4944903,anchor
+150,T2,Jackson,"Jackson, WY",WY,US,United States,NA,10523,43.47993,-110.76243,5828648,anchor
+151,T2,Kailua-Kona,"Kailua-Kona, HI",HI,US,United States,NA,11975,19.64016,-155.99912,5847504,anchor
+152,T2,Lahaina,"Lahaina, HI",HI,US,United States,NA,11704,20.87526,-156.67982,5849996,anchor
+153,T2,Kahului,"Kahului, HI",HI,US,United States,NA,26337,20.88933,-156.47293,5847411,anchor
+154,T2,Reykjavik,"Reykjavik, Iceland",39,IS,Iceland,EU,118918,64.13548,-21.89541,3413829,anchor
+155,T2,Dubrovnik,"Dubrovnik, Croatia",03,HR,Croatia,EU,26922,42.64125,18.10909,3201047,anchor
+156,T2,Split,"Split, Croatia",15,HR,Croatia,EU,149830,43.50891,16.43915,3190261,anchor
+157,T2,Santorini,"Santorini, Greece",ESYE42,GR,Greece,EU,2376,36.42107,25.43087,252920,anchor
+158,T2,Mykonos,"Mykonos, Greece",ESYE42,GR,Greece,EU,10704,37.44529,25.32872,257056,anchor
+159,T2,Seville,"Seville, Spain",51,ES,Spain,EU,686741,37.38283,-5.97317,2510911,anchor
+160,T2,Valencia,"Valencia, Spain",60,ES,Spain,EU,824340,39.47391,-0.37966,2509954,anchor
+161,T2,Malaga,"Malaga, Spain",51,ES,Spain,EU,592346,36.72016,-4.42034,2514256,anchor
+162,T2,Palma,"Palma, Spain",07,ES,Spain,EU,438234,39.56939,2.65024,2512989,anchor
+163,T2,Porto,"Porto, Portugal",17,PT,Portugal,EU,252687,41.1485,-8.61097,2735943,anchor
+164,T2,Lyon,"Lyon, France",84,FR,France,EU,520774,45.74906,4.84789,2996944,anchor
+165,T2,Marseille,"Marseille, France",93,FR,France,EU,877215,43.29695,5.38107,2995469,anchor
+166,T2,Naples,"Naples, Italy",04,IT,Italy,EU,909048,40.85216,14.26811,3172394,anchor
+167,T2,Salzburg,"Salzburg, Austria",05,AT,Austria,EU,157245,47.79941,13.04399,2766824,anchor
+168,T2,Bruges,"Bruges, Belgium",VLG,BE,Belgium,EU,118509,51.20892,3.22424,2800931,anchor
+169,T2,Manchester,"Manchester, United Kingdom",ENG,GB,United Kingdom,EU,568996,53.48095,-2.23743,2643123,anchor
+170,T2,Liverpool,"Liverpool, United Kingdom",ENG,GB,United Kingdom,EU,496770,53.41058,-2.97794,2644210,anchor
+171,T2,Hamburg,"Hamburg, Germany",04,DE,Germany,EU,1973896,53.55073,9.99302,2911298,anchor
+172,T2,Frankfurt,"Frankfurt, Germany",05,DE,Germany,EU,650000,50.11552,8.68417,2925533,anchor
+173,T2,Male,"Male, Maldives",38,MV,Maldives,AS,103693,4.17521,73.50916,1282027,anchor
+174,T2,Colombo,"Colombo, Sri Lanka",36,LK,Sri Lanka,AS,648034,6.93548,79.84868,1248991,anchor
+175,T2,Kathmandu,"Kathmandu, Nepal",3,NP,Nepal,AS,1442271,27.70169,85.3206,1283240,anchor
+176,T2,Chiang Mai,"Chiang Mai, Thailand",02,TH,Thailand,AS,127240,18.79038,98.98468,1153671,anchor
+177,T2,Siem Reap,"Siem Reap, Cambodia",24,KH,Cambodia,AS,139458,13.36179,103.86056,1822214,anchor
+178,T2,Da Nang,"Da Nang, Vietnam",48,VN,Vietnam,AS,1276000,16.06778,108.22083,1583992,anchor
+179,T2,Fukuoka,"Fukuoka, Japan",07,JP,Japan,AS,1612392,33.6,130.41667,1863967,anchor
+180,T2,Sapporo,"Sapporo, Japan",12,JP,Japan,AS,1973832,43.06667,141.35,2128295,anchor
+181,T2,Busan,"Busan, South Korea",10,KR,South Korea,AS,3285147,35.10168,129.03004,1838524,anchor
+182,T2,Macau,"Macau, Macao",02,MO,Macao,AS,649335,22.20056,113.54611,1821274,anchor
+183,T2,Queenstown,"Queenstown, New Zealand",F7,NZ,New Zealand,OC,10442,-45.03023,168.66271,6204696,anchor
+184,T2,Gold Coast,"Gold Coast, Australia",04,AU,Australia,OC,640778,-28.00029,153.43088,2165087,anchor
+185,T2,Perth,"Perth, Australia",08,AU,Australia,OC,2384371,-31.95224,115.8614,2063523,anchor
+186,T2,Quebec,"Quebec, Canada",10,CA,Canada,NA,531902,46.81228,-71.21454,6325494,anchor
+187,T2,Whistler,"Whistler, Canada",02,CA,Canada,NA,8713,50.11817,-122.95396,6180144,anchor
+188,T2,Banff,"Banff, Canada",01,CA,Canada,NA,8305,51.17622,-115.56982,5892532,anchor
+189,T2,Nassau,"Nassau, Bahamas",23,BS,Bahamas,NA,227940,25.05823,-77.34306,3571824,anchor
+190,T2,Montego Bay,"Montego Bay, Jamaica",12,JM,Jamaica,NA,82867,18.47116,-77.91883,3489460,anchor
+191,T2,Oranjestad,"Oranjestad, Aruba",00,AW,Aruba,NA,29998,12.52398,-70.02703,3577154,anchor
+192,T2,Bridgetown,"Bridgetown, Barbados",08,BB,Barbados,NA,98511,13.10732,-59.62021,3374036,anchor
+193,T2,Zanzibar,"Zanzibar, Tanzania",25,TZ,Tanzania,AF,709809,-6.16394,39.19793,148730,anchor
+194,T2,Port Louis,"Port Louis, Mauritius",18,MU,Mauritius,AF,155226,-20.16194,57.49889,934154,anchor
+195,T2,Victoria,"Victoria, Seychelles",26,SC,Seychelles,AF,22881,-4.62001,55.45501,241131,anchor
+196,T2,Chongqing,"Chongqing, China",33,CN,China,AS,22000000,29.56026,106.55771,1814906,global_population
+197,T2,Chengdu,"Chengdu, China",32,CN,China,AS,20937757,30.66667,104.06667,1815286,global_population
+198,T2,Guangzhou,"Guangzhou, China",30,CN,China,AS,18676605,23.11667,113.25,1809858,global_population
+199,T2,Shenzhen,"Shenzhen, China",30,CN,China,AS,17494398,22.54554,114.0683,1795565,global_population
+200,T2,Kinshasa,"Kinshasa, Democratic Republic of the Congo",06,CD,Democratic Republic of the Congo,AF,16000000,-4.32758,15.31357,2314302,global_population
+201,T2,Tianjin,"Tianjin, China",28,CN,China,AS,13866009,39.14222,117.17667,1792947,global_population
+202,T2,Wuhan,"Wuhan, China",12,CN,China,AS,13739000,30.58333,114.26667,1791247,global_population
+203,T2,Lahore,"Lahore, Pakistan",04,PK,Pakistan,AS,13004135,31.558,74.35071,1172451,global_population
+204,T2,Xi'an,"Xi'an, China",26,CN,China,AS,12952907,34.25833,108.92861,1790630,global_population
+205,T2,Hangzhou,"Hangzhou, China",02,CN,China,AS,11936010,30.29365,120.16142,1808926,global_population
+206,T2,Karachi,"Karachi, Pakistan",05,PK,Pakistan,AS,11624219,24.8608,67.0104,1174872,global_population
+207,T2,Delhi,"Delhi, India",07,IN,India,AS,11034555,28.65195,77.23149,1273294,global_population
+208,T2,Moscow,"Moscow, Russia",48,RU,Russia,EU,10381222,55.75204,37.61781,524901,global_population
+209,T2,Dhaka,"Dhaka, Bangladesh",81,BD,Bangladesh,AS,10356500,23.7104,90.40744,1185241,global_population
+210,T2,Harbin,"Harbin, China",08,CN,China,AS,10009854,45.75,126.65,2037013,global_population
+211,T2,Dongguan,"Dongguan, China",30,CN,China,AS,9644871,23.01797,113.74866,1812545,global_population
+212,T2,Hefei,"Hefei, China",01,CN,China,AS,9465881,31.86389,117.28083,1808722,global_population
+213,T2,Weifang,"Weifang, China",25,CN,China,AS,9386705,36.71,119.10194,1791681,global_population
+214,T2,Nanjing,"Nanjing, China",04,CN,China,AS,9314685,32.06167,118.77778,1799962,global_population
+215,T2,Shenyang,"Shenyang, China",19,CN,China,AS,9070093,41.79222,123.43278,2034937,global_population
+216,T2,Jinan,"Jinan, China",25,CN,China,AS,8352574,36.66833,116.99722,1805753,global_population
+217,T2,Dalian,"Dalian, China",19,CN,China,AS,7450785,38.91222,121.60222,1814087,global_population
+218,T2,Baghdad,"Baghdad, Iraq",07,IQ,Iraq,AS,7216000,33.34058,44.40088,98182,global_population
+219,T2,Wuzhong,"Wuzhong, China",21,CN,China,AS,7202654,37.9867,106.201,1790842,global_population
+220,T2,Qingdao,"Qingdao, China",25,CN,China,AS,7172451,36.06488,120.38042,1797929,global_population
+221,T2,Tehran,"Tehran, Iran",26,IR,Iran,AS,7153309,35.69439,51.42151,112931,global_population
+222,T2,Yantai,"Yantai, China",25,CN,China,AS,7102100,37.47649,121.44081,1787093,global_population
+223,T2,Hyderabad,"Hyderabad, India",40,IN,India,AS,6993262,17.38405,78.45636,1269843,global_population
+224,T2,Suzhou,"Suzhou, China",04,CN,China,AS,6715559,31.30408,120.59538,1886760,global_population
+225,T2,Zhengzhou,"Zhengzhou, China",09,CN,China,AS,6650532,34.75778,113.64861,1784658,global_population
+226,T2,Ahmedabad,"Ahmedabad, India",09,IN,India,AS,6357693,23.02579,72.58727,1279233,global_population
+227,T2,Abidjan,"Abidjan, Ivory Coast",93,CI,Ivory Coast,AF,6321017,5.35444,-4.00167,2293538,global_population
+228,T2,Nanning,"Nanning, China",16,CN,China,AS,5977185,22.81667,108.31667,1799869,global_population
+229,T2,Kunming,"Kunming, China",29,CN,China,AS,5950578,25.03889,102.71833,1804651,global_population
+230,T2,Shijiazhuang,"Shijiazhuang, China",10,CN,China,AS,5758403,38.04139,114.47861,1795270,global_population
+231,T2,Changchun,"Changchun, China",05,CN,China,AS,5691024,43.88,125.32278,2038180,global_population
+232,T2,Dar es Salaam,"Dar es Salaam, Tanzania",23,TZ,Tanzania,AF,5383728,-6.82349,39.26951,160263,global_population
+233,T2,Saint Petersburg,"Saint Petersburg, Russia",66,RU,Russia,EU,5351935,59.93863,30.31413,498817,global_population
+234,T2,Taiyuan,"Taiyuan, China",24,CN,China,AS,5305061,37.86944,112.56028,1793511,global_population
+235,T2,Alexandria,"Alexandria, Egypt",06,EG,Egypt,AF,5263542,31.20176,29.91582,361058,global_population
+236,T2,Kano,"Kano, Nigeria",29,NG,Nigeria,AF,4910000,12.00012,8.51672,2335204,global_population
+237,T2,Peshawar,"Peshawar, Pakistan",03,PK,Pakistan,AS,4758762,34.008,71.57849,1168197,global_population
+238,T2,Zibo,"Zibo, China",25,CN,China,AS,4704138,36.79056,118.06333,1785286,global_population
+239,T2,Jeddah,"Jeddah, Saudi Arabia",14,SA,Saudi Arabia,AS,4697000,21.49012,39.18624,105343,global_population
+240,T2,Chennai,"Chennai, India",25,IN,India,AS,4681087,13.08784,80.27847,1264527,global_population
+241,T2,Kolkata,"Kolkata, India",28,IN,India,AS,4631392,22.56263,88.36304,1275004,global_population
+242,T2,Xiamen,"Xiamen, China",07,CN,China,AS,4617251,24.47979,118.08187,1790645,global_population
+243,T2,Surat,"Surat, India",09,IN,India,AS,4591246,21.19594,72.83023,1255364,global_population
+244,T2,Yangzhou,"Yangzhou, China",04,CN,China,AS,4559797,32.39722,119.43583,1787227,global_population
+245,T2,Huai'an,"Huai'an, China",04,CN,China,AS,4556230,33.58861,119.01917,1797873,global_population
+246,T2,Guiyang,"Guiyang, China",18,CN,China,AS,4506134,26.58333,106.71667,1809461,global_population
+247,T2,Yangon,"Yangon, Myanmar",17,MM,Myanmar,AS,4477638,16.80528,96.15611,1298824,global_population
+248,T2,Kabul,"Kabul, Afghanistan",13,AF,Afghanistan,AS,4434550,34.52813,69.17233,1138958,global_population
+249,T2,Wuxi,"Wuxi, China",04,CN,China,AS,4396835,31.56887,120.28857,1790923,global_population
+250,T2,Lanzhou,"Lanzhou, China",15,CN,China,AS,4359446,36.05701,103.83987,1804430,global_population
+251,T3,Bamako,"Bamako, Mali",01,ML,Mali,AF,4227569,12.60915,-7.97522,2460596,global_population
+252,T3,Fuzhou,"Fuzhou, China",07,CN,China,AS,4094491,26.06139,119.30611,1810821,global_population
+253,T3,UEruemqi,"UEruemqi, China",13,CN,China,AS,4054000,43.80096,87.60046,1529102,global_population
+254,T3,Chattogram,"Chattogram, Bangladesh",84,BD,Bangladesh,AS,3920222,22.3384,91.83168,1205733,global_population
+255,T3,Addis Ababa,"Addis Ababa, Ethiopia",44,ET,Ethiopia,AF,3860000,9.02497,38.74689,344979,global_population
+256,T3,Zaozhuang,"Zaozhuang, China",25,CN,China,AS,3855601,34.86472,117.55417,1785453,global_population
+257,T3,Zhongshan,"Zhongshan, China",30,CN,China,AS,3841873,22.52306,113.37912,6986104,global_population
+258,T3,Shantou,"Shantou, China",30,CN,China,AS,3838900,23.35489,116.67876,1795940,global_population
+259,T3,Faisalabad,"Faisalabad, Pakistan",04,PK,Pakistan,AS,3800193,31.41554,73.08969,1179400,global_population
+260,T3,Ningbo,"Ningbo, China",02,CN,China,AS,3731203,29.87819,121.54945,1799397,global_population
+261,T3,Casablanca,"Casablanca, Morocco",06,MA,Morocco,AF,3665954,33.58831,-7.61138,2553604,global_population
+262,T3,Ibadan,"Ibadan, Nigeria",32,NG,Nigeria,AF,3649000,7.37756,3.90591,2339354,global_population
+263,T3,Puyang,"Puyang, China",02,CN,China,AS,3590000,29.45679,119.88872,1798425,global_population
+264,T3,Ankara,"Ankara, Turkey",68,TR,Turkey,AS,3517182,39.91987,32.85427,323786,global_population
+265,T3,Shiyan,"Shiyan, China",12,CN,China,AS,3460000,32.6475,110.77806,1794903,global_population
+266,T3,Hohhot,"Hohhot, China",20,CN,China,AS,3446100,40.81056,111.65222,2036892,global_population
+267,T3,Tangshan,"Tangshan, China",10,CN,China,AS,3372102,39.64381,118.18319,1793346,global_population
+268,T3,Rawalpindi,"Rawalpindi, Pakistan",04,PK,Pakistan,AS,3357612,33.59733,73.0479,1166993,global_population
+269,T3,Durban,"Durban, South Africa",02,ZA,South Africa,AF,3338026,-29.8579,31.0292,1007311,global_population
+270,T3,Pyongyang,"Pyongyang, North Korea",12,KP,North Korea,AS,3222000,39.03385,125.75432,1871859,global_population
+271,T3,Pune,"Pune, India",16,IN,India,AS,3124458,18.51957,73.85535,1259229,global_population
+272,T3,Bursa,"Bursa, Turkey",16,TR,Turkey,AS,3101833,40.19559,29.06013,750269,global_population
+273,T3,Jaipur,"Jaipur, India",24,IN,India,AS,3046163,26.91962,75.78781,1269515,global_population
+274,T3,Surabaya,"Surabaya, Indonesia",08,ID,Indonesia,AS,3018022,-7.24917,112.75083,1625822,global_population
+275,T3,Caracas,"Caracas, Venezuela",25,VE,Venezuela,SA,3000000,10.48801,-66.87919,3646738,global_population
+276,T3,Kyiv,"Kyiv, Ukraine",12,UA,Ukraine,EU,2952301,50.45466,30.5238,703448,global_population
+277,T3,Izmir,"Izmir, Turkey",35,TR,Turkey,AS,2938292,38.41273,27.13838,311046,global_population
+278,T3,Taichung,"Taichung, Taiwan",04,TW,Taiwan,AS,2850285,24.1469,120.6839,1668399,global_population
+279,T3,Kanpur,"Kanpur, India",36,IN,India,AS,2823249,26.46523,80.34975,1267995,global_population
+280,T3,Quito,"Quito, Ecuador",18,EC,Ecuador,SA,2781641,-0.22985,-78.52495,3652462,global_population
+281,T3,Luanda,"Luanda, Angola",20,AO,Angola,AF,2776168,-8.83682,13.23432,2240449,global_population
+282,T3,Kaohsiung,"Kaohsiung, Taiwan",02,TW,Taiwan,AS,2737660,22.61626,120.31333,1673820,global_population
+283,T3,Guayaquil,"Guayaquil, Ecuador",10,EC,Ecuador,SA,2723665,-2.19616,-79.88621,3657509,global_population
+284,T3,Belo Horizonte,"Belo Horizonte, Brazil",15,BR,Brazil,SA,2721564,-19.92083,-43.93778,3470127,global_population
+285,T3,Salvador,"Salvador, Brazil",05,BR,Brazil,SA,2711840,-12.97563,-38.49096,3450554,global_population
+286,T3,Abuja,"Abuja, Nigeria",11,NG,Nigeria,AF,2690000,9.05785,7.49508,2352778,global_population
+287,T3,Gazipur,"Gazipur, Bangladesh",81,BD,Bangladesh,AS,2674697,23.99844,90.42234,1200109,global_population
+288,T3,Dakar,"Dakar, Senegal",01,SN,Senegal,AF,2646503,14.6937,-17.44406,2253354,global_population
+289,T3,Haiphong,"Haiphong, Vietnam",31,VN,Vietnam,AS,2625200,20.86481,106.68345,1581298,global_population
+290,T3,Mogadishu,"Mogadishu, Somalia",02,SO,Somalia,AF,2587183,2.03711,45.34375,53654,global_population
+291,T3,Kumasi,"Kumasi, Ghana",02,GH,Ghana,AF,2544530,6.68848,-1.62443,2298890,global_population
+292,T3,Bandung,"Bandung, Indonesia",30,ID,Indonesia,AS,2528163,-6.92222,107.60694,1650357,global_population
+293,T3,Gujranwala,"Gujranwala, Pakistan",04,PK,Pakistan,AS,2511118,32.15567,74.18705,1177662,global_population
+294,T3,Medan,"Medan, Indonesia",26,ID,Indonesia,AS,2486283,3.58333,98.66667,1214520,global_population
+295,T3,Lucknow,"Lucknow, India",36,IN,India,AS,2472011,26.83928,80.92313,1264733,global_population
+296,T3,Ouagadougou,"Ouagadougou, Burkina Faso",03,BF,Burkina Faso,AF,2415266,12.36566,-1.53388,2357048,global_population
+297,T3,Nagpur,"Nagpur, India",16,IN,India,AS,2405665,21.14631,79.08491,1262180,global_population
+298,T3,Fortaleza,"Fortaleza, Brazil",06,BR,Brazil,SA,2400000,-3.71722,-38.54306,3399415,global_population
+299,T3,Cali,"Cali, Colombia",29,CO,Colombia,SA,2392877,3.43054,-76.5199,3687925,global_population
+300,T3,Daegu,"Daegu, South Korea",15,KR,South Korea,AS,2365523,35.87028,128.59111,1835329,global_population
+301,T3,Algiers,"Algiers, Algeria",01,DZ,Algeria,AF,2364230,36.73225,3.08746,2507480,global_population
+302,T3,Baku,"Baku, Azerbaijan",09,AZ,Azerbaijan,AS,2351300,40.37767,49.89201,587084,global_population
+303,T3,Nagoya,"Nagoya, Japan",01,JP,Japan,AS,2332176,35.18147,136.90641,1856057,global_population
+304,T3,Mashhad,"Mashhad, Iran",42,IR,Iran,AS,2307177,36.29807,59.60567,124665,global_population
+305,T3,Gaziantep,"Gaziantep, Turkey",83,TR,Turkey,AS,2222415,37.05944,37.3825,314830,global_population
+306,T3,Lubumbashi,"Lubumbashi, Democratic Republic of the Congo",14,CD,Democratic Republic of the Congo,AF,2221925,-11.66089,27.47938,922704,global_population
+307,T3,Manaus,"Manaus, Brazil",04,BR,Brazil,SA,2219580,-3.10194,-60.025,3663517,global_population
+308,T3,Lusaka,"Lusaka, Zambia",09,ZM,Zambia,AF,2212301,-15.40669,28.28713,909137,global_population
+309,T3,Brasilia,"Brasilia, Brazil",07,BR,Brazil,SA,2207718,-15.77972,-47.92972,3469058,global_population
+310,T3,Santo Domingo,"Santo Domingo, Dominican Republic",34,DO,Dominican Republic,NA,2201941,18.47186,-69.89232,3492908,global_population
+311,T3,Lome,"Lome, Togo",24,TG,Togo,AF,2188376,6.12874,1.22154,2365267,global_population
+312,T3,Multan,"Multan, Pakistan",04,PK,Pakistan,AS,2169915,30.19679,71.47824,1169825,global_population
+313,T3,Coimbatore,"Coimbatore, India",25,IN,India,AS,2136916,11.00555,76.96612,1273865,global_population
+314,T3,Port Harcourt,"Port Harcourt, Nigeria",50,NG,Nigeria,AF,2120000,4.77742,7.0134,2324774,global_population
+315,T3,Pretoria,"Pretoria, South Africa",06,ZA,South Africa,AF,2112693,-25.74486,28.18783,964137,global_population
+316,T3,Cordoba,"Cordoba, Argentina",05,AR,Argentina,SA,2106734,-31.40648,-64.18853,3860259,global_population
+317,T3,Mbuji-Mayi,"Mbuji-Mayi, Democratic Republic of the Congo",04,CD,Democratic Republic of the Congo,AF,2101332,-6.13603,23.58979,209228,global_population
+318,T3,Aleppo,"Aleppo, Syria",09,SY,Syria,AS,2098210,36.20124,37.16117,170063,global_population
+319,T3,La Paz,"La Paz, Bolivia",04,BO,Bolivia,SA,2004652,-16.5,-68.15,3911925,global_population
+320,T3,Indore,"Indore, India",35,IN,India,AS,1994397,22.71792,75.8333,1269743,global_population
+321,T3,Brazzaville,"Brazzaville, Republic of the Congo",12,CG,Republic of the Congo,AF,1982000,-4.26613,15.28318,2260535,global_population
+322,T3,Tashkent,"Tashkent, Uzbekistan",13,UZ,Uzbekistan,AS,1978028,41.26465,69.21627,1512569,global_population
+323,T3,Almaty,"Almaty, Kazakhstan",02,KZ,Kazakhstan,AS,1977011,43.25249,76.9115,1526384,global_population
+324,T3,Khartoum,"Khartoum, Sudan",29,SD,Sudan,AF,1974647,15.55177,32.53241,379252,global_population
+325,T3,Accra,"Accra, Ghana",01,GH,Ghana,AF,1963264,5.55602,-0.1969,2306104,global_population
+326,T3,Curitiba,"Curitiba, Brazil",18,BR,Brazil,SA,1948626,-25.42778,-49.27306,3464975,global_population
+327,T3,Sanaa,"Sanaa, Yemen",26,YE,Yemen,AS,1937451,15.35452,44.20646,71137,global_population
+328,T3,Conakry,"Conakry, Guinea",04,GN,Guinea,AF,1928389,9.53795,-13.67729,2422465,global_population
+329,T3,Tijuana,"Tijuana, Mexico",02,MX,Mexico,NA,1922523,32.5027,-117.00371,3981609,global_population
+330,T3,Hyderabad,"Hyderabad, Pakistan",05,PK,Pakistan,AS,1921275,25.39689,68.37718,1176734,global_population
+331,T3,Beirut,"Beirut, Lebanon",04,LB,Lebanon,AS,1916100,33.89332,35.50157,276781,global_population
+332,T3,Bucharest,"Bucharest, Romania",10,RO,Romania,EU,1877155,44.43225,26.10626,683506,global_population
+333,T3,Kakamega,"Kakamega, Kenya",20,KE,Kenya,AF,1867579,0.28422,34.75229,195272,global_population
+334,T3,Tainan,"Tainan, Taiwan",04,TW,Taiwan,AS,1856642,22.99083,120.21333,1668355,global_population
+335,T3,Kaduna,"Kaduna, Nigeria",23,NG,Nigeria,AF,1850000,10.52641,7.43879,2335727,global_population
+336,T3,Davao,"Davao, Philippines",11,PH,Philippines,AS,1848947,7.07306,125.61278,1715348,global_population
+337,T3,Diyarbakir,"Diyarbakir, Turkey",21,TR,Turkey,AS,1833684,37.91363,40.21721,316541,global_population
+338,T3,Santa Cruz de la Sierra,"Santa Cruz de la Sierra, Bolivia",08,BO,Bolivia,SA,1831434,-17.78629,-63.18117,3904906,global_population
+339,T3,Vadodara,"Vadodara, India",09,IN,India,AS,1822221,22.29941,73.20812,1253573,global_population
+340,T3,Adana,"Adana, Turkey",81,TR,Turkey,AS,1816750,36.98615,35.32531,325363,global_population
+341,T3,Palembang,"Palembang, Indonesia",32,ID,Indonesia,AS,1801367,-2.91673,104.7458,1633070,global_population
+342,T3,Sharjah,"Sharjah, United Arab Emirates",06,AE,United Arab Emirates,AS,1800000,25.3342,55.41221,292672,global_population
+343,T3,Bhopal,"Bhopal, India",35,IN,India,AS,1798218,23.25469,77.40289,1275841,global_population
+344,T3,Benin City,"Benin City, Nigeria",37,NG,Nigeria,AF,1782000,6.33815,5.62575,2347283,global_population
+345,T3,Maracaibo,"Maracaibo, Venezuela",23,VE,Venezuela,SA,1752602,10.64232,-71.61089,3633009,global_population
+346,T3,Minsk,"Minsk, Belarus",04,BY,Belarus,EU,1742124,53.90019,27.56653,625144,global_population
+347,T3,Rasapudipalem,"Rasapudipalem, India",02,IN,India,AS,1728128,17.73308,83.31622,1258393,global_population
+348,T3,Semarang,"Semarang, Indonesia",07,ID,Indonesia,AS,1694740,-6.99306,110.42083,1627896,global_population
+349,T3,Puebla,"Puebla, Mexico",21,MX,Mexico,NA,1692181,19.04778,-98.20723,3521081,global_population
+350,T3,Patna,"Patna, India",34,IN,India,AS,1684297,25.59408,85.13563,1260086,global_population
+351,T3,Mosul,"Mosul, Iraq",15,IQ,Iraq,AS,1683000,36.335,43.11889,99072,global_population
+352,T3,Kallakurichi,"Kallakurichi, India",25,IN,India,AS,1682687,11.73379,78.95925,12165956,global_population
+353,T3,Kampala,"Kampala, Uganda",C,UG,Uganda,AF,1680600,0.31628,32.58219,232422,global_population
+354,T3,Rabat,"Rabat, Morocco",04,MA,Morocco,AF,1655753,34.01325,-6.83255,2538475,global_population
+355,T3,Recife,"Recife, Brazil",30,BR,Brazil,SA,1653461,-8.05389,-34.88111,3390760,global_population
+356,T3,Valencia,"Valencia, Venezuela",07,VE,Venezuela,SA,1619470,10.16153,-68.00044,3625549,global_population
+357,T3,Ludhiana,"Ludhiana, India",23,IN,India,AS,1618879,30.91204,75.85379,1264728,global_population
+358,T3,Novosibirsk,"Novosibirsk, Russia",53,RU,Russia,EU,1612833,55.02259,82.93175,1496747,global_population
+359,T3,Erbil,"Erbil, Iraq",11,IQ,Iraq,AS,1612700,36.19117,44.00943,95446,global_population
+360,T3,Kisangani,"Kisangani, Democratic Republic of the Congo",30,CD,Democratic Republic of the Congo,AF,1602144,0.51528,25.19099,212730,global_population
+361,T3,Santiago de Queretaro,"Santiago de Queretaro, Mexico",22,MX,Mexico,NA,1594212,20.58806,-100.38806,3991164,global_population
+362,T3,Leon de los Aldama,"Leon de los Aldama, Mexico",11,MX,Mexico,NA,1579803,21.12183,-101.68253,3998655,global_population
+363,T3,Makkah,"Makkah, Saudi Arabia",14,SA,Saudi Arabia,AS,1578722,21.42664,39.82563,104515,global_population
+364,T3,Phnom Penh,"Phnom Penh, Cambodia",22,KH,Cambodia,AS,1573544,11.56245,104.91601,1821306,global_population
+365,T3,Damascus,"Damascus, Syria",13,SY,Syria,AS,1569394,33.5102,36.29128,170654,global_population
+366,T3,Quetta,"Quetta, Pakistan",02,PK,Pakistan,AS,1565546,30.18414,67.00141,1167528,global_population
+367,T3,Onitsha,"Onitsha, Nigeria",25,NG,Nigeria,AF,1553000,6.14978,6.78569,2326016,global_population
+368,T3,Isfahan,"Isfahan, Iran",28,IR,Iran,AS,1547164,32.65246,51.67462,418863,global_population
+369,T3,Astana,"Astana, Kazakhstan",05,KZ,Kazakhstan,AS,1544142,51.1801,71.44598,1526273,global_population
+370,T3,Harare,"Harare, Zimbabwe",10,ZW,Zimbabwe,AF,1542813,-17.82772,31.05337,890299,global_population
+371,T3,Monrovia,"Monrovia, Liberia",14,LR,Liberia,AF,1542549,6.30054,-10.7969,2274895,global_population
+372,T3,Goiania,"Goiania, Brazil",29,BR,Brazil,SA,1536097,-16.67861,-49.25389,3462377,global_population
+373,T3,Ciudad Juarez,"Ciudad Juarez, Mexico",06,MX,Mexico,NA,1512450,31.72024,-106.46084,4013708,global_population
+374,T3,Can Tho,"Can Tho, Vietnam",92,VN,Vietnam,AS,1507187,10.03711,105.78825,1586203,global_population
+375,T3,Khulna,"Khulna, Bangladesh",82,BD,Bangladesh,AS,1500689,22.80979,89.56439,1336135,global_population
+376,T3,Belem,"Belem, Brazil",16,BR,Brazil,SA,1499641,-1.45583,-48.50444,3405870,global_population
+377,T3,Yekaterinburg,"Yekaterinburg, Russia",71,RU,Russia,EU,1495066,56.85733,60.61529,1486209,global_population
+378,T3,Porto Alegre,"Porto Alegre, Brazil",23,BR,Brazil,SA,1488252,-30.03283,-51.23019,3452925,global_population
+379,T3,Nashik,"Nashik, India",16,IN,India,AS,1486053,19.99727,73.79096,1261731,global_population
+380,T3,Asuncion,"Asuncion, Paraguay",22,PY,Paraguay,SA,1482200,-25.28646,-57.647,3439389,global_population
+381,T3,Makassar,"Makassar, Indonesia",38,ID,Indonesia,AS,1474393,-5.14861,119.43194,1622786,global_population
+382,T3,Adelaide,"Adelaide, Australia",05,AU,Australia,OC,1469163,-34.92866,138.59863,2078025,global_population
+383,T3,Madurai,"Madurai, India",25,IN,India,AS,1465625,9.919,78.11953,1264521,global_population
+384,T3,Kayseri,"Kayseri, Turkey",38,TR,Turkey,AS,1452458,38.73222,35.48528,308464,global_population
+385,T3,Karaj,"Karaj, Iran",44,IR,Iran,AS,1448075,35.83266,50.99155,128747,global_population
+386,T3,Daejeon,"Daejeon, South Korea",19,KR,South Korea,AS,1441203,36.34913,127.38493,1835235,global_population
+387,T3,Tirunelveli,"Tirunelveli, India",25,IN,India,AS,1435844,8.72742,77.6838,1254361,global_population
+388,T3,Konya,"Konya, Turkey",71,TR,Turkey,AS,1433861,37.87135,32.48464,306571,global_population
+389,T3,Agra,"Agra, India",36,IN,India,AS,1430055,27.18333,78.01667,1279259,global_population
+390,T3,Tabriz,"Tabriz, Iran",33,IR,Iran,AS,1424641,38.08,46.2919,113646,global_population
+391,T3,Kharkiv,"Kharkiv, Ukraine",07,UA,Ukraine,EU,1421125,49.98177,36.25475,706483,global_population
+392,T3,Gwangju,"Gwangju, South Korea",18,KR,South Korea,AS,1401235,35.15472,126.91556,1841811,global_population
+393,T3,Rajkot,"Rajkot, India",09,IN,India,AS,1390640,22.29161,70.79322,1258847,global_population
+394,T3,Hue,"Hue, Vietnam",46,VN,Vietnam,AS,1380000,16.4619,107.59546,1580240,global_population
+395,T3,N'Djamena,"N'Djamena, Chad",21,TD,Chad,AF,1359526,12.10672,15.0444,2427123,global_population
+396,T3,Bannu,"Bannu, Pakistan",03,PK,Pakistan,AS,1357890,32.98527,70.60403,1183460,global_population
+397,T3,Antananarivo,"Antananarivo, Madagascar",11,MG,Madagascar,AF,1349501,-18.91368,47.53613,1070940,global_population
+398,T3,Jamshedpur,"Jamshedpur, India",38,IN,India,AS,1339438,22.80278,86.18545,1269300,global_population
+399,T3,Douala,"Douala, Cameroon",05,CM,Cameroon,AF,1338082,4.04827,9.70428,2232593,global_population
+400,T3,Antalya,"Antalya, Turkey",07,TR,Turkey,AS,1335002,36.90812,30.69556,323777,global_population
+401,T3,Basrah,"Basrah, Iraq",02,IQ,Iraq,AS,1326564,30.50852,47.7804,99532,global_population
+402,T3,Niamey,"Niamey, Niger",08,NE,Niger,AF,1323691,13.51366,2.1098,2440485,global_population
+403,T3,Tripoli,"Tripoli, Libya",77,LY,Libya,AF,1302947,32.88743,13.18733,2210247,global_population
+404,T3,Madinah,"Madinah, Saudi Arabia",05,SA,Saudi Arabia,AS,1300000,24.46861,39.61417,109223,global_population
+405,T3,Yaounde,"Yaounde, Cameroon",11,CM,Cameroon,AF,1299369,3.86667,11.51667,2220957,global_population
+406,T3,Batam,"Batam, Indonesia",37,ID,Indonesia,AS,1296960,1.14937,104.02491,6295587,global_population
+407,T3,Amman,"Amman, Jordan",16,JO,Jordan,AS,1275857,31.95522,35.94503,250441,global_population
+408,T3,Budta,"Budta, Philippines",14,PH,Philippines,AS,1273715,7.20417,124.43972,1723510,global_population
+409,T3,Belgrade,"Belgrade, Serbia",SE,RS,Serbia,EU,1273651,44.80401,20.46513,792680,global_population
+410,T3,Kananga,"Kananga, Democratic Republic of the Congo",23,CD,Democratic Republic of the Congo,AF,1271704,-5.89624,22.41659,214481,global_population
+411,T3,Montevideo,"Montevideo, Uruguay",10,UY,Uruguay,SA,1270737,-34.90328,-56.18816,3441575,global_population
+412,T3,Kalyan,"Kalyan, India",16,IN,India,AS,1262255,19.2437,73.13554,1268295,global_population
+413,T3,Nizhniy Novgorod,"Nizhniy Novgorod, Russia",51,RU,Russia,EU,1259013,56.32867,44.00205,520555,global_population
+414,T3,Jepara,"Jepara, Indonesia",07,ID,Indonesia,AS,1257912,-6.5924,110.671,1642548,global_population
+415,T3,Maputo,"Maputo, Mozambique",11,MZ,Mozambique,AF,1254837,-25.96553,32.58322,1040652,global_population
+416,T3,Dammam,"Dammam, Saudi Arabia",06,SA,Saudi Arabia,AS,1252523,26.43442,50.10326,110336,global_population
+417,T3,Shiraz,"Shiraz, Iran",07,IR,Iran,AS,1249942,29.61031,52.53113,115019,global_population
+418,T3,Kazan,"Kazan, Russia",73,RU,Russia,EU,1243500,55.78874,49.12214,551487,global_population
+419,T3,Barquisimeto,"Barquisimeto, Venezuela",13,VE,Venezuela,SA,1240714,10.0647,-69.35703,3648522,global_population
+420,T3,Port-au-Prince,"Port-au-Prince, Haiti",11,HT,Haiti,NA,1234742,18.54349,-72.33881,3718426,global_population
+421,T3,Suwon,"Suwon, South Korea",13,KR,South Korea,AS,1234582,37.29111,127.00889,1835553,global_population
+422,T3,Meerut,"Meerut, India",36,IN,India,AS,1223184,28.98002,77.70636,1263214,global_population
+423,T3,Virar,"Virar, India",16,IN,India,AS,1222390,19.45591,72.81136,1253133,global_population
+424,T3,Nowrangapur,"Nowrangapur, India",21,IN,India,AS,1220946,19.23114,82.54826,1261162,global_population
+425,T3,Karbala,"Karbala, Iraq",12,IQ,Iraq,AS,1218732,32.61603,44.02488,94824,global_population
+426,T3,Mombasa,"Mombasa, Kenya",37,KE,Kenya,AF,1208333,-4.05466,39.66359,186301,global_population
+427,T3,Mandalay,"Mandalay, Myanmar",08,MM,Myanmar,AS,1208099,21.97473,96.08359,1311874,global_population
+428,T3,Srinagar,"Srinagar, India",12,IN,India,AS,1206419,34.08565,74.80555,1255634,global_population
+429,T3,Barranquilla,"Barranquilla, Colombia",04,CO,Colombia,SA,1206319,10.96854,-74.78132,3689147,global_population
+430,T3,Chelyabinsk,"Chelyabinsk, Russia",13,RU,Russia,EU,1202371,55.1611,61.42877,1508291,global_population
+431,T3,Merida,"Merida, Mexico",31,MX,Mexico,NA,1201000,20.967,-89.62318,3523349,global_population
+432,T3,Hiroshima,"Hiroshima, Japan",11,JP,Japan,AS,1200754,34.4,132.45,1862415,global_population
+433,T3,Santiago de los Caballeros,"Santiago de los Caballeros, Dominican Republic",25,DO,Dominican Republic,NA,1200000,19.45036,-70.69085,3492914,global_population
+434,T3,Shymkent,"Shymkent, Kazakhstan",1537272,KZ,Kazakhstan,AS,1200000,42.30988,69.60042,1518980,global_population
+435,T3,Dhanbad,"Dhanbad, India",38,IN,India,AS,1196214,23.79759,86.42992,1272979,global_population
+436,T3,Arequipa,"Arequipa, Peru",04,PE,Peru,SA,1195700,-16.39899,-71.53747,3947322,global_population
+437,T3,Fes,"Fes, Morocco",03,MA,Morocco,AF,1191905,34.03313,-5.00028,2548885,global_population
+438,T3,Nouakchott,"Nouakchott, Mauritania",,MR,Mauritania,AF,1184530,18.08581,-15.9785,2377450,global_population
+439,T3,Aurangabad,"Aurangabad, India",16,IN,India,AS,1175116,19.87757,75.34226,1278149,global_population
+440,T3,Omsk,"Omsk, Russia",54,RU,Russia,EU,1172070,54.99244,73.36859,1496153,global_population
+441,T3,Pekanbaru,"Pekanbaru, Indonesia",37,ID,Indonesia,AS,1167599,0.51667,101.44167,1631761,global_population
+442,T3,Bandar Lampung,"Bandar Lampung, Indonesia",15,ID,Indonesia,AS,1166066,-5.42917,105.26111,1624917,global_population
+443,T3,Varanasi,"Varanasi, India",36,IN,India,AS,1164404,25.31668,83.01041,1253405,global_population
+444,T3,Samara,"Samara, Russia",65,RU,Russia,EU,1163399,53.20767,50.13553,499099,global_population
+445,T3,Aba,"Aba, Nigeria",45,NG,Nigeria,AF,1160000,5.10658,7.36667,2353151,global_population
+446,T3,Amritsar,"Amritsar, India",23,IN,India,AS,1159227,31.62234,74.87534,1278710,global_population
+447,T3,Birmingham,"Birmingham, United Kingdom",ENG,GB,United Kingdom,EU,1157603,52.48142,-1.89983,2655603,global_population
+448,T3,Sofia,"Sofia, Bulgaria",42,BG,Bulgaria,EU,1152556,42.69751,23.32415,727011,global_population
+449,T3,Yerevan,"Yerevan, Armenia",11,AM,Armenia,AS,1144700,40.17765,44.5126,616052,global_population
+450,T3,Vijayawada,"Vijayawada, India",02,IN,India,AS,1143232,16.50745,80.6466,1253184,global_population
+451,T3,Kigali,"Kigali, Rwanda",12,RW,Rwanda,AF,1132686,-1.94995,30.05885,202061,global_population
+452,T3,Rostov-on-Don,"Rostov-on-Don, Russia",61,RU,Russia,EU,1130305,47.21997,39.70769,501175,global_population
+453,T3,Touba,"Touba, Senegal",03,SN,Senegal,AF,1120824,14.86229,-15.87532,2244322,global_population
+454,T3,Ufa,"Ufa, Russia",08,RU,Russia,EU,1120547,54.74306,55.96779,479561,global_population
+455,T3,Ranchi,"Ranchi, India",38,IN,India,AS,1120374,23.34316,85.3094,1258526,global_population
+456,T3,Lilongwe,"Lilongwe, Malawi",C,MW,Malawi,AF,1115815,-13.96692,33.78725,927967,global_population
+457,T3,Maiduguri,"Maiduguri, Nigeria",27,NG,Nigeria,AF,1110000,11.84692,13.15712,2331447,global_population
+458,T3,Mwanza,"Mwanza, Tanzania",12,TZ,Tanzania,AF,1104521,-2.51667,32.9,152224,global_population
+459,T3,Ulsan,"Ulsan, South Korea",21,KR,South Korea,AS,1098421,35.53722,129.31667,1833747,global_population
+460,T3,Sendai,"Sendai, Japan",24,JP,Japan,AS,1096704,38.26667,140.86667,2111149,global_population
+461,T3,Krasnoyarsk,"Krasnoyarsk, Russia",91,RU,Russia,EU,1090811,56.03742,92.93136,1502026,global_population
+462,T3,Jabalpur,"Jabalpur, India",35,IN,India,AS,1081677,23.16697,79.95006,1269633,global_population
+463,T3,Ilorin,"Ilorin, Nigeria",30,NG,Nigeria,AF,1080000,8.49664,4.54214,2337639,global_population
+464,T3,Aden,"Aden, Yemen",02,YE,Yemen,AS,1079670,12.77957,45.03852,415189,global_population
+465,T3,Bogor,"Bogor, Indonesia",30,ID,Indonesia,AS,1078351,-6.59444,106.78917,1648473,global_population
+466,T3,Prayagraj,"Prayagraj, India",36,IN,India,AS,1073438,25.44478,81.84322,1278994,global_population
+467,T3,Trujillo,"Trujillo, Peru",13,PE,Peru,SA,1067700,-8.11599,-79.02998,3691175,global_population
+468,T3,Jodhpur,"Jodhpur, India",24,IN,India,AS,1056191,26.26841,73.00594,1268865,global_population
+469,T3,Gwalior,"Gwalior, India",35,IN,India,AS,1054420,26.22983,78.17337,1270583,global_population
+470,T3,Gqeberha,"Gqeberha, South Africa",05,ZA,South Africa,AF,1050078,-33.96109,25.61494,964420,global_population
+471,T3,Tbilisi,"Tbilisi, Georgia",51,GE,Georgia,AS,1049498,41.69143,44.83412,611717,global_population
+472,T3,Voronezh,"Voronezh, Russia",86,RU,Russia,EU,1047549,51.66833,39.19204,472045,global_population
+473,T3,Sokoto,"Sokoto, Nigeria",51,NG,Nigeria,AF,1040000,13.06269,5.24322,2322911,global_population
+474,T3,Jos,"Jos, Nigeria",49,NG,Nigeria,AF,1040000,9.92849,8.89212,2335953,global_population
+475,T3,Tangier,"Tangier, Morocco",01,MA,Morocco,AF,1035141,35.76727,-5.79975,2530335,global_population
+476,T3,Mexicali,"Mexicali, Mexico",02,MX,Mexico,NA,1032686,32.62781,-115.45446,3996069,global_population
+477,T3,Pointe-Noire,"Pointe-Noire, Republic of the Congo",15,CG,Republic of the Congo,AF,1032000,-4.77609,11.86352,2255414,global_population
+478,T3,Maceio,"Maceio, Brazil",02,BR,Brazil,SA,1031597,-9.66583,-35.73528,3395981,global_population
+479,T3,Campinas,"Campinas, Brazil",27,BR,Brazil,SA,1031554,-22.90556,-47.06083,3467865,global_population
+480,T3,Rangpur,"Rangpur, Bangladesh",87,BD,Bangladesh,AS,1031388,25.74664,89.25166,1185188,global_population
+481,T3,Kirkuk,"Kirkuk, Iraq",13,IQ,Iraq,AS,1031000,35.46806,44.39222,94787,global_population
+482,T3,Ashgabat,"Ashgabat, Turkmenistan",S,TM,Turkmenistan,AS,1030063,37.95,58.38333,162183,global_population
+483,T3,Raipur,"Raipur, India",37,IN,India,AS,1027264,21.23333,81.63333,1258980,global_population
+484,T3,Changwon,"Changwon, South Korea",20,KR,South Korea,AS,1025702,35.22806,128.68111,1846326,global_population
+485,T3,Koeln,"Koeln, Germany",07,DE,Germany,EU,1024621,50.93333,6.95,2886242,global_population
+486,T3,Tiruchirappalli,"Tiruchirappalli, India",25,IN,India,AS,1022518,10.8155,78.69651,1254388,global_population
+487,T3,Zamboanga,"Zamboanga, Philippines",09,PH,Philippines,AS,1018849,6.91028,122.07389,1679432,global_population
+488,T3,Ottawa,"Ottawa, Canada",08,CA,Canada,NA,1017449,45.41117,-75.69812,6094817,global_population
+489,T3,Volgograd,"Volgograd, Russia",84,RU,Russia,EU,1013533,48.71378,44.4976,472757,global_population
+490,T3,Edmonton,"Edmonton, Canada",01,CA,Canada,NA,1010899,53.55014,-113.46871,5946768,global_population
+491,T3,Odesa,"Odesa, Ukraine",17,UA,Ukraine,EU,1010537,46.48572,30.74383,698740,global_population
+492,T3,Jacksonville,"Jacksonville, FL",FL,US,United States,NA,1009833,30.33218,-81.65565,4160021,us_population
+493,T3,Fort Worth,"Fort Worth, TX",TX,US,United States,NA,1008106,32.72541,-97.32085,4691930,us_population
+494,T3,Guatemala City,"Guatemala City, Guatemala",07,GT,Guatemala,NA,994938,14.64072,-90.51327,3598132,global_population
+495,T3,Perm,"Perm, Russia",90,RU,Russia,EU,982419,58.01046,56.25017,511196,global_population
+496,T3,Zaria,"Zaria, Nigeria",23,NG,Nigeria,AF,980000,11.11128,7.7227,2317765,global_population
+497,T3,Chiba,"Chiba, Japan",04,JP,Japan,AS,979768,35.6,140.11667,2113015,global_population
+498,T3,Ciudad Guayana,"Ciudad Guayana, Venezuela",06,VE,Venezuela,SA,978202,8.35122,-62.64102,3645528,global_population
+499,T3,Sargodha,"Sargodha, Pakistan",04,PK,Pakistan,AS,975886,32.08586,72.67418,1166000,global_population
+500,T3,Managua,"Managua, Nicaragua",10,NI,Nicaragua,NA,973087,12.13282,-86.2504,3617763,global_population
+501,T3,Jerusalem,"Jerusalem, Israel",06,IL,Israel,AS,971800,31.76904,35.21633,281184,global_population
+502,T3,Dnipro,"Dnipro, Ukraine",04,UA,Ukraine,EU,968502,48.46664,35.04066,709930,global_population
+503,T3,Cebu City,"Cebu City, Philippines",07,PH,Philippines,AS,965332,10.31672,123.89071,1717512,global_population
+504,T3,Enugu,"Enugu, Nigeria",47,NG,Nigeria,AF,950000,6.44132,7.49883,2343279,global_population
+505,T3,Rosario,"Rosario, Argentina",21,AR,Argentina,SA,948312,-32.94682,-60.63932,3838583,global_population
+506,T3,Padang,"Padang, Indonesia",24,ID,Indonesia,AS,942938,-0.94924,100.35427,1633419,global_population
+507,T3,Kitakyushu,"Kitakyushu, Japan",07,JP,Japan,AS,940978,33.85181,130.85034,1859307,global_population
+508,T3,Taiz,"Taiz, Yemen",25,YE,Yemen,AS,940600,13.57952,44.02091,70225,global_population
+509,T3,Kingston,"Kingston, Jamaica",17,JM,Jamaica,NA,937700,17.99702,-76.79358,3489854,global_population
+510,T3,Chihuahua,"Chihuahua, Mexico",06,MX,Mexico,NA,925762,28.63528,-106.08889,4014338,global_population
+511,T3,Nay Pyi Taw,"Nay Pyi Taw, Myanmar",18,MM,Myanmar,AS,925000,19.745,96.12972,6611854,global_population
+512,T3,Eskisehir,"Eskisehir, Turkey",26,TR,Turkey,AS,921630,39.77667,30.52056,315202,global_population
+513,T3,Sao Luis,"Sao Luis, Brazil",13,BR,Brazil,SA,917237,-2.52972,-44.30278,3388368,global_population
+514,T3,Sialkot,"Sialkot, Pakistan",04,PK,Pakistan,AS,911817,32.49268,74.53134,1164909,global_population
+515,T3,Warri,"Warri, Nigeria",36,NG,Nigeria,AF,910000,5.51737,5.75006,2319133,global_population
+516,T3,Campo Grande,"Campo Grande, Brazil",11,BR,Brazil,SA,906092,-20.44278,-54.64639,3467747,global_population
+517,T3,Bobo-Dioulasso,"Bobo-Dioulasso, Burkina Faso",09,BF,Burkina Faso,AF,904920,11.18064,-4.29489,2362344,global_population
+518,T3,Bahawalpur,"Bahawalpur, Pakistan",04,PK,Pakistan,AS,903795,29.39779,71.6752,1183880,global_population
+519,T3,Blantyre,"Blantyre, Malawi",S,MW,Malawi,AF,902588,-15.78499,35.00854,931755,global_population
+520,T3,Donetsk,"Donetsk, Ukraine",05,UA,Ukraine,EU,901645,48.023,37.80224,709717,global_population
+521,T3,Qom,"Qom, Iran",39,IR,Iran,AS,900000,34.6401,50.8764,119208,global_population
+522,T3,Bishkek,"Bishkek, Kyrgyzstan",01,KG,Kyrgyzstan,AS,900000,42.87,74.59,1528675,global_population
+523,T3,Krasnodar,"Krasnodar, Russia",38,RU,Russia,EU,899541,45.04534,38.98178,542420,global_population
+524,T3,Natal,"Natal, Brazil",22,BR,Brazil,SA,896708,-5.795,-35.20944,3394023,global_population
+525,T3,Malang,"Malang, Indonesia",08,ID,Indonesia,AS,889359,-7.9797,112.6304,1636722,global_population
+526,T3,Sulaymaniyah,"Sulaymaniyah, Iraq",05,IQ,Iraq,AS,878146,35.56496,45.4329,98463,global_population
+527,T3,Soshanguve,"Soshanguve, South Africa",06,ZA,South Africa,AF,872309,-25.47288,28.09919,954013,global_population
+528,T3,Teresina,"Teresina, Brazil",20,BR,Brazil,SA,871126,-5.08917,-42.80194,3386496,global_population
+529,T3,Rotterdam,"Rotterdam, The Netherlands",11,NL,The Netherlands,EU,868135,51.9225,4.47917,2747891,global_population
+530,T3,Samarinda,"Samarinda, Indonesia",14,ID,Indonesia,AS,865306,-0.49167,117.14583,1629001,global_population
+531,T3,Johor Bahru,"Johor Bahru, Malaysia",01,MY,Malaysia,AS,858118,1.4655,103.7578,1732752,global_population
+532,T3,Arifwala,"Arifwala, Pakistan",04,PK,Pakistan,AS,854462,30.29058,73.06574,1184370,global_population
+533,T3,Cheongju-si,"Cheongju-si, South Korea",05,KR,South Korea,AS,852147,36.63722,127.48972,1845604,global_population
+534,T3,Tegucigalpa,"Tegucigalpa, Honduras",08,HN,Honduras,NA,850848,14.0818,-87.20681,3600949,global_population
+535,T3,Thanh Hoa,"Thanh Hoa, Vietnam",38,VN,Vietnam,AS,850000,19.8,105.76667,1566166,global_population
+536,T3,Turin,"Turin, Italy",12,IT,Italy,EU,847287,45.07049,7.68682,3165524,global_population
+537,T3,Al Ain City,"Al Ain City, United Arab Emirates",01,AE,United Arab Emirates,AS,846747,24.19167,55.76056,292913,global_population
+538,T3,Libreville,"Libreville, Gabon",01,GA,Gabon,AF,846090,0.39241,9.45356,2399697,global_population
+539,T3,Saratov,"Saratov, Russia",67,RU,Russia,EU,844858,51.54048,45.9901,498677,global_population
+540,T3,Ulan Bator,"Ulan Bator, Mongolia",20,MN,Mongolia,AS,844818,47.90771,106.88324,2028462,global_population
+541,T3,Takeo,"Takeo, Cambodia",19,KH,Cambodia,AS,843931,10.99081,104.78498,1821940,global_population
+542,T3,Nova Iguacu,"Nova Iguacu, Brazil",21,BR,Brazil,SA,843046,-22.75917,-43.45111,3456160,global_population
+543,T3,Cochabamba,"Cochabamba, Bolivia",02,BO,Bolivia,SA,841276,-17.38195,-66.15995,3919968,global_population
+544,T3,Ahvaz,"Ahvaz, Iran",15,IR,Iran,AS,841145,31.31901,48.6842,144448,global_population
+545,T3,Vientiane,"Vientiane, Laos",24,LA,Laos,AS,840940,17.96667,102.6,1651944,global_population
+546,T3,Pietermaritzburg,"Pietermaritzburg, South Africa",02,ZA,South Africa,AF,839327,-29.61679,30.39278,965301,global_population
+547,T3,Bouake,"Bouake, Ivory Coast",90,CI,Ivory Coast,AF,832371,7.69385,-5.03031,2290956,global_population
+548,T3,Joao Pessoa,"Joao Pessoa, Brazil",17,BR,Brazil,SA,817511,-7.115,-34.86306,3397277,global_population
+549,T3,Bukavu,"Bukavu, Democratic Republic of the Congo",12,CD,Democratic Republic of the Congo,AF,816811,-2.49077,28.84281,217831,global_population
+550,T3,Barcelona,"Barcelona, Venezuela",02,VE,Venezuela,SA,815141,10.1384,-64.68769,3648559,global_population
+551,T3,Bangui,"Bangui, Central African Republic",18,CF,Central African Republic,AF,812407,4.36122,18.55496,2389853,global_population
+552,T3,Hermosillo,"Hermosillo, Mexico",26,MX,Mexico,NA,812229,29.08874,-110.96677,4004898,global_population
+553,T3,Culiacan,"Culiacan, Mexico",25,MX,Mexico,NA,808416,24.80209,-107.39421,4012176,global_population
+554,T3,Oran,"Oran, Algeria",09,DZ,Algeria,AF,803329,35.69906,-0.63588,2485926,global_population
+555,T3,Freetown,"Freetown, Sierra Leone",04,SL,Sierra Leone,AF,802639,8.48714,-13.2356,2409306,global_population
+556,T3,San Pedro Sula,"San Pedro Sula, Honduras",06,HN,Honduras,NA,801259,15.50585,-88.02588,3601782,global_population
+557,T3,Niigata,"Niigata, Japan",29,JP,Japan,AS,797591,37.92259,139.04125,1855431,global_population
+558,T3,Muscat,"Muscat, Oman",06,OM,Oman,AS,797000,23.58413,58.40778,287286,global_population
+559,T3,Hamamatsu,"Hamamatsu, Japan",37,JP,Japan,AS,791707,34.7,137.73333,1863289,global_population
+560,T3,Kolwezi,"Kolwezi, Democratic Republic of the Congo",22,CD,Democratic Republic of the Congo,AF,790248,-10.71484,25.46674,922773,global_population
+561,T3,Vinh,"Vinh, Vietnam",40,VN,Vietnam,AS,790000,18.67337,105.69232,1562798,global_population
+562,T3,Port Said,"Port Said, Egypt",19,EG,Egypt,AF,780515,31.26531,32.3019,358619,global_population
+563,T3,Cucuta,"Cucuta, Colombia",21,CO,Colombia,SA,777106,7.90745,-72.5049,3685533,global_population
+564,T3,Homs,"Homs, Syria",11,SY,Syria,AS,775404,34.72405,36.72559,169577,global_population
+565,T3,Ibb,"Ibb, Yemen",23,YE,Yemen,AS,771514,13.96667,44.18333,74477,global_population
+566,T3,Tasikmalaya,"Tasikmalaya, Indonesia",30,ID,Indonesia,AS,770839,-7.3274,108.2207,1624647,global_population
+567,T3,Nampula,"Nampula, Mozambique",06,MZ,Mozambique,AF,770379,-15.11646,39.2666,1033356,global_population
+568,T3,Bujumbura,"Bujumbura, Burundi",24,BI,Burundi,AF,769317,-3.38193,29.36142,425378,global_population
+569,T3,Tyumen,"Tyumen, Russia",78,RU,Russia,EU,768358,57.15222,65.52722,1488754,global_population
+570,T3,Erzurum,"Erzurum, Turkey",25,TR,Turkey,AS,767848,39.90861,41.27694,315368,global_population
+571,T3,Dodoma,"Dodoma, Tanzania",03,TZ,Tanzania,AF,765179,-6.17221,35.73947,160196,global_population
+572,T3,Rajshahi,"Rajshahi, Bangladesh",83,BD,Bangladesh,AS,763580,24.374,88.60114,1185128,global_population
+573,T3,Dera Ismail Khan,"Dera Ismail Khan, Pakistan",03,PK,Pakistan,AS,763195,31.83129,70.9017,1180281,global_population
+574,T3,Sorocaba,"Sorocaba, Brazil",27,BR,Brazil,SA,762172,-23.50167,-47.45806,3447399,global_population
+575,T3,Ipoh,"Ipoh, Malaysia",07,MY,Malaysia,AS,759952,4.5841,101.0829,1734634,global_population
+576,T3,Benghazi,"Benghazi, Libya",69,LY,Libya,AF,757490,32.11486,20.06859,88319,global_population
+577,T3,Uberlandia,"Uberlandia, Brazil",15,BR,Brazil,SA,754954,-18.91861,-48.27722,3445831,global_population
+578,T3,Malatya,"Malatya, Turkey",44,TR,Turkey,AS,750491,38.35018,38.31667,304922,global_population
+579,T3,Winnipeg,"Winnipeg, Canada",03,CA,Canada,NA,749607,49.8844,-97.14704,6183235,global_population
+580,T3,Andijon,"Andijon, Uzbekistan",01,UZ,Uzbekistan,AS,747800,40.78338,72.35067,1514588,global_population
+581,T3,Buraydah,"Buraydah, Saudi Arabia",08,SA,Saudi Arabia,AS,745353,26.32599,43.97497,107304,global_population
+582,T3,Morelia,"Morelia, Mexico",16,MX,Mexico,NA,743275,19.70078,-101.18443,3995402,global_population
+583,T3,Riga,"Riga, Latvia",25,LV,Latvia,EU,742572,56.946,24.10589,456172,global_population
+584,T3,Cagayan de Oro,"Cagayan de Oro, Philippines",10,PH,Philippines,AS,741617,8.48222,124.64722,1721080,global_population
+585,T3,Kumamoto,"Kumamoto, Japan",21,JP,Japan,AS,738907,32.80589,130.69181,1858421,global_population
+586,T3,Oyo,"Oyo, Nigeria",32,NG,Nigeria,AF,736072,7.85367,3.93235,2325200,global_population
+587,T3,Serang,"Serang, Indonesia",33,ID,Indonesia,AS,735651,-6.11528,106.15417,1627549,global_population
+588,T3,Torreon,"Torreon, Mexico",07,MX,Mexico,NA,735340,25.54389,-103.41898,3981254,global_population
+589,T3,Abeokuta,"Abeokuta, Nigeria",16,NG,Nigeria,AF,735000,7.15571,3.34509,2352947,global_population
+590,T3,Al Hudaydah,"Al Hudaydah, Yemen",08,YE,Yemen,AS,734699,14.79781,42.95452,79415,global_population
+591,T3,Akure,"Akure, Nigeria",48,NG,Nigeria,AF,730000,7.25256,5.19312,2350841,global_population
+592,T3,Sao Jose dos Campos,"Sao Jose dos Campos, Brazil",27,BR,Brazil,SA,727078,-23.17944,-45.88694,3448636,global_population
+593,T3,Evaton,"Evaton, South Africa",06,ZA,South Africa,AF,725468,-26.53333,27.85,1004866,global_population
+594,T3,Muzaffarabad,"Muzaffarabad, Pakistan",06,PK,Pakistan,AS,725000,34.37002,73.47082,1169607,global_population
+595,T3,Okayama,"Okayama, Japan",31,JP,Japan,AS,724691,34.65,133.93333,1854383,global_population
+596,T3,San Luis Potosi,"San Luis Potosi, Mexico",24,MX,Mexico,NA,722772,22.15234,-100.97135,3985606,global_population
+597,T3,Aguascalientes,"Aguascalientes, Mexico",01,MX,Mexico,NA,722250,21.88262,-102.2843,4019233,global_population
+598,T3,General Santos,"General Santos, Philippines",12,PH,Philippines,AS,722059,6.11278,125.17167,1713022,global_population
+599,T3,Sagamihara,"Sagamihara, Japan",19,JP,Japan,AS,720780,35.56707,139.24167,11611609,global_population
+600,T3,Lviv,"Lviv, Ukraine",15,UA,Ukraine,EU,717273,49.83826,24.02324,702550,global_population
+601,T3,Namangan,"Namangan, Uzbekistan",06,UZ,Uzbekistan,AS,713220,40.9983,71.67257,1513157,global_population
+602,T3,Zaporizhzhya,"Zaporizhzhya, Ukraine",26,UA,Ukraine,EU,710052,47.85167,35.11714,687700,global_population
+603,T3,Saltillo,"Saltillo, Mexico",07,MX,Mexico,NA,709671,25.42595,-100.97963,3988086,global_population
+604,T3,Latakia,"Latakia, Syria",02,SY,Syria,AS,709000,35.53125,35.79088,173576,global_population
+605,T3,Tolyatti,"Tolyatti, Russia",65,RU,Russia,EU,702879,53.5303,49.3461,482283,global_population
+606,T3,Battagram,"Battagram, Pakistan",03,PK,Pakistan,AS,700000,34.67719,73.02329,1183105,global_population
+607,T3,Suez,"Suez, Egypt",15,EG,Egypt,AF,699541,29.97371,32.52627,359796,global_population
+608,T3,Ribeirao Preto,"Ribeirao Preto, Brazil",27,BR,Brazil,SA,698642,-21.1775,-47.81028,3451328,global_population
+609,T3,Agadir,"Agadir, Morocco",09,MA,Morocco,AF,698310,30.42018,-9.59815,2561668,global_population
+610,T3,Sarajevo,"Sarajevo, Bosnia and Herzegovina",01,BA,Bosnia and Herzegovina,EU,696731,43.84864,18.35644,3191281,global_population
+611,T3,Balikpapan,"Balikpapan, Indonesia",14,ID,Indonesia,AS,695287,-1.26753,116.82887,1650527,global_population
+612,T3,Bauchi,"Bauchi, Nigeria",46,NG,Nigeria,AF,693700,10.31032,9.84388,2347470,global_population
+613,T3,Shizuoka,"Shizuoka, Japan",37,JP,Japan,AS,693389,34.98333,138.38333,1851717,global_population
+614,T3,Tunis,"Tunis, Tunisia",36,TN,Tunisia,AF,693210,36.81897,10.16579,2464470,global_population
+615,T3,Ta'if,"Ta'if, Saudi Arabia",14,SA,Saudi Arabia,AS,688693,21.27028,40.41583,107968,global_population
+616,T3,Beira,"Beira, Mozambique",05,MZ,Mozambique,AF,687764,-19.84361,34.83889,1052373,global_population
+617,T3,Zaragoza,"Zaragoza, Spain",52,ES,Spain,EU,686986,41.65606,-0.87734,3104324,global_population
+618,T3,Pontianak,"Pontianak, Indonesia",11,ID,Indonesia,AS,686019,-0.03194,109.325,1630789,global_population
+619,T3,Situbondo,"Situbondo, Indonesia",08,ID,Indonesia,AS,685967,-7.70623,114.00976,1626801,global_population
+620,T3,Oklahoma City,"Oklahoma City, OK",OK,US,United States,NA,681054,35.46756,-97.51643,4544349,us_population
+621,T3,Dushanbe,"Dushanbe, Tajikistan",04,TJ,Tajikistan,AS,679400,38.53575,68.77905,1221874,global_population
+622,T3,Cotonou,"Cotonou, Benin",14,BJ,Benin,AF,679012,6.36536,2.41833,2394819,global_population
+623,T3,El Paso,"El Paso, TX",TX,US,United States,NA,678815,31.75872,-106.48693,5520993,us_population
+624,T3,Wroclaw,"Wroclaw, Poland",72,PL,Poland,EU,672545,51.10286,17.03006,3081368,global_population
+625,T3,Katsina,"Katsina, Nigeria",24,NG,Nigeria,AF,670000,12.99082,7.60177,2334802,global_population
+626,T3,Tabuk,"Tabuk, Saudi Arabia",19,SA,Saudi Arabia,AS,667000,28.3998,36.57151,101628,global_population
+627,T3,Kitwe,"Kitwe, Zambia",08,ZM,Zambia,AF,665961,-12.80243,28.21323,911148,global_population
+628,T3,Bulawayo,"Bulawayo, Zimbabwe",09,ZW,Zimbabwe,AF,665952,-20.15,28.58333,894701,global_population
+629,T3,Aracaju,"Aracaju, Brazil",28,BR,Brazil,SA,664908,-10.91111,-37.07167,3471872,global_population
+630,T3,Zagreb,"Zagreb, Croatia",21,HR,Croatia,EU,663592,45.81444,15.97798,3186886,global_population
+631,T3,Cheonan,"Cheonan, South Korea",17,KR,South Korea,AS,658831,36.8065,127.1522,1845759,global_population
+632,T3,Acapulco de Juarez,"Acapulco de Juarez, Mexico",12,MX,Mexico,NA,658609,16.84942,-99.90891,3533462,global_population
+633,T3,Banjarmasin,"Banjarmasin, Indonesia",12,ID,Indonesia,AS,657663,-3.31987,114.59075,1650213,global_population
+634,T3,Calumbo,"Calumbo, Angola",19,AO,Angola,AF,652270,-9.14692,13.41936,2242906,global_population
+635,T3,Palermo,"Palermo, Italy",15,IT,Italy,EU,648260,38.1166,13.3636,2523920,global_population
+636,T3,Izhevsk,"Izhevsk, Russia",80,RU,Russia,EU,648213,56.85225,53.19862,554840,global_population
+637,T3,Maturin,"Maturin, Venezuela",16,VE,Venezuela,SA,647459,9.74569,-63.18323,3778045,global_population
+638,T3,Osogbo,"Osogbo, Nigeria",42,NG,Nigeria,AF,645000,7.77104,4.55698,2325590,global_population
+639,T3,Lodz,"Lodz, Poland",74,PL,Poland,EU,639890,51.77058,19.47395,3093133,global_population
+640,T3,Jeonju,"Jeonju, South Korea",03,KR,South Korea,AS,638421,35.82194,127.14889,1845457,global_population
+641,T3,Al Ahmadi,"Al Ahmadi, Kuwait",04,KW,Kuwait,AS,637411,29.07694,48.08389,285839,global_population
+642,T3,Cuenca,"Cuenca, Ecuador",02,EC,Ecuador,SA,636996,-2.8953,-78.9963,3658666,global_population
+643,T3,Chisinau,"Chisinau, Moldova",57,MD,Moldova,EU,635994,47.00902,28.85938,618426,global_population
+644,T3,Likasi,"Likasi, Democratic Republic of the Congo",14,CD,Democratic Republic of the Congo,AF,635768,-10.98303,26.7384,922741,global_population
+645,T3,Jambi City,"Jambi City, Indonesia",05,ID,Indonesia,AS,635101,-1.6,103.61667,1642858,global_population
+646,T3,Comilla,"Comilla, Bangladesh",84,BD,Bangladesh,AS,634654,23.46186,91.18503,1185186,global_population
+647,T3,Tshikapa,"Tshikapa, Democratic Republic of the Congo",18,CD,Democratic Republic of the Congo,AF,634529,-6.41621,20.79995,204953,global_population
+648,T3,Chunian,"Chunian, Pakistan",04,PK,Pakistan,AS,634236,30.96621,73.97908,1180942,global_population
+649,T3,Memphis,"Memphis, TN",TN,US,United States,NA,633104,35.14953,-90.04898,4641239,us_population
+650,T3,Barnaul,"Barnaul, Russia",04,RU,Russia,EU,632372,53.36199,83.72786,1510853,global_population
+651,T3,Piura,"Piura, Peru",20,PE,Peru,SA,630000,-5.18192,-80.65715,3693528,global_population
+652,T3,Ndola,"Ndola, Zambia",08,ZM,Zambia,AF,627503,-12.95867,28.63659,901344,global_population
+653,T3,Ulyanovsk,"Ulyanovsk, Russia",81,RU,Russia,EU,626540,54.32824,48.38657,479123,global_population
+654,T3,Djibouti,"Djibouti, Djibouti",07,DJ,Djibouti,AF,626512,11.58901,43.14503,223817,global_population
+655,T3,Glasgow,"Glasgow, United Kingdom",SCT,GB,United Kingdom,EU,626410,55.86515,-4.25763,2648579,global_population
+656,T3,Louisville,"Louisville, KY",KY,US,United States,NA,624444,38.25424,-85.75941,4299276,us_population
+657,T3,Irkutsk,"Irkutsk, Russia",20,RU,Russia,EU,623869,52.29566,104.29076,2023469,global_population
+658,T3,Al Mansurah,"Al Mansurah, Egypt",01,EG,Egypt,AF,621953,31.03637,31.38069,360761,global_population
+659,T3,Kermanshah,"Kermanshah, Iran",13,IR,Iran,AS,621100,34.31417,47.065,128226,global_population
+660,T3,Duesseldorf,"Duesseldorf, Germany",07,DE,Germany,EU,618685,51.22319,6.77927,2934246,global_population
+661,T3,Villa Nueva,"Villa Nueva, Guatemala",07,GT,Guatemala,NA,618397,14.52512,-90.58544,3587902,global_population
+662,T3,Khabarovsk,"Khabarovsk, Russia",30,RU,Russia,EU,618150,48.46204,135.0971,2022890,global_population
+663,T3,Arusha,"Arusha, Tanzania",26,TZ,Tanzania,AF,617631,-3.36667,36.68333,161325,global_population
+664,T3,Stuttgart,"Stuttgart, Germany",01,DE,Germany,EU,612663,48.78232,9.17702,2825297,global_population
+665,T3,Chiclayo,"Chiclayo, Peru",14,PE,Peru,SA,609400,-6.77008,-79.85495,3698350,global_population
+666,T3,Yaroslavl,"Yaroslavl, Russia",88,RU,Russia,EU,608722,57.62987,39.87368,468902,global_population
+667,T3,Gothenburg,"Gothenburg, Sweden",28,SE,Sweden,EU,608462,57.70716,11.96679,2711537,global_population
+668,T3,Jhang Sadr,"Jhang Sadr, Pakistan",04,PK,Pakistan,AS,606533,31.26981,72.31687,1175892,global_population
+669,T3,Ha'il,"Ha'il, Saudi Arabia",13,SA,Saudi Arabia,AS,605930,27.52188,41.69073,106281,global_population
+670,T3,Tuxtla,"Tuxtla, Mexico",05,MX,Mexico,NA,604147,16.75357,-93.11578,3515001,global_population
+671,T3,Kryvyy Rih,"Kryvyy Rih, Ukraine",04,UA,Ukraine,EU,603904,47.90572,33.39404,703845,global_population
+672,T3,Lubango,"Lubango, Angola",09,AO,Angola,AF,600751,-14.91717,13.4925,3347762,global_population
+673,T3,Pokhara,"Pokhara, Nepal",4,NP,Nepal,AS,600051,28.26689,83.96851,1282898,global_population
+674,T3,Borama,"Borama, Somalia",21,SO,Somalia,AF,597842,9.93611,43.18278,64021,global_population
+675,T3,Huambo,"Huambo, Angola",08,AO,Angola,AF,595304,-12.77611,15.73917,3348313,global_population
+676,T3,Samarkand,"Samarkand, Uzbekistan",10,UZ,Uzbekistan,AS,595200,39.65456,66.96445,1216265,global_population
+677,T3,Kagoshima,"Kagoshima, Japan",18,JP,Japan,AS,595049,31.56667,130.55,1860827,global_population
+678,T3,Mukalla,"Mukalla, Yemen",04,YE,Yemen,AS,594951,14.54248,49.12424,78754,global_population
+679,T3,Rasht,"Rasht, Iran",08,IR,Iran,AS,594590,37.27611,49.58862,118743,global_population
+680,T3,Mar del Plata,"Mar del Plata, Argentina",01,AR,Argentina,SA,593337,-38.00042,-57.5562,3430863,global_population
+681,T3,Essen,"Essen, Germany",07,DE,Germany,EU,593085,51.45657,7.01228,2928810,global_population
+682,T3,Al Mahallah al Kubra,"Al Mahallah al Kubra, Egypt",05,EG,Egypt,AF,592573,30.97063,31.1669,360829,global_population
+683,T3,Shekhupura,"Shekhupura, Pakistan",04,PK,Pakistan,AS,591424,31.71287,73.98556,1165221,global_population
+684,T3,Dortmund,"Dortmund, Germany",07,DE,Germany,EU,588462,51.51494,7.466,2935517,global_population
+685,T3,Pelentong,"Pelentong, Malaysia",01,MY,Malaysia,AS,583640,1.5243,103.824,1732747,global_population
+686,T3,Bucaramanga,"Bucaramanga, Colombia",26,CO,Colombia,SA,581130,7.125,-73.11895,3688465,global_population
+687,T3,Genoa,"Genoa, Italy",08,IT,Italy,EU,580097,44.40478,8.94439,3176219,global_population
+688,T3,Hachioji,"Hachioji, Japan",40,JP,Japan,AS,579355,35.65583,139.32389,1863440,global_population
+689,T3,Malacca,"Malacca, Malaysia",04,MY,Malaysia,AS,579000,2.196,102.2405,1734759,global_population
+690,T3,Nha Trang,"Nha Trang, Vietnam",56,VN,Vietnam,AS,579000,12.24507,109.19432,1572151,global_population
+691,T3,Kerman,"Kerman, Iran",29,IR,Iran,AS,577514,30.28321,57.07879,128234,global_population
+692,T3,Orumiyeh,"Orumiyeh, Iran",01,IR,Iran,AS,577307,37.55274,45.07605,121801,global_population
+693,T3,Tanta,"Tanta, Egypt",05,EG,Egypt,AF,576648,30.78847,31.00192,347497,global_population
+694,T3,Iskandar Puteri,"Iskandar Puteri, Malaysia",01,MY,Malaysia,AS,575977,1.39324,103.62322,10063567,global_population
+695,T3,Calamba,"Calamba, Philippines",40,PH,Philippines,AS,575046,14.21167,121.16528,1720681,global_population
+696,T3,Herat,"Herat, Afghanistan",11,AF,Afghanistan,AS,574300,34.34817,62.19967,1140026,global_population
+697,T3,Gujrat,"Gujrat, Pakistan",04,PK,Pakistan,AS,574240,32.5742,74.07542,1177654,global_population
+698,T3,Nakuru,"Nakuru, Kenya",39,KE,Kenya,AF,570674,-0.30719,36.07225,184622,global_population
+699,T3,Hamilton,"Hamilton, Canada",08,CA,Canada,NA,569353,43.25011,-79.84963,5969782,global_population
+700,T3,Irbid,"Irbid, Jordan",18,JO,Jordan,AS,569068,32.55556,35.85,248946,global_population
+701,T3,Kota Bharu,"Kota Bharu, Malaysia",03,MY,Malaysia,AS,568900,6.12361,102.24333,1736376,global_population
+702,T3,Surrey,"Surrey, Canada",02,CA,Canada,NA,568322,49.10635,-122.82509,6159905,global_population
+703,T3,Meknes,"Meknes, Morocco",03,MA,Morocco,AF,568295,33.89352,-5.54727,2542715,global_population
+704,T3,Nyala,"Nyala, Sudan",49,SD,Sudan,AF,565734,12.04888,24.88069,369004,global_population
+705,T3,Dresden,"Dresden, Germany",13,DE,Germany,EU,564904,51.05089,13.73832,2935022,global_population
+706,T3,Albuquerque,"Albuquerque, NM",NM,US,United States,NA,564559,35.08449,-106.65114,5454711,us_population
+707,T3,Asmara,"Asmara, Eritrea",05,ER,Eritrea,AF,563930,15.33805,38.93184,343300,global_population
+708,T3,Sukkur,"Sukkur, Pakistan",05,PK,Pakistan,AS,563851,27.70323,68.85889,1164408,global_population
+709,T3,Milwaukee,"Milwaukee, WI",WI,US,United States,NA,563531,43.0389,-87.90647,5263045,us_population
+710,T3,Ile-Ife,"Ile-Ife, Nigeria",42,NG,Nigeria,AF,560000,7.4824,4.56032,2338900,global_population
+711,T3,Gombe,"Gombe, Nigeria",55,NG,Nigeria,AF,560000,10.28969,11.16729,2340451,global_population
+712,T3,Hamhung,"Hamhung, North Korea",03,KP,North Korea,AS,559056,39.91833,127.53639,1877449,global_population
+713,T3,Nasiriyah,"Nasiriyah, Iraq",09,IQ,Iraq,AS,558400,31.05799,46.25726,98854,global_population
+714,T3,Bloemfontein,"Bloemfontein, South Africa",03,ZA,South Africa,AF,556637,-29.12107,26.214,1018725,global_population
+715,T3,Sheffield,"Sheffield, United Kingdom",ENG,GB,United Kingdom,EU,556500,53.38297,-1.4659,2638077,global_population
+716,T3,Santiago de Cuba,"Santiago de Cuba, Cuba",15,CU,Cuba,NA,555865,20.02287,-75.82171,3536729,global_population
+717,T3,Benguela,"Benguela, Angola",01,AO,Angola,AF,555124,-12.57674,13.40268,3351663,global_population
+718,T3,Balbala,"Balbala, Djibouti",07,DJ,Djibouti,AF,554350,11.56194,43.10666,7648070,global_population
+719,T3,Zahedan,"Zahedan, Iran",04,IR,Iran,AS,551980,29.4963,60.8629,1159301,global_population
+720,T3,Cabinda,"Cabinda, Angola",03,AO,Angola,AF,550000,-5.56198,12.19476,2243271,global_population
+721,T3,Pristina,"Pristina, Kosovo",10097360,XK,Kosovo,EU,550000,42.67272,21.16688,786714,global_population
+722,T3,San Miguel de Tucuman,"San Miguel de Tucuman, Argentina",24,AR,Argentina,SA,548866,-26.81601,-65.21051,3836873,global_population
+723,T3,Kuantan,"Kuantan, Malaysia",06,MY,Malaysia,AS,548014,3.8077,103.326,1735227,global_population
+724,T3,Sevastopol,"Sevastopol, Ukraine",20,UA,Ukraine,EU,547820,44.60795,33.52134,694423,global_population
+725,T3,Bremen,"Bremen, Germany",03,DE,Germany,EU,546501,53.07582,8.80717,2944388,global_population
+726,T3,Owerri,"Owerri, Nigeria",28,NG,Nigeria,AF,545000,5.48363,7.03325,2325330,global_population
+727,T3,Kota Kuala Muda,"Kota Kuala Muda, Malaysia",02,MY,Malaysia,AS,544984,5.58822,100.37085,6847550,global_population
+728,T3,Sungai Petani,"Sungai Petani, Malaysia",02,MY,Malaysia,AS,544851,5.647,100.48772,1735498,global_population
+729,T3,Koto,"Koto, Japan",21,JP,Japan,AS,543730,32.77856,130.74537,11209896,global_population
+730,T3,Tucson,"Tucson, AZ",AZ,US,United States,NA,542629,32.22174,-110.92648,5318313,us_population
+731,T3,Vilnius,"Vilnius, Lithuania",65,LT,Lithuania,EU,542366,54.68916,25.2798,593116,global_population
+732,T3,Fresno,"Fresno, CA",CA,US,United States,NA,542107,36.74773,-119.77237,5350937,us_population
+733,T3,Mbeya,"Mbeya, Tanzania",09,TZ,Tanzania,AF,541603,-8.9,33.45,154380,global_population
+734,T3,Oujda,"Oujda, Morocco",02,MA,Morocco,AF,539711,34.68139,-1.90858,2540483,global_population
+735,T3,Sahiwal,"Sahiwal, Pakistan",04,PK,Pakistan,AS,538344,31.97386,72.33109,1166547,global_population
+736,T3,Mersin,"Mersin, Turkey",32,TR,Turkey,AS,537842,36.81196,34.63886,304531,global_population
+737,T3,Leeds,"Leeds, United Kingdom",ENG,GB,United Kingdom,EU,536280,53.79648,-1.54785,2644688,global_population
+738,T3,Poznan,"Poznan, Poland",86,PL,Poland,EU,536151,52.40692,16.92993,3088171,global_population
+739,T3,Pasir Gudang,"Pasir Gudang, Malaysia",01,MY,Malaysia,AS,534659,1.462,103.9053,1732722,global_population
+740,T3,Okara,"Okara, Pakistan",04,PK,Pakistan,AS,533693,30.81029,73.45155,1168718,global_population
+741,T3,Ar Raqqah,"Ar Raqqah, Syria",04,SY,Syria,AS,531952,35.95283,39.00788,172955,global_population
+742,T3,Himeji,"Himeji, Japan",13,JP,Japan,AS,530495,34.81667,134.7,1862627,global_population
+743,T3,Ibague,"Ibague, Colombia",28,CO,Colombia,SA,529635,4.43573,-75.20289,3680656,global_population
+744,T3,Antwerp,"Antwerp, Belgium",VLG,BE,Belgium,EU,529247,51.22047,4.40026,2803138,global_population
+745,T3,Assiut,"Assiut, Egypt",17,EG,Egypt,AF,528669,27.18096,31.18368,359783,global_population
+746,T3,Hamadan,"Hamadan, Iran",09,IR,Iran,AS,528256,34.79922,48.51456,132144,global_population
+747,T3,Mohammadpur,"Mohammadpur, Bangladesh",83,BD,Bangladesh,AS,527571,24.89843,88.52844,1194041,global_population
+748,T3,Surakarta,"Surakarta, Indonesia",07,ID,Indonesia,AS,526870,-7.55611,110.83167,1625812,global_population
+749,T3,San Salvador,"San Salvador, El Salvador",10,SV,El Salvador,NA,525990,13.68935,-89.18718,3583361,global_population
+750,T3,Van,"Van, Turkey",65,TR,Turkey,AS,525016,38.49457,43.38323,298117,global_population
+751,T3,Mazar-e Sharif,"Mazar-e Sharif, Afghanistan",30,AF,Afghanistan,AS,523300,36.70904,67.11087,1133616,global_population
+752,T3,Kandahar,"Kandahar, Afghanistan",23,AF,Afghanistan,AS,523300,31.61332,65.71013,1138336,global_population
+753,T3,Salta,"Salta, Argentina",17,AR,Argentina,SA,520683,-24.80645,-65.41999,3838233,global_population
+754,T3,Qui Nhon,"Qui Nhon, Vietnam",52,VN,Vietnam,AS,519208,13.77648,109.22367,1568574,global_population
+755,T3,Al Fayyum,"Al Fayyum, Egypt",04,EG,Egypt,AF,519047,29.30995,30.8418,361320,global_population
+756,T3,Utsunomiya,"Utsunomiya, Japan",38,JP,Japan,AS,518757,36.56667,139.88333,1849053,global_population
+757,T3,Rahim Yar Khan,"Rahim Yar Khan, Pakistan",04,PK,Pakistan,AS,517000,28.41987,70.30345,1167460,global_population
+758,T3,Nuremberg,"Nuremberg, Germany",02,DE,Germany,EU,515543,49.45421,11.07752,2861650,global_population
+759,T3,Hannover,"Hannover, Germany",06,DE,Germany,EU,515140,52.37052,9.73322,2910831,global_population
+760,T3,Toulouse,"Toulouse, France",76,FR,France,EU,511684,43.60426,1.44367,2972315,global_population
+761,T3,Matsuyama,"Matsuyama, Japan",05,JP,Japan,AS,511192,33.83916,132.76574,1926099,global_population
+762,T3,Kikwit,"Kikwit, Democratic Republic of the Congo",20,CD,Democratic Republic of the Congo,AF,509367,-5.04098,18.81619,2314705,global_population
+763,T3,Newcastle,"Newcastle, Australia",02,AU,Australia,OC,508437,-32.92953,151.7801,2155472,global_population
+764,T3,Mukim Pulai,"Mukim Pulai, Malaysia",01,MY,Malaysia,AS,505661,1.53333,103.66667,12750654,global_population
+765,T3,Najran,"Najran, Saudi Arabia",16,SA,Saudi Arabia,AS,505652,17.49326,44.12766,103630,global_population
+766,T3,Leipzig,"Leipzig, Germany",13,DE,Germany,EU,504971,51.33962,12.37129,2879139,global_population
+767,T3,Duisburg,"Duisburg, Germany",07,DE,Germany,EU,504358,51.43247,6.76516,2934691,global_population
+768,T3,Arak,"Arak, Iran",34,IR,Iran,AS,503647,34.09493,49.69809,143127,global_population
+769,T3,Homyel',"Homyel', Belarus",02,BY,Belarus,EU,501193,52.4345,30.9754,627907,global_population
+770,T3,Aktobe,"Aktobe, Kazakhstan",04,KZ,Kazakhstan,AS,500757,50.27969,57.20718,610611,global_population
+771,T3,Kota Kinabalu,"Kota Kinabalu, Malaysia",16,MY,Malaysia,AS,500421,5.9749,116.0724,1733432,global_population
+772,T3,Kampung Larkin Lama,"Kampung Larkin Lama, Malaysia",01,MY,Malaysia,AS,500000,1.5024,103.744,1732724,global_population
+773,T3,Santa Marta,"Santa Marta, Colombia",38,CO,Colombia,SA,499192,11.23855,-74.19427,3668605,global_population
+774,T3,Lapu-Lapu City,"Lapu-Lapu City, Philippines",07,PH,Philippines,AS,497813,10.31028,123.94944,1707267,global_population
+775,T3,Karagandy,"Karagandy, Kazakhstan",12,KZ,Kazakhstan,AS,497777,49.80187,73.10211,609655,global_population
+776,T3,Pohang,"Pohang, South Korea",14,KR,South Korea,AS,492041,36.02917,129.36481,1839071,global_population
+777,T3,Monteria,"Monteria, Colombia",12,CO,Colombia,SA,490935,8.75081,-75.87823,3674453,global_population
+778,T3,Valledupar,"Valledupar, Colombia",10,CO,Colombia,SA,490075,10.46538,-73.2531,3666304,global_population
+779,T3,Port Sudan,"Port Sudan, Sudan",36,SD,Sudan,AF,489725,19.61745,37.21644,377039,global_population
+780,T3,Jeju City,"Jeju City, South Korea",01,KR,South Korea,AS,488844,33.50972,126.52194,1846266,global_population
+781,T3,Gdansk,"Gdansk, Poland",82,PL,Poland,EU,487371,54.35227,18.64912,3099434,global_population
+782,T3,Omaha,"Omaha, NE",NE,US,United States,NA,486051,41.25626,-95.94043,5074472,us_population
+783,T3,Kurashiki,"Kurashiki, Japan",31,JP,Japan,AS,483576,34.58333,133.76667,1858311,global_population
+784,T3,Angeles City,"Angeles City, Philippines",03,PH,Philippines,AS,483452,15.15,120.58333,1730737,global_population
+785,T3,Jijiga,"Jijiga, Ethiopia",52,ET,Ethiopia,AF,483000,9.35,42.8,333795,global_population
+786,T3,Najaf,"Najaf, Iraq",17,IQ,Iraq,AS,482576,32.02594,44.34625,98860,global_population
+787,T3,Bristol,"Bristol, United Kingdom",ENG,GB,United Kingdom,EU,479024,51.45523,-2.59665,2654675,global_population
+788,T3,East London,"East London, South Africa",05,ZA,South Africa,AF,478676,-33.01529,27.91162,1006984,global_population
+789,T3,Yazd,"Yazd, Iran",40,IR,Iran,AS,477905,31.89722,54.3675,111822,global_population
+790,T3,Hargeysa,"Hargeysa, Somalia",20,SO,Somalia,AF,477876,9.56,44.065,57289,global_population
+791,T3,Oita,"Oita, Japan",30,JP,Japan,AS,477715,33.23333,131.6,1854487,global_population
+792,T3,Eldoret,"Eldoret, Kenya",52,KE,Kenya,AF,475716,0.52036,35.26993,198629,global_population
+793,T3,Skopje,"Skopje, North Macedonia",F6,MK,North Macedonia,EU,474889,41.99646,21.43141,785842,global_population
+794,T3,Vereeniging,"Vereeniging, South Africa",06,ZA,South Africa,AF,474681,-26.67313,27.92615,944385,global_population
+795,T3,The Hague,"The Hague, The Netherlands",11,NL,The Netherlands,EU,474292,52.07667,4.29861,2747373,global_population
+796,T3,Long Beach,"Long Beach, CA",CA,US,United States,NA,474140,33.76696,-118.18923,5367929,us_population
+797,T3,Iloilo,"Iloilo, Philippines",06,PH,Philippines,AS,473728,10.69694,122.56444,1711005,global_population
+798,T3,Murcia,"Murcia, Spain",31,ES,Spain,EU,471982,37.98704,-1.13004,2513416,global_population
+799,T3,Mesa,"Mesa, AZ",AZ,US,United States,NA,471825,33.42227,-111.82264,5304391,us_population
+800,T3,Halifax,"Halifax, Canada",07,CA,Canada,NA,471559,44.64269,-63.57688,6324729,global_population
+801,T3,Morogoro,"Morogoro, Tanzania",10,TZ,Tanzania,AF,471409,-6.82102,37.66122,153220,global_population
+802,T3,Kenitra,"Kenitra, Morocco",04,MA,Morocco,AF,470949,34.26101,-6.5802,2544571,global_population
+803,T3,Seeb,"Seeb, Oman",06,OM,Oman,AS,470878,23.67027,58.18911,288967,global_population
+804,T3,Mykolayiv,"Mykolayiv, Ukraine",16,UA,Ukraine,EU,470011,46.97625,31.99296,700569,global_population
+805,T3,Fukuyama,"Fukuyama, Japan",11,JP,Japan,AS,468812,34.48333,133.36667,1863917,global_population
+806,T3,Pereira,"Pereira, Colombia",24,CO,Colombia,SA,467269,4.81428,-75.69488,3672486,global_population
+807,T3,Gonder,"Gonder, Ethiopia",46,ET,Ethiopia,AF,466000,12.6,37.46667,336014,global_population
+808,T3,Mixco,"Mixco, Guatemala",07,GT,Guatemala,NA,465773,14.63077,-90.60711,3592519,global_population
+809,T3,Vung Tau,"Vung Tau, Vietnam",79,VN,Vietnam,AS,464860,10.34599,107.08426,1562414,global_population
+810,T3,Maracay,"Maracay, Venezuela",04,VE,Venezuela,SA,464700,10.24972,-67.59475,3632998,global_population
+811,T3,Tamale,"Tamale, Ghana",06,GH,Ghana,AF,464316,9.40079,-0.8393,2294877,global_population
+812,T3,Esna,"Esna, Egypt",23,EG,Egypt,AF,462787,25.29336,32.55402,355449,global_population
+813,T3,Hamah,"Hamah, Syria",10,SY,Syria,AS,460602,35.13179,36.75783,170017,global_population
+814,T3,Rach Gia,"Rach Gia, Vietnam",91,VN,Vietnam,AS,459860,10.01245,105.08091,1568510,global_population
+815,T3,Santo Domingo de los Colorados,"Santo Domingo de los Colorados, Ecuador",26,EC,Ecuador,SA,458580,-0.25368,-79.17628,3651297,global_population
+816,T3,Tartus,"Tartus, Syria",14,SY,Syria,AS,458327,34.88902,35.88659,163345,global_population
+817,T3,Mek'ele,"Mek'ele, Ethiopia",53,ET,Ethiopia,AF,457900,13.49667,39.47528,331180,global_population
+818,T3,Nazret,"Nazret, Ethiopia",51,ET,Ethiopia,AF,456900,8.55,39.26667,330186,global_population
+819,T3,Colorado Springs,"Colorado Springs, CO",CO,US,United States,NA,456568,38.83388,-104.82136,5417598,us_population
+820,T3,Huancayo,"Huancayo, Peru",12,PE,Peru,SA,456250,-12.06866,-75.21027,3939459,global_population
+821,T3,Al Hillah,"Al Hillah, Iraq",06,IQ,Iraq,AS,455700,32.46367,44.41963,99347,global_population
+822,T3,Mbandaka,"Mbandaka, Democratic Republic of the Congo",02,CD,Democratic Republic of the Congo,AF,455011,0.04865,18.26034,2312895,global_population
+823,T3,Malanje,"Malanje, Angola",12,AO,Angola,AF,455000,-9.54015,16.34096,2239862,global_population
+824,T3,Namp'o,"Namp'o, North Korea",14,KP,North Korea,AS,455000,38.7375,125.40778,1873757,global_population
+825,T3,Bacolod City,"Bacolod City, Philippines",06,PH,Philippines,AS,454898,10.66667,122.95,1729564,global_population
+826,T3,Virginia Beach,"Virginia Beach, VA",VA,US,United States,NA,454808,36.85293,-75.97799,4791259,us_population
+827,T3,Mansilingan,"Mansilingan, Philippines",06,PH,Philippines,AS,454150,10.63111,122.97889,1701500,global_population
+828,T3,Kahama,"Kahama, Tanzania",15,TZ,Tanzania,AF,453654,-3.83333,32.6,158597,global_population
+829,T3,Hsinchu,"Hsinchu, Taiwan",04,TW,Taiwan,AS,453536,24.80361,120.96861,1675151,global_population
+830,T3,Batman,"Batman, Turkey",76,TR,Turkey,AS,452157,37.88738,41.13221,321836,global_population
+831,T3,Oakland,"Oakland, CA",CA,US,United States,NA,419267,37.80437,-122.2708,5378538,us_population
+832,T3,Tulsa,"Tulsa, OK",OK,US,United States,NA,413066,36.15398,-95.99277,4553433,us_population
+833,T3,Wichita,"Wichita, KS",KS,US,United States,NA,396119,37.69224,-97.33754,4281730,us_population
+834,T3,Arlington,"Arlington, TX",TX,US,United States,NA,388125,32.73569,-97.10807,4671240,us_population
+835,T3,Bakersfield,"Bakersfield, CA",CA,US,United States,NA,373640,35.37329,-119.01871,5325738,us_population
+836,T3,Aurora,"Aurora, CO",CO,US,United States,NA,359407,39.72943,-104.83192,5412347,us_population
+837,T3,Anaheim,"Anaheim, CA",CA,US,United States,NA,350742,33.83529,-117.9145,5323810,us_population
+838,T3,Lexington,"Lexington, KY",KY,US,United States,NA,320347,37.98869,-84.47772,4297983,us_population
+839,T3,Riverside,"Riverside, CA",CA,US,United States,NA,317261,33.95335,-117.39616,5387877,us_population
+840,T3,Corpus Christi,"Corpus Christi, TX",TX,US,United States,NA,316239,27.80058,-97.39638,4683416,us_population
+841,T3,Lexington-Fayette,"Lexington-Fayette, KY",KY,US,United States,NA,314488,38.0498,-84.45855,4297999,us_population
+842,T3,Cincinnati,"Cincinnati, OH",OH,US,United States,NA,311097,39.12711,-84.51439,4508722,us_population
+843,T3,Santa Ana,"Santa Ana, CA",CA,US,United States,NA,310227,33.74557,-117.86783,5392900,us_population
+844,T3,Stockton,"Stockton, CA",CA,US,United States,NA,305658,37.9577,-121.29078,5399020,us_population
+845,T3,Saint Paul,"Saint Paul, MN",MN,US,United States,NA,303176,44.94441,-93.09327,5045360,us_population
+846,T3,Lincoln,"Lincoln, NE",NE,US,United States,NA,294757,40.8,-96.66696,5072006,us_population
+847,T3,Meads,"Meads, KY",KY,US,United States,NA,288649,38.41258,-82.70905,4300488,us_population
+848,T3,Henderson,"Henderson, NV",NV,US,United States,NA,285667,36.0397,-114.98194,5505411,us_population
+849,T3,Greensboro,"Greensboro, NC",NC,US,United States,NA,285342,36.07264,-79.79198,4469146,us_population
+850,T3,Plano,"Plano, TX",TX,US,United States,NA,283558,33.01984,-96.69889,4719457,us_population
+851,T3,Newark,"Newark, NJ",NJ,US,United States,NA,281944,40.73566,-74.17237,5101798,us_population
+852,T3,Madison,"Madison, WI",WI,US,United States,NA,280305,43.07305,-89.40123,5261457,us_population
+853,T3,Chula Vista,"Chula Vista, CA",CA,US,United States,NA,265757,32.64005,-117.0842,5336899,us_population
+854,T3,Toledo,"Toledo, OH",OH,US,United States,NA,265638,41.66394,-83.55521,5174035,us_population
+855,T3,Jersey City,"Jersey City, NJ",NJ,US,United States,NA,264290,40.72816,-74.07764,5099836,us_population
+856,T3,Reno,"Reno, NV",NV,US,United States,NA,264165,39.52963,-119.8138,5511077,us_population
+857,T3,Chandler,"Chandler, AZ",AZ,US,United States,NA,260828,33.30616,-111.84125,5289282,us_population
+858,T3,Fort Wayne,"Fort Wayne, IN",IN,US,United States,NA,260326,41.1306,-85.12886,4920423,us_population
+859,T3,Buffalo,"Buffalo, NY",NY,US,United States,NA,258071,42.88645,-78.87837,5110629,us_population
+860,T3,Durham,"Durham, NC",NC,US,United States,NA,257636,35.99403,-78.89862,4464368,us_population
+861,T3,St. Petersburg,"St. Petersburg, FL",FL,US,United States,NA,257083,27.77086,-82.67927,4171563,us_population
+862,T3,Irvine,"Irvine, CA",CA,US,United States,NA,256927,33.66946,-117.82311,5359777,us_population
+863,T3,Laredo,"Laredo, TX",TX,US,United States,NA,256153,27.50641,-99.50754,4705349,us_population
+864,T3,Lubbock,"Lubbock, TX",TX,US,United States,NA,249042,33.57786,-101.85517,5525577,us_population
+865,T3,Gilbert,"Gilbert, AZ",AZ,US,United States,NA,247542,33.35283,-111.78903,5295903,us_population
+866,T3,Tri-Cities,"Tri-Cities, WA",WA,US,United States,NA,244036,46.2454,-119.19617,7289169,us_population
+867,T3,Winston-Salem,"Winston-Salem, NC",NC,US,United States,NA,241218,36.09986,-80.24422,4499612,us_population
+868,T3,Glendale,"Glendale, AZ",AZ,US,United States,NA,240126,33.53865,-112.18599,5295985,us_population
+869,T3,Norfolk,"Norfolk, VA",VA,US,United States,NA,238005,36.84681,-76.28522,4776222,us_population
+870,T3,Hialeah,"Hialeah, FL",FL,US,United States,NA,237069,25.8576,-80.27811,4158476,us_population
+871,T3,Garland,"Garland, TX",TX,US,United States,NA,236897,32.91262,-96.63888,4693003,us_population
+872,T3,Irving,"Irving, TX",TX,US,United States,NA,236607,32.81402,-96.94889,4700168,us_population
+873,T3,Boise,"Boise, ID",ID,US,United States,NA,235684,43.6135,-116.20345,5586437,us_population
+874,T3,Chesapeake,"Chesapeake, VA",VA,US,United States,NA,235429,36.81904,-76.27494,4752186,us_population
+875,T3,North Las Vegas,"North Las Vegas, NV",NV,US,United States,NA,234807,36.19886,-115.1175,5509403,us_population
+876,T3,Fremont,"Fremont, CA",CA,US,United States,NA,232206,37.54827,-121.98857,5350734,us_population
+877,T3,Spokane,"Spokane, WA",WA,US,United States,NA,229447,47.65966,-117.42908,5811696,us_population
+878,T3,Baton Rouge,"Baton Rouge, LA",LA,US,United States,NA,227470,30.44332,-91.18747,4315588,us_population
+879,T3,Richmond,"Richmond, VA",VA,US,United States,NA,226610,37.55376,-77.46026,4781708,us_population
+880,T3,Paradise,"Paradise, NV",NV,US,United States,NA,223167,36.09719,-115.14666,5509952,us_population
+881,T3,Tacoma,"Tacoma, WA",WA,US,United States,NA,222906,47.25288,-122.44429,5812944,us_population
+882,T3,San Bernardino,"San Bernardino, CA",CA,US,United States,NA,216108,34.10834,-117.28977,5391710,us_population
+883,T3,Huntsville,"Huntsville, AL",AL,US,United States,NA,215006,34.7304,-86.58594,4068590,us_population
+884,T3,Des Moines,"Des Moines, IA",IA,US,United States,NA,214133,41.60054,-93.60911,4853828,us_population
+885,T3,Fontana,"Fontana, CA",CA,US,United States,NA,212704,34.09223,-117.43505,5349755,us_population
+886,T3,Modesto,"Modesto, CA",CA,US,United States,NA,211266,37.6391,-120.99688,5373900,us_population
+887,T3,Rochester,"Rochester, NY",NY,US,United States,NA,209802,43.15478,-77.61556,5134086,us_population
+888,T3,Arlington,"Arlington, VA",VA,US,United States,NA,207627,38.88101,-77.10428,4744709,us_population
+889,T3,Oxnard,"Oxnard, CA",CA,US,United States,NA,207254,34.1975,-119.17705,5380184,us_population
+890,T3,Columbus,"Columbus, GA",GA,US,United States,NA,206922,32.46098,-84.98771,4188985,us_population
+891,T3,Worcester,"Worcester, MA",MA,US,United States,NA,206518,42.26259,-71.80229,4956184,us_population
+892,T3,Moreno Valley,"Moreno Valley, CA",CA,US,United States,NA,204198,33.93752,-117.23059,5374732,us_population
+893,T3,Little Rock,"Little Rock, AR",AR,US,United States,NA,202591,34.74648,-92.28959,4119403,us_population
+894,T3,Fayetteville,"Fayetteville, NC",NC,US,United States,NA,201963,35.05266,-78.87836,4466033,us_population
+895,T3,Huntington Beach,"Huntington Beach, CA",CA,US,United States,NA,201899,33.6603,-117.99923,5358705,us_population
+896,T3,Tallahassee,"Tallahassee, FL",FL,US,United States,NA,201731,30.43826,-84.28073,4174715,us_population
+897,T3,Yonkers,"Yonkers, NY",NY,US,United States,NA,201116,40.9304,-73.89789,5145215,us_population
+898,T3,Glendale,"Glendale, CA",CA,US,United States,NA,201020,34.14251,-118.25508,5352423,us_population
+899,T3,Cypress,"Cypress, TX",TX,US,United States,NA,200839,29.96911,-95.69717,4684724,us_population
+900,T3,Aurora,"Aurora, IL",IL,US,United States,NA,200661,41.76058,-88.32007,4883817,us_population
+901,T3,Amarillo,"Amarillo, TX",TX,US,United States,NA,198645,35.222,-101.8313,5516233,us_population
+902,T3,Akron,"Akron, OH",OH,US,United States,NA,197542,41.08144,-81.51901,5145476,us_population
+903,T3,Vancouver,"Vancouver, WA",WA,US,United States,NA,196442,45.63873,-122.66149,5814616,us_population
+904,T3,Birmingham,"Birmingham, AL",AL,US,United States,NA,196357,33.52066,-86.80249,4049979,us_population
+905,T3,Montgomery,"Montgomery, AL",AL,US,United States,NA,195287,32.36681,-86.29997,4076784,us_population
+906,T3,Grand Rapids,"Grand Rapids, MI",MI,US,United States,NA,195097,42.96336,-85.66809,4994358,us_population
+907,T3,Peoria,"Peoria, AZ",AZ,US,United States,NA,190985,33.5806,-112.23738,5308480,us_population
+908,T3,Providence,"Providence, RI",RI,US,United States,NA,190934,41.82399,-71.41283,5224151,us_population
+909,T3,Knoxville,"Knoxville, TN",TN,US,United States,NA,190740,35.96064,-83.92074,4634946,us_population
+910,T3,Sunrise Manor,"Sunrise Manor, NV",NV,US,United States,NA,189372,36.21108,-115.07306,5513343,us_population
+911,T3,Grand Prairie,"Grand Prairie, TX",TX,US,United States,NA,187809,32.74596,-96.99778,4694482,us_population
+912,T3,Shreveport,"Shreveport, LA",LA,US,United States,NA,187593,32.52515,-93.75018,4341513,us_population
+913,T3,Brownsville,"Brownsville, TX",TX,US,United States,NA,186738,25.90175,-97.49748,4676740,us_population
+914,T3,Overland Park,"Overland Park, KS",KS,US,United States,NA,186515,38.98223,-94.67079,4276873,us_population
+915,T3,Newport News,"Newport News, VA",VA,US,United States,NA,186247,36.98038,-76.42975,4776024,us_population
+916,T3,Mobile,"Mobile, AL",AL,US,United States,NA,183289,30.69436,-88.04305,4076598,us_population
+917,T3,Santa Clarita,"Santa Clarita, CA",CA,US,United States,NA,182371,34.39166,-118.54259,5393049,us_population
+918,T3,Chattanooga,"Chattanooga, TN",TN,US,United States,NA,181099,35.04563,-85.30968,4612862,us_population
+919,T3,Spring Valley,"Spring Valley, NV",NV,US,United States,NA,178395,36.10803,-115.245,5512909,us_population
+920,T3,Santa Rosa,"Santa Rosa, CA",CA,US,United States,NA,178127,38.44047,-122.71443,5393287,us_population
+921,T3,Eugene,"Eugene, OR",OR,US,United States,NA,176654,44.05207,-123.08675,5725846,us_population
+922,T3,Tempe,"Tempe, AZ",AZ,US,United States,NA,175826,33.41477,-111.90931,5317058,us_population
+923,T3,Oceanside,"Oceanside, CA",CA,US,United States,NA,175691,33.19587,-117.37948,5378771,us_population
+924,T3,Salem,"Salem, OR",OR,US,United States,NA,175535,44.9429,-123.0351,5750162,us_population
+925,T3,Garden Grove,"Garden Grove, CA",CA,US,United States,NA,175393,33.77391,-117.94145,5351515,us_population
+926,T3,Rancho Cucamonga,"Rancho Cucamonga, CA",CA,US,United States,NA,175236,34.1064,-117.59311,5385955,us_population
+927,T3,Cape Coral,"Cape Coral, FL",FL,US,United States,NA,175229,26.56285,-81.94953,4149962,us_population
+928,T3,Sioux Falls,"Sioux Falls, SD",SD,US,United States,NA,171544,43.54369,-96.72796,5231851,us_population
+929,T3,Ontario,"Ontario, CA",CA,US,United States,NA,171214,34.06334,-117.65089,5379439,us_population
+930,T3,Fort Collins,"Fort Collins, CO",CO,US,United States,NA,170924,40.58526,-105.08442,5577147,us_population
+931,T3,Springfield,"Springfield, MO",MO,US,United States,NA,170188,37.21533,-93.29824,4409896,us_population
+932,T3,Elk Grove,"Elk Grove, CA",CA,US,United States,NA,166913,38.4088,-121.37162,5346111,us_population
+933,T3,Clarksville,"Clarksville, TN",TN,US,United States,NA,166722,36.52977,-87.35945,4613868,us_population
+934,T3,Pembroke Pines,"Pembroke Pines, FL",FL,US,United States,NA,166611,26.00315,-80.22394,4168139,us_population
+935,T3,Murfreesboro,"Murfreesboro, TN",TN,US,United States,NA,165430,35.84562,-86.39027,4644312,us_population
+936,T3,Port Saint Lucie,"Port Saint Lucie, FL",FL,US,United States,NA,164603,27.29393,-80.35033,4169171,us_population
+937,T3,Corona,"Corona, CA",CA,US,United States,NA,164226,33.87529,-117.56644,5339631,us_population
+938,T3,McKinney,"McKinney, TX",TX,US,United States,NA,162898,33.19762,-96.61527,4710178,us_population
+939,T3,Lancaster,"Lancaster, CA",CA,US,United States,NA,161103,34.69804,-118.13674,5364940,us_population
+940,T3,Cary,"Cary, NC",NC,US,United States,NA,159769,35.79154,-78.78112,4459467,us_population
+941,T3,Alexandria,"Alexandria, VA",VA,US,United States,NA,159467,38.80484,-77.04692,4744091,us_population
+942,T3,Tempe Junction,"Tempe Junction, AZ",AZ,US,United States,NA,158368,33.41421,-111.94348,5317071,us_population
+943,T3,Palmdale,"Palmdale, CA",CA,US,United States,NA,158351,34.57943,-118.11646,5380698,us_population
+944,T3,Hayward,"Hayward, CA",CA,US,United States,NA,158289,37.66882,-122.0808,5355933,us_population
+945,T3,Salinas,"Salinas, CA",CA,US,United States,NA,157380,36.67774,-121.6555,5391295,us_population
+946,T3,Sunnyvale,"Sunnyvale, CA",CA,US,United States,NA,155805,37.36883,-122.03635,5400075,us_population
+947,T3,Frisco,"Frisco, TX",TX,US,United States,NA,154407,33.15067,-96.82361,4692559,us_population
+948,T3,Springfield,"Springfield, MA",MA,US,United States,NA,154341,42.10148,-72.58981,4951788,us_population
+949,T3,East Chattanooga,"East Chattanooga, TN",TN,US,United States,NA,154024,35.06535,-85.24912,4619947,us_population
+950,T3,Pasadena,"Pasadena, TX",TX,US,United States,NA,153784,29.69106,-95.2091,4717782,us_population
+951,T3,Jackson,"Jackson, MS",MS,US,United States,NA,153701,32.29876,-90.18481,4431410,us_population
+952,T3,Pomona,"Pomona, CA",CA,US,United States,NA,153266,34.05529,-117.75228,5384170,us_population
+953,T3,Kansas City,"Kansas City, KS",KS,US,United States,NA,152933,39.11417,-94.62746,4273837,us_population
+954,T3,Lakewood,"Lakewood, CO",CO,US,United States,NA,152597,39.70471,-105.08137,5427946,us_population
+955,T3,Escondido,"Escondido, CA",CA,US,United States,NA,151038,33.11921,-117.08642,5346827,us_population
+956,T3,Hollywood,"Hollywood, FL",FL,US,United States,NA,149728,26.0112,-80.14949,4158928,us_population
+957,T3,Valencia,"Valencia, CA",CA,US,United States,NA,148456,34.44361,-118.60953,5405288,us_population
+958,T3,Rockford,"Rockford, IL",IL,US,United States,NA,148278,42.27113,-89.094,4907959,us_population
+959,T3,East Hampton,"East Hampton, VA",VA,US,United States,NA,147993,37.03737,-76.33161,4756955,us_population
+960,T3,Joliet,"Joliet, IL",IL,US,United States,NA,147861,41.52519,-88.0834,4898015,us_population
+961,T3,Paterson,"Paterson, NJ",NJ,US,United States,NA,147754,40.91677,-74.17181,5102466,us_population
+962,T3,Bridgeport,"Bridgeport, CT",CT,US,United States,NA,147629,41.17923,-73.18945,5282804,us_population
+963,T3,Naperville,"Naperville, IL",IL,US,United States,NA,147100,41.78586,-88.14729,4903279,us_population
+964,T3,Gainesville,"Gainesville, FL",FL,US,United States,NA,145214,29.65163,-82.32483,4156404,us_population
+965,T3,Mesquite,"Mesquite, TX",TX,US,United States,NA,144788,32.7668,-96.59916,4710826,us_population
+966,T3,Syracuse,"Syracuse, NY",NY,US,United States,NA,144142,43.04812,-76.14742,5140405,us_population
+967,T3,Torrance,"Torrance, CA",CA,US,United States,NA,143592,33.83585,-118.34063,5403022,us_population
+968,T3,Surprise,"Surprise, AZ",AZ,US,United States,NA,143148,33.63059,-112.33322,5316428,us_population
+969,T3,Columbia,"Columbia, SC",SC,US,United States,NA,142416,34.00071,-81.03481,4575352,us_population
+970,T3,Pasadena,"Pasadena, CA",CA,US,United States,NA,142250,34.14778,-118.14452,5381396,us_population
+971,T3,Orange,"Orange, CA",CA,US,United States,NA,140992,33.78779,-117.85311,5379513,us_population
+972,T3,Fullerton,"Fullerton, CA",CA,US,United States,NA,140847,33.87029,-117.92534,5351247,us_population
+973,T3,Killeen,"Killeen, TX",TX,US,United States,NA,140806,31.11712,-97.7278,4703223,us_population
+974,T3,McAllen,"McAllen, TX",TX,US,United States,NA,140269,26.20341,-98.23001,4709796,us_population
+975,T3,Bellevue,"Bellevue, WA",WA,US,United States,NA,139820,47.61038,-122.20068,5786882,us_population
+976,T3,Metairie,"Metairie, LA",LA,US,United States,NA,138481,29.98409,-90.15285,4333177,us_population
+977,T3,Hampton,"Hampton, VA",VA,US,United States,NA,137148,37.02987,-76.34522,4762894,us_population
+978,T3,Miramar,"Miramar, FL",FL,US,United States,NA,137132,25.98731,-80.23227,4164601,us_population
+979,T3,West Valley City,"West Valley City, UT",UT,US,United States,NA,136208,40.69161,-112.00105,5784607,us_population
+980,T3,Dayton,"Dayton, OH",OH,US,United States,NA,135512,39.75895,-84.19161,4509884,us_population
+981,T3,Olathe,"Olathe, KS",KS,US,United States,NA,134305,38.8814,-94.81913,4276614,us_population
+982,T3,Warren,"Warren, MI",MI,US,United States,NA,134056,42.49044,-83.01304,5014051,us_population
+983,T3,Thornton,"Thornton, CO",CO,US,United States,NA,133451,39.86804,-104.97192,5441492,us_population
+984,T3,Carrollton,"Carrollton, TX",TX,US,United States,NA,133168,32.95373,-96.89028,4679195,us_population
+985,T3,Midland,"Midland, TX",TX,US,United States,NA,132524,31.99735,-102.07791,5526337,us_population
+986,T3,Waco,"Waco, TX",TX,US,United States,NA,132356,31.54933,-97.14667,4739526,us_population
+987,T3,Sterling Heights,"Sterling Heights, MI",MI,US,United States,NA,132052,42.58031,-83.0302,5011148,us_population
+988,T3,Denton,"Denton, TX",TX,US,United States,NA,131044,33.21484,-97.13307,4685907,us_population
+989,T3,Cedar Rapids,"Cedar Rapids, IA",IA,US,United States,NA,130405,42.00833,-91.64407,4850751,us_population
+990,T3,New Haven,"New Haven, CT",CT,US,United States,NA,130322,41.30815,-72.92816,4839366,us_population
+991,T3,Roseville,"Roseville, CA",CA,US,United States,NA,130269,38.75212,-121.28801,5388881,us_population
+992,T3,Visalia,"Visalia, CA",CA,US,United States,NA,130104,36.33023,-119.29206,5406567,us_population
+993,T3,Coral Springs,"Coral Springs, FL",FL,US,United States,NA,129485,26.27119,-80.2706,4151909,us_population
+994,T3,Thousand Oaks,"Thousand Oaks, CA",CA,US,United States,NA,129339,34.17056,-118.83759,5402405,us_population
+995,T3,Columbia,"Columbia, MO",MO,US,United States,NA,129330,38.95171,-92.33407,4381982,us_population
+996,T3,Elizabeth,"Elizabeth, NJ",NJ,US,United States,NA,129007,40.66399,-74.2107,5097598,us_population
+997,T3,Stamford,"Stamford, CT",CT,US,United States,NA,128874,41.05343,-73.53873,4843564,us_population
+998,T3,Concord,"Concord, CA",CA,US,United States,NA,128667,37.97798,-122.03107,5339111,us_population
+999,T3,Norman,"Norman, OK",OK,US,United States,NA,128026,35.22257,-97.43948,4543762,us_population
+1000,T3,Athens,"Athens, GA",GA,US,United States,NA,127315,33.96095,-83.37794,4180386,us_population
