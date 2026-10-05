@@ -35,7 +35,9 @@ COLUMNS = (["question_id", "question", "category", "subcategory", "family", "pri
 CATEGORY_ORDER = ["Local", "Local Services", "Gifts", "Products", "Fashion", "Health & Nutrition",
                   "Entertainment", "Finance", "Travel", "Autos", "Software & B2B",
                   "Consumer Services", "Education & Careers", "Food & Beverage", "Pets",
-                  "Real Estate & Living", "Healthcare Providers"]
+                  "Real Estate & Living", "Romance & Dating",
+                  "Sexual Wellness", "Parenting", "Medical", "Weddings", "Aging & Senior Care",
+                  "Home Improvement", "Legal", "Betting & Gaming"]
 
 
 def build(limit: int) -> list[dict]:
@@ -87,7 +89,8 @@ def write(rows: list[dict]) -> None:
         "by_entity": Counter(r["answer_entity"] for r in rows),
         "by_cadence": Counter(r["refresh_cadence"] for r in rows),
         "by_monetization": Counter(r["monetization"] for r in rows),
-        "markets_covered": len({r["market"] for r in rows if r.get("market")}),
+        "markets_covered": len({r["market"] for r in rows if r.get("geo_scope") == "local"}),
+        "by_geo_scope": Counter(r["geo_scope"] for r in rows),
     }
     SUMMARY.write_text(json.dumps(summary, indent=2))
 

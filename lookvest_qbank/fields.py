@@ -48,6 +48,9 @@ ANSWER_SCHEMAS: dict[str, tuple[str, list[str]]] = {
     "service_provider": ("provider", ["provider", "plan", "price", "signup_source", "url"]),
     "institution": ("institution", ["institution", "program", "location", "apply_url"]),
     "place_to_live": ("place", ["place", "state_or_country", "reason", "listing_source"]),
+    "treatment": ("treatment_name", ["treatment_name", "drug_or_brand", "otc_or_rx",
+                                     "where_to_get", "provider_or_retailer", "url"]),
+    "experience": ("idea", ["idea", "venue_or_provider", "price", "booking_source", "url"]),
     "pet_breed": ("breed", ["breed", "size", "temperament", "adoption_or_breeder_source"]),
 }
 

@@ -40,6 +40,9 @@ def q(question: str, *, category: str, subcategory: str, family: str, entity: st
 # --------------------------------------------------------------------------- #
 
 # (template, subcategory, entity, base priority, monetization, cadence, max market rank, required)
+# One question per distinct buying decision. Near-duplicates were removed on
+# purpose: "tour or experience" overlaps "things to do", "fine dining" overlaps
+# the main restaurant and date-night questions, "nightclub" overlaps "rooftop bar".
 LOCAL_FAMILIES = [
     # Explicitly requested: every one of the 1,000 markets.
     ("What is the best hotel in {m}?", "hotels", "hotel", 100, "booking_commission", "monthly", 1000, True),
@@ -47,49 +50,35 @@ LOCAL_FAMILIES = [
     # Top 250 markets.
     ("What is the best luxury hotel in {m}?", "hotels", "hotel", 90, "booking_commission", "monthly", 250, False),
     ("What is the best budget hotel in {m}?", "hotels", "hotel", 88, "booking_commission", "monthly", 250, False),
-    ("What is the best family-friendly hotel in {m}?", "hotels", "hotel", 86, "booking_commission", "monthly", 250, False),
-    ("What is the best area to stay in {m}?", "hotels", "neighborhood", 85, "booking_commission", "quarterly", 250, False),
     ("What are the best things to do in {m}?", "attractions", "attraction", 87, "ticket_commission", "monthly", 250, False),
-    ("What is the best tour or experience to book in {m}?", "attractions", "attraction", 82, "ticket_commission", "monthly", 250, False),
-    ("What is the best steakhouse in {m}?", "restaurants", "restaurant", 80, "reservation_fee", "monthly", 250, False),
-    ("What is the best pizza in {m}?", "restaurants", "restaurant", 79, "delivery_commission", "monthly", 250, False),
-    ("What is the best sushi restaurant in {m}?", "restaurants", "restaurant", 78, "reservation_fee", "monthly", 250, False),
-    ("Where is the best brunch in {m}?", "restaurants", "restaurant", 78, "reservation_fee", "monthly", 250, False),
-    ("What is the best coffee shop in {m}?", "restaurants", "restaurant", 74, "local_ads", "monthly", 250, False),
-    ("What is the best rooftop bar in {m}?", "nightlife", "bar_venue", 75, "reservation_fee", "monthly", 250, False),
+    ("What is the best area to stay in {m}?", "hotels", "neighborhood", 85, "booking_commission", "quarterly", 250, False),
+    ("Where is the best brunch in {m}?", "restaurants", "restaurant", 80, "reservation_fee", "monthly", 250, False),
     # Top 100 markets.
-    ("What is the best fine dining restaurant in {m}?", "restaurants", "restaurant", 77, "reservation_fee", "monthly", 100, False),
-    ("What is the most romantic restaurant in {m} for date night?", "restaurants", "restaurant", 76, "reservation_fee", "monthly", 100, False),
-    ("What is the best kid-friendly restaurant in {m}?", "restaurants", "restaurant", 70, "reservation_fee", "monthly", 100, False),
-    ("What is the best vegan or vegetarian restaurant in {m}?", "restaurants", "restaurant", 68, "reservation_fee", "monthly", 100, False),
-    ("What is the best spa in {m}?", "wellness", "local_business", 72, "booking_commission", "quarterly", 100, False),
-    ("What is the best hotel near the airport in {m}?", "hotels", "hotel", 74, "booking_commission", "quarterly", 100, False),
-    ("What is the best nightclub in {m}?", "nightlife", "bar_venue", 66, "ticket_commission", "monthly", 100, False),
-    ("What is the best golf course in {m}?", "attractions", "local_business", 64, "booking_commission", "quarterly", 100, False),
-    ("Where is the best place to go shopping in {m}?", "shopping", "local_business", 65, "local_ads", "quarterly", 100, False),
-    ("What is the best wedding venue in {m}?", "events", "local_business", 69, "lead_gen", "quarterly", 100, False),
-    ("What is the best day trip from {m}?", "attractions", "attraction", 63, "ticket_commission", "quarterly", 100, False),
+    ("What is the best family-friendly hotel in {m}?", "hotels", "hotel", 84, "booking_commission", "monthly", 100, False),
+    ("What is the most romantic hotel in {m}?", "hotels", "hotel", 83, "booking_commission", "monthly", 100, False),
+    ("What is the best restaurant in {m} for date night?", "restaurants", "restaurant", 82, "reservation_fee", "monthly", 100, False),
+    ("What is the best steakhouse in {m}?", "restaurants", "restaurant", 80, "reservation_fee", "monthly", 100, False),
+    ("What is the best pizza in {m}?", "restaurants", "restaurant", 79, "delivery_commission", "monthly", 100, False),
+    ("What is the best sushi restaurant in {m}?", "restaurants", "restaurant", 78, "reservation_fee", "monthly", 100, False),
+    ("What is the best rooftop bar in {m}?", "nightlife", "bar_venue", 77, "reservation_fee", "monthly", 100, False),
+    ("What is the best spa in {m}?", "wellness", "local_business", 74, "booking_commission", "quarterly", 100, False),
+    ("What is the best wedding venue in {m}?", "events", "local_business", 74, "lead_gen", "quarterly", 100, False),
 ]
 
 # US-only local services: high-ticket lead-gen categories, top US markets.
 US_SERVICE_FAMILIES = [
     ("Who is the best real estate agent in {m}?", "real_estate", 84),
-    ("What is the best neighborhood to live in {m}?", "real_estate", 80),
     ("Who is the best personal injury lawyer in {m}?", "legal", 83),
     ("Who is the best dentist in {m}?", "healthcare", 78),
     ("Who is the best plastic surgeon in {m}?", "healthcare", 77),
-    ("What is the best med spa in {m}?", "healthcare", 72),
-    ("What is the best hospital in {m}?", "healthcare", 75),
+    ("What is the best med spa in {m}?", "healthcare", 74),
     ("What is the best HVAC company in {m}?", "home_services", 76),
     ("What is the best roofing company in {m}?", "home_services", 76),
     ("What is the best plumber in {m}?", "home_services", 74),
     ("What is the best moving company in {m}?", "home_services", 73),
     ("What is the best car dealership in {m}?", "auto", 74),
-    ("What is the best private school in {m}?", "education", 70),
-    ("What is the best gym in {m}?", "fitness", 68),
-    ("What is the best hair salon in {m}?", "beauty", 66),
 ]
-US_SERVICE_MARKETS = 60
+US_SERVICE_MARKETS = 40
 
 
 def _market_decay(rank: int) -> float:
@@ -110,7 +99,7 @@ def gen_local(markets: list[dict]) -> Iterator[dict]:
     us = [m for m in markets if m["country_code"] == "US"][:US_SERVICE_MARKETS]
     for tmpl, sub, base in US_SERVICE_FAMILIES:
         for us_rank, m in enumerate(us, start=1):
-            entity = "neighborhood" if "neighborhood" in tmpl else "local_business"
+            entity = "local_business"
             yield q(tmpl.format(m=m["market_label"]), category="Local Services", subcategory=sub,
                     family=tmpl, entity=entity, priority=base - _market_decay(us_rank * 2),
                     monetization="lead_gen", cadence="quarterly", geo_scope="local",
@@ -1269,12 +1258,17 @@ def gen_living() -> Iterator[dict]:
                 priority=74, monetization="real_estate_lead_gen", cadence="quarterly",
                 use_case=l, geo_scope="global")
     for h in HOSPITAL_FOR:
-        yield q(f"What is the best hospital in the US for {h}?", category="Healthcare Providers",
+        yield q(f"What is the best hospital in the US for {h}?", category="Medical",
                 subcategory="hospitals", family="health_hospital", entity="institution", priority=78,
                 monetization="patient_lead_gen", cadence="yearly", use_case=h, geo_scope="national")
 
 
 # --------------------------------------------------------------------------- #
+
+from .taxonomy_life import (gen_aging, gen_betting, gen_home, gen_legal, gen_medical,  # noqa: E402
+                             gen_parenting, gen_romance, gen_sexual_wellness, gen_weddings)
+from .taxonomy_geo import gen_geo  # noqa: E402
+
 
 def generate_all(markets: list[dict]) -> Iterator[dict]:
     yield from gen_local(markets)
@@ -1291,3 +1285,13 @@ def generate_all(markets: list[dict]) -> Iterator[dict]:
     yield from gen_education()
     yield from gen_food_bev()
     yield from gen_living()
+    yield from gen_romance()
+    yield from gen_sexual_wellness()
+    yield from gen_parenting()
+    yield from gen_medical()
+    yield from gen_weddings()
+    yield from gen_aging()
+    yield from gen_home()
+    yield from gen_legal()
+    yield from gen_betting()
+    yield from gen_geo()

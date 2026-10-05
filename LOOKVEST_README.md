@@ -16,15 +16,33 @@ There are 10,000 questions here that consumers ask AI assistants, where the answ
 
 | Vertical | Count | Expands over |
 |---|---:|---|
-| Local | 5,886 | Best hotel + restaurant in all **1,000 markets**; luxury/budget/family hotels, where to stay, things to do, tours, steakhouse, pizza, sushi, brunch, coffee and rooftop bars in the top 250; fine dining, date night, spa, nightlife and wedding venues in the top 100 |
-| Local Services | 865 | Realtor, injury lawyer, dentist, plastic surgeon, HVAC, roofing, movers, dealerships and more in the top 60 US metros |
-| Products | 1,024 | ~400 product categories × budget, use case (e.g. "laptop for nursing students") and price point ("PC under $1,000") |
-| Gifts | 478 | Newborn to 17 × boy/girl × any/birthday/Christmas × budget; adults by decade × gender; 26 recipients × occasions; 58 interests |
-| Entertainment | 291 | Streaming by service, genre, format and audience; books, podcasts, and games by platform |
+| Local | 4,150 | Best hotel + restaurant in all **1,000 markets**; luxury/budget hotel, things to do, where to stay and brunch in the top 250; family and romantic hotels, date-night restaurant, steakhouse, pizza, sushi, rooftop bar, spa and wedding venue in the top 100 |
+| Local Services | 389 | Realtor, injury lawyer, dentist, plastic surgeon, med spa, HVAC, roofer, plumber, movers, dealerships in the top 40 US metros |
+| Products | 1,074 | ~400 product categories × budget, use case and price point, plus the best shopping site in 50 countries |
+| Finance | 523 | Cards, banks, investing, lending, insurance; bank/card/insurance by country; car, home and health insurance by US state |
+| Medical | 496 | 90 conditions × best treatment / OTC medicine / home remedy or Rx / online care; kids and pregnancy treatments; procedures and providers; hospitals by specialty, state and country |
+| Gifts | 478 | Newborn to 17 × boy/girl × any/birthday/Christmas × budget; adults by decade × gender; recipients × occasions; interests |
+| Entertainment | 341 | Streaming by service, genre, format and audience; books, podcasts, games; streaming service by country |
+| Consumer Services | 273 | National services plus mobile carrier, internet, food delivery and ride-hailing by country |
+| Travel | 261 | Airlines, hotel brands, cruises, destinations by type/month/region, best place to visit by country and US state |
+| Parenting | 259 | Books, educational toys, apps, activities, party ideas, bikes, board games and phones by child age; homeschool and tutoring by grade; help for specific needs (ADHD, anxiety, dyslexia...); baby and kid products |
 | Software & B2B | 255 | 85 software categories × best / small business / free |
 | Health & Nutrition | 217 | Foods to eat and avoid for 45 goals, diets, healthiest picks, supplements, programs |
 | Fashion | 205 | What's in style by audience, trending items, season × age, occasion outfits, best brands |
-| Travel, Autos, Finance, Education, Food & Bev, Services, Pets, Living, Hospitals | 1,279 | |
+| Education & Careers | 186 | Colleges by major, programs, careers; best university by country; best college by US state |
+| Romance & Dating | 174 | Dating apps by audience and country, matchmaking, couples therapy, date ideas, romantic getaways by month and occasion, love-language gifts, romantic watches |
+| Autos | 164 | 35 vehicle segments × new / used / most reliable / lease, plus by price |
+| Food & Beverage | 104 | Chains, brands, wine by varietal, spirits, what to order |
+| Home Improvement | 97 | Materials and brands (roofing, windows, flooring, HVAC, solar), remodel ideas, solar company by US state |
+| Aging & Senior Care | 81 | Medical alerts, stair lifts, senior living, in-home care; best place to retire by US state |
+| Sexual Wellness (18+) | 80 | Toys, lubricants, condoms, lingerie, ED/libido/menopause treatments, STI tests, birth control, sex therapy |
+| Real Estate & Living | 75 | Best place to live in the US for different needs and in each state; best country to live in |
+| Weddings | 41 | Dresses, suits, bands, invitations, planners, seasonal ideas, bachelor/bachelorette trips |
+| Legal | 35 | LLC formation, wills, trusts, divorce, immigration, injury and employment lawyers |
+| Betting & Gaming (21+) | 22 | Sportsbooks, DFS, online casinos, poker, prediction markets |
+| Pets | 20 | Best dog and cat breeds |
+
+Near-duplicate local questions were removed: "tour or experience" overlapped "things to do", "fine dining" overlapped the main restaurant and date-night questions, and "nightclub" overlapped "rooftop bar". Businesses that operate nationally (banks, carriers, insurers, delivery apps) are asked once per country or US state rather than once per city.
 
 Each row has: `question_id`, `question`, `category`, `subcategory`, `family` (the template), `priority`, `required`, `answer_entity`, `primary_answer_field`, `answer_fields`, `monetization`, `refresh_cadence`, the dimension columns (`market`, `market_rank`, `market_tier`, `country_code`, `age_group`, `gender`, `recipient`, `occasion`, `budget`, `use_case`, `product_category`, `brand`) and `question_hash`, which is a stable join key that survives rebuilds.
 
@@ -36,7 +54,7 @@ data/markets_top1000.csv           # the 1,000 markets with rank, tier, country,
 data/summary.json                  # counts by category / family / entity / cadence
 sql/snowflake_lookvest.sql         # tables + consensus and share-of-voice views
 web/lookvest_explorer.html         # searchable browser for the bank
-lookvest_qbank/                    # generator (markets, taxonomy, answer schemas, build)
+lookvest_qbank/                    # generator: markets, taxonomy*.py (core, life-stage, country/state), answer schemas, build
 ```
 
 ## Rebuild or resize
@@ -49,7 +67,7 @@ python -m lookvest_qbank.build --limit 25000 # or any size; lowest-priority rows
 python -m lookvest_qbank.explorer            # regenerate the HTML explorer
 ```
 
-To add a question family, add a template to `lookvest_qbank/taxonomy.py`. To add an answer type, add an entry to `lookvest_qbank/fields.py`.
+To add a question family, add a template to `lookvest_qbank/taxonomy.py`, `taxonomy_life.py` or `taxonomy_geo.py`. To add an answer type, add an entry to `lookvest_qbank/fields.py`.
 
 **How markets are chosen:** the list is built from GeoNames (CC BY 4.0). It starts with about 195 curated travel and commerce hubs (NYC, Paris, Cancun, Aspen, Santorini and similar), then the US is filled to 250 markets by population. The rest of the world is filled by population, with a cap of 25 markets per country (45 for China and India). Suburbs within 30 km of a 1M+ city are merged into that city. Tiers are T1 (ranks 1 to 100), T2 (101 to 250) and T3 (251 to 1,000).
 
